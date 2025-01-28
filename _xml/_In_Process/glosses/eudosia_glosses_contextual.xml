@@ -1,0 +1,1880 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../../../common/ruskin.rnc" type="compact"?>
+<?xml-stylesheet type="text/xsl" href="../../../common/ruskin.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader type="glosses">
+        <!--The xml:id for <fileDesc/> should include the title (or an abbreviated title) of the NOTE followed by "note", for example, "red_book_note".
+            The xml:id also corresponds with its XML file's name, for example, "red_book_note.xml".-->
+        <fileDesc xml:id="title_of_work_glosses">
+            <titleStmt>
+                <title type="main">"Title of Work"</title>
+                <title type="sub">Glosses</title>
+                <author>
+                    <persName corresp="#DCH">David C. Hanson</persName>
+                </author>
+                <editor>
+                    <persName corresp="#DCH">David C. Hanson</persName>
+                </editor>
+                <principal>
+                    <persName corresp="#DCH">David C. Hanson</persName>
+                </principal>
+                <respStmt>
+                    <!--For corresp, enter your first, middle, and last intials.-->
+                    <persName corresp="#GMS">Gabriella M. Smith</persName>
+                    <resp>contributing transcription/encoding/review</resp>
+                </respStmt>
+                <sponsor>Southeastern Louisiana University</sponsor>
+                <funder>American Philosophical Society, Beinecke Library, Bibliographical Society of America,
+                    Blossman Foundation, Huntington Library, Louisiana Board of Regents, National Endowment for
+                    the Humanities, NINES, Pierpont Morgan Library, South Central Modern Language Association,
+                    and Southeastern Louisiana University</funder>
+            </titleStmt>
+            <editionStmt>
+                <edition n="1.0">
+                    <!--DATE WHEN should reflect the date that this electronic text was finalized for publication to the Web.-->
+                    <date when="2015-01-12">January 12, 2015</date>
+                    <!--The notes version for all first passes is 1.0.-->
+                    <title>Glasses Version 1.0</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <distributor><name type="institution">Southeastern Louisiana University Department of English</name></distributor>
+                <address>
+                    <addrLine>Department of English</addrLine>
+                    <addrLine>Southeastern Louisiana University</addrLine>
+                    <addrLine>SLU 10861</addrLine>
+                    <addrLine>Hammond LA 70402</addrLine>
+                    <addrLine>https://erm.selu.edu/</addrLine>
+                </address>
+                <availability status="restricted">
+                    <p>Copyright David C. Hanson.</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Born digitally, prepared by David C. Hanson.</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="glosses">
+                <note xml:id="RUSKINSNOTE1GLOSS" resp="#DCH">It hangs down its head as if dazzled</note><!--The pointer to this gloss would be <ref type="gloss_contextual" target="filename_glosses.php#SOMETHINGUNIQUEGLOSS"/>.-->
+
+                <note xml:id="RUSKINSNOTE2GLOSS" resp="#DCH">Young January from being the first of the months</note><!--The pointer to this gloss would be <ref type="gloss_contextual" target="filename_glosses.php#ALSOSOMETHINGUNIQUEGLOSS"/>.-->
+
+                <note xml:id="RUSKINSNOTE3GLOSS" resp="#DCH">ken sight</note>
+                
+                <note xml:id="ROSEGLOSS" resp="#CGP"><p><hi rend="bold">&#x201C;Queen of flowers . . . head on ground.&#x201C;
+                        (<title type="manuscript" corresp="#MSIV">MS IV</title>)&#x2014;</hi>The <hi rend="italic">Rose</hi>. <hi rend="italic">Rosa</hi>, L .; <hi rend="italic">Icos. Polyg.</hi> L.; and <hi rend="italic">Rosacea</hi>, J. <hi rend="italic">Rosier</hi>, Fr.;
+                    <hi rend="italic">Rosenstock</hi>, Ger.; and <hi rend="italic">Rosajo</hi>, Ital.
+                    1683. The rose is known by every body at first sight, and has been a favorite flower
+                    from time immemorial among the civilized nations of Europe and Asia. The shrub
+                    varies in size in different species , from one foot to six or eight, and the colors are red,
+                    white, yellow, purple, black, striped; simple, or in almost numberless shades and mix-
+                    tures; and single , semi-double, and double. It is cultivated in every garden, from that
+                    of the most humble cottager upwards; some species as <hi rend="italic">R. centifolia damascena</hi>, &#x0026;c. are
+                    also cultivated by commercial gardeners on a large scale for distilling rose-water, and for
+                    making <hi rend="italic">attar</hi>, or essential oil of roses. Six pounds of rose leaves will impregnate by dis-
+                    tillation a gallon of water strongly with their odour; but a hundred pounds afford
+                    scarcely half an ounce of <hi rend="italic">attar</hi>. The rose is also used in medicine.
+                    Botanists are not agreed as to the number of original species of this genus, some
+                    regard all the European species as originated from one source; others, and especially
+                    the moderns, divide them into species, sub-species, and varieties. The most scientific
+                    work which has appeared on the roses in England, is the "<hi rend="italic">Rosarum Monographia</hi>"
+                    of J. Lindley, 1819, in which above a hundred species or sub-species are described,
+                    and some of them figured; and Miss Laurence has published ninety plates of "A
+                    Collection of Roses from Nature," 1810. In France, Guillemeau has published "<hi rend="italic">His-
+                    toire Naturelle de la Rose</hi>," 1800; and P. J. Redouté and C. A. Thory are engaged in
+                    a splendid work, in folio, entitled "<hi rend="italic">Les Roses</hi>," containing plates of all the known species
+                    and varieties of this flower. C. A. Thory has published a separate tract on their culture,
+                    entitled "<hi rend="italic">Prodrome de la Monographie du Genre Rosier, &#x0026;c.</hi>" 1820; M. A. Pronville,
+                    a "<hi rend="italic">Nomenclature Raisonée</hi>," in 1818; and J. P. Vibert, <hi rend="italic">Observations, &#x0026;c.</hi> in 1820.
+                    A copious and intelligent account of the Scotch roses has been lately given by J. Sabine
+                    (<hi rend="italic">Hort. Trans</hi>. iv. 231.), and some hundreds of new varieties have flowered from seedling
+                    plants, in the nursery of J. Lee, during the present year, and will be found in his cata-
+                    logue for 1822.
+                    <hi rend="italic">Species and Varieties</hi>. The lists of the London and Paris nurserymen contain up-
+                    wards of 350 names. The greater part of these have been raised from seed on the
+                    continent, where it ripens better than in this country, within the last thirty years. A
+                    number of varieties have also been raised in this country, especially of the <hi rend="italic">R. spinosissima</hi>,
+                    or Scotch rose, of which twenty-six sorts are enumerated by J. Sabine, as having been
+                    raised within the last twenty years. New varieties are raised in France and Italy
+                    annually; L. Villaresi , royal gardener at Monza has raised upwards of fifty varieties
+                    of <hi rend="italic">Rosa indica</hi>; not one of which have, as far as we know, reached this country. Some
+                    of them are quite black, others shaped like a ranunculus, and many of them highly
+                    odoriferous.
+                    (John C. Loudon, An encyclopædia of gardening: comprising the theory and practice of horticulture, floriculture, arboriculture and landscape-gardening including all the latest improvements, 1822, p. 1015-1016)</p></note>
+                
+                <note xml:id="LILYGLOSS" resp="#CGP"><p><hi rend="bold">&#x201C;And then the <name type="botanical" corresp="#TIGERLILY">Lily</name> . . .  pointed leaves are found.&#x201C; <!--You <name type="botanical" corresp="#TURKSCAPLILY">turkscap lily</name> . . . <persName type="fictional" corresp="#ATRIDES">Atrides</persName> hair/!--> <!--Now comes the king . . . high depending down/!-->
+                    (<title type="manuscript" corresp="#MSIV">MS IV</title>)&#x2014;</hi>The <hi rend="italic">Lily</hi>.--<hi rend="italic">Lilium</hi>, L.; <hi rend="italic">Hexan. Monog</hi>. L .; and <hi rend="italic">Liliæ</hi>, J. <hi rend="italic">Lis</hi>, Fr.;
+                    <hi rend="italic">Lilie</hi>, Ger.; and <hi rend="italic">Giglio</hi>, Ital.
+                    1635. Of this genus there are sixteen species introduced in Britain, and the whole of
+                    them may be reckoned very choice flowers. We shall notice particularly, only those
+                    species, of which numerous varieties have been produced. These are:
+                    The <hi rend="italic">White Lily, L. Candidum</hi>  (<hi rend="italic">Bot. Mag.</hi> 278.), has a large scaly bulb, a
+                    leafy stem, from three to four feet in height, terminating in large pure white
+                    flowers on peduncles. It is a native of the Levant , and was in most gar-
+                    dens in Gerarde’s time. Of this species, there are above eight varieties.
+                    The <hi rend="italic">Orange Lily, L. bulbiferum</hi> (<hi rend="italic">Bot. May</hi>.[sic] 36), has a scaly bulb, a leafy
+                    stem, two feet and a half high, terminating in orange-colored flowers.
+                    Sometimes the stem produces small green bulbs in the axillae of the leaves. Of this species, there are eight or ten varieties and sub-varieties. 
+                    The <hi rend="italic">Martagon</hi> or <hi rend="italic">Turk's Cap, L. Martagon</hi>, (<hi rend="italic">Bot. Mag</hi>. 893.), has a large 
+                    scaly bulb, a stalk furnished with narrow leaves, near three feet high, and
+                    terminating peduncles of fine carmine flowers in July. Of this species there
+                    are half a dozen varieties, besides the scarlet martagon (<hi rend="italic">L. Chalcedonicum</hi>),
+                    of which there are also different sorts. 
+                    Besides the above species and their varieties, there are the <hi rend="italic">L. Canadense</hi>,
+                    <hi rend="italic">superbum</hi>, or Turk's cap; the <hi rend="italic">Pomponium</hi>, and <hi rend="italic">Tigrinum</hi>, or Tiger Lily; all
+                    equally meriting cultivation as select flowers.
+                    (John C. Loudon, An encyclopædia of gardening: comprising the theory and practice of horticulture, floriculture, arboriculture and landscape-gardening including all the latest improvements, 1822, p. 959)
+                
+                LILIUM TIGRINUM. TYGER-SPOTTED CHINESE LILY.
+                    <hi rend="italic">Generic Character</hi>.--<hi rend="italic">Vid. No</hi>. 798.
+                    <hi rend="italic">Specific Character and Synonyms</hi>.
+                    <hi rend="italic">LILIUM tigrinum</hi>; caule gossipino-lanato; foliis omnibus 
+                    caulinis, sparsis, confertiusculis, anguste lanceolatis,
+                    longe acuminatis, nudis, lineatis, sessilibus, gradatim
+                    brevioribus, axilla bulbiferis; floribus 1-multis, 
+                    thyrsiformi-paniculatis, pedicellis erecto-divergentibus,
+                    foliolo ovato bracteatis; corolla nutante, hexapetalo-
+                    partita, ex deorsum turbinatim coarctata revolutim 
+                    divaricata; laciniis lanceolatis, longe acuminatis, 
+                    canaliculo longitudinali marginibus deorsum elevatioribus 
+                    atque in cuniculum melliferum pubescentem cucullatim 
+                    convergentibus exaratis, disco basin versus carunculis 
+                    compresso-acuminatis capitellatis inæqualiter scabratis; 
+                    intimis subduplo latioribus, utrinque deorsum villoso-
+                    ciliatis; extimis bullula carnosa extrorsum præfixis; 
+                    staminibus corolla sub 4* parte brevioribus, fasciculato-
+                    divergentibus; germine quam stylus triplo breviori; stylo 
+                    filamentis isometro; stigmate parum incrassato puberulo 
+                    apice rotundato. <hi rend="italic">G</hi>. 
+                    LILIUM  <hi rend="italic">speciosum</hi>.  <hi rend="italic">Bot. Repos</hi>. 586. nec aliorum. 
+                    KENTAN. vulgo Oni Juri, i. e. Lilium diaboli; aliis Jammi 
+                    Juri, i. e. Lilium montanum sive sylvestre. Martagon caule
+                    cubitali pingui; gemmis in sinu foliorum pifi magnitudinis; 
+                    flore specioso palmaris expansionis; maculis tuberculifque 
+                    ex minio puniceis, ovatis, atro-purpureis, sericeis, dense 
+                    guttato; radice bulbosa ob copiam oleracea. <hi rend="italic">Kæmpf. Amæn. 
+                        Exot. Fasc. v</hi>. 871. <hi rend="italic">ejusd. MSS. fig</hi>. 138. 
+                    LILIUM <hi rend="italic">pomponium</hi>. ß. Cuan tan hoā. <hi rend="italic">Loureir. Flor. Cochin</hi>. 207.
+                    A splendid species which has not yet found a place in any 
+                    general system of vegetables. We have borrowed the name 
+                    intended for it in the approaching edition of <hi rend="italic">Hortus Kewensis</hi>. 
+                    Stem from two to five feet high; flowers 1–14, large, of a
+                    bright red-lead colour with black-crimson somewhat raised
+                    spots. Hardy enough to thrive in the open ground, and will
+                    soon become common, being rapidly propagated by the bulbs 
+                    produced in the axils of the leaves, as well as by those that
+                    surround the mother-bulb. Blooms freely about July and August.
+                    Native of China and Japan. Introduced into Kew Gardens from 
+                    the former country, by Mr. W. KER , in 1804. KÆMPFER says, 
+                    that the bulbs are eaten by the Japanese. LOUREIRO mentions 
+                    its being cultivated at Canton, and makes it a variety of <hi rend="italic">pomponium</hi>.
+                    KÆMPFER'S description alone might have satisfied us that 
+                    this was the plant he had in view; but upon referring to his
+                    manuscript in the British Museum, we found an excellent 
+                    drawing done with a pen and ink by himself, accompanying the
+                    description. WILLDENOW has erroneously added this synonym to 
+                    THUNBERG'S <hi rend="italic">lancifolium</hi>.
+                    Our drawing was made from a plant in Mr. SALISBURY'S Botanic Garden, Sloane-Square, <hi rend="italic">G</hi>.
+                    (John Sims, Curtis's botanical magazine, or, Flower-garden displayed: in which the most ornamental foreign plants, cultivated in the open ground, the green-house, and the stove, are accurately represented in their natural colours, v.31, 1810, p. 1237)</p></note>
+                
+                <note xml:id="DAHLIAGLOSS" resp="#CGP"><p><hi rend="bold">&#x201C;Among the rest the high&#x2010;topped . . . bright yellow lie.&#x201C;
+                    (<title type="manuscript" corresp="#MSIV">MS IV</title>)&#x2014;</hi>The <hi rend="italic">Dahlia</hi>.--<hi rend="italic">Dahlia superflua</hi> and <hi rend="italic">D. frustranea</hi>, H. K. (<hi rend="italic">Cav. Ic</hi>. i.
+                    t. 80. and 266.); <hi rend="italic">Polyg. Super</hi>. L.; and <hi rend="italic">Corymbiferæ</hi>, J.
+                    1640. The roots are tuberous and fasciculated; the stems rise from five to eight feet,
+                    covered with large compound leaves, resembling those of the common dwarf elder, and 
+                    with side branches bearing numerous flowers of a great variety of colors, which appear
+                    in August, and continue till destroyed by frost. The plant grows wild in Mexico, in
+                    sandy meadows, and was sent to Madrid in 1789, and thence to England in the same 
+                    year; but the plants being lost, seeds were reintroduced by Lady Holland in 1804, and
+                    from these and some plants imported from France during the peace of 1814, the present 
+                    extensive stock of dahlias has originated. Till this last period they were much more 
+                    cultivated in France and Germany than in England, and more especially by the Count 
+                    Lebeur, at Paris, and M. Otto, at Berlin. At present the dahlia is the most fashion-
+                    able flower in this country, and the extent of its culture in some of the nurseries, espe-
+                    cially that of J. Lee, is truly astonishing. Nor is this to be wondered at, as Sabine
+                    observes, for, independently of the great beauty and diversity of the flowers, they are in
+                    perfection at a season when, till they came into notice, our gardens had but little orna-
+                    ment. The roots are edible, but not agreeable.
+                    <hi rend="italic">Varieties</hi>. The leading varieties of the fertile-rayed species <hi rend="italic">D. superflua</hi>, are,
+                    the purple, rose, pale, white, sulphur, yellow, tawny, copper, brick red,
+                    dark-red, pomegranate colored , dark purple, very dark, and lilac flowered 
+                    single, semi-double, and double, with innumerable sub-varieties.
+                    Of the barren.rayed species, <hi rend="italic">D. frustranea</hi>, there are the scarlet, bright-scarlet,
+                    orange, saffron, and yellow flowered, single, semi-double, and double, with
+                    several sub-varieties, though this species has not sported nearly so much as the other.
+                    At the Hammersmith nursery, above 200 sorts may be procured.
+                    (John C. Loudon, An encyclopædia of gardening: comprising the theory and practice of horticulture, floriculture, arboriculture and landscape-gardening including all the latest improvements, 1822, p. 962)</p></note>
+                
+                <note xml:id="PRIMROSEGLOSS" resp="#CGP"><p><hi rend="bold">&#x201C;The lilac <name type="botanical" corresp="#PRIMROSE">primrose</name> . . . called <name type="botanical" corresp="#PRIMROSE">primrose</name> red.&#x201C;
+                    (<title type="manuscript" corresp="#MSIV">MS IV</title>)&#x2014;</hi>The <hi rend="italic">Primrose, P. vulgaris</hi>, L. (<hi rend="italic">Eng. Bot</hi>. 4.); <hi rend="italic">Primavere</hi>, Fr.; <hi rend="italic">Shaftlose Primule</hi>, Ger.;
+                    and <hi rend="italic">Primavera</hi>, Ital. (<hi rend="italic">fig</hi>. 450), has a perennial root, appearing as if bit off at the end,
+                    with a singular smell like that of the anise. It is a native of most parts of Europe, in woods,
+                    coppices, and sheltered lanes, particularly in a clayey soil. The flowers of the wild plant are
+                    almost always of a brimstone color, but some-times of a purple hue; they appear in March and April.
+                    <hi rend="italic">Varieties</hi>. The double varieties produced by culture are in most esteem, of which there are:
+                    The stemless white. Crimson. Hose-in-hose. Purple. Lilac. Scotch. White. Yellow. Brimstone.
+                    (John C. Loudon, An encyclopædia of gardening: comprising the theory and practice of horticulture, floriculture, arboriculture and landscape-gardening including all the latest improvements, 1822, p. 975)</p></note>
+                
+                <note xml:id="HYACINTHGLOSS" resp="#CGP"><p><hi rend="bold">&#x201C;And by the By . . . youths<!--sic--> sad fate.&#x201C;
+                    (<title type="manuscript" corresp="#MSIV">MS IV</title>)&#x2014;</hi>The <hi rend="italic">Hyacinth</hi>.--<hi rend="italic">Hyacinthus Orientalis</hi>, L. (<hi rend="italic">Bot. Mag</hi>. 93.); <hi rend="italic">Hex. Monog</hi>. L.;
+                    and <hi rend="italic">Asphodeleæ</hi>, B. P.; <hi rend="italic">Jacinte</hi>, Fr.; <hi rend="italic">Hyacinthe</hi>, Ger.; and <hi rend="italic">Giacinto</hi>, Ital. (<hi rend="italic">fig</hi>. 433.)
+                    1627. The bulb of this plant is tunicated, the leaves broad and green, from the centre of which
+                    arises a scape, with a spike of flowers, pointing in all directions, and by which it
+                    is known, at first sight , from <hi rend="italic">Hyacinthus nonscriptus</hi>, L.; (<hi rend="italic">Scilla nonscripta</hi>, W.) in
+                    which the scape is drooping, and the flowers all turned to one side. It is a native of
+                    the Levant, and abundant about Aleppo and Bagdat, where it flowers in February;
+                    here it flowers in March and April. It was cultivated by Gerarde in 1596; but had,
+                    doubtless, long before been improved by the Dutch, who have added greatly to the
+                    strength and beauty of the plant, and produced almost innumerable varieties.
+                    <hi rend="italic">Varieties</hi>. Gerarde mentions the single and double blue, the purple, and the white.
+                    Parkinson, in 1629, enumerates eight sorts. Miller says, the Haerlem gardeners dis-
+                    tinguish near 2000 sorts, and generally publish catalogues of them from year to year.
+                    At present, the taste for this flower being considerably abated, the Dutch and English
+                    catalogues contain only a few hundred sorts. Mason's Catalogue for 1820, contains
+                    three hundred sorts with names. These names are quite arbitrary, being given by the
+                    grower after himself or some public character; and therefore they are here omitted.
+                    They are arranged as double-blues, whites, reds, and yellows, and single sorts of the
+                    same colors; the blues and reds are the most numerous; the yellow, those of which there is least variety .
+                    Only single hyacinths were, at first, cultivated; but about the beginning of the last
+                    century, attention was paid to double-flowers by Peter Voerhelm, whose first double-
+                    flower was named <hi rend="italic">Mary</hi>, and is now lost; but his third flower, <hi rend="italic">the King of Great Britain</hi>,
+                    which is now looked upon as the oldest double-hyacinth, was greatly preferred to all the
+                    flowers known, and the price of it was then above 1000 florins or 100<hi rend="italic">l</hi>. sterling. Up
+                    to the middle of last century, the greatest attention was paid at Haerlem to raising new
+                    sorts of double-flowers; and as much as 200<hi rend="italic">l</hi>. has been known to be given for a root;
+                    but since that period, the taste for this and other bulbous flowers has considerably de-
+                    clined, and at present there are few sorts for which more than 10<hi rend="italic">l</hi>. are asked,
+                    the general price being from one to ten shillings a bulb for the varied sorts, and what
+                    are called the common mixtures, are sold at from 2<hi rend="italic">l</hi>. to 3<hi rend="italic">l</hi>. a hundred. A variety de-
+                    generates, under bad treatment, in two or three years; but in Holland some have been preserved nearly a century.
+                    (John C. Loudon, An encyclopædia of gardening: comprising the theory and practice of horticulture, floriculture, arboriculture and landscape-gardening including all the latest improvements, 1822, p. 940-941)</p></note>
+                
+                <note xml:id="CROCUSGLOSS" resp="#CGP"><p><hi rend="bold">&#x201C;The yellow <name type="botanical" corresp="#CROCUS">crocus</name> . . . light autumnal ken.&#x201C;
+                    (<title type="manuscript" corresp="#MSIV">MS IV</title>)&#x2014;</hi>The <hi rend="italic">Crocus</hi>.--<hi rend="italic">Crocus</hi>, L.; <hi rend="italic">Trian. Monog</hi>. L.; and <hi rend="italic">Irideæ</hi>, B. P. <hi rend="italic">Safran</hi>, Fr.; <hi rend="italic">Safran</hi>, Ger.; and <hi rend="italic">Zaffarano</hi>, Ital.
+                    1631. The bulb is round, solid and compressed with a netted skin, from the centre of 
+                    which arise four or five grass-like leaves, and one or two flowers. Out of the centre of the
+                    tube of the flower arises a slender style, crowned by a broad flat stigma of a gold color.
+                    After the flower is past, the germ, which hitherto was seated on the bulb at the base of
+                    the tube, pushes out of the ground, and ripens its seeds; a singular economy in nature,
+                    and which occurs only in the colchicum, and a few other plants.
+                    All the known species of this genus may be considered as florists' flowers. Many
+                    botanists, indeed, consider that there is only two species, the <hi rend="italic">C. vernus</hi>, or spring-blowing
+                    crocus; and the <hi rend="italic">C. sativus</hi>, the saffron, or autumn crocus.
+                    From the <hi rend="italic">Crocus vernus</hi>, (<hi rend="italic">Eng. Bot</hi>. 343 and our <hi rend="italic">fig</hi>. 440.) they consider that 
+                    the <hi rend="italic">C. versicalor</hi> (<hi rend="italic">fig</hi>. 441.), the <hi rend="italic">C. biflorus</hi> (<hi rend="italic">fig</hi>. 442. <hi rend="italic">a</hi>) the <hi rend="italic">C. susiana</hi> (<hi rend="italic">b</hi>) the
+                    <hi rend="italic">C. sulphureus</hi> (<hi rend="italic">c</hi>), and the <hi rend="italic">C. mæsianus</hi> (<hi rend="italic">d</hi> and <hi rend="italic">e</hi>), with their numerous sub-
+                    varieties, have been produced by cul-ture or locality.
+                    From the <hi rend="italic">Crocus sativus</hi>, or saffron crocus (<hi rend="italic">Eng. Bot</hi>. 343. and our <hi rend="italic">fig</hi>. 443. <hi rend="italic">a</hi>),
+                    they think it likely that the <hi rend="italic">C. serotinus</hi> (<hi rend="italic">fig</hi>. 443. <hi rend="italic">b</hi>), and the <hi rend="italic">C. nudiflorus</hi> (<hi rend="italic">fig</hi>. 443. <hi rend="italic">e</hi>),
+                    have been also originated by cultivation or accident.
+                    It is sufficient for our purpose to observe, that all the sorts have been time out of 
+                    mind, and still are, great ornaments to the garden; the spring sorts coming into flower
+                    in February and March, and the autumn sorts in September and October.
+                    The color of the spring crocus in its wild state in Switzerland, is white with a pur-
+                    ple base; it is considered as naturalized in England, but when found wild, is almost 
+                    always of a yellow color. The autumn crocus, or saffron, is also found wild in some
+                    places, and considered as naturalized; but it appears to be an African plant, and intro-
+                    duced originally in Edward the Third's time, which its Arabic name, <hi rend="italic">sahafaran</hi>, seems
+                    to justify. Its colour is generally purple or blue, as is that of most of the autumn va-
+                    rieties in cultivation at present.
+                    <hi rend="italic">Varieties</hi>. None of these are double. Of the spring crocus, Parkinson has enume-
+                    rated twenty-seven varieties; the fundamental colours of which are blue, purple, yellow,
+                    and white. Miller recites twelve as leading sorts. Mason's catalogue for 1820 men-
+                    tions “twenty named sorts,” besides the light, dark, and striped purple, cloth of gold;
+                    the Scotch crocus beautifully striped, the white, the large and small yellow, and several
+                    striped sorts. The Dutch are continually producing new varieties, as are some florists
+                    in this country, of which Haworth (<hi rend="italic">Hort</hi>. <hi rend="italic">Trans</hi>. i. 122.) may be cited as an instance.
+                    Of the autumn crocus, Parkinson has enumerated four; and Ray, six varieties. Mil-
+                    ler has only four: the sweet-smelling, of a deep blue; the mountain, of a paler blue;
+                    the many-flowering, bluish; and the small flowering. Most of these varieties are now lost.
+                    (John C. Loudon, An encyclopædia of gardening: comprising the theory and practice of horticulture, floriculture, arboriculture and landscape-gardening including all the latest improvements, 1822, p. 954-955)</p></note>
+                
+                <note xml:id="NARCISSUSFLOWERGLOSS" resp="#CGP"><p><hi rend="bold">&#x201C;The <name type="botanical" corresp="#NARCISSUSFLOWER">jonquil</name> Sometimes . . . brightest yellow is the flow&#x02BC;r&#x201C;
+                    (<title type="manuscript" corresp="#MSIV">MS IV</title>)&#x2014;</hi>The <hi rend="italic">Narcissus</hi>.--<hi rend="italic">Narcissus</hi>, L.; <hi rend="italic">Hex. Monog</hi>. L.; and <hi rend="italic">Amaryllideæ</hi>, B. P. <hi rend="italic">Narcisse</hi>, Fr. and Ger.; and <hi rend="italic">Narcisso</hi>, Ital.
+                    1632. The bulb is pear-shaped and tunicated, the leaves succulent and linear, and
+                    the flower-stems, which are from six to eighteen inches in height, bear either solitary or
+                    fasciculated flowers; the color of the flower is either white or yellow, and generally
+                    highly odoriferous. Most of the species are natives of the south of Europe, but one,
+                    the <hi rend="italic">N. Pseudo-Narcissus</hi>, is a native of England, and common in woods in clayey soils.
+                    They come into flower in February, March, and April.
+                    <hi rend="italic">Species and Varieties</hi>. The popular division of this genus is into daffodils, white narcissi, jonquils, and polyanthus narcissi.
+                    The <hi rend="italic">Daffodils</hi> are, <hi rend="italic">N. pseudo Narcissus</hi> (<hi rend="italic">Eng. Bot</hi>. 17.), of which the varieties
+                    are the common double, the double with white petals and a yellow cup;
+                    the single with yellow petals and a golden cup; three or four concentric cups; Tradescant's daffodil and above
+                    a dozen other nameless varieties; the peerless, or two-flowered daffodil, <hi rend="italic">N. bifloras</hi>, (<hi rend="italic">Eng. Bot</hi>. 276),
+                    and a variety <hi rend="italic">N. b. a. tenuior</hi> with one flower only on the scape; the two-colored daffodil, <hi rend="italic">N. bicolor</hi>, (<hi rend="italic">Bot. Mag</hi>. 1187.),
+                    a native of Spain, and a variety of the great yellow Spanish, the largest flower of the genus;
+                    the least daffodil <hi rend="italic">N. minor</hi>, (<hi rend="italic">Bot. Mag</hi>. 6.); the rush-leaved, <hi rend="italic">N. triandrus</hi>, (<hi rend="italic">Bot. Mag</hi>. 48.),
+                    and some other species and varieties. 
+                    The <hi rend="italic">White Narcissi</hi> are the poets' narcissus, <hi rend="italic">N. poeticus</hi>: the early-flowered,
+                    <hi rend="italic">N. p. a. angustifolius</hi>; and the late-flowered <hi rend="italic">N. p. majalis</hi>; the musk narcissus,
+                    <hi rend="italic">N. moschatus</hi>, (<hi rend="italic">Eng. Bot</hi>. 1300.); the eastern narcissus, <hi rend="italic">N. orientalis</hi>, (<hi rend="italic">Bot. Mag</hi>. 948.),
+                    and the yellowish and large-flowered varieties; the hoop-petticoat narcissus, <hi rend="italic">N. bulbocodium</hi>, (<hi rend="italic">Bot. Mag</hi>. 88.);
+                    and the paper narcissus, <hi rend="italic">N. papyraceus</hi>, with other varieties.
+                    The <hi rend="italic">Jonquils</hi> are, the common, <hi rend="italic">N. jonquilla</hi>, (<hi rend="italic">Bot. Mag</hi>. 15.), so named from
+                    its rush or jonc-like leaves; the double-flowered jonquil; the sweet-scented jonquil, <hi rend="italic">N. odorus</hi>, (<hi rend="italic">Bot. Mag</hi>. 934.),
+                    the great jonquil, <hi rend="italic">N. calathinus</hi>, (<hi rend="italic">Bot. Mag</hi>. 78.), and some minor varieties. 
+                    The <hi rend="italic">Polyanthus Narcissi</hi> are the common <hi rend="italic">N. tazzetta</hi>, (<hi rend="italic">Bot. Mag</hi>. 925.);
+                    the sulphur-colored, single and double; the white and yellow, single and double;
+                    and above a hundred other sorts, with arbitrary names given by the Dutch, 
+                    who have highly improved this division of the genus. Some of these sorts are considered species by botanists.
+                    (John C. Loudon, An encyclopædia of gardening: comprising the theory and practice of horticulture, floriculture, arboriculture and landscape-gardening including all the latest improvements, 1822, p. 956)</p></note>
+                
+                <note xml:id="CROWNIMPERIALGLOSS" resp="#CGP"><p><hi rend="bold">&#x201C;The <name type="botanical" corresp="#CROWNIMPERIAL">crown imperial</name> . . . liquid to the lip&#x201C;
+                    (<title type="manuscript" corresp="#MSIV">MS IV</title>)&#x2014;</hi>The <hi rend="italic">Fritillary</hi>.--<hi rend="italic">Fritillaria</hi>, L.; <hi rend="italic">Heran. Monog</hi>. L.; and <hi rend="italic">Liliæ</hi>, J. (fig. 446.)
+                    1634. Of this genus there are three species which are considered as florists' flowers;
+                    of these species there are numerous varieties.
+                    The <hi rend="italic">Crown Imperial</hi>, <hi rend="italic">F. Imperialis</hi> (<hi rend="italic">Bot. Mag</hi>. 194.) <hi rend="italic">La Couronne Imperiale</hi>, Fr.;
+                    <hi rend="italic">Kaiserkrone</hi>, Ger.; and <hi rend="italic">La Corona Imperial</hi>, Ita. (<hi rend="italic">fig</hi>. 446. <hi rend="italic">a</hi>), has a scaly bulb,
+                    from which arise strong stems, from two to four feet in height, furnished with
+                    numerous broad shining green leaves, and crowned with a whirl of showy pendulous
+                    flowers, yellow, red, or striped in various ways, which appear in March and April.
+                    It is one of the earliest ornaments of the flower garden, producing a fine 
+                    appearance in the middle of large borders , at a season when such flowers are most
+                    wanted. The “singular nectary,” Professor Martyn observes, “cannot but engage 
+                    the attention of the curious observer; it is a white glandular cavity, at the base
+                    of each petal, and has a drop of limpid nectarious juice standing in it, when the
+                    flower is in vigour. Another of the wonders of nature may be observed in the
+                    peduncles which bend down while the plant is in flower, but become upright as the
+                    seed ripens.” There are above a dozen varieties in cultivation, distinguished by
+                    the different shades of yellow, white, and red in the flower, and by being striped double or semi-double.
+                    (John C. Loudon, An encyclopædia of gardening: comprising the theory and practice of horticulture, floriculture, arboriculture and landscape-gardening including all the latest improvements, 1822, p. 958)</p></note>
+                
+                <note xml:id="FLAG-IRISGLOSS" resp="#CGP"><p><hi rend="bold">&#x201C;A purple colour doth the <name type="botanical" corresp="#FLAG-IRIS">flag</name> . . . it must die.&#x201C;
+                    (<title type="manuscript" corresp="#MSIV">MS IV</title>)&#x2014;</hi>The <hi rend="italic">Iris</hi>–-<hi rend="italic">Iris</hi>, L.; <hi rend="italic">Trian. Monog</hi>. L. and <hi rend="italic">Irideæ</hi>, B. P. <hi rend="italic">L’Iris</hi>, Fr.;
+                    <hi rend="italic">Schwertlilie</hi>, Ger.; and <hi rend="italic">Iride</hi>, Ital. (<hi rend="italic">Figs</hi>. 444. <hi rend="italic">and</hi> 445.)
+                    1633. There are several species of this genus, which are considered florists' flowers.
+                    The <hi rend="italic">Persian Iris</hi>, <hi rend="italic">I. Persica</hi>, (<hi rend="italic">Bot. Mag</hi>., and our <hi rend="italic">fig</hi>. 444. <hi rend="italic">a</hi>), a very low bulbous-
+                    rooted plant, with delicate blue and violet-colored flowers, greatly esteemed
+                    for their beauty and sweet smell, which is so powerful that one plant 
+                    will scent a whole room. It is a native of Persia, and was cultivated by Parkinson
+                    in 1629. The bulbs are generally imported from Holland, and blown in 
+                    water-glasses, or pots of sand with very little earth intermixed, in February and March.
+                    The <hi rend="italic">Snake's-head Iris</hi>, <hi rend="italic">I. tuberosa</hi>, (<hi rend="italic">Bot. Mag</hi>. 551. and <hi rend="italic">fig</hi>. 444. <hi rend="italic">b</hi>), has long 
+                    narrow four-cornered leaves, and a dark purple flower, which appears in April.
+                    It is a native of the Levant, and was cultivated in 1597. The tubers are generally imported from Holland. 
+                    The <hi rend="italic">Chalcedonian Iris</hi>, <hi rend="italic">I. susiana</hi>, (<hi rend="italic">Bot. Mag</hi>. 91, and <hi rend="italic">fig</hi>. 444. <hi rend="italic">c</hi>), has finely
+                    striated leaves, a scape a span high, and the largest and most magnificent 
+                    corolla of all the species. Its petals are of a delicate texture, almost as
+                    broad as a hand, purple or black striped with white. It flowers in the 
+                    beginning of June; is a native of the Levant, and was cultivated by Gerarde in 1596.
+                    The <hi rend="italic">bulbous-rooted</hi>, or <hi rend="italic">Spanish Iris</hi>, <hi rend="italic">I. xiphium</hi>, (<hi rend="italic">Bot. Mag</hi>. 686, and <hi rend="italic">fig</hi>. 445. <hi rend="italic">a</hi>),
+                    has channelled leaves, convoluted during their whole length, and awl-shaped
+                    at the tip; the flowers of the wild plant are blue, with emarginate
+                    petals, and appear in June; but cultivation has produced a great number
+                    of varieties with yellow, white, violet, and variegated flowers. It is a native
+                    of the south of Europe, and was cultivated by Gerarde in 1596. 
+                    The <hi rend="italic">Great bulbous-rooted Iris</hi>, the <hi rend="italic">English Iris</hi> of the <hi rend="italic">Dutch</hi>, <hi rend="italic">I. xiphioides</hi> 
+                    (<hi rend="italic">Bot. Mag</hi>. 687, and <hi rend="italic">fig</hi>. 56. <hi rend="italic">b</hi>), is much larger than the other in all its parts,
+                    the flower-stalk is near twice the height, and the flowers are more than
+                    double the size. It is equally prolific in varieties as <hi rend="italic">Ixiphium</hi>, of which 
+                    it is by some botanists considered only a variety. The tubers of both sorts are annually imported from Holland.
+                    (John C. Loudon, An encyclopædia of gardening: comprising the theory and practice of horticulture, floriculture, arboriculture and landscape-gardening including all the latest improvements, 1822, p. 957)
+                
+                Iris.
+                Nat. Order: -Irideæ.
+                Gen: Char: - Corolla superior, 6-parted, 3 segments large &#x0026;
+                reflected. Stigmas 3, like petals, covering the stamens.
+                This handsome genus of tuberous-rooted plants is
+                one of those whose sword-shaped leaves are placed with
+                one edge towards the stem. In most of the species the
+                tuberous root is a continuation of the stem, but in
+                some the fibres swell into true tubers of an oblong form.
+                The seed-vepel<!--not sure what this word is supposed to be--> is composed of 3 valves<!--not sure what this word is supposed to be-->; forming as
+                    many cells, each containing two rows of round seeds.
+                    These plants mostly prefer a watery situation, but will
+                    grow well in a common garden. The roots of some species
+                    are highly medicinal; others are used as a perfume 
+                    under the name of Orrice-root.
+                (Sir James Edward Smith, English botany; or, coloured figures of British plants, with their essential characters, synonyms, and places of growth. [...] The figures by James Sowerby, 2d ed., vol. 10, 1832, p. 27)</p></note>
+                
+                <note xml:id="GERANIUMGLOSS" resp="#CGP"><p><hi rend="bold">&#x201C;Crimson <name type="botanical" corresp="#GERANIUM">geranium</name> . . . a kind of blue&#x201C;
+                    (<title type="manuscript" corresp="#MSIV">MS IV</title>)&#x2014;</hi><hi rend="italic">Geranium</hi>.--<hi rend="italic">Geranium</hi>, L. <hi rend="italic">Geranium</hi>, <hi rend="italic">Erodium</hi>, and <hi rend="italic">Pelargonium</hi>,
+                    of modern authors. <hi rend="italic">Monadelphia</hi>, L.; and <hi rend="italic">Geraniæ</hi>, J. <hi rend="italic">Geranier</hi>, Fr.; <hi rend="italic">Geranium</hi>, Ger.; and <hi rend="italic">Geranio</hi>, Ital.
+                    1711. This beautiful tribe comprehends numerous species and varieties of herbaceous
+                    suffruticose and shrubby plants, generally of a somewhat succulent nature
+                    throughout. They are almost all natives of the Cape of Good Hope, and with the
+                    exception of three or four species, have been introduced, or originated here from
+                    seed during the present and latter end of the last century. They are chiefly admired
+                    for their flowers, which they produce in abundance from May to September,
+                    generally in corymbs from the axillæ of the leaves of every shade of red, scarlet,
+                    and purple, mixed with white and yellow. The plants are casily cultivated, and
+                    by proper pruning, with the aid of gentle forcing in winter, many of the species, as the
+                    <hi rend="italic">P. zonale, cuculatum, cordatum, &#x0026;c.</hi> may be kept in flower all the year. The best
+                    collection of this family is in the nursery of Messrs. Colville, under the care of
+                    R. Sweet, whose “<hi rend="italic">Geraniæ</hi>,” now publishing, is the most elegant and complete work of its kind.
+                    <hi rend="italic">Species and Varieties</hi>. Many species and sub-species have been received from the
+                    Cape; but the greater number of the admired sorts have been raised in this country
+                    from seed; some of these have received systematic appellations, but the greater number
+                    have been named by those who raised them after themselves, or their friends, in the
+                    manner of florists' flowers.
+                    (John C. Loudon, An encyclopædia of gardening: comprising the theory and practice of horticulture, floriculture, arboriculture and landscape-gardening including all the latest improvements, 1822, p. 1032)</p></note>
+                
+                <note xml:id="PEONYGLOSS" resp="#CGP"><p><hi rend="bold">&#x201C;Fair on its dark green . . . beauteous rose before&#x201C;
+                    (<title type="manuscript" corresp="#MSIV">MS IV</title>)&#x2014;</hi>The <hi rend="italic">Pæony</hi>.--<hi rend="italic">Pæonia</hi>, L.; <hi rend="italic">Polyan. Dig</hi>. L.; and <hi rend="italic">Ranunculaceæ</hi>, J. <hi rend="italic">Pivoine</hi>, Fr.;
+                    <hi rend="italic">Päonie</hi>, Ger.; and <hi rend="italic">Peonia</hi>, Ital.
+                    1639. Most of the species of this plant introduced in this country may be considered
+                    as select flowers; but that which has been longest cultivated is the <hi rend="italic">P. officinalis</hi>
+                    (<hi rend="italic">Bot. Mag</hi>. 1784.) The roots are composed of roundish tubers, the stalks of the leaves rise
+                    between two and three feet high, and terminate in large red or purple flowers, which
+                    appear in May. The leaves are composed of many unequal lobes, variously cut into
+                    many segments. It is a native of Switzerland, Dauphine, and other parts of Europe,
+                    and also of China and Japan; and was cultivated here in 1562. The roots were formerly
+                    much used in medicine.
+                    <hi rend="italic">Varieties</hi>. Originally the common pæony was said to be of two sorts, male and
+                    female, the flowers of the former being smaller and lighter colored than those of the
+                    latter. These distinctions, which had no sexual allusion in this case, the pæony being
+                    hermaphrodite, are now laid aside, and the varieties of <hi rend="italic">P. officinalis</hi> have been reduced
+                    by J. Sabine (<hi rend="italic">Hort. Trans</hi>. ii. 273.) to the following:
+                    The <hi rend="italic">double red</hi>, the most common, and formerly highly prized; being, when
+                    introduced at Antwerp, near 250 years ago, sold for twelve crowns. 
+                    The double flesh-colored. The double white. The double fringed. The double white Chinese.
+                    The double sweet-scented Chinese. (<hi rend="italic">Hort. Trans</hi>. vol. ii. pl. 18) Whitley’s double white Chinese.
+                    (John C. Loudon, An encyclopædia of gardening: comprising the theory and practice of horticulture, floriculture, arboriculture and landscape-gardening including all the latest improvements, 1822, p. 962)</p></note>
+                
+                <note xml:id="OAKGLOSS" resp="#CGP"><p><hi rend="bold">&#x201C;Now the broad <name type="botanical" corresp="#OAK">Oak</name> . . . seas are borne&#x201C;
+                    (<title type="manuscript" corresp="#MSIV">MS IV</title>)&#x2014;</hi>The Oak is the Quercus, L., Monæc. Polyand. L., and Amentaceæ, J. Chêne, Fr.;
+                    Eich, Ger.; and Querec, Ital. The following species and varieties are planted for their timber.
+                    The Common Oak, Q. robur, (Eng. Bot. 1845.) a native of Britain. It grows to
+                    the height of fifty or sixty feet when in a heavy loam; flowers in April, and ripens its
+                    acorns in October and November.
+                    The most valuable variety of the common oak is said (Caled. Hort. Mem. iii. 376.)
+                    to be the pedunculata (Eng. Bot. 1342.), or the stalk fruited; by some considered a
+                    distinct species. It is distinguished from Q. robur by the marked circumstance of the
+                    acorns being placed on long fruit-stalks, whilst those of the robur are nearly sessile.
+                    Besides, the superior utility and hardiness of the timber, the pedunculated oak is, in
+                    fact, the most magnificent of the two British sorts. Miller says, this variety of the
+                    Q. robur, (and which he calls the fæmina,) is more rare than the sessile-fruited; but
+                    Professor Martyn says, this is not the case, and that the pedunculated is equally
+                    general as the other. It is observed by Du Hamel, that oaks in forests being propagated
+                    from the acorn, there are so many varieties that it is difficult to find two resembling
+                    each other in every respect. Professor Martyn observes, that the figures in 
+                    ancient authors have the fruit uniformly on foot-stalks, which shows that that variety
+                    had been most common: and Ray considers it as the common oak of England. Du Roi
+                    affirms, that the timber of the sessile-fruited is reddish, and brittle, whilst that
+                    of the stalk-fruited is whitish and hard. From these, and various accounts, as well as our
+                    own observation, we consider ourselves justified in recommending to nurserymen and
+                    others, who gather acorns for seeds, to take effectual precautions that only the stalked sort be gathered.
+                    1912. The Turkey Oak, Q. cerris, (Du Roi, 2 t. 5. f. 1.) a native of the south of
+                    Europe, introduced in 1735. This species is distinguished by oblong, pointed, and
+                    frequently lyrate leaves, jagged, and a little hoary on the under side. The acorns are
+                    small, and have rough, prickly cups. The tree grows from forty to sixty feet high.
+                    There are several varieties, but the best is that called the Devonshire or Luccombe,
+                    from the name of the person who raised it from seeds, saved from a tree of the
+                    Turkey-oak grown in Devonshire.
+                    There are about forty species of exotic oaks introduced in this country, which may
+                    be considered as timber trees, and are such in effect, in their native countries. Of
+                    these, the greater part are natives of America; and it has been recommended,
+                    (Caled. Mem. iii. 378.) to cultivate the Q. tinctoria or Quercitron on account of its
+                    bark, which affords a valuable yellow die[sic. All these species, however, are either too
+                    tender, or too scarce, or too dwarfish, and slow-growing, to warrant us in considering any
+                    other than the common and Luccombe oaks, as fit for the purposes of profitable planting.
+                    (John C. Loudon, An encyclopædia of gardening: comprising the theory and practice of horticulture, floriculture, arboriculture and landscape-gardening including all the latest improvements, 1822, p. 1139-1140)</p></note>
+                
+                <note xml:id="HAWTHORNGLOSS" resp="#CGP"><p><hi rend="bold">&#x201C;Now comes the <name type="botanical" corresp="#HAWTHORN">hawthorn</name> . . . very fine no doubt.&#x201C;
+                    (<title type="manuscript" corresp="#MSIV">MS IV</title>)&#x2014;</hi>The <hi rend="italic">Hawthorn</hi>, <hi rend="italic">Mespilus oxyacantha</hi>, E. B. (<hi rend="italic">Eng. Bot</hi>.); <hi rend="italic">Icosan. Di.-
+                    Pentag</hi>. L.; and <hi rend="italic">Rosaceæ</hi>, J. <hi rend="italic">Aubépine</hi>, Fr.; <hi rend="italic">Hagedorn</hi>, Ger.; <hi rend="italic">Branco spino</hi>, Ital.
+                    It is a native shrub, of great importance as a hedge plant, and is also frequently
+                    introduced into narrow plantations as an undergrowth. It will not grow, however,
+                    under the drip of trees, and therefore, in a profitable point of view, is only to be
+                    considered as affording the impermiable, close, and durable, and easily raised fences,
+                    called quickset hedges. The timber of such plants as grow singly, and attain a tolerable
+                    size, is valued by the millwright and turner, and the roots by the cabinet-maker. It
+                    is often spoiled, Sang observes, through inattention after cutting; if it be allowed to
+                    lie in entire logs or trunks, it soon heats, and becomes quite brittle and worthless; it
+                    therefore ought to be instantly cut up into planks, and laid to dry. The haws and
+                    foliage afford excellent food for deer.
+                    (John C. Loudon, An encyclopædia of gardening: comprising the theory and practice of horticulture, floriculture, arboriculture and landscape-gardening including all the latest improvements, 1822, p. 1145)
+                
+                MESPILUS Oxyacantha.
+                <hi rend="italic">Common Hawthorn, Whitethorn, or May</hi>.
+                
+                    <hi rend="italic">ICOSANDRIA Pentagynia</hi>.
+                    GEN. CHAR. <hi rend="italic">Cal</hi>. in 5 segments. <hi rend="italic">Petals</hi> 5. <hi rend="italic">Drupa</hi>
+                    inferior. <hi rend="italic">Nuts</hi> 2 to 5, with two kernels each. 
+                SPEC. CHAR. Thorny. Leaves obtuse, deeply three-
+                cleft, serrated, smooth. Styles one or two. 
+                SYN. Mespilus Oxyacantha. <hi rend="italic">Sm. Fl. Brit</hi>. 529.
+                    <hi rend="italic">Hull. ed</hi>. 2. 145[.] <hi rend="italic">Relh</hi>. 190. 
+                M. apii folio sylvestris spinosa, sive Oxyacantha.
+                    <hi rend="italic">Raii Syn</hi>. 453.
+                    Cratægus Oxyacantha. <hi rend="italic">Linn. Sp. Pl</hi>. 683. <hi rend="italic">Huds</hi>. 214.
+                    <hi rend="italic">With</hi>. 459. <hi rend="italic">Fl. Dan. t</hi>. 634.
+                    C. monogyna. <hi rend="italic">Jacq. Austr. t</hi>. 292. <hi rend="italic">Sibth</hi>. 156. <hi rend="italic">Abbot</hi>. 108.
+                
+                THIS beautiful and useful shrub, whose abundance and luxuriance
+                with us may well counterbalance the myrtle of more genial
+                climates, forms the natural thickets of most parts of England.
+                It adorns our parks, and makes our best fences. Its ruby-
+                tipped buds are the first sign of vegetation in spring; its
+                sweet blossoms the decoration and the pledge of approaching
+                summer; its fruit the chief wild treasure of autumn. The hard
+                and tough wood is useful for many different purposes, but of
+                slow growth, and generally of no great size. The branches bear
+                clipping to any extent, and the whole bush, if cut nearly to the
+                ground, is speedily restored.
+                
+                The branches are furnished with rigid spines. The leaves are
+                alternate, stalked, deciduous, of a dark shining green, smooth, in
+                three or five deep serrated segments. Stipulas lunate, varying much
+                in size. Flowers corymbose, terminal, with smooth stalks. Calyx
+                reflexed. Petals concave, usually white; of a beautiful red on a
+                strong or deep soil. Anthers pink, changing to black. Styles one
+                or two in different flowers of the same bunch. Fruit red, rarely
+                yellow, mealy, insipid, with one or two hard nuts. Sometimes
+                there are three styles and as many nuts.—The leaves vary in
+                shape, but we have in vain laboured to ascertain two species
+                of Hawthorn in Britain; nor do the <hi rend="italic">Oxyacantha</hi> and <hi rend="italic">monogyna</hi>
+                of Jacquin appear to us permanently distinct.
+                (English botany; or, coloured figures of British plants, with their essential characters, synonyms, and places of growth. To which will be added, occasional remarks. By James Sowerby, vol. 35, 1813, p. 2504)</p></note>
+                
+                <note xml:id="YEWGLOSS" resp="#CGP"><p><hi rend="bold">&#x201C;And now the <name type="botanical" corresp="#YEW">Yew</name> . . . its latest breath&#x201C;
+                    (<title type="manuscript" corresp="#MSIV">MS IV</title>)&#x2014;</hi>The <hi rend="italic">Yew</hi> is the <hi rend="italic">Taxus baccato</hi>, L. (<hi rend="italic">Eng. Bot</hi>. 746.); <hi rend="italic">Polyg. Monæc</hi>. L.; and
+                    <hi rend="italic">Coniferæ</hi>, J. <hi rend="italic">If</hi>, Fr.; <hi rend="italic">Eihenbaum</hi>, Ger.; and <hi rend="italic">Tasso</hi>, Ital. It is a low, bush-like,
+                    dark, evergreen tree, of great longevity, slow in growth, and affording a hard, white
+                    valuable timber. It flowers in April and May, and its berries are ripe in November.
+                    It is found in a wild state in bleak situations, and on a variety of soils, dry and
+                    moist. It is very common in ancient church-yards, in many of which it has attained a
+                    great size and age. Evelyn, and after him, Professor Martyn, have referred to a great
+                    number of examples of notable trees of this species.
+                    (John C. Loudon, An encyclopædia of gardening: comprising the theory and practice of horticulture, floriculture, arboriculture and landscape-gardening including all the latest improvements, 1822, p. 1145)</p></note>
+                
+                <note xml:id="GENTIANGLOSS" resp="#CGP"><p><hi rend="bold">&#x201C;Then thou sweet flower the <name type="botanical" corresp="#GENTIAN">gentian</name> . . . Mankind to see.&#x201C;
+                    (<title type="manuscript" corresp="#MSIV">MS IV</title>)&#x2014;</hi>The <hi rend="italic">umbelliferous</hi> (umbel-bearing) plants, which compose nearly the
+                    whole of the second order of the class Pentándria, have, with
+                    few exceptions, <hi rend="italic">pinnate</hi> leaves, more or less compound.
+                    The British Flora possesses only eight genera in this order,
+                    that are not included in the natural family called Umbelliferæ
+                    or Umbellátæ. Of this number are the beet (<hi rend="italic">B</hi>èta), of which
+                    the root is eaten in salads (it contains a great quantity of sugar,
+                    which may be extracted and manufactured for use); the glass-
+                    wort (Salsòla), used in the manufacture of glass; the elm (<hi rend="italic">U</hi>'l-
+                    mus); and the gentian (Genti<hi rend="italic">ána</hi>), a genus remarkable for the
+                    brilliant blue colour of its flowers, and the bitterness of its
+                    roots. “As bitter as gentian,” is a common phrase. The
+                    root of a species of gentian growing on the Alps, and other
+                    mountains on the Continent (<hi rend="italic">G</hi>. lùtea), is the bitter chiefly
+                    used in medicine.
+                    (Edward Charlesworth, The Magazine of Natural History, vol.2, 1829, p.156)</p></note>
+                
+                <note xml:id="COLUMBINEGLOSS" resp="#CGP"><p><hi rend="bold">&#x201C;A purple flower I now . . . are really weeds&#x201C;
+                    (<title type="manuscript" corresp="#MSIV">MS IV</title>)&#x2014;</hi>AQUILEGIA. <hi rend="italic">Columbine</hi>.
+                    <hi rend="italic">Nat. Order</hi>. RANUNCULACEÆ.
+                    GEN. CHAR. <hi rend="italic">Calyx</hi> 5-leaved, petaloid, deciduous. <hi rend="italic">Petals</hi> 5,
+                    gaping above, elongated downwards into a hollow, horn-shaped
+                    spur, projecting between the leaves of the calyx. Follicles 5.
+                    Ornamental herbs with purple, blue, or white flowers, divided
+                    leaves, and fibrous perennial roots. The genus which is small,
+                    containing about 15 known species, is confined to the north
+                    temperate zone. The plants are less acrid than the rest of
+                    their order, and the common Columbine has been employed
+                    medicinally as an astringent, but instances are on record
+                    of its proving fatal in overdoses.
+                    AQUILEGIA VULGARIS. <hi rend="italic">Common Columbine</hi>. TAB. 770. 
+                    Spur of the petals incurved. Follicles hairy. Stem leafy, many-flowered,
+                    smooth. Leaves glabrous. Styles as long as the stamens. 
+                    Aquilegia vulgaris, E. B. 297. <hi rend="italic">Smith</hi> III. 33. <hi rend="italic">Lindley</hi> 13. <hi rend="italic">Hooker ed</hi>. 2. 261. <hi rend="italic">ed</hi>. 3. 264.
+                    Found wild in woods, thickets and pastures in many parts of England
+                    and Wales, though probably in its origin a wanderer from the garden.
+                    Leaves mostly radical, on long petioles, twice ternate, obtusely
+                    lobed; more or less glaucous as well as the stem, which rises
+                    a foot or 18 inches high, bearing a few sessile leaves, and several
+                    drooping, purple, rarely rose-coloured or white, flowers. The inner
+                    series of stamens is often abortive, in which case the filaments are
+                    sometimes united, forming a plaited membrane around the germens,
+                    as shown in our figures. Flowers in June.
+                    (Sir James Edward Smith, English botany; or, coloured figures of British plants, with their essential characters, synonyms, and places of growth. [...] The figures by James Sowerby, 2d ed., vol. 1, 1832, p. 13)</p></note>
+                
+                <note xml:id="POPPYGLOSS" resp="#CGP"><p><hi rend="bold">&#x201C;And now that flowr Flowr indeed . . . for mankind to see&#x201C;
+                    (<title type="manuscript" corresp="#MSIV">MS IV</title>)&#x2014;</hi>PAPAVER. <hi rend="italic">Poppy</hi>. 
+                    Nat. Order. PAPAVERACEÆ. 
+                    GEN. CHAR. <hi rend="italic">Calyx</hi> inferior, 2-leaved, deciduous. <hi rend="italic">Petals</hi> 4.
+                    <hi rend="italic">Stigma</hi> radiated, sessile on the top of the ovarium. <hi rend="italic">Capsule</hi> 1-celled.
+                    <hi rend="italic">Seeds</hi> numerous, on parietal receptacles projecting
+                    towards the centre of the cavity, and escaping by pores
+                    beneath the projecting rim of the stigma.
+                    Herbs with wing-cleft, alternate leaves, and solitary inflorescence.
+                    The flowers, on long peduncles deflexed before expansion,
+                    are of various shades of red, or purple, yellow, and white,
+                    but never blue. All of the species are narcotic, and
+                    secrete a white milk-like juice in which that property resides:
+                    in its inspissated form this is the Opium of commerce. Europe
+                    and the central parts of Asia seem to be the chief stations of the genus.
+                    (Sir James Edward Smith, English botany; or, coloured figures of British plants, with their essential characters, synonyms, and places of growth. [...] The figures by James Sowerby, 2d ed., vol. 1, 1832, p. 48)</p></note>
+                
+                <note xml:id="SNOWDROPGLOSS" resp="#CGP"><p><hi rend="bold">&#x201C;The hanging <name type="botanical" corresp="#SNOWDROP">snowdrop</name> . . . purest white is seen.&#x201C;
+                    (<title type="manuscript" corresp="#MSIV">MS IV</title>)&#x2014;</hi>GALANTHUS nivalis. 
+                    <hi rend="italic">Snowdrop</hi>.
+                    <hi rend="italic">HEXANDRIA Monogynia</hi>. 
+                    GEN. CHAR. <hi rend="italic">Corolla</hi> of six petals, three of which are
+                    smaller than the rest, and emarginated. <hi rend="italic">Stigma</hi> simple.
+                    SPEC. CHAR. …
+                    SYN. Galanthus nivalis. Linn. Sp. Pl. 413. Huds. Fl. An. 140. With. Bot. Arr. 340.
+                    
+                    ON the authority of Mr. Hudson and Dr. Stokes, the Snowdrop
+                    is now admitted into the list of British plants, although
+                    not described as such by Ray. Whether originally a native or
+                    not, it is now found in a wild state in many different situations,
+                    such as orchards, grassy meadows, groves, and thickets. Dr. Stokes,
+                    whose accuracy and extensive information none who
+                    peruses the Botanical Arrangement of British Plants can doubt, is
+                    particularly exact in asserting that he has gathered it remote
+                    from all traces of buildings or gardens.
+                    No plant is more generally cultivated, or more cordially welcomed
+                    as the herald of approaching spring. It frequently
+                    pierces through the unmelted snow, which it rivals in whiteness,
+                    and remains uninjured by a season, during whose inclemency
+                    most vegetable productions lie dormant. Who can
+                    read the following charming lines on the Snowdrop, by
+                    Mrs. Barbauld, without admiration?
+                    
+                    “As nature's breath, by some transforming pow'r,
+                    “Had chang'd an icicle into a flow'r.--
+                    “Its name and hue the scentless plant retains,
+                    “And winter lingers in its icy veins.”
+                    (English botany; or, coloured figures of British plants, with their essential characters, synonyms, and places of growth. To which will be added, occasional remarks. By James Sowerby, vol. 5, 1796, p. 19)</p></note>
+                
+                <note xml:id="VIOLETGLOSS" resp="#CGP"><p><hi rend="bold">&#x201C;Then comes the <name type="botanical" corresp="#VIOLET">violet</name> . . . its mother ground&#x201C;
+                    (<title type="manuscript" corresp="#MSIV">MS IV</title>)&#x2014;</hi>Viola. Violet.
+                    Nat. Order. Violaceæ. 
+                    Gen: Char:-<hi rend="underline">Calyx</hi> of 3 leaves, each extended at
+                    the base. <hi rend="underline">Petals</hi> 5-unequal, the lowermost spurred
+                    behind. <hi rend="underline">Anthers</hi> slightly cohering. Capsule superior,
+                    of 1 cell, with 3 valves.
+                    A genus of small herbaceous plants
+                    generally admired &#x0026; well-known by the names
+                    Violet, Heartsease, &#x0026; Pansey. The [sic] all have alternate
+                    leaves with stipules at their bases &#x0026; fibrous
+                    either annual or perennial roots. They may be
+                    divided into two sections by their stipules, in some being membranous, in others leafy.
+                [...]
+                The Violet, so justly esteemed for its delightful fragrance, is, like
+                many other desirable plants, frequently found wild. In England it
+                is abundant, not uncommonly varying to white, but it is rare in Scotland.
+                A double variety obtained by florists has a richer scent. The
+                long prostrate scions seldom produce flowers until the second year,
+                when flowers with petals are raised upon upright stalks in March and
+                April, but are of short duration; they are followed by a long succession
+                without petals upon stalks which bend to the ground, and there
+                ripen their seeds. This is the case with several other species. At
+                the same time the leaves greatly enlarge. A syrup made from the
+                petals is a gentle laxative and, while it retains its colour, a delicate
+                test for free acids and alkalies. The Sorbet of the Turks is also said
+                to be prepared from them with sugar.
+                (Sir James Edward Smith, English botany; or, coloured figures of British plants, with their essential characters, synonyms, and places of growth. [...] The figures by James Sowerby, 2d ed., vol. 2, 1835, p. 58-59)</p></note>
+                
+                <note xml:id="HEARTSEASEGLOSS" resp="#CGP"><p><hi rend="bold">&#x201C;The <name type="botanical" corresp="#HEARTSEASE">heartsease</name>sweet . . . its name, <name type="botanical" corresp="#HEARTSEASE">heartsease</name>&#x201C;
+                    (<title type="manuscript" corresp="#MSIV">MS IV</title>)&#x2014;</hi>VIOLA TRICOLOR. <hi rend="italic">Pansy Violet</hi>. Tab. 333. 
+                    Stems angular, diffuse. Leaves deeply crenate, oblong. Stipules
+                    leaf-like, pinnatifid, the central lobe toothed. Petals longer than
+                    the calyx. Germen oval. Root annual. 
+                    Viola tricolor, <hi rend="italic">E. B</hi>. 1287. <hi rend="italic">Smith</hi> I. 305. <hi rend="italic">Lindley</hi> 36. <hi rend="italic">Hooker</hi> 107. <hi rend="italic">ed</hi>. 2. 119.
+                    The Wild Pansy or, in familiar language, Heart's-ease, the origin
+                    of all our annual garden varieties, is very common in corn-fields, and
+                    flowers from May to September.
+                    (Sir James Edward Smith, English botany; or, coloured figures of British plants, with their essential characters, synonyms, and places of growth. [...] The figures by James Sowerby, 2d ed., vol. 2, 1835, p. 60)</p></note>
+                
+                <note xml:id="GREEKVALERIANGLOSS" resp="#CGP"><p><hi rend="bold">&#x201C;Now comes the flower with a noble name . . . very beauteous hue&#x201C;
+                    (<title type="manuscript" corresp="#MSIV">MS IV</title>)&#x2014;</hi>POLEMONIUM cæruleum. 
+                    <hi rend="italic">Jacob's Ladder</hi>.
+                    
+                    <hi rend="italic">PENTANDRIA Monogynia</hi>.
+                    GEN. CHAR. <hi rend="italic">Cor</hi>. in five segments. <hi rend="italic">Stamina</hi> standing
+                    on five valves which close the tube. <hi rend="italic">Stigma</hi>
+                    three-cleft. <hi rend="italic">Capsule</hi> three-celled, superior.
+                    SPEC. CHAR. Leaves pinnated. Flowers erect. Calyx
+                    longer than the tube of the corolla.
+                    SYN. Polemonium cæruleum. <hi rend="italic">Linn. Sp. Pl</hi>. 230.
+                    <hi rend="italic">Huds. Fl. An</hi>. 89. <hi rend="italic">With. Bot. Arr</hi>. 215.
+                    P. vulgare cæruleum. <hi rend="italic">Raii Syn</hi>. 288.
+                    
+                    THIS, although very common in gardens, is one of the
+                    plants most rarely found wild in this country. Botanists of the
+                    last century gathered it in the romantic and mountainous country
+                    about Malham Cove, in the north of Yorkshire, where it still
+                    grows, as well as in some parts of Derbyshire (<hi rend="italic">Withering)</hi>. 
+                    
+                    A variety with white flowers is very common, sometimes
+                    even from the same root as the blue ones (<hi rend="italic">Linnæus</hi>); the faint
+                    purplish blue seen in the flowers of this plant, being that which
+                    of all colours is most apt to vary to white.
+                    
+                    Its items rise to the height of eighteen or twenty inches,
+                    seldom more. The root is fibrous and perennial.
+                    
+                    This plant is absurdly enough reckoned among the Valerians
+                    by the old authors, with which it has not the least affinity
+                    either in appearance, botanical characters, sensible qualities, or
+                    medical virtues.
+                    (English botany; or, coloured figures of British plants, with their essential characters, synonyms, and places of growth. To which will be added, occasional remarks. By James Sowerby, vol. 1, 1790, p. 14)</p></note>
+                
+                <note xml:id="HONEYSUCKLEGLOSS" resp="#CGP"><p><hi rend="bold">&#x201C;The climbing <name type="botanical" corresp="#HONEYSUCKLE">honeysuckle</name> . . . beautiful I think&#x201C;
+                    (<title type="manuscript" corresp="#MSIV">MS IV</title>)&#x2014;</hi>LONICERA. <hi rend="italic">Honeysuckle</hi>.
+                    <hi rend="italic">Nat. Order</hi>. CAPRIFOLIÆ.
+                    GEN. CHAR. <hi rend="italic">Corolla</hi> of 1 petal, irregular. <hi rend="italic">Calyx</hi> superior,
+                    of 5 teeth, small. <hi rend="italic">Berry</hi> of 1 or more cells. <hi rend="italic">Seeds</hi> many.
+                    Slender shrubs, with opposite leaves and branches; the
+                    stems in some species twining up other shrubs and trees. The
+                    fruit is not eatable.
+                    
+                    LONICERA CAPRIFOLIUM. <hi rend="italic">Pale Perfoliate Honeysuckle</hi>. TAB. 324.
+                    Flowers ringent, whorled, terminal. Leaves deciduous, the upper
+                    ones confluent and perfoliate.
+                    Lonicera Caprifolium, <hi rend="italic">E. B</hi>. 799. <hi rend="italic">Smith</hi> I. 325. <hi rend="italic">Hooker</hi> 103. <hi rend="italic">ed</hi>. 2. 116.
+                    Caprifolium perfoliatum, <hi rend="italic">Lindley</hi> 131.
+                    This rare British plant may have been overlooked as one of the
+                    many varieties of the Common Honeysuckle. The fragrant flowers
+                    are in perfection through May or June. It is very commonly cultivated.
+                    
+                    LONICERA PERICLYMENUM. <hi rend="italic">Common Honeysuckle</hi>. TAB. 325. 
+                    Flowers ringent, in terminal imbricated heads. Leaves deciduous, all separate. 
+                    Lonicera Periclymenum, <hi rend="italic">E. B</hi>. 800. <hi rend="italic">Smith</hi> I. 326. <hi rend="italic">Hooker</hi> 103. <hi rend="italic">ed</hi>. 2.116.
+                    Caprifolium Periclymenum, <hi rend="italic">Lindley</hi> 131. (Woodbine.)
+                    An universal favourite which decorates our hedges abundantly, and
+                    perfumes the air delightfully in an evening after rain. The stem
+                    climbs by twisting to a considerable height upon trees and bushes.
+                    There occurs in gardens a variety with sinuated and generally variegated
+                    leaves, called the Oak-leaved, besides several varieties differing
+                    in the colour of the flower and smoothness of the leaves. They all
+                    flower most plentifully in June and July.
+                    
+                    LONICERA XYLOSTEUM. <hi rend="italic">Upright Honeysuckle</hi>. TAB. 326. 
+                    Flower-stalks 2-flowered. Berries distinct. Leaves entire, downy.
+                    Lonicera Xylosteum, E. B. 916. <hi rend="italic">Smith</hi> I. 326. <hi rend="italic">Lindley</hi> 132. <hi rend="italic">Hooker</hi> 103. <hi rend="italic">ed</hi>. 2. 117.
+                    Probably this has escaped from gardens; only two places are named
+                    where it has been found wild, viz. under the Roman Wall near Shewing-
+                    Sheels in Northumberland, and in a coppice, called the Hachetts,
+                    to the east of Houghton Bridge, 4 miles from Arundel. The stem is
+                    upright, bushy, very much branched. The
+                    scentle[s]s flowers, which appear in June,
+                    are by no means showy; it is however, a
+                    favorite shrub in gardens. The berries
+                    are of a bright scarlet, &#x0026; contain 6 or more seeds each.
+                    (English botany; or, coloured figures of British plants, with their essential characters, synonyms, and places of growth. To which will be added, occasional remarks. By James Sowerby, 2d ed., vol. 5, 1835, p. 56-57)</p></note>
+                
+                <note xml:id="IVYGLOSS" resp="#CGP"><p><hi rend="bold">&#x201C;And now dost see . . . breathed their last&#x201C;
+                    (<title type="manuscript" corresp="#MSIV">MS IV</title>)&#x2014;</hi>HEDERA Helix. 
+                    <hi rend="italic">Common Ivy</hi>.
+                   
+                    <hi rend="italic">PENTANDRIA Monogynia</hi>. 
+                   GEN. CHAR. <hi rend="italic">Cal</hi>. of 5 teeth. <hi rend="italic">Petals</hi> 5, broadest at the
+                    base. <hi rend="italic">Berry</hi> encompassed with the calyx, containing 5 <hi rend="italic">seeds</hi>.
+                    SPEC. CHAR. Leaves some ovate, some lobed.
+                    SYN. Hedera Helix. Linn. Sp. Pl. 292. Sm. Fl. Brit. 267. Huds. 100. 
+                    With. 267. Hull. 54. Relh. 97. Sibth. 85. Abbot. 53. Curt. Lond. fasc. 1. t. 16. 
+                    H. communis major et minor. Raii Syn. 459.
+                    
+                    EVERY one is acquainted with the Ivy, so common and so
+                    picturesque upon old walls, and the trunks of aged trees, whose
+                    heads it frequently overtops, finally overwhelming its supporters
+                    altogether. Nor does it less commonly creep on the ground
+                    in dark woods, forming an evergreen carpet. It is the latest
+                    of all our flowering plants, blossoming in October and November,
+                    and ripening its berries in the spring.
+                    
+                    The stem and branches are long and flexible, a little compressed,
+                    creeping, and closely attached to the tree or wall,
+                    which supports them, by innumerable short fibres, which,
+                    however, do not afford them any nourishment; for every
+                    day's experience shows that Ivy is easily killed by cutting the
+                    stem above the root. The upper branches spread in every direction,
+                    and are round and smooth. The leaves are ever-green,
+                    of a dark hue, beautifully veined with white, and
+                    somewhat shining: the lowermost five-lobed, the uppermost
+                    ovate; all entire and supported by footstalks. Flowers numerous,
+                    in umbels, several of which together form a corymbus.
+                    Stalks slightly clothed with starry down. Germen urn-shaped,
+                    encompassed by the 5 teeth of the calyx. Petals
+                    green, reflexed. Stamina erect. Style very short, with a
+                    simple stigma. Berry globular, black, mealy within.
+                    
+                    The whole plant partakes of a peculiar aromatic flavour.
+                    From the old stems, when bruised, a very fragrant resin
+                    exudes. Mr. Curtis recommends this plant to be trained into
+                    a head as a standard ever-green ; he also mentions that sheep
+                    are very fond of the leaves.
+                    (English botany; or, coloured figures of British plants, with their essential characters, synonyms, and places of growth. To which will be added, occasional remarks. By James Sowerby, vol. 18, 1804, p. 1267)</p></note>
+                
+                <note xml:id="GUELDERROSEGLOSS" resp="#CGP"><p><hi rend="bold">&#x201C;Then <name type="botanical" corresp="#GUELDERROSE">Gilder [i.e., guelder] rose</name> . . . like <name type="botanical" corresp="#PROVENCEROSE">provence rose</name>&#x201C;
+                    (<title type="manuscript" corresp="#MSIV">MS IV</title>)&#x2014;</hi>VIBURNUM Opulus. 
+                    <hi rend="italic">Common Guelder-rose, or Water Elder</hi>.
+                   
+                    <hi rend="italic">PENTANDRIA Trigynia</hi>. 
+                    GEN. CHAR. <hi rend="italic">Cal</hi>. superior, of five leaves. <hi rend="italic">Cor</hi>. in five
+                    segments. <hi rend="italic">Berry</hi> with one seed. 
+                    SPEC. CHAR. Leaves lobed; their foot-stalks set with glands. 
+                    SYN. Viburnum Opulus. <hi rend="italic">Linn. Sp. Pl</hi>. 384. <hi rend="italic">Huds. Fl. An</hi>. 130.
+                    <hi rend="italic">With. Bot. Arr</hi>. 318. <hi rend="italic">Relh. Cant</hi>. 127. <hi rend="italic">Sibth. Ox</hi>. 104.
+                    Opulus. <hi rend="italic">Raii Syn</hi>. 460.
+                   
+                   THIS shrub is common in woods and hedges in watery
+                    places, flowering early in June; the bright-red berries ripen
+                    about September, and towards the middle of October the leaves
+                    assume a beautiful pink-colour, affording another instance, in
+                    addition to that of the Cornel (see tab. 249), of a genus,
+                    mostly American, the leaves of which turn red in autumn. In
+                    gardens the Guelder-rose, bearing round bunches of abortive
+                    flowers only, is very common, elegantly grouping with the
+                    Lilac and Laburnum in the early part of summer.
+                    It is a small bushy tree, smooth in all its parts. Leaves
+                    with three great, unequally serrated, lobes; their foot-stalks
+                    bearing several cup-like glands towards the top, and a pair or
+                    two of erect linear appendages, scarcely to be called stipulæ,
+                    near the base . Cymes of many white flowers; the perfect
+                    ones small, resembling elder; abortive ones in the margin,
+                    each consisting merely of a large irregular flat petal, without
+                    organs of fructification. Stigmas nearly sessile, close together.
+                    Berries drooping, very succulent. Seed flat, heart-shaped.
+                    (English botany; or, coloured figures of British plants, with their essential characters, synonyms, and places of growth. To which will be added, occasional remarks. By James Sowerby, vol. 5, 1796, p. 332)</p></note>
+                
+                <note xml:id="COMFREYGLOSS" resp="#CGP"><p><hi rend="bold">&#x201C;Then in the <name type="botanical" corresp="#COMFREY">comfrey</name> . . . they dont<!--sic--> meet&#x201C;
+                    (<title type="manuscript" corresp="#MSIV">MS IV</title>)&#x2014;</hi>SYMPHYTUM officinale. 
+                    <hi rend="italic">Common Comfrey</hi>.
+                    
+                    <hi rend="italic">PENTANDRIA Monogynia</hi>.
+                    GEN. CHAR. Limb of the <hi rend="italic">corolla</hi> tubular, swelling;
+                    its orifice closed with awl-shaped rays. <hi rend="italic">Cal</hi>. in 5
+                    deep segments. <hi rend="italic">Seeds</hi> 4, naked.
+                    SPEC. CHAR. Leaves ovato-lanceolate, decurrent. 
+                    SYN. Symphytum officinale. <hi rend="italic">Linn. Sp. Pl</hi>. 195. <hi rend="italic">Sm. Fl. Brit</hi>. 218.
+                    <hi rend="italic">Huds</hi>. 81. <hi rend="italic">With</hi>. 230. <hi rend="italic">Hull</hi>. 47. <hi rend="italic">Relh</hi>. 78. <hi rend="italic">Sibth</hi>. 70. <hi rend="italic">Abbot</hi>. 42.
+                    <hi rend="italic">Curt. Lond. fasc</hi>. 4. <hi rend="italic">t</hi>. 18. <hi rend="italic">Woodv. Suppl. t</hi>. 215.
+                    S. magnum. <hi rend="italic">Raii Syn</hi>. 230.
+                    
+                    A FREQUENT native of watery places, banks of rivers,
+                    and about ditches, flowering from the end of May to September.
+                    
+                    Root perennial, fleshy, externally black. Stem two or three
+                    feet high, upright, leafy, winged, branched at the top, clothed
+                    with short bristly hairs that point rather downward. Leaves
+                    decurrent, ovato-lanceolate, waved, pointed, veiny, rough;
+                    the radical ones on footstalks, and broader than the rest.
+                    Clusters of flowers in pairs on a common stalk, with an odd
+                    flower between them, recurved, dense, hairy. Corolla yellowish-
+                    white, sometimes purple, the rays downy at each edge.
+                    
+                    Dr. Sibthorp has made a new species of the red or
+                    purple-flowered variety, distinguishing it by a shorter and
+                    spreading calyx, a mark which we and several of our friends
+                    have in vain tried to discover.
+                    
+                    The Comfrey root abounds in a pure tasteless mucilage, like
+                    that of the Marsh-mallow; and being (as Dr. Woodville observes)
+                    more easily obtained, it ought not to be omitted in lists
+                    of medicinal plants. Such medicines are useful in irritations
+                    of the throat, intestines, and above all the bladder.
+                    (English botany; or, coloured figures of British plants, with their essential characters, synonyms, and places of growth. To which will be added, occasional remarks. By James Sowerby, vol. 12, 1801, p. 817)</p></note>
+                
+                <note xml:id="PERIWINKLEGLOSS" resp="#CGP"><p><hi rend="bold">&#x201C;The fiveleaved <name type="botanical" corresp="#PERIWINKLE">Periwinkle</name> . . . dislikes to be seen&#x201C;
+                    (<title type="manuscript" corresp="#MSIV">MS IV</title>)&#x2014;</hi>VINCA major.
+                    <hi rend="italic">Greater Periwinkle</hi>.
+                    
+                    <hi rend="italic">PENTANDRIA Monogynia</hi>.
+                    GEN. CHAR. <hi rend="italic">Corolla</hi> twisted, salver-shaped. <hi rend="italic">Pouches</hi> 2,
+                    erect. <hi rend="italic">Seeds</hi> without beard or wing.
+                    SPEC. CHAR. Stems erect. Leaves ovate, finely fringed. Flowers on stalks.
+                    SYN. Vinca major. <hi rend="italic">Linn. Sp. Pl</hi>. 304. <hi rend="italic">Huds</hi>. 91.
+                    <hi rend="italic">With</hi>. 269. <hi rend="italic">Relh</hi>. 89. <hi rend="italic">Sibth</hi>. 79. <hi rend="italic">Curt. Lond. fasc</hi>. 4. <hi rend="italic">t</hi>. 19.
+                    Clematis daphnoides major. <hi rend="italic">Raii Syn</hi>. 268.
+                    
+                    IN hedges and groves not very unfrequent in a truly wild
+                    state; though it is so generally cultivated in every ornamented
+                    shrubbery, and grows so readily, that we cannot always
+                    depend upon its being really of native growth. It
+                    flowers in May, and is one of the greatest ornaments of that favourite season.
+                    
+                    The roots are perennial, creeping; the stems also, which
+                    are roundish and leafy, some of them trail and throw out
+                    roots, others grow erect and bear flowers, but even these
+                    afterwards take root from near their extremities. Leaves
+                    opposite, on footstalks, ovate, entire, finely fringed at their
+                    edges with short rigid hairs, otherwise smooth and shining.
+                    Flowers solitary, axillary, alternate, on stalks about half the
+                    length of the leaves. Calyx in five awl-shaped fringed
+                    segments, as long as the tube of the flower. Corolla of a
+                    fine purplish blue, salver-shaped, twisted (as in all this natural
+                    order of <hi rend="italic">Contortæ</hi>); its tube inflated, and five-sided in
+                    the upper part. Stamina inserted about its middle, bowed,
+                    ciliated and compressed. Antheræ hooded. Germen double,
+                    with 2 glands at its base. Style simple. Stigma shaped
+                    like a pulley, orange-coloured, its top five-lobed and downy.
+                    The fruit, which Mr. Curtis has not even mentioned, and
+                    which few botanists have seen, is produced every year in
+                    Mr. Kett's grounds at Seething, Norfolk, and consists of
+                    two awl-shaped, smooth, shining pouches, or folliculi, each
+                    containing one or two oblong seeds, with a groove down
+                    their upper side. These seeds are roughish, but naked,
+                    or destitute of beard, down, or wing.
+                    (English botany; or, coloured figures of British plants, with their essential characters, synonyms, and places of growth. To which will be added, occasional remarks. By James Sowerby, vol. 8, 1799, p. 514)
+                
+                
+                VINCA minor. 
+                <hi rend="italic">Lesser Periwinkle</hi>.
+                
+                    <hi rend="italic">PENTANDRIA Monogynia</hi>.
+                    GEN. CHAR. <hi rend="italic">Cor</hi>. twisted, salver-shaped. <hi rend="italic">Pouches</hi> 2,
+                    erect. <hi rend="italic">Seeds</hi> without beard or wing. 
+                SPEC. CHAR. Stems procumbent. Leaves elliptic-
+                lanceolate, smooth at the edge. Flowers on 
+                stalks. Calyx-teeth lanceolate. 
+                SYN. Vinca minor. <hi rend="italic">Linn. Sp. Pl</hi>. 304. <hi rend="italic">Sm. Fl. Brit</hi>. 270.
+                    <hi rend="italic">Huds</hi>. 91. <hi rend="italic">With</hi>. 268. <hi rend="italic">Hull</hi>. 51. <hi rend="italic">Relh</hi>. 89. <hi rend="italic">Sibth</hi>. 79.
+                    <hi rend="italic">Abbot</hi>. 53. <hi rend="italic">Curt. Lond. fasc</hi>. 3. <hi rend="italic">t</hi>. 16.
+                    V. pervinca minor. <hi rend="italic">Raii Syn</hi>. 268.
+                
+                WE have never seen the Lesser Periwinkle (far rarer than
+                the Greater, <hi rend="italic">t</hi>. 514) more truly wild than about Honingham
+                church, 6 miles west of Norwich. Our specimen was gathered
+                near Rippon, Yorkshire, by the Rev. Mr. Dalton, and sent by
+                Mr. W. Brunton, being in the opinion of those gentlemen perfectly
+                wild there. It is very generally cultivated in shady places under
+                trees, its evergreen leaves and early flowers conducing greatly
+                to the ornament of such places. The wild plant blossoms earlier
+                than <hi rend="italic">V. major</hi>; and the garden varieties, one of which is double
+                and reddish, and another white with variegated leaves, are
+                found in bloom even in March or April.
+                
+                The root is perennial and creeping. Whole plant smooth
+                and shining. Stems round, slender, leafy; erect when in
+                flower, afterwards prostrate, elongated, taking root at their
+                joints. Leaves opposite, on short stalks, lanceolate inclining
+                to elliptic, entire , of a full shining green, destitute of the
+                fringed edge observable in <hi rend="italic">V. major</hi>. The flowers are also
+                smaller than in that species, of a rather darker blue, with a
+                much shorter, smooth, and less tapering calyx. The fruit of
+                this species we have never seen.
+                (English botany; or, coloured figures of British plants, with their essential characters, synonyms, and places of growth. To which will be added, occasional remarks. By James Sowerby, vol. 13, 1801, p. 917)</p></note>
+                
+                <note xml:id="LILYOFTHEVALLEYGLOSS" resp="#CGP"><p><hi rend="bold">&#x201C;The <name type="botanical" corresp="#LILYOFTHEVALLEY">lily of the valley</name> now . . . fighting at his feet&#x201C;
+                    (<title type="manuscript" corresp="#MSIV">MS IV</title>)&#x2014;</hi>CONVALLARIA majalis. 
+                    <hi rend="italic">Lily of the Valley</hi>.
+                    
+                    <hi rend="italic">HEXANDRIA Monogynia</hi>.
+                    GEN. CHAR. <hi rend="italic">Cor</hi>. in 6 segments. <hi rend="italic">Cal</hi>. none. <hi rend="italic">Style</hi>
+                    longer than the stamina. <hi rend="italic">Stigma</hi> 3-sided. <hi rend="italic">Berry</hi>
+                    superior, 3-celled, spotted before it is ripe. 
+                    SPEC. CHAR. Stalk naked, semicylindrical. Flowers
+                    spiked, drooping, on partial stalks.
+                    SYN. Convallaria majalis. <hi rend="italic">Linn. Sp. Pl</hi>. 451. <hi rend="italic">Sm. Fl. Brit</hi>. 370.
+                    <hi rend="italic">Huds</hi>. 146. <hi rend="italic">With</hi>. 341. <hi rend="italic">Hull</hi>. 72. <hi rend="italic">Relh</hi>. 138. <hi rend="italic">Sibth</hi>. 111.
+                    <hi rend="italic">Abbot</hi>. 76. <hi rend="italic">t</hi>. 2. <hi rend="italic">Curt. Lond. fasc</hi>. 5. <hi rend="italic">t</hi>. 24. 
+                    Lilium convallium. <hi rend="italic">Raii Syn</hi>. 264.
+                    
+                    THIS elegant and delightfully fragrant plant, so generally
+                    cultivated in flower-gardens, is sometimes to be met with in
+                    shady mountainous spots, or on heathy ground, in several
+                    parts of England, as about Hampstead and Highgate, and in a
+                    holly wood between Norwich and Thorpe, where it is truly
+                    wild. Our specimens were obligingly communicated by S. 
+                    Hailstone and W. Hurstler, esqrs. from rocky woods at Hebden
+                    bridge near Halifax.
+                    
+                    Roots perennial, matted and creeping. Leaves two, radical, on
+                    long stalks, upright, elliptical, ribbed, entire; the stalks
+                    invested with seales, from among which also arises the solitary
+                    naked flower-stalk, shorter than the leaves, flat on one side,
+                    round on the other, bearing a simple spike of drooping, white, 
+                    bell-shaped, very odoriferous flowers, each on its own curved 
+                    round little stalk, having a lanceolate bractea where it springs
+                    from the principal one. Stamina awl-shaped, short. Style club-
+                    shaped, triangular upwards. Berry globular, scarlet when ripe.
+                    
+                    The spots of the unripe fruit make a principal but unsatisfactory
+                    part of the generic character of <hi rend="italic">Convallaria</hi> in Linnæus. The 
+                    undivided stigma chiefly distinguishes it from <hi rend="italic">Asparagus</hi>.
+                    (English botany; or, coloured figures of British plants, with their essential characters, synonyms, and places of growth. To which will be added, occasional remarks. By James Sowerby, vol. 15, 1802, p. 1035)</p></note>
+                
+                <note xml:id="LAURELGLOSS" resp="#CGP"><p><hi rend="bold">&#x201C;There is a tree &#x0026; famed . . . Enough of&#x02BC;t now.&#x201C;
+                    (<title type="manuscript" corresp="#MSIV">MS IV</title>)&#x2014;</hi>DAPHNE. <hi rend="italic">Mezereon and Spurge-Laurel</hi>.
+                    <hi rend="italic">Nat. Order</hi>. THYMELEÆ. 
+                    GEN. CHAR. <hi rend="italic">Calyx</hi> inferior, 4-cleft, petaloid. <hi rend="italic">Berry</hi> 1-seeded.
+                    Shrubs, with entire leaves, and white, yellow, or reddish
+                    flowers, which are often highly fragrant. They are chiefly
+                    natives of the Eastern hemisphere. Every part of them is
+                    highly acrid, especially the bark, which is remarkable for its
+                    toughness, and the curious interlacing of its silky fibres.
+                    
+                    DAPHNE MEZEREUM. <hi rend="italic">Common Mezereon</hi>. TAB. 564. 
+                    Flowers sessile upon the branches, about 3 together. Leaves lanceolate, deciduous. 
+                    Daphne Mezereum, <hi rend="italic">E. B</hi>. 1381. <hi rend="italic">Smith</hi> II. 228. <hi rend="italic">Lindley</hi> 209.
+                    <hi rend="italic">Hooker ed</hi>. 2. 180. <hi rend="italic">ed</hi>. 3. 184.
+                    This beautiful shrub, so common in our gardens and plantations,
+                    is occasionally found wild in the woods in several parts of England,
+                    possibly from its berries being dropped by birds which feed on them
+                    with avidity. Its fragrant rose-coloured flowers appear in March,
+                    generally previous to the expansion of the leaves; in cultivation they
+                    sometimes vary to white. The Mezereon has a place in our authorized
+                    Materia Medica, the bark being administered in decoction in cases of
+                    nervous debility of the throat or stomach. The berries are of a bright
+                    scarlet, contrasting finely with the light green of the leaves, but the
+                    birds seldom allow them to remain long after they become ripe.
+                    
+                    DAPHNE LAUREOLA. <hi rend="italic">Spurge-Laurel</hi>. Tab. 565. 
+                    Racemes axillary, about 5-flowered, drooping. Leaves lanceolate, smooth; evergreen. 
+                    Daphne Laureola, <hi rend="italic">E. B</hi>. 119. <hi rend="italic">Smith</hi> II. 228. <hi rend="italic">Lindley</hi> 209. <hi rend="italic">Hooker ed</hi>. 2. 180. <hi rend="italic">ed</hi>. 3. 184.
+                    A shrub 2 or 3 feet high, but little branched, and bearing leaves
+                    only towards the extremities. Common in woods and thickets in a
+                    stiff clayey soil throughout England. The yellowish green flowers
+                    expand in March. The berries are black; they are eaten by birds,
+                    but said to be poisonous to all other warm-blooded animals. The
+                    bark of the root is an acrid cathartic, and said to be an efficacious
+                    remedy in worm cases, but is highly dangerous except in minute doses.
+                    (Sir James Edward Smith, English botany; or, coloured figures of British plants, with their essential characters, synonyms, and places of growth. [...] The figures by James Sowerby, 2d ed., vol. 8, 1839, p. 90)</p></note>
+                
+                <note xml:id="PINEGLOSS" resp="#CGP"><p><hi rend="bold">&#x201C;I SING the <name type="botanical" corresp="#PINE">pine</name> . . . effects so dire&#x201C;
+                    (<title type="manuscript" corresp="#MSIV">MS IV</title>)&#x2014;</hi><hi rend="italic">Resinous or Coniferous Trees</hi>.
+                    These are comprised in three genera belonging to the natural order of <hi rend="italic">Conifereæ</hi>,
+                    J.; viz. <hi rend="italic">Pinus</hi>, and <hi rend="italic">Cupressus, Monœc. Monad</hi>. L., and <hi rend="italic">Juniperus, Diœc. Monad</hi>., L.
+                    The trees, which are valuable as timber, are comprehended under the genus <hi rend="italic">Pinus</hi>,
+                    which comprises the three subdivisions of pines, larches, and firs. The first is
+                    distinguished by fasciculated leaves in different sheaths, but proceeding from the
+                    same sheathing base; the second by fasciculated leaves from solitary sheaths; and
+                    the third by solitary leaves. The branches of the whole genus are frondose or spreading,
+                    and caduceous: those of the pine-tribe spread the least; those of the larch tribe rather
+                    droop; and those of the firs are thin and much spread, and are peculiarly frondlike.
+                    (John C. Loudon, An encyclopædia of gardening: comprising the theory and practice of horticulture, floriculture, arboriculture and landscape-gardening including all the latest improvements, 1822, p. 1134)</p></note>
+                
+                <note xml:id="POPLARGLOSS" resp="#CGP"><p><hi rend="bold">&#x201C;High in the air the <name type="botanical" corresp="#POPLAR">poplar</name> . . . to touch the sky&#x2014;&#x201C;
+                    (<title type="manuscript" corresp="#MSIV">MS IV</title>)&#x2014;</hi>1940. The Poplar is the Poplus, W. Diœc. Dodec. L.; and Amentaceæ, J. Peuplier, Fr;
+                    Poppelbaum, Ger.; and Poppio, Ital. There are several species which may be reckoned timber trees.
+                    
+                    The Abele Tree, P. Alba, (Eng. Bot. 1618.) (fig. 518, a.) The variety called the hoary poplar
+                    is distinguished from the common wild abele by its larger three, four, or five lobed leaves,
+                    dark above and downy under, and by the young shoots having a purple bark covered with white
+                    down. It is a rapid growing tree, speedily attaining great bulk of timber, a height of 60
+                    or 70 feet, and great extent of branches. P. vistulensis seems a variety of this tree; and
+                    on the banks of the Vistula, particularly at Villeneuve, near Warsaw, grows to upwards
+                    of 100 feet high, with a clean trunk and ample head.
+                    
+                    1941. The Common Black Poplar, P. nigra, (Eng. Bot. 1910. fig. 518, b.) is a native tree, of
+                    lofty growth, distinguished by its light-green leaves, and lightly notched on the edges, and
+                    ash-colored bark. It is, by some, considered a mere variety of the alba, and for the purposes
+                    of profit may be so considered.
+                    
+                    1942. The Trembling Poplar, P. tremula, (fig. 518, c.) and the Common Poplar, P.
+                    canescens (d), are hardy natives; but being of less rapid growth than the species
+                    mentioned, are little cultivated as timber trees. The common poplar in the northern
+                    counties may be frequently seen in a pollard state in hedges, where it furnishes lop
+                    for fuel, and sometimes for handles to hay-rakes, &#x0026;c.
+                    
+                    1943. The Lombardy Poplar, P. dilatata, grows to a lofty tree, occupies little space, and
+                    is not very injurious by its shade. It will not thrive, however, in exposed situations,
+                    or in very indifferent soils. Some of the largest trees of this species are at Blenheim.
+                    Sang and Nicol say it seldom thrives in Scotland.
+                    
+                    1944. The Black Italian Poplar, (dilatatata, var.) of the northern nurseries, so strongly
+                    recommended by Pontey, is thus described by him, by comparison with the Lombardy poplar.
+                    “The leaves of both are very much alike in color, shape, and turn, the only difference
+                    being in the latter producing them somewhat larger than the former, though not near so
+                    large as the other poplars, whose leaves are of similar shape. The branches of the
+                    latter grow much less erect, and, likewise, much thinner upon the stem. The only other
+                    distinction necessary is the bark, which, on a stem or branch of from two to four or
+                    five years’ growth, is always found smoother, and of a much darker color than any of
+                    the poplars that are at all like it in other respects.”
+                    
+                    He says it was first sent to Scotland from America, and disseminated by Dicksons
+                    and Co. of Hassendean-burn. Sang says, “many have ventured to assert, that it is
+                    merely a play on the vanity of possessing new sorts, and that it is not really
+                    distinct from those formerly cultivated.” Pontey says, he measured, in December,
+                    1813, “a tree growing in the garden of Richard Atkinson, of Huddersfield, which
+                    has been planted twenty-five years, being then about six feet high; the height is
+                    now about sixty feet, and contains forty-six feet of good timber. It grows on the
+                    side of a garden where the soil is light, and about a foot deep, upon a very coarse
+                    gravel, having been formerly a water-course.”
+                    
+                    We could never find any poplar in general cultivation, or wild, in Italy, but the
+                    Lombardy and alba, and occasionally in elevated moist places in the Alps and
+                    Appenines, the tremula.
+                    
+                    1945. The Black Athenian, P. græca; Black American or Birch-leaved, P. betulifolia;
+                    the Canadian, P. monilifera; and Carolina Poplars, P. angulata; are all rapid growing
+                    lofty trees, which, in favorable soils and sheltered situations, speedily produce great
+                    bulk of head and timber; but the hoary and the black Italian appear the best for the
+                    general purposes of the profitable planter. They are all short-lived trees; flower in
+                    March and April, and ripen their seeds from a fortnight to a month afterwards.
+                    (John C. Loudon, An encyclopædia of gardening: comprising the theory and practice of horticulture, floriculture, arboriculture and landscape-gardening including all the latest improvements, 1822, p. 1146-1147)</p></note>
+                
+                <note xml:id="SNOWBERRYGLOSS" resp="#CGP"><p><hi rend="bold">&#x201C;Thy pink and white fair <name type="botanical" corresp="#SNOWBERRY">snowberry</name> . . . thy creator think.&#x201C;
+                    (<title type="manuscript" corresp="#MSIV">MS IV</title>)&#x2014;</hi>The <hi rend="italic">Snowberry</hi> is the <hi rend="italic">Gaultheria serpyllifolia</hi>, Ps.; <hi rend="italic">Vaccinium hispidulum</hi>, L.;
+                    and <hi rend="italic">Chiogenes of Salisbury</hi>, (<hi rend="italic">Mich. Am</hi>. i. t. 23.); <hi rend="italic">Decan. Monog</hi>. L.; and <hi rend="italic">Ericeæ</hi>, J.
+                    “At Shaw-hill, near Halifax, it produced fruit abundantly, planted under a north
+                    stone wall, shaded behind by high trees, in a border of sandy peat; and it succeeded
+                    pretty well in nearly a similar situation at Chapel Allerton, during the eighteen years
+                    of my residence at that place, often ripening its berries; but they being little esteemed,
+                    I only preserved a patch of it as a rare plant. The flavor of the fruit, however, is
+                    exceedingly agreeable to some persons, being strongly perfumed, like <hi rend="italic">eau de noyau</hi>, or
+                    bitter almonds, and mixed with a pleasant acid. I now regret that I never tried the berries
+                    baked with sugar in a tart: if gathered before they are too soft, they may, no doubt, be
+                    preserved in bottles, like cranberries, and possibly prove a valuable addition to our winter-
+                    fruits of that sort.” <hi rend="italic">Salisbury in Hort. Trans</hi>. vol. ii.
+                    (John C. Loudon, An encyclopædia of gardening: comprising the theory and practice of horticulture, floriculture, arboriculture and landscape-gardening including all the latest improvements, 1822, p. 839-840)
+                
+                SYMPHORIA RACEMOSA. SNOW-BERRY.
+                <hi rend="italic">Class and Order</hi>.
+                PENTANDRIA MONOGYNIA.
+                
+                <hi rend="italic">Generic Character</hi>.
+                <hi rend=":italic">Germen</hi> 4-loculare: loculis 2, polyspermis, sterilibus; 2 monospermis,
+                    fertilibus. <hi rend=":italic">Bacca</hi> coronata. <hi rend=":italic">Cor</hi>. tubulosa, brevis, 5-fida, subæqualis.
+                    <hi rend=":italic">Cal</hi>. 5-dentatus. BROWN. <hi rend=":italic">Loniceræ sp</hi>. LIN.
+                
+                <hi rend="italic">Specific Character and Synonyms</hi>.
+                    SYMPHORIA <hi rend=":italic">racemosa</hi>; racemo interrupto subterminali, corolla intus barbata.
+                    SYMPHORIA <hi rend=":italic">racemosa</hi>; racemo terminali, corolla intus barbata.
+                    <hi rend=":italic">Persoon Syn</hi>. 1. <hi rend=":italic">p</hi>. 214. <hi rend=":italic">Michaux Flor. Bor. Amer</hi>. 1. <hi rend=":italic">p</hi>. 107.
+                    <hi rend=":italic">Pursh Fl. Amer-sept</hi>. 1. <hi rend=":italic">p</hi>. 162. 
+                    SYMPHORIA racemosa. <hi rend=":italic">Lodd. Cab</hi>. 230. <hi rend=":italic">Nuttall Gen. Pl. Amer</hi>. 1. <hi rend=":italic">p</hi>. 139.
+                
+                CAPRIFOLIUM, PERICLYMENUM, CHAMÆCERASUS, XYLOSTEON
+                and DIERVILLA of TOURNEFORT, as well as SYMPHORICARPOS
+                of DILLENIUS were united by LINNÆUS into one genus,
+                under the name of LONICERA. Later botanists, however,
+                seem generally to concur in restoring the three last
+                to the rank of distinct genera.
+                
+                Our present plant belongs to DILLENIUS's genus Symphoricarpos,
+                changed by PERSOON to SYMPHORIA; a genus established from
+                SYMPHORIA <hi rend=":italic">conglomerata</hi>, the LONICERA <hi rend=":italic">Symphoricarpos</hi> of LINNÆUS.
+                
+                SYMPHORIA <hi rend=":italic">racemosa</hi> was first mentioned by MICHAUX,
+                and a figure of it has been lately published by Messrs.
+                LODDIGES and SONS in their Botanical Cabinet, where it
+                is stated, that they first received it in the spring of
+                1818, from Mr. ROBERT CARR.
+                
+                DESCR. A low bushy shrub; bark of the branches brightish
+                brown. <hi rend=":italic">Leaves</hi> opposite, round-ovate with a mucro, mostly
+                quite entire, but on the lower part of the shrub sometimes
+                irregularly notched, smooth, glaucous. <hi rend=":italic">Flowers</hi> grow on the
+                slender, terminal branches in pairs, at first distant, but
+                toward the extremities crowded together, supported on very
+                short pedicles; sometimes the branch becomes leafy beyond
+                the flowers. <hi rend=":italic">Calyx</hi> superior 5-toothed, as it often, if not
+                    generally, is in S. <hi rend=":italic">conglomerata</hi>, though described to be
+                    4-toothed. <hi rend=":italic">Corolla</hi> rose-coloured, campanulate; <hi rend=":italic">limb</hi> 5-cleft,
+                    obtuse: faux filled with hairs, below which the <hi rend=":italic">tube</hi> abounds
+                    with honey. <hi rend=":italic">Stamens</hi> 5, inserted at the upper part of the
+                tube, shorter than the corolla with the laciniæ of which they
+                alternate. <hi rend=":italic">Germen</hi> ovate, with two or three small bractes
+                applied close to its base. Mr. BROWN has observed that it is
+                four-celled, 2 of the cells bearing each several ovula, but
+                which are always abortive; the other two have each a single
+                seed, which alone come to maturity. An analogous
+                circumstance takes place, he observes, also in the fruit of
+                LINNÆA, and of ABELIA, two nearly related genera belonging to
+                the same family, the <hi rend=":italic">caprifoliaceæ</hi>; in both which the germen
+                is 3-celled, two of the cells having several imperfect ovula,
+                and the other a single ovulum, which alone comes to maturity.*
+                
+                The mature berry of SYMPHORIA <hi rend=":italic">racemosa</hi> appears to be
+                only 2-celled, the expansion of the fertile cells
+                obliterating the others. Each cell contains a kidney-
+                shaped seed, much smaller than the cavity containing it.
+                
+                Native of Upper Canada, and the banks of the Missouri.
+                Flowers in July, August and September, succeeded by
+                large snow-white berries, which hang till the approach
+                of winter[.] It is perfectly hardy. Communicated in July
+                last by Messrs. WHITLEY, BRAME and MILNE, of the Fulham Nursery.
+                
+                *Vide characters and descriptions of three new species of plants, found in China, by Clarke Abel, Esq . by ROBERT BROWN, F. R. S.
+                (John Sims, Curtis's botanical magazine, or, Flower-garden displayed: in which the most ornamental foreign plants, cultivated in the open ground, the green-house, and the stove, are accurately represented in their natural colours, v.48, 1821, p.2211)</p></note>
+                
+                <note xml:id="WALLFLOWERGLOSS" resp="#CGP"><p><hi rend="bold">&#x201C;And of the brightest yellow . . . pretty to the eyes&#x201C;
+                    (<title type="manuscript" corresp="#MSIV">MS IV</title>)&#x2014;</hi>CHEIRANTHUS fruticulosus. 
+                    <hi rend="italic">Wild Wall-flower</hi>.
+                    
+                    <hi rend="italic">TETRADYNAMIA Siliquosa</hi>.
+                    GEN. CHAR. <hi rend="italic">Germen</hi> with a glandular tooth on each
+                    side. <hi rend="italic">Calyx</hi> closed; 2 of its leaves gibbous at the
+                    base. <hi rend="italic">Seeds</hi> flat.
+                    SPEC. CHAR. Leaves lanceolate, acute, hoary beneath.
+                    Pubescence all simple and close-pressed. Stem
+                    somewhat shrubby. Branches angular. 
+                    SYN. Cheiranthus fruticulosus. <hi rend="italic">Linn. Mant</hi>. 94. <hi rend="italic">Sm.
+                        Fl. Brit</hi>. 709. <hi rend="italic">Galp</hi>. 56. <hi rend="italic">Relh</hi>. 260. 
+                    C. Cheiri. <hi rend="italic">Huds</hi>. 287. <hi rend="italic">With</hi>. 586. <hi rend="italic">Hull</hi>. 146.
+                    <hi rend="italic">Sibth</hi>. 202. <hi rend="italic">Abbot</hi>. 144.
+                    Leucojum luteum, vulgò Cheiri, flore simplici. <hi rend="italic">Raii Syn</hi>. 291.
+                    
+                    ABUNDANT on the old ruined walls of cities, castles and
+                    monasteries throughout Britain, where its bright golden flowers
+                    are very ornamental and fragrant in April and May.
+                    
+                    The roots and stems are perennial and somewhat woody;
+                    the branches copious, tufted, erect, leafy, angular, a little
+                    hoary, each terminating in a corymbose simple cluster of
+                    flowers. Leaves crowded, stalked, lanceolate, acute, for the
+                    most part entire except some of the lowermost, all green except
+                    a slight hoariness, chiefly beneath, caused by numerous, close-
+                    pressed, simple hairs. Calyx often purplish or brown. Petals of
+                    an uniform yellow, not stained with brown as in <hi rend="italic">C. Cheiri</hi>,
+                    neither do they, as in that, hang loosely flaccid, but are
+                    rather, as the late Mr. Crowe observed, rigid and slightly
+                    recurved. Pods erect, nearly cylindrical, hoary, destitute of a
+                    pair of small wings near the top noticed by Mr. J. D. Sowerby
+                    in <hi rend="italic">C. Cheiri</hi>, which, if constant, greatly strengthen the
+                    specific difference.
+                    
+                    It may be proper to mention that <hi rend="italic">C. fruticulosus</hi> of <hi rend="italic">Linn.
+                        Sp. Pl. ed</hi>. 1. is <hi rend="italic">C. tristis</hi> of the 2d edition, very different
+                    from the above.
+                    (English botany; or, coloured figures of British plants, with their essential characters, synonyms, and places of growth. To which will be added, occasional remarks. By James Sowerby, vol. 27, 1808, p. 1934)</p></note>
+                
+                <note xml:id="LAURUSTINUSGLOSS" resp="#CGP"><p><hi rend="bold">&#x201C;The <name type="botanical" corresp="#LAURUSTINUS">laurustinus</name> white . . . young Januarys<!--sic--> light.&#x201C;
+                    (<title type="manuscript" corresp="#MSIV">MS IV</title>)&#x2014;</hi>VIBURNUM TINUS. COMMON LAURUSTINUS.
+                    
+                    <hi rend="italic">Class and Order</hi>.
+                    PENTANDRIA TRIGYNIA.
+                    
+                    <hi rend="italic">Generic Character</hi>.
+                    <hi rend="italic">Calyx</hi> 5-partitus, superus. <hi rend="italic">Cor</hi>. 5-fida. <hi rend="italic">Bacca</hi> 1-sperma.
+                    
+                    <hi rend="italic">Specific Character and Synonyms</hi>.
+                    VIBURNUM <hi rend="italic">Tinus</hi> foliis integerrimis ovatis: ramificationibus
+                    venarum subtus villoso-glandulosis. <hi rend="italic">Linn. Syst.
+                    Vegetab. p</hi>. 294.
+                    LAURUS sylvestris, corni fæminæ foliis subhirsutis. <hi rend="italic">Baub.
+                    Pin</hi>. 461.
+                    The wild Bay-tree. <hi rend="italic">Park. Parad. P</hi>. 400.
+                    
+                    We scarely recollect a plant whose blossoms are so hardy
+                    as those of the Laurustinus, they brave the inclemency of our
+                    winters, and are not destroyed but in very severe seasons.
+                    
+                    The beauties of this most charming shrub can be enjoyed
+                    by those only who cultivate it at some little distance from
+                    town, the smoke of London being highly detrimental to its growth.
+                    
+                    It is a native of Portugal, Spain, and Italy.
+                    
+                    Botanists enumerate many varieties of the Laurustinus, and,
+                    so confiderably do some of these differ, that MILLER has been
+                    induced to make two species of them, which he diftinguishes
+                    by the names of <hi rend="italic">Viburnum Tinus</hi> and <hi rend="italic">V. lucidum</hi>; the last of
+                    these is the most ornamental, and at the same time the most
+                    tender; there are some other trifling varieties, besides those,
+                    with variegated leaves, or the gold and silver striped.
+                    
+                    It is only in very favourable situations that these shrubs
+                    ripen their seeds in England, hence they are most commonly
+                    propagated by layers, which readily strike root: MILLER
+                    says, that the plants raised from feeds are hardier than
+                    those produced from layers.
+                    
+                    It thrives best in sheltered situations and a dry soil.
+                    (William Curtis, The botanical magazine, or, Flower-garden displayed: in which the most ornamental foreign plants, cultivated in the open ground, the green-house, and the stove, are accurately represented in their natural colours, v.2, 1794, p.38)</p></note>
+                
+                <note xml:id="YELLOWALYSSUMGLOSS" resp="#CGP"><p><hi rend="bold">&#x201C;A lowly clustered . . . <name type="astronomical" corresp="#EARTH">earth</name> well knows&#x201C;
+                    (<title type="manuscript" corresp="#MSIV">MS IV</title>)&#x2014;</hi>ALYSSUM SAXATILE. YELLOW ALYSSUM.
+                    
+                    <hi rend="italic">Class and Order</hi>. 
+                    TETRADYNAMIA SILICULOSA.
+                    
+                    <hi rend="italic">Generic Character</hi>.
+                    <hi rend="italic">Filamenta</hi> quædam introrsum denticulo notata. <hi rend="italic">Silicula</hi> emarginata.
+                    
+                    <hi rend="italic">Specific Character and Synonyms</hi>.
+                    ALYSSUM <hi rend="italic">saxatile</hi> caulibus frutescentibus paniculatis, foliis
+                    lanceolatis mollissimis repandis. <hi rend="italic">Linn. Syst. Veg.
+                        ed</hi>. 14. <hi rend="italic">Murr. p</hi>. 590. <hi rend="italic">Ait. Hort. Kew. p</hi>. 381. 
+                    ALYSSUM Creticum Saxatile, foliis undulatis incanis. <hi rend="italic">Tourn.
+                    cor</hi>. 15.
+                    THLASPI luteum leucoji folio. <hi rend="italic">Bocc. mus</hi>. 79. <hi rend="italic">t</hi>. 93.
+                    
+                    As this plant has very generally obtained in gardens and
+                    nurseries the name of yellow Alyssum, we have retained it;
+                    for though it is not the only one of the genus which produces
+                    yellow flowers, it may still be called yellow by way of eminence,
+                    such is the extreme brilliancy and profusion of its blossoms.
+                    
+                    It is a native of Crete, and was first cultivated in this
+                    country by Mr. MILLER, in 1731*, at Chelsea garden.
+                    
+                    It begins to flower about the latter end of April, and continues
+                    to blossom through great part of May; and it is not uncommon for
+                    it to flower again in autumn.
+                    
+                    If it has a pure air and a dry situation, it will grow in almost 
+                    any soil.
+                    
+                    The usual mode of propagating it is by slips, or cuttings. 
+                    
+                    As it is a small, shewy, hardy plant, and not disposed to
+                    over-run others, it is very suitable to embellish rock-work.
+                    
+                    *<hi rend="italic">Ait. Hort. Kew</hi>.
+                    (William Curtis, The botanical magazine, or, Flower-garden displayed: in which the most ornamental foreign plants, cultivated in the open ground, the green-house, and the stove, are accurately represented in their natural colours, v.5, 1792, p.159)</p></note>
+                
+                <note xml:id="SWEETWILLIAMGLOSS" resp="#CGP"><p><hi rend="bold">&#x201C;Then the <name type="botanical" corresp="#SWEETWILLIAM">sweet William</name> . . . beauties are united there&#x201C;
+                    (<title type="manuscript" corresp="#MSIV">MS IV</title>)&#x2014;</hi>DIANTHUS BARBATUS. BEARDED PINK or SWEET WILLIAM.
+                    
+                    <hi rend="italic">Class and Order</hi>.
+                    DECANDRIA DIGYNIA.
+                    
+                    <hi rend="italic">Generic Character</hi>.
+                    <hi rend="italic">Cal</hi>. cylindricus 1-phyllus: basi squamis 4. <hi rend="italic">Petala</hi> 5 unguiculata.
+                    <hi rend="italic">Capsula</hi> cylindrica, 1-locularis.
+                    
+                    <hi rend="italic">Specific Character and Synonyms</hi>.
+                    DIANTHUS <hi rend="italic">barbatus</hi> floribus aggregatis fasciculatis: squamis
+                    calycinis ovato-subulatis tubum æquantibus, foliis lanceolatis.
+                    <hi rend="italic">Linn. Syst. Vegetab. ed</hi>. 14. <hi rend="italic">Murr. p</hi>. 17. <hi rend="italic">Ait. Kew. v</hi>. 2. <hi rend="italic">p</hi>. 88. 
+                    CARYOPHYLLUS hortensis barbatus latifolius. <hi rend="italic">Bauh. Pin</hi>. 208.
+                    ARMERIUS latifolius simplex. Single Sweete Williams.
+                    <hi rend="italic">Park. Parad. p</hi>. 321.
+                    
+                    LINNÆUS, in his <hi rend="italic">Spec. Pl</hi>. appears not to have known of
+                    what country the Sweet William was a native, and even in
+                    the <hi rend="italic">Hortus Kewensis</hi>, this circumstance is left undecided; yet
+                    DODONÆUS, in his <hi rend="italic">Pemptades</hi>*, mentions its being found wild
+                    in Germany, and PROF. HOFFMAN confirms this in his
+                    <hi rend="italic">Germanys Flora</hi>+.
+                    
+                    At the time DODONÆUS wrote (1552) this plant was cultivated
+                    in the Netherlands, from whence it was probably introduced
+                    to this country, where it certainly is one of the oldest
+                    inhabitants of our gardens.
+                    
+                    *In petrosis collibus et asperis, fabulosis apricisque locis, apud Germanos
+                    nascitur. <hi rend="italic">Pempt. p</hi>. 177.
+                    +Sponte in sylvaticis, montosis (Carn. Siles. Tubing) Germanys Fl. 1791. P. 147.
+                    
+                    Beautiful as are the numerous varieties of this species of
+                    Dianthus, Florists have not deemed it worthy of that peculiar
+                    attention which they have bestowed on its more favoured
+                    relatives the Pink and Carnation, and hence it probably has
+                    not arrived at that degree of improvement of which it is
+                    capable; our figure is intended to represent one of the most
+                    esteemed of its kind, viz. the <hi rend="italic">Painted Lady</hi> variety, which
+                    has a deep rich purple eye, surrounded with a pure white,
+                    having the edge of the petals slightly indented; but our
+                    colours fall far short of the beauties of the original.
+                    
+                    Besides single flowers producing an infinite variety of
+                    colours, there are several double varieties of the Sweet
+                    William, some of which are observed to have more scent
+                    than others.
+                    
+                    To possess these plants in perfection, we must renew them
+                    yearly; for though the root be perennial, it is apt to decay,
+                    especially if the foil in which it grows be either very moist, or
+                    very dry; or if the air be not pure, the single sorts must be
+                    raised from seeds , which should be saved from the choicest
+                    flowers; the double sorts may be increased by cuttings,
+                    pipings, or layers, in the same manner, and at the same time
+                    as Pinks and Carnations; the feed should be sown early in
+                    April, the feedlings transplanted into a bed in June, taking
+                    advantage of a wet day and placed about six inches asunder
+                    each way; in September they will be fit to transplant into the
+                    flower border, where they will blossom the ensuing summer,
+                    during the months of June and July, and ripen their seed in August.
+                    (William Curtis, The botanical magazine, or, Flower-garden displayed: in which the most ornamental foreign plants, cultivated in the open ground, the green-house, and the stove, are accurately represented in their natural colours, v.6, 1793, p.207-208)</p></note>
+                
+                <note xml:id="TRUMPETFLOWERGLOSS" resp="#CGP"><p><hi rend="bold">&#x201C;And then the noisy instrument . . . trumpet draws&#x201C;
+                    (<title type="manuscript" corresp="#MSIV">MS IV</title>)&#x2014;</hi>BIGNONIA CAPREOLATA. FOUR-LEAVED TRUMPET-FLOWER.
+                    
+                    <hi rend="italic">Class and Order</hi>.
+                    DIDYNAMIA ANGIOSPERMIA.
+                    
+                    <hi rend="italic">Generic Character</hi>.
+                    <hi rend="italic">Cal</hi>. 5-fidus, cyathiformis. <hi rend="italic">Cor</hi>. fauce campanulata, 5-fida,
+                    subtus ventricosa. <hi rend="italic">Siliqua</hi> 2-locularis. <hi rend="italic">Sem</hi>. membranaceoalata.
+                    
+                    <hi rend="italic">Specific Character and Synonyms</hi>. 
+                    BIGNONIA <hi rend="italic">capreolata</hi>; foliis conjugatis cirrhosis: foliolis
+                    cordato-lanceolatis, foliis imis simplicibus. <hi rend="italic">Hort.
+                        Cliff</hi>. 317. <hi rend="italic">Sp. Pl</hi>. 870. <hi rend="italic">Willd</hi>. 3. 297. <hi rend="italic">Reich</hi>.
+                    3. 157. <hi rend="italic">Hort. Kew</hi>. 2. <hi rend="italic">p</hi>. 347. 
+                    BIGNONIA <hi rend="italic">capreolata</hi>; petiolis brevibus, cirrhosis, bifoliatis:
+                    foliolis glabris, oblongo-ovalibus, basi subcordatis:
+                    pedunculis axillaribus aggregatis; capsula lineari
+                    plana. <hi rend="italic">Michaux Flor. Am. Bor</hi>. 2. <hi rend="italic">p</hi>. 25. <hi rend="italic">Mart. Mill. Dict.
+                        n</hi>. 8. <hi rend="italic">quoad characterem et synonyma sed n</hi>. 9. <hi rend="italic">quoad descriptionem</hi>. 
+                    BIGNONIA americana capreolis donata, siliqua breviore.
+                    <hi rend="italic">Tourn. Inst</hi>. 164. <hi rend="italic">Breyn. Icon</hi>. 33. <hi rend="italic">t</hi>. 25. <hi rend="italic">Duham.
+                        Arb</hi>. 1. <hi rend="italic">p</hi>. 104. <hi rend="italic">t</hi>. 40. <hi rend="italic">Catesb. Car</hi>. 2. <hi rend="italic">t</hi>. 82. 
+                    CLEMATIS americana siliquosa tetraphyllos. <hi rend="italic">Dod. Mem</hi>. 71.
+                    <hi rend="italic">Rob. Icon</hi>. 108. <hi rend="italic">Bocc. Sicc</hi>. 31. <hi rend="italic">Raii Hist</hi>. 1329. 
+                    PSEUDO-APOCYNUM americanum capreolatum. <hi rend="italic">Moris. Hist</hi>. 3. <hi rend="italic">p</hi>. 612.
+                    
+                    WILLDENOW enumerates fifty-four species of Bignonia,
+                    and several others are contained in the Flora Peruviana, some
+                    of these grow into large and lofty trees, but this, with many
+                    more, is a climber; it seems however better adapted to raise
+                    itself among the branches of underwood than to ascend the
+                    trunks of lofty trees, for it does not put forth at its joints roots
+                    capable of insinuating themselves into the bark, as BIGNONIA
+                    <hi rend="italic">radicans</hi> does, but supports itself by its footstalks and tendrils,
+                    which clasp round whatever plant or twig may happen to be near.
+                    The flowers are produced on the axils of the petiole,
+                    either singly or several together, but always on separate peduncles.
+                    
+                    In Miller's dictionary, by some accidental change of the
+                    figure, the description of BIGNONIA <hi rend="italic">pubescens</hi> is applied to
+                    this species, and Professor MARTYN, without observing the
+                    blunder, has attached his additions intended for <hi rend="italic">capreolata</hi> to
+                    the same article; by which means this plant is stated to come
+                    from Campeachy, and to require the treatment of the bark
+                    stove; whereas it is a native of North-America, from Virginia
+                    to Florida, and hardy enough to bear our milder winters in
+                    the open air. Flowers in June.
+                    
+                    Is propagated in the same manner and requires the like
+                    treatment as BIGNONIA <hi rend="italic">radicans</hi>, No. 485; but, being tenderer,
+                    a little more care to protect it from severe frost is necessary, or
+                    it may be more safely considered as a hardy green-house shrub.
+                    
+                    Our drawing was taken several years ago at the Physic-Garden, at Chelsea.
+                    (John Sims, Curtis's botanical magazine, or, Flower-garden displayed: in which the most ornamental foreign plants, cultivated in the open ground, the green-house, and the stove, are accurately represented in their natural colours, v.22, 1805, p.864)</p></note>
+                
+                <note xml:id="YUCCAFILAMENTOSAGLOSS" resp="#CGP"><p><hi rend="bold">&#x201C;And then sweet Maid . . . lofty head&#x2010;bell towr&#x02BC;s<!--sic-->.&#x201C;
+                    (<title type="manuscript" corresp="#MSIV">MS IV</title>)&#x2014;</hi>YUCCA FILAMENTOSA. THREADY ADAM'S NEEDLE.
+                    
+                    <hi rend="italic">Class and Order</hi>.
+                    HEXANDRIA MONOGYNIA.
+                    
+                    <hi rend="italic">Generic Character</hi>.
+                    <hi rend="italic">Cor</hi>. hexapetalo-partita, campanulata. <hi rend="italic">Stam</hi>. filamentis superne
+                    crassioribus; antheris minimis. <hi rend="italic">Stigm</hi>. 3, sessilia. <hi rend="italic">Caps</hi>.
+                    (<hi rend="italic">Bacca</hi> carnosa <hi rend="italic">Gærtn</hi>.) obtuse trigona. <hi rend="italic">Sem</hi>. plana.
+                    
+                    <hi rend="italic">Specific Character and Synonyms</hi>. 
+                    YUCCA <hi rend="italic">filamentosa (acaulis)</hi> foliis oblongo-lanceolatis, marginibus
+                    distanter filiferis; stigmatibus recurvato-patentibus. <hi rend="italic">G</hi>. 
+                    YUCCA <hi rend="italic">filamentosa</hi>. <hi rend="italic">Syst. Vegetab. Murr</hi>. 337. <hi rend="italic">Mill. Dict</hi>. 4.
+                    <hi rend="italic">Gron. Virg</hi>. 152; 58. <hi rend="italic">Trew Ehret. t</hi>. 37. <hi rend="italic">Hort. Kew</hi>. 1. 465.
+                    <hi rend="italic">Willd. Sp. Pl</hi>. 2. 184. <hi rend="italic">Michaux Flor. Bor-Amer</hi>. 1. 196. 
+                    YUCCA foliis filamentosis. <hi rend="italic">Moris. Hist</hi>. 2. <hi rend="italic">p</hi>. 419. 
+                    YUCCA virginiana foliis per marginem apprime filatis.
+                    <hi rend="italic">Pluk. Alm</hi>. 396.
+                    
+                    According to Michaux a native of the western parts of
+                    Carolina and Virginia, growing on wilds near the sea-shore,
+                    with a stem rising sometimes to the height of five feet.
+                    An old inhabitant of our gardens, having been cultivated
+                    in them as far back as 1675. Hardy. Very ornamental;
+                    flowers about September or October. Is not uncommon in
+                    our Nurseries; propagated by suckers. <hi rend="italic">G</hi>.
+                    (John Sims, Curtis's botanical magazine, or, Flower-garden displayed: in which the most ornamental foreign plants, cultivated in the open ground, the green-house, and the stove, are accurately represented in their natural colours, v.23, 1806, p.900)</p></note>
+                
+                <note xml:id="FOXGLOVEGLOSS" resp="#CGP"><p><hi rend="bold">&#x201C;Now comes the <name type="botanical" corresp="foxglove">foxglove</name> . . . play with you&#x201C;
+                    (<title type="manuscript" corresp="#MSIV">MS IV</title>)&#x2014;</hi>DIGITÁLIS (so named from the resemblance of the
+                    flower to the finger of a glove, <hi rend="italic">digitale</hi>, or from the adjective
+                    <hi rend="italic">digitális</hi>, of or belonging to a finger. Parkinson says, some
+                    thinking Foxglove to be a foolish name, do call them finger
+                    flowers, because they are like unto the fingers of a glove, the
+                    ends cut off.) Fuschs. hist. p. 892. Tourn. inst. p. 165. t. 73.
+                    Lin. gen. no. 758. Schreb. gen. no. 1017. Juss. gen. p. 120.
+                    ed. Usteri. p. 135. Gærtn. fruct. 1. p. 247. t. 53. Lindl.
+                    dig. mon.--Campánula, Trag. kreut. 2. cap. p. 125.--Vírga
+                    règia Cæsalp. pl. 348.--Gesnéria spec. Lin. hort. cliff. p. 318.
+                    
+                    LIN. SYST. <hi rend="italic">Didynàmia, Angiospérmia</hi>. Calyx unequal. Corolla
+                    tubular at the base, funnel-shaped: limb obliquely 4-lobed:
+                    upper segment much shorter than the lower one or lip, and is,
+                    as well as it imbricate in æstivation. The rudiment of the fifth;
+                    stamen hardly conspicuous. Stigma simple, or bilamellate.
+                    Capsule ovate, acuminated.--Herbs with alternate leaves, and
+                    terminal racemes of secund, bracteate, drooping flowers.
+                    
+                    § 1. <hi rend="italic">Corolla oblong-ventricose; upper segment transverse. 
+                    Stamens shorter than the tube.</hi>
+                    
+                    1 D. PURPÚREA (Fuschs. hist. 892. t. 893. Lin. spec. 866.)
+                    leaves oblong, rugose, crenated; calycine segments ovate-oblong;
+                    segments of corolla transverse, acute; peduncles straight,
+                    about equal in length to the calyxes. [symbol]. H. Native of Europe,
+                    as of Denmark, Germany, Switzerland; Britain, in sandy gravelly
+                    soils near London; it grows plentifully about Charlton wood,
+                    Norwood, &#x0026;c. Gærtn. fruct. 1. p. 247. t. 53. Curt. fl.
+                    lond. fasc. 1. t. 48. Woodv. med. bot. 71. t. 24. Oed. fl. dan.
+                    t. 74. Hoffm. et Link, fl. port. p. 222. Lindl. dig. t. 2.
+                    Stev. et Church, med. bot. 1. t. 18.--Blackw. t. 16.--Riv. mon.
+                    t. 104.--Lob. icon. 1. p. 572. f. 1, 2—Mor. hist. sect. 5. t. 8.
+                    f. 1. Plant pubescent. Corollas large, purple, marked inside
+                    with dark purple spots, which are edged with white. The
+                    colour, however, varies from dark purple to cream-colour and white.
+                    (George Don, A general system of gardening and botany. Founded upon Miller's Gardener's dictionary, and arranged according to the natural system, vol. 4, 1838, p. 504)</p></note>
+                
+                <note xml:id="INDIANPINKGLOSS" resp="#CGP"><p><hi rend="bold">&#x201C;<subst><del>You</del><add rend="overwriting">Thou</add></subst> <name type="botanical" corresp="#INDIANPINK">Indian pink</name> . . . from a seed it grew&#x201C;
+                    (<title type="manuscript" corresp="#MSIV">MS IV</title>)&#x2014;</hi>S. MARYLÁNDICA (Lin. syst. 197. mant. 2. p. 330.)
+                    herbaceous; stems simple, tetragonal, scabrous: leaves opposite,
+                    sessile, oval-lanceolate, glabrous; spikes solitary; corolla
+                    funnel-shaped; stamens inclosed; coccæ glabrous.? [symbol]. H.
+                    Native of Virginia, Maryland, Carolina, Georgia, &#x0026;c. on the
+                    edges of woods, in rich moist soil; and on the banks of the
+                    Arkansas, in the forests near the first cliffs. Michx. fl. bor.
+                    amer. 1. p. 148. Pursh, 1. p. 139. Curt. bot. mag. t. 80.
+                    Lodd. bot. cab. 930. Stev. et Church. med. bot. 1. t. 7.
+                    Plench, t. 89. Heyne, term. bot. t. 44. f. 5. Garden and Hope,
+                    act. edinb. 3. 1771. p. 145-153. t. 1. Lonicéra Marylándica,
+                    Lin. spec. 2. p. 249. Catesb. car. 2. t. 78. Corollas scarlet
+                    outside and yellow inside. Calycine segments subulate. The
+                    roots are sold under the name of <hi rend="italic">worm-grass</hi> or <hi rend="italic">pink-root</hi>, or
+                    <hi rend="italic">Indian pink</hi> in the shops. This is a mucilaginous plant, with a
+                    mild and not disagreeable taste. The infusion and decoction
+                    of the root and leaves afford a flocculent precipitate with
+                    alcohol. The plant was first used by the Cherokee Indians as an
+                    anthelmintic. Drs. Lining, Garden, and Chalmers first introduced
+                    it to notice; and their subsequent experience tended to confirm
+                    its utility. The root possesses the greatest activity, and is
+                    given in doses of from 10 grains, two or three times a day.
+                    If it proves purgative it is said to be most effective; and
+                    should it not, it must be combined with cathartics, which prevent
+                    the narcotic symptoms, such as stupor, head-ache, dilated pupil,
+                    flushings of the face, stiffness of the eyelids, that so frequently
+                    follow its administration. It is said to be most useful in lumbrica;
+                    and it is to its narcotic principle that Dr. Good attributes its
+                    vermifuge powers, which it possesses in common with <hi rend="italic">Spigélia
+                    anthélmia</hi>. Notwithstanding all that has been said in its favour,
+                    its real anthelmintic properties are somewhat equivocal. The
+                    plant is called <hi rend="italic">Unsteetla</hi> by the Cherokee Indians.
+                    (George Don, A general system of gardening and botany. Founded upon Miller's Gardener's dictionary, and arranged according to the natural system, vol. 4, 1838, p. 171)</p></note>
+                
+                <note xml:id="PROVENCEROSEGLOSS" resp="#CGP"><p><hi rend="bold">&#x201C;As white as snow . . . noble flower grows&#x201C;
+                    (<title type="manuscript" corresp="#MSIV">MS IV</title>)&#x2014;</hi>The common Provence Rose is well known in
+                    the English gardens, and is one of the most beautiful
+                    sorts yet known. The flowers are sometimes very
+                    large, and the petals closely folded over each other,
+                    like Cabbages, whence this variety is called the 
+                    Cabbage Rose. The flowers of the Provence Roe have
+                    the most fragrant odour of all the sorts.
+                    
+                    [The great double Damask Province or Holland
+                    Rose, hath his bark, says Parkinson, of a reddish or
+                    brown colour. The leaves are likewise more reddish
+                    than in others, and somewhat larger. It usually groweth
+                    very like the Damask Rose, and much to the same
+                    height. The flowers are of the same deep blush colour,
+                    or rather somewhat deeper, but much thicker, broader,
+                    and more double by three parts almost, the outer
+                    leaves turning back, when the flower hath stood long
+                    blown, the middle part itself being folded hard with
+                    small leaves. The scent cometh nearest unto the
+                    Damask Rose, but yet is short of it by much.
+                    
+                    β. The stem and branches of the Red Provence Rose
+                    are not so great as those of the other, but
+                    greener, the bark being not so red. The flowers are
+                    not so large, thick and double, but of a little deeper
+                    damask or blush colour, turning to red, but not coming
+                    near the full colour of the best red Rose: nor is the
+                    scent so sweet as that of the damask Provence, but
+                    coming near that of the ordinary red Rose. This is
+                    not so plentiful in bearing as the Damask Provence*.]
+                    
+                    γ. The stalks of the Blush Provence Rose rise from
+                    three to four feet high, and are unarmed: the leaves
+                    are hairy on their under side: the peduncles have
+                    some small spines: the segments of the calyx are semi-
+                    pinnate: the corolla has five or six rows of petals,
+                    which are large, and spread open; they are of a pale
+                    blush colour, and have a musky scent.
+                    
+                    [δ. The White Provence Rose differs only in the
+                    colour of the flowers.
+                    
+                    [...]
+                    
+                    *Smith
+                    (Philip Miller, The Gardener’s and Botanist’s Dictionary; Containing the Best and Newest Methods of Cultivating and Improving the Kitchen, Fruit, and Flower Garden, and Nursery [...], vol.2, pt.2, 1807</p></note>
+                
+                <note xml:id="BLUEBELLGLOSS" resp="#CGP"><p><hi rend="bold">&#x201C;And thy sweet Sister . . . for Mankind to see.&#x201C;
+                    (<title type="manuscript" corresp="#MSIV">MS IV</title>)&#x2014;</hi>Whether Ruskin is referring to the English bluebell or the Scotish bluebell (harebell) is unclear.
+                    
+                    The common English BLUEBELL is one of the most spectacular
+                    botanical sights of the British Isles. Thousands carpet the woods in
+                    April and May, and they are common sight from Kent and Sussex
+                    in the southeast to the western Highlands of Scotland and the west
+                    coast of Ireland. The nodding flowers produce a blue haze which
+                    intensifies as it approaches eye level. BLUEBELLS are found on most
+                    types of soil, from acid or limy clay to sand or chalk, in woods in
+                    the south and centre of the country, but commonly in the open
+                    along the western coasts, where summer cover may be provided by
+                    BRACKEN.
+                    
+                    Linnaeus (1753) described the BLUEBELL as <hi rend="italic">Hyacinthus non-scriptus</hi>,
+                    distinguishing it from the classical HYACINTH, whose petals were said
+                    to be marked with letters. <hi rend="italic">Hyacinthus</hi>, in Greek, ‘Υάκινθος a youth
+                    from Laconia, the area around Sparta, was loved by Apollo, who
+                    killed him with a careless throw of a discus; some say that the discus
+                    was blown off course by Zephyr, out of jealousy. The name was
+                    transferred to a flower, said to have sprung up from his blood, on
+                    which were written the letters Al, or AIAI, a cry of woe Liddel &#x0026;
+                    Scott, 1888). One of the most likely flowers to qualify for this is
+                    the wild <hi rend="italic">Gladiolus</hi> whose lower three perianth segments have clear
+                    markings (Stearn, 1993). The colour described for ‘Υάκινθος was
+                    almost black, deep purple or crimson, and was used by Homer to
+                    describe dark hair. In spite of this, by the 17th century, the name
+                    <hi rend="italic">Hyacinthus</hi> had become attached to the scented <hi rend="italic">H. orientalis</hi> L. as
+                    well as to the BLUEBELL, which was called <hi rend="italic">Hyacinthus anglicus, e.g.</hi> by
+                    Besler in <hi rend="italic">Hortus Eystettensis</hi> (1613).
+                    
+                    BLUEBELLS have also been placed in the genera <hi rend="italic">Scilla</hi>, <hi rend="italic">Endymion</hi>,
+                    <hi rend="italic">Agraphis</hi> and <hi rend="italic">Hyacinthoides</hi>, the last three specially coined for <hi rend="italic">H. non-
+                        scripta</hi> and its relatives. <hi rend="italic">Scilla</hi> was widely used in the 19th century,
+                    particularly by Philip Miller in the <hi rend="italic">Gardener's Dictionary</hi>, and by the
+                    influential Bentham and Hooker's <hi rend="italic">British Flora</hi> (1886) and again in
+                    the recent <hi rend="italic">Flora Helvetica</hi> (Lauber &#x0026; Wagner, 1996); cultivated
+                    bluebells are still sold (even in the Kew shop!) under the name <hi rend="italic">Scilla
+                        campanulata</hi> Aiton. With <hi rend="italic">Endymion</hi>, in 1827, Dumortier continued
+                    the classical theme, Endymion being a beautiful youth who was
+                    loved by Diana, and with <hi rend="italic">Agraphis</hi>, in 1829, Link continued the <hi rend="italic">non-
+                    scripta</hi> idea. Unfortunately Medicus had already published the
+                    name <hi rend="italic">Hyacinthoides</hi> in 1791 and as this has priority, it is now
+                    generally used.
+                    
+                    Morphologically <hi rend="italic">Hyacinthoides</hi> differs from <hi rend="italic">Scilla</hi> in having paired,
+                    not solitary, bracts and bulbs in which the scales are very thick at
+                    the base, forming a tube and renewed each year. In <hi rend="italic">Scilla</hi> the bulb
+                    structure is varied, but most species have several thin scales which
+                    last several years (see Appendix).
+                    
+                    <hi rend="italic">Hyacinthoides</hi> contains five species, of which three, <hi rend="italic">H. non-scripta</hi>,
+                    <hi rend="italic">H. hispanica</hi> (Miller) Rothm. and <hi rend="italic">H. italica</hi> (L.) Rothm. are found in
+                    most floras. In <hi rend="italic">H. italica</hi>, which is found in the Basses Alpes and the
+                    Alpes Maritimes, the leaves are narrow and the flowers starry with
+                    segments only 5-7 mm long. In southwest Portugal there occurs a
+                    variety of <hi rend="italic">H. italica</hi>, sometimes considered a distinct species, <hi rend="italic">H. vicentina</hi>
+                    (Hoffmans. &#x0026; Link) Rothm., which is smaller, with fewer flowers;
+                    these two species are closest to <hi rend="italic">Scilla</hi>. Another species, <hi rend="italic">H. reverchonii</hi>
+                    (Degen &#x0026; Hervier) F. Speta, from the Sierra de Cazorla in Spain, is
+                    also close to <hi rend="italic">H. italica</hi> but has long leaves almost equalling the
+                    scape, and a lax raceme, the flowers with erect, deep blue perianth
+                    segments (Heywood, 1980). Brian Mathew (pers. comm.), from his
+                    experience of growing both species, considers this to be distinct.
+                    
+                    <hi rend="italic">Hyacinthoides hispanica</hi> is found in Spain, Portugal and North
+                    Africa, and has open bell-shaped flowers, in which the segments do
+                    not curl back; the flowers also hang down all round the stem, not
+                    all to one side as do those of common BLUEBELLS. All six stamens are
+                    nearly equal, with blue anthers, whereas in <hi rend="italic">H. non-scripta</hi> three of
+                    the stamens are longer and the anthers are white. In the wild <hi rend="italic">H.
+                    hispanica</hi> is a delicate plant, found in limestone pavements and open
+                    woods, very different from the robust cultivated plants often called
+                    SPANISH BLUEBELLS. These cultivated bluebells are robust and fertile,
+                    and are probably of hybrid origin (Mathew pers. comm.). In gardens and 
+                    woods adjacent to gardens, they hybridise with
+                    wild <hi rend="italic">H. non-scripta</hi>, and these complex hybrids have been called
+                    <hi rend="italic">H.</hi> × <hi rend="italic">massartiana</hi> Geerinck (1996), which just has priority (Leslie
+                    pers. comm.) over <hi rend="italic">H.</hi> × <hi rend="italic">variabilis</hi> P.D. Sell (1996). There has been
+                    some concern that the hybrids may invade the gene pool of
+                    the native BLUEBELL; in many places they are aggressive weeds,
+                    increasing both by division of the bulbs and by seed. 
+                    
+                    The differences between <hi rend="italic">H. non-scripta</hi>, <hi rend="italic">H. hispanica</hi> and their
+                    hybrids were studied by Baker (1872) and Turrill (1952), as reported
+                    and extended more recently by Bond (1976). Bond compared the
+                    length of the perianth segment and the extent of attachment of the
+                    filament in various samples, including both wild and cultivated
+                    <hi rend="italic">H. hispanica</hi>. He summarised his conclusions as follows:
+                    
+                    <hi rend="italic">H. non-scripta</hi>: filaments distinctly unequal, the inner barely 3/4
+                    the outer; the outer inserted just above the middle of the perianth,
+                    adnate to it for more than 3/4 of their length.
+                    
+                    <hi rend="italic">H. hispanica</hi>: filaments subequal, the inner at least 4/5 the outer,
+                    the outer inserted below the middle of the perianth, adnate to it for
+                    less than 3/4 of their length. His diagrams bear out the supposition
+                    that most of the SPANISH BLUEBELLS in cultivation are hybrids.
+                    
+                    <hi rend="italic">Hyacinthoides non-scripta</hi> is native only in western continental
+                    Europe, particularly along the Atlantic from Belgium, Holland and
+                    western France to Spain and Portugal. It does not extend much
+                    west of Paris, or into eastern Spain. Where it is native it can be
+                    invasive and is easily raised from seed, providing that the soil is
+                    slightly acid and free from drying out completely in summer. The
+                    finest bluebell woods are usually on sandy clays such as greensand,
+                    on sandy loam over chalk or on boulder clay. Regular coppicing
+                    keeps the populations healthy, as there is a slow decline in
+                    flowering as shade increases. Because the bulbs have no tunics,
+                    they are less tolerant of summer heat and drought than most
+                    species of <hi rend="italic">Scilla</hi> from further east. The tubular hanging flowers are
+                    sweetly scented, and generally pollinated by long-tongued bumble
+                    bees and hover-flies (Proctor &#x0026; Yeo, 1973). The flowers are self-
+                    fertile, but seed set is higher when the flowers are outcrossed
+                    (Wilson, 1959). An experiment carried out at Kew found careful
+                    picking of the flowers to be harmless, but trampling of the leaves
+                    soon weakened the plants (Peace &#x0026; Gilmour, 1949).
+                    
+                    CULTIVATION. BLUEBELLS are easily grown in moist leafy soil in
+                    partial shade. The bulbs are best planted between the end of the
+                    flowering season and the beginning of autumnal root growth, that
+                    is in July and August. In woodland gardens even wild BLUEBELLS
+                    may become weeds, seeding themselves freely, the young bulbs
+                    pulling themselves downwards as they become older and therefore
+                    difficult to eradicate. New populations may be established from
+                    fresh seed broadcast in suitable locations, the first flowers
+                    appearing in 4 or 5 years. There are two interesting ethical
+                    questions surrounding BLUEBELL cultivation. On the one hand
+                    cultivated BLUEBELLS, <hi rend="italic">H.</hi> × <hi rend="italic">massartiana</hi>, should be planted only
+                    where they are unable to pollute native stocks, while at the same
+                    time it is considered wrong to plant bulbs of <hi rend="italic">H. non-scripta</hi> which
+                    have been dug from the wild, however common they may be.
+                    Some bulb companies sell wild BLUEBELLS grown from seed, and
+                    these would seem preferable for use in gardens which are near wild
+                    populations; they also have the scent and elegance of habit absent
+                    from the cultivated stocks.
+                    
+                    <hi rend="bold">Hyacinthoides non-scripta</hi> (L.) Chouard ex Rothm., Feddes Repert. 53:
+                    14 (1944).
+                    <hi rend="italic">Hyacinthus non-scriptus</hi> L., Sp. PI. 316(1753).
+                    <hi rend="italic">Scilla non-scripta</hi> (L.) Hoffms. &#x0026; Link in Ges. Naturf. Fr. Neue Schrifr.4: 19
+                    (1803).
+                    <hi rend="italic">Endymion non-scriptus</hi> (L.) Garcke, Fl. Deutschl. ed. 1: 322 (1895).
+                    
+                    DESCRIPTION. <hi rend="italic">Bulbous perennial</hi>, bulbs without tunics, ovoid, 1-2 cm
+                    diameter, of 2-4 concentric scales, fused and thickened in the lower half
+                    to form a solid tube. <hi rend="italic">Leaves</hi> 4-6, basal, linear, glabrous, 20-45 cm long,
+                    0.7-1.5 cm wide. <hi rend="italic">Scape</hi> terete, solid, 15-50 cm tall; inflorescence a lax spike-
+                    like, one-sided raceme, nodding at the tip at flowering. <hi rend="italic">Floral bracts</hi> paired,
+                    linear-lanccolate, bluish, <hi rend="italic">c.</hi> 5 mm long, the lower usually exceeding the
+                    pedicels, the upper shorter. <hi rend="italic">Pedicels</hi> curved downwards, <hi rend="italic">c.</hi> 5 mm long at
+                    anthesis, becoming erect and up to 3 cm long in fruit. Flowers 4-16, bluish,
+                    rarely white; perianth segments 6, linear, forming a tube, recurved at the tips
+                    1.3-2 cm long, <hi rend="italic">c.</hi> 4 mm wide. <hi rend="italic">Stamens</hi> of 2 lengths; filaments flattened,
+                    bluish, attached at base of and adnate to the perianth segments: the 3 outer
+                    adnate for more than 3/4 of their length, reaching the mouth of the tube, the
+                    3 inner shorter, adnate only at the base, the anther opposite the stigma;
+                    anthers creamy-white, dorsifixed, versatile. <hi rend="italic">Ovary</hi> superior, green, 3-locular.
+                    <hi rend="italic">Style</hi> 1, 4-5 mm; stigma capitate. <hi rend="italic">Fruit</hi> an ovoid or broadly obcordate, 3-
+                    lobed capsule <hi rend="italic">c.</hi> 1.5 cm long; seeds shining black.
+                    
+                    DISTRIBUTION. Western Europe, from Scotland and Belgium, south to
+                    Spain and Portugal.
+                    
+                    HABITAT. In deciduous woods, meadows or beneath <hi rend="italic">Pteridium aquilinum</hi> on
+                    moorland.
+                    
+                    FLOWERING TIME. Spring and early summer (April-June in Britain);
+                    fruiting mid to late summer.
+                    (Martyn Rix. “481. HYACINTHOIDES NON-SCRIPTA: Hyacinthaceae.” Curtis’s Botanical Magazine, vol. 21, no. 1, 2004, p. 20–23.)
+                    
+                    Harebell, Bluebell (esp. Scotland), Bellflower. Campanulaceae.
+                    <hi rend="italic">Campanula rotundifolia</hi> L. is a slender, rhizomatous perennial
+                    herb with a creeping, slender, elongated and much branched
+                    rootstock which produces adventitious buds. A white tap root
+                    is also occasionally present. All plant parts exude latex when
+                    broken. Stems slender and wiry, shortly creeping, then ascending
+                    to 15–60 cm, though prostrate, erect and lax forms also
+                    occur. Stems glabrous to sparsely pubescent, but all British
+                    plants are at least somewhat pilose, with short stiff white hairs
+                    which are most obvious on the lower part of the stem.
+                    
+                    Basal and cauline leaves differ in morphology. Basal leaves
+                    cordate and reniform, sometimes crenate, <hi rend="italic">c.</hi> 1 cm wide (total
+                    area 1–10 cm2<!--how to tag exponent?-->) with long slender petioles. Sessile linear leaves
+                    on ground-hugging creeping stems. Cauline leaves on flowering
+                    stems, progressively narrower and more distant and stalkless
+                    upwards towards the flowers, spathulate to lanceolate,
+                    variable in number. Secondary veins slightly raised on leaf
+                    adaxial surfaces, leafmargins with hydathodes.
+                    
+                    Inflorescence paniculate or racemose, with 1 – many flowers,
+                    very slender pedicels, sometimes stout. Corolla bell-shaped
+                    (varying from campanulate with a hemispherical base and
+                    ovary to conical with a conical ovary) with five lobes, rarely
+                    four, six or seven, 12–30(35) mm long, erect in bud, nodding
+                    when open. Usually blue, but varying in colour from white
+                    (rarely) through all shades of pale blue to deep blue and, in
+                    non-British material, violet blue, sometimes weathering to pale
+                    pink. Stamens 5, anthers cream, with cream to deep mauve
+                    pollen; style 1, stigmas 3. Flower size and number is sometimes
+                    used as a taxonomic character in the subsection Heterophylla
+                    and as a guide to polyploid level in <hi rend="italic">C. rotundifolia</hi> s.s. and
+                    <hi rend="italic">C. gieseckiana</hi>. However, although there may be differences,
+                    flower size and number vary enormously with environmental
+                    conditions.
+                    
+                    [...]
+                    
+                    <hi rend="italic">Campanula</hi> L. is the largest genus of the Campanulaceae.
+                    The British Isles are comparatively poor in <hi rend="italic">Campanula</hi> species,
+                    with 17 species recorded (Stace 2010), compared with 144 in
+                    Europe (Tutin <hi rend="italic">et al.</hi> 1976) and about 85 species in Croatia, the
+                    circum-Adriatic and west Balkan regions (Kovačić 2004).
+                    Within the Britain Isles, <hi rend="italic">C. rotundifolia</hi> is readily distinguished
+                    by its morphology from other native <hi rend="italic">Campanula</hi> species. The
+                    classification of <hi rend="italic">Campanula</hi> taxa is the subject of ongoing
+                    debate, and is largely unresolved (e.g. Eddie <hi rend="italic">et al.</hi> 2003;
+                    Shulkina, Gaskin &#x0026; Eddie 2003; Kovačić 2004; Roquet <hi rend="italic">et al.</hi>
+                    2008). Within this genus, the taxonomy and delimitation of
+                    <hi rend="italic">C. rotundifolia</hi> is also difficult as it is an extremely variable
+                    species, forming a complex polyploid series. Indeed, Hultén
+                    (1971) described this as ‘An extremely complicated complex,
+                    where different authors rarely arrive at the same conclusions
+                    …’.Many variants have been described as distinct species and
+                    there is a considerable number of subspecies.Much of the variation
+                    is continuous and the taxonomic issues are not settled
+                    (e.g. Kovanda 1970, 1977; Tutin <hi rend="italic">et al.</hi> 1976; Kovačić &#x0026; Nikolic
+                    2006). In addition to the recent distinction of two subspecies
+                    in the British Isles already mentioned, particular difficulties
+                    arise in distinguishing <hi rend="italic">C. rotundifolia</hi> from the very similar
+                    <hi rend="italic">C. gieseckiana</hi> (Greenland, Iceland,N.Norway), <hi rend="italic">C. intercedens</hi>
+                    Witas. (N. America), <hi rend="italic">C. latisepala</hi> Hultén (W. N. America)
+                    and, perhaps especially, the contiguous <hi rend="italic">C. langsdorffiana</hi>
+                    Fisch. (Siberia). In Europe, as infraspecific taxa, Flora Europaea
+                    lists montane subsp. <hi rend="italic">polymorpha</hi> (Witasek) Tacik, subsp.
+                    <hi rend="italic">sudetica</hi> (Hruby) Soó and var. <hi rend="italic">alpicola</hi> Hayek, which are tetraploid,
+                    as is the morphologically similar <hi rend="italic">C. groenlandica</hi> Berlin.
+                    However, in North America, Shetler’s (1982) survey of the
+                    Nearctic harebells concluded that they all belonged to one species,
+                    <hi rend="italic">C. rotundifolia</hi> L. The extent of confusion is exemplified by
+                    a study of floralmorphometrics by Kovačić &#x0026; Nikolic (2006) of
+                    western Balkan lineages of endemic <hi rend="italic">Campanula</hi> L. which concluded
+                    that ‘the heterophyllous taxa cannot be successfully separated
+                    only on the basis of their floral variables, while they are
+                    often so polymorphous and variable that they cannot be recognised
+                    even on the basis of entire plant morphology.’
+                    
+                    The current taxonomic difficulties are clearly associated
+                    with evolutionary processes and further work is needed to gain
+                    a fuller understanding of the taxonomic divisions indicated
+                    above. In this work, we rely on the original naming by authors
+                    of their species, and on their determinations of the ploidy of
+                    their material. Within the British Isles, the cytotype of studied
+                    material is rarely defined, but if the location of the experimental
+                    study is known, it may often be deduced.
+                    <hi rend="italic">Campanula rotundifolia</hi> is found in a range of acidic to calcareous
+                    grasslands, heathlands, mires and dunes, as well as on
+                    maritime cliffs and in woodland. It is widespread and locally
+                    common but there is some evidence for recent decline in abundance
+                    and range.
+                    
+                    [...]
+                    
+                    Within the British Isles, the first published record is Gerarde’s
+                    (1597) well illustrated account of <hi rend="italic">Campanula rotundifolia</hi>,
+                    which is described as growing ‘wilde in most places of
+                    England, especially upon barren sandie heathes, and such
+                    like grounds’.
+                    
+                    Fossil <hi rend="italic">C. rotundifolia</hi> or <hi rend="italic">Campanula</hi>-type seed and pollen
+                    occur in the palynological record, though they are never abundant.
+                    Fossil <hi rend="italic">C. rotundifolia</hi> seed has been found in deposits
+                    dated to <hi rend="italic">c.</hi> 29 000–33 500 BP in Sourlie, western Scotland (Bos
+                    <hi rend="italic">et al.</hi> 2004), 37 400 years BP in Leicestershire (Bell <hi rend="italic">et al.</hi> 1972)
+                    and 42 000 BP in Worcestershire (Coope <hi rend="italic">et al.</hi> 1961).
+                    Although not identifiable to species, <hi rend="italic">Campanula</hi>-type pollen
+                    occurs in post glacial deposits (Late Devensian) in Britain, primarily
+                    in association with species-rich grassland communities.
+                    For instance, in Scotland, pollen has been found in samples
+                    dated to 11 115 years BP from the Abernethy Forest, Inverness-
+                    shire (Birks &#x0026; Mathewes 1978), from 11 355 and before
+                    10 200 BP from Fife (Whittington, Edwards &#x0026; Caseldine
+                    1991; Whittington, Edwards &#x0026; Hall 2001). Ince (1983)
+                    recorded <hi rend="italic">C. rotundifolia</hi> in cores collected in North Wales
+                    (Llyn Llydaw and Cwm Cywion), dated to about 10 000 BP
+                    andWhittington, Edwards &#x0026; Hall (2001) report a single grain
+                    of <hi rend="italic">Campanula</hi>-type pollen from the Isle of Lewis in strata
+                    between 9250 and 10 250 BP.
+                    (C.J. Stevens, J. Wilson, and H.A. McCallister, "Biological Flora of the British Isles: Campanula rotundifolia." Journal of Ecology, vol. 100, 2012, p. 821-839)</p>
+                </note>
+            </div>
+        </body>
+    </text>
+</TEI>
