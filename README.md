@@ -15,7 +15,6 @@ http://english.selu.edu/humanitiesonline/ruskin/webpages/staff.php
 http://english.selu.edu/humanitiesonline/ruskin/webpages/legal.php
 
 
-
 # For Developer
 
     _xml
@@ -347,3 +346,10 @@ If you get any Error while running:
     Clean out the old configuration options for PHP:
     
     rm -rf /usr/local/etc/php/*
+    
+ 
+# Helpful Resources:
+### For hosting multiple servers at the same time on different ports through nginx.
+  https://medium.com/@aakash.poudel.900/how-to-host-multiple-servers-through-nginx-simplified-36cd009fe484
+  https://medium.com/@aakash.poudel.900/get-familiar-with-nginx-nginx-key-commands-b6dcf99f13e9
+
