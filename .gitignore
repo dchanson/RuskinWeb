@@ -8,7 +8,6 @@ package-lock.json
 scss_cache
 src/vendor/
 /deploy
-/gen
 _Resources/images/facsimiles_previews
 
 src/config*.php
