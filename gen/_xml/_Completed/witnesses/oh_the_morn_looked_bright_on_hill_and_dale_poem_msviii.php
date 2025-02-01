@@ -24,11 +24,9 @@ msviii/MSVIII60v-61r.jpg msviii/MSVIII61v-62r.jpg
 EOT
 );
       ?>
-    <?php require_once(ROOT_PATH."layout_includes/showcase_top.inc.php"); ?><div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-left"><img id="facs_preview" src="" width="100&#x0025;"><img id="facs" src="" width="100&#x0025;" style="display:none"></div>
-<div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-splitter"></div>
-<div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-right">
+    <?php require_once(ROOT_PATH."layout_includes/showcase_top.inc.php"); ?><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-left"><img id="facs_preview" src="" width="100%"><img id="facs" src="" width="100%" style="display:none"></div><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-splitter"></div><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-right">
    <div class="backToApparatusLink"><a href="/apparatuses/apparatuses/account_of_a_tour_on_the_continent_apparatus#account_of_a_tour_on_the_continent_msviii" target="_self"></a><br/></div>
-   <div class="fileName"><span>"Oh, the morn looked bright on hill and dale" &#x005B;"The Black Forest"&#x005D; &#x005B;poem&#x005D;</span></div>
+   <div class="fileName"><span>"Oh, the morn looked bright on hill and dale" ["The Black Forest"] [poem]</span></div>
    <div class="witness">
       <div class="poem" id="">
          
@@ -98,7 +96,7 @@ EOT
                   <div class="tooltip">
           System generated line number
         </div><a href="#L15" id="L15">15</a></div></span><br/>
-            <span class="l">To run its sweet course oer again,&#x2014;</span><br/>
+            <span class="l">To run its sweet course oer again,—</span><br/>
             <span class="l">Flowed a small tributary stream</span><br/>
             <span class="l">That the <span class="geogName-RHINE">Rhine</span> levied all between<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/oh_the_morn_looked_bright_on_hill_and_dale_poem_glosses_contextual#KINZIGRIVER" target="_blank" class="inactive">
@@ -186,9 +184,6 @@ EOT
                 </span>
                 
               </a></span></span><br/>
-            
+            </div>
          </div>
-         
-      </div>
-   </div><div id="" class="pb"></div>
-</div><?php require_once(ROOT_PATH."layout_includes/showcase_bottom.inc.php"); ?>
+   </div><div id="" class="pb"></div></div><?php require_once(ROOT_PATH."layout_includes/showcase_bottom.inc.php"); ?>

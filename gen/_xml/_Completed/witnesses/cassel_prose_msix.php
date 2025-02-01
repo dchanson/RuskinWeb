@@ -24,16 +24,14 @@ msix/MSIX16v-17r.jpg msix/MSIX17v-18r.jpg
 EOT
 );
       ?>
-    <?php require_once(ROOT_PATH."layout_includes/showcase_top.inc.php"); ?><div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-left"><img id="facs_preview" src="" width="100&#x0025;"><img id="facs" src="" width="100&#x0025;" style="display:none"></div>
-<div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-splitter"></div>
-<div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-right">
+    <?php require_once(ROOT_PATH."layout_includes/showcase_top.inc.php"); ?><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-left"><img id="facs_preview" src="" width="100%"><img id="facs" src="" width="100%" style="display:none"></div><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-splitter"></div><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-right">
    <div class="backToApparatusLink"><a href="/apparatuses/apparatuses/account_of_a_tour_on_the_continent_apparatus#account_of_a_tour_on_the_continent_msix" target="_self"></a><br/></div>
-   <div class="fileName"><span>&#x201C;Cassel&#x201D; &#x005B;essay&#x005D;</span></div>
+   <div class="fileName"><span>“Cassel” [essay]</span></div>
    <div class="witness">
       <div class="essay" id="">
          <div id="MSIX17r" class="pb"></div>
          
-         <div class="p">When shall we get up this hill, this intermin&#x2010;<br/>
+         <div class="p">When shall we get up this hill, this intermin‐<br/>
                     able hill.<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/cassel_glosses_contextual#CASSELLSHILLGLOSS" target="_blank" class="inactive">
           
@@ -41,13 +39,13 @@ EOT
                 <span class="gloss-contextual">
                 1
                 </span>
-              </a></span> Bend after bend we have been ascen&#x2010;<br/>
+              </a></span> Bend after bend we have been ascen‐<br/>
                     ding for the last half hour every successive<br/>
                     turn disclosing a weary length of way, and<br/>
                     those tiresome windmills at the top seem as far<br/>
                     from us as ever. Windmills have long been<br/>
-                    celebrated for gesticulation, celebrated with <span class="persName-MDC">Cer&#x2010;<br/>
-                    vantes</span> all over the world, but never saw I wind&#x2010;<br/>
+                    celebrated for gesticulation, celebrated with <span class="persName-MDC">Cer‐<br/>
+                    vantes</span> all over the world, but never saw I wind‐<br/>
                     mills more provokingly alive than at present<br/>
                     with their long stretchy arms bending to the<br/>
                     breeze that flew over the hilltop, they seemed<br/>
@@ -72,19 +70,19 @@ EOT
                 </span>
                 
               </a></span><br/>
-                    he tramped it up the hill as much encum&#x2010;<br/>
+                    he tramped it up the hill as much encum‐<br/>
                     bered as a cat with walnut shells, told<br/>
                     us of many a weary moment ere those<br/>
                     becks should, could, or would be obeyed.<br/>
                     We are on the summit, a green plateau<br/>
                     of turf, that looks round on the wide<br/>
-                    plains of <span class="placeName-FRANCE">France</span> without a single emin&#x2010;<br/>
+                    plains of <span class="placeName-FRANCE">France</span> without a single emin‐<br/>
                     ence to rival it and few that can obstruct<br/>
-                    its view. &#x2014;. Fifteen battle&#x2010;fields are in<br/>
+                    its view. —. Fifteen battle‐fields are in<br/>
                     view from that spot, telling a fearful tale<br/>
                     of the ready ire of nations, yet looking as<br/>
                     green and peaceful as if they had never<br/>
-                    been watered with blood<span class="g-terminal_comma">,&#x2014;</span><span class="gloss-inline">
+                    been watered with blood<span class="g-terminal_comma">,—</span><span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/cassel_prose_glosses_textual#TERMINALCOMMA" target="_blank" class="inactive">
           
           
@@ -94,13 +92,13 @@ EOT
                 </span>
                 
               </a></span> They say the<br/>
-                    cliffs of <span class="placeName-ENGLAND">England</span> are visible from <span class="placeName-CASSEL">Cassel</span>&#x2014;<br/>
+                    cliffs of <span class="placeName-ENGLAND">England</span> are visible from <span class="placeName-CASSEL">Cassel</span>—<br/>
                     the sea certainly is, so I looked in the<br/>
-                    direction, and I did see something&#x2014;. I had<br/>
+                    direction, and I did see something—. I had<br/>
                     some lurking suspicions it was a cloud,<br/>
-                    but I chose to believe it was my own <span class="placeName-ENGLAND">Eng&#x2010;<br/>
-                    land</span> and it did quite as well to bid fare&#x2010;<br/>
-                    well to.&#x2014;<span class="gloss-inline">
+                    but I chose to believe it was my own <span class="placeName-ENGLAND">Eng‐<br/>
+                    land</span> and it did quite as well to bid fare‐<br/>
+                    well to.—<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/cassel_prose_glosses_textual#PARAGRAPHBREAKWITHDASH" target="_blank" class="inactive">
           
           
@@ -116,8 +114,8 @@ EOT
                     and were ruling it. Throughout all our<br/>
                     after journey I have seen nothing more<br/>
                     beautiful or more wonderful of its kind<br/>
-                    than the view from the little, humble, neg&#x2010;<br/>
-                    lected village of&#x2014;<span class="g-pause-period">.</span><span class="gloss-inline">
+                    than the view from the little, humble, neg‐<br/>
+                    lected village of—<span class="g-pause-period">.</span><span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/cassel_prose_glosses_textual#PAUSEPERIOD" target="_blank" class="inactive">
           
           
@@ -127,9 +125,6 @@ EOT
                 </span>
                 
               </a></span> <span class="placeName-CASSEL">Cassel</span>.
-                
+                </div>
          </div>
-         
-      </div>
-   </div><div id="" class="pb"></div>
-</div><?php require_once(ROOT_PATH."layout_includes/showcase_bottom.inc.php"); ?>
+   </div><div id="" class="pb"></div></div><?php require_once(ROOT_PATH."layout_includes/showcase_bottom.inc.php"); ?>

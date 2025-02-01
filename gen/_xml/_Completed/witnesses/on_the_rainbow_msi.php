@@ -24,16 +24,13 @@ msi/1229147.jpg msi/1229148.jpg
 EOT
 );
       ?>
-    <?php require_once(ROOT_PATH."layout_includes/showcase_top.inc.php"); ?><div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-left"><img id="facs_preview" src="" width="100&#x0025;"><img id="facs" src="" width="100&#x0025;" style="display:none"></div>
-<div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-splitter"></div>
-<div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-right">
+    <?php require_once(ROOT_PATH."layout_includes/showcase_top.inc.php"); ?><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-left"><img id="facs_preview" src="" width="100%"><img id="facs" src="" width="100%" style="display:none"></div><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-splitter"></div><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-right">
    <div class="backToApparatusLink"><br/></div>
    <div class="fileName"><span>"On the Rainbow: In Blank Verse"</span></div>
    <div class="witness">
       <div class="poem" id="">
          
-         <h1 class="page-title"><span class="del-scratchout">poem V</span><br/><span class="space" style="padding-left:4.4em"> </span><span class="del-scratchout">on the ra</span><div id="1229147r" class="pb"></div>poem VI<br/>on the rainbow<br/>in blank verse<div class="g-justification" style="width:4.0em"> </div>
-         </h1>
+         <h1 class="page-title"><span class="del-scratchout">poem V</span><br/><span class="space" style="padding-left:4.4em"> </span><span class="del-scratchout">on the ra</span><div id="1229147r" class="pb"></div>poem VI<br/>on the rainbow<br/>in blank verse<div class="g-justification" style="width:4.0em"> </div></h1>
          <div class="pageNum-top-right">105</div><br/> 
          
          <div class="lg-stanza">
@@ -174,9 +171,6 @@ EOT
                 </span>
                 
               </a></span>beauties of the rainbow</span><br/>
-            
+            </div>
          </div>
-         
-      </div>
-   </div><div id="" class="pb"></div>
-</div><?php require_once(ROOT_PATH."layout_includes/showcase_bottom.inc.php"); ?>
+   </div><div id="" class="pb"></div></div><?php require_once(ROOT_PATH."layout_includes/showcase_bottom.inc.php"); ?>

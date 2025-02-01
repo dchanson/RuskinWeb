@@ -24,20 +24,18 @@ define("FACS_FILE_NAMES", <<<EOT
 EOT
 );
       ?>
-    <?php require_once(ROOT_PATH."layout_includes/showcase_top.inc.php"); ?><div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-left"><img id="facs_preview" src="" width="100&#x0025;"><img id="facs" src="" width="100&#x0025;" style="display:none"></div>
-<div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-splitter"></div>
-<div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-right">
+    <?php require_once(ROOT_PATH."layout_includes/showcase_top.inc.php"); ?><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-left"><img id="facs_preview" src="" width="100%"><img id="facs" src="" width="100%" style="display:none"></div><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-splitter"></div><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-right">
    <div class="backToApparatusLink"><a href="/apparatuses/apparatuses/account_of_a_tour_on_the_continent_apparatus#account_of_a_tour_on_the_continent_le" target="_self"></a><br/></div>
-   <div class="fileName"><span>&#x201C;Calais&#x201D; &#x005B;essay&#x005D;</span></div>
+   <div class="fileName"><span>“Calais” [essay]</span></div>
    <div class="witness">
       <div class="essay" id="">
          
          <div class="p">How much has been said of <span class="placeName-CALAIS">Calais</span>. Every one who has ever set his<br/>
                     foot on the French shore, from poor <span class="persName-fictional-YORICK">Yorick</span> to the veriest scribbler ever<br/>
                     blotted paper, has written half a volume upon <span class="placeName-CALAIS">Calais</span>. And no marvel.<br/>
-            <span class="placeName-CALAIS">Calais</span>&#x2014;the busy&#x2014;the bustling, the&#x2014;I had almost said the beautiful, for<br/>
+            <span class="placeName-CALAIS">Calais</span>—the busy—the bustling, the—I had almost said the beautiful, for<br/>
                     beautiful it was to me, and I believe to every one who enters it as a<br/>
-                    vestibule&#x2014;an introduction to <span class="placeName-FRANCE">France</span>, and to the French.<span class="gloss-inline">
+                    vestibule—an introduction to <span class="placeName-FRANCE">France</span>, and to the French.<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/calais_glosses_contextual#INTRODUCTIONTOFRANCEGLOSS" target="_blank" class="inactive">
           
           
@@ -53,21 +51,20 @@ EOT
                     sea in everything but its want of motion, the air is French air, none of<br/>
                     your English boisterous sea puffs that blow the dust in your eyes when<br/>
                     you wish to be particularly clear sighted. No, it is a mere breath, you<br/>
-                    can&#x02BC;t call it a breeze, yet bearing a delicious, a balmy coolness, and a<br/>
+                    canʼt call it a breeze, yet bearing a delicious, a balmy coolness, and a<br/>
                     little, a very little smell of the sea. Look at the fishing boats, they are<br/>
                     peculiarly French, and particularly clumsy. The red, tattered, shapeless<br/>
                     sail, the undistinguishable resemblance of stem to stern, the porpoise like<br/>
                     manner in which the vessel labours through the water, the incorrigible<br/>
                     disorder that reigns on board, the confusion of fish out of water with<br/>
-                    men&#x2014;that are at least out of their element, would mark a French fishing&#x2010;<br/>
-                    boat whatever quarter of the world it might happen to be driven to.
-         </div>
+                    men—that are at least out of their element, would mark a French fishing‐<br/>
+                    boat whatever quarter of the world it might happen to be driven to.</div>
          
          <div class="p">And look at the town; the chimneys are entirely vapourless, and have<br/>
                     that peculiarly awkward look incident to all useless things. And look at<br/>
                     the people; the countenance, the costume, the <i>tout ensemble</i> is altogether<br/>
-                    different from anything you ever saw in <span class="placeName-ENGLAND">England</span>, and yet <span class="placeName-ENGLAND">England</span>&#x02BC;s<br/>
-                    cliffs are on the horizon, half&#x2010;an&#x2010;hours&#x02BC; might see you beneath them.<span class="gloss-inline">
+                    different from anything you ever saw in <span class="placeName-ENGLAND">England</span>, and yet <span class="placeName-ENGLAND">England</span>ʼs<br/>
+                    cliffs are on the horizon, half‐an‐hoursʼ might see you beneath them.<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/calais_glosses_contextual#FOURHOURSGLOSS" target="_blank" class="inactive">
           
           
@@ -76,9 +73,6 @@ EOT
                 </span>
               </a></span> It<br/>
                     is most extraordinary.
-                
+                </div>
          </div>
-         
-      </div>
-   </div><div id="" class="pb"></div>
-</div><?php require_once(ROOT_PATH."layout_includes/showcase_bottom.inc.php"); ?>
+   </div><div id="" class="pb"></div></div><?php require_once(ROOT_PATH."layout_includes/showcase_bottom.inc.php"); ?>

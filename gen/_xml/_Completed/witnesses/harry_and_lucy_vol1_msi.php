@@ -24,11 +24,9 @@ msi/1229104.jpg msi/1229105.jpg msi/1229106.jpg msi/1229107.jpg msi/1229108.jpg 
 EOT
 );
       ?>
-    <?php require_once(ROOT_PATH."layout_includes/showcase_top.inc.php"); ?><div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-left"><img id="facs_preview" src="" width="100&#x0025;"><img id="facs" src="" width="100&#x0025;" style="display:none"></div>
-<div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-splitter"></div>
-<div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-right">
+    <?php require_once(ROOT_PATH."layout_includes/showcase_top.inc.php"); ?><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-left"><img id="facs_preview" src="" width="100%"><img id="facs" src="" width="100%" style="display:none"></div><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-splitter"></div><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-right">
    <div class="backToApparatusLink"><br/></div>
-   <div class="fileName"><span>&#x201C;Harry and Lucy . . . Vol I&#x201D;</span></div>
+   <div class="fileName"><span>“Harry and Lucy . . . Vol I”</span></div>
    <div class="witness">
       <div class="lesson" id="">
          
@@ -66,8 +64,7 @@ EOT
               </a></span><br/>
                     bu<div 
           class="subst-del s-subst s-del" >i</div><div 
-          class="s-subst s-add s-overwrite s-inline">s</div>iness more to do.&#x201D;
-            </div>
+          class="s-subst s-add s-overwrite s-inline">s</div>iness more to do.”</div>
             
             
             <div class="p"><span class="doubleletter-fill">Y</span>es<span class="gloss-inline">
@@ -94,16 +91,14 @@ EOT
             
             
             <div class="p"><span class="doubleletter-fill">Y</span>es <span class="persName-fictional-MAMMA">mamma</span>. But I wonder what my white<br/>
-                    rabbit<span class="del-scratchout"><span class="unclear-CWB">t</span></span> is doing all this while.
-            </div>
+                    rabbit<span class="del-scratchout"><span class="unclear-CWB">t</span></span> is doing all this while.</div>
             
             
             <div class="p">I should think it is wondering what is<br/>
-                    become of you said her <span class="persName-fictional-MAMMA">mother</span>.&#x201D; <span class="del-erasure">I</span></div>
+                    become of you said her <span class="persName-fictional-MAMMA">mother</span>.” <span class="del-erasure">I</span></div>
             
             
-            <div class="p">I&#x02BC;ll go and see it said <span class="persName-fictional-LUCY">Lucy</span>.
-            </div>
+            <div class="p">Iʼll go and see it said <span class="persName-fictional-LUCY">Lucy</span>.</div>
             
             
             <div class="p">you cannot in the rain said her<div class="g-justification" style="width:NaNem"> </div><span class="gloss-inline">
@@ -116,8 +111,7 @@ EOT
                 </span>
                 
               </a></span><br/>
-               <span class="persName-fictional-MAMMA">mother</span>.
-            </div>
+               <span class="persName-fictional-MAMMA">mother</span>.</div>
             
             
             <div class="p">oh is it raining cried <span class="persName-fictional-LUCY">Lucy</span> I am very<br/>
@@ -128,7 +122,7 @@ EOT
           class="subst-del s-subst s-del" ><span class="unclear-CWB">e</span></div><div 
           class="s-subst s-add s-overwrite s-inline">r</div> I have plenty of<br/>
                     things<span class="unclear-CWB">.</span> to do in the house as well<br/>
-                    said <span class="persName-fictional-LUCY">Lucy</span><span class="unclear-DCH">!</span>&#x201D;<span class="gloss-inline">
+                    said <span class="persName-fictional-LUCY">Lucy</span><span class="unclear-DCH">!</span>”<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/harry_and_lucy_vol1_glosses_textual#QUERYOREXCLAMATION" target="_blank" class="inactive">
           
           
@@ -137,12 +131,10 @@ EOT
                 e
                 </span>
                 
-              </a></span><br/>
-            </div>
+              </a></span><br/></div>
             
             
-            <div class="p">yes you have answered her <span class="persName-fictional-MAMMA">mother</span>.
-            </div>
+            <div class="p">yes you have answered her <span class="persName-fictional-MAMMA">mother</span>.</div>
             
             
             <div class="p">But may I draw that head which<br/>
@@ -156,7 +148,7 @@ EOT
                 </span>
                 
               </a></span><br/>
-               <span class="persName-fictional-LUCY">Lucy</span><span class="unclear-DCH">?</span>.&#x201D;<span class="gloss-inline">
+               <span class="persName-fictional-LUCY">Lucy</span><span class="unclear-DCH">?</span>.”<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/harry_and_lucy_vol1_glosses_textual#QUERYOREXCLAMATION" target="_blank" class="inactive">
           
           
@@ -180,8 +172,7 @@ EOT
                 
               </a></span><br/>
                     you were doing last week <span class="del"><span class="unclear-CWB">s</span></span><span class="add">d</span>o<br/>
-                    one thing at once.
-            </div>
+                    one thing at once.</div>
             
             
             <div class="p">Yes <span class="persName-fictional-MAMMA">mamma</span> said <span class="persName-fictional-LUCY">Lucy</span> but<div class="g-justification" style="width:NaNem"> </div><span class="gloss-inline">
@@ -195,7 +186,7 @@ EOT
                 
               </a></span><br/>
                     how comes this pencils are<br/>
-                    lost.&#x201D;<span class="gloss-inline">
+                    lost.”<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/harry_and_lucy_vol1_glosses_textual#THISPENCILS" target="_blank" class="inactive">
           
           
@@ -208,7 +199,7 @@ EOT
             
             
             <div class="p">That is very odd indeed for<br/>
-                    I know that from your <span class="sic">your &#x005B;sic&#x005D;</span><div class="g-justification" style="width:NaNem"> </div><span class="gloss-inline">
+                    I know that from your <span class="sic">your [sic]</span><div class="g-justification" style="width:NaNem"> </div><span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/harry_and_lucy_vol1_glosses_textual#JUSTIFICATION" target="_blank" class="inactive">
           
           
@@ -221,8 +212,7 @@ EOT
                     youth you never lost any thing<br/>
                <div id="1229106v" class="pb"></div>
                <div class="pageNum-top-left"><span class="space" style="padding-left:4.0em"> </span>page 3</div><br/>
-                    said her <span class="persName-fictional-MAMMA">mother</span>.
-            </div>
+                    said her <span class="persName-fictional-MAMMA">mother</span>.</div>
             
             
             <div class="p"><span class="doubleletter-fill">Y</span>es said <span class="persName-fictional-LUCY">Lucy</span><span class="g-pause-period">.</span><span class="gloss-inline">
@@ -239,7 +229,7 @@ EOT
                <span class="l"><span class="del-strikethrough">it</span><div 
               class="add-below" 
               style="left:NaNem">they</div> have gone but in the sideboard<br/></span><br/>
-                    and they are not there<span class="unclear-DCH">?</span>&#x201D;<span class="gloss-inline">
+                    and they are not there<span class="unclear-DCH">?</span>”<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/harry_and_lucy_vol1_glosses_textual#QUERYOREXCLAMATION" target="_blank" class="inactive">
           
           
@@ -264,8 +254,7 @@ EOT
                     her <span class="persName-fictional-MAMMA">mother</span></div>
             
             
-            <div class="p">have you cried <span class="persName-fictional-LUCY">Lucy</span> where were they
-            </div>
+            <div class="p">have you cried <span class="persName-fictional-LUCY">Lucy</span> where were they</div>
             
             
             <div class="p">in the oddest thing said her <span class="persName-fictional-MAMMA">mother</span></div>
@@ -280,11 +269,10 @@ EOT
                 o
                 </span>
                 
-              </a></span> where said <span class="persName-fictional-LUCY">Lucy</span>.
-            </div>
+              </a></span> where said <span class="persName-fictional-LUCY">Lucy</span>.</div>
             
             
-            <div class="p">in my workbox<span class="unclear-DCH">!</span>&#x201D;<span class="gloss-inline">
+            <div class="p">in my workbox<span class="unclear-DCH">!</span>”<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/harry_and_lucy_vol1_glosses_textual#QUERYOREXCLAMATION" target="_blank" class="inactive">
           
           
@@ -309,8 +297,7 @@ EOT
               </a></span></div>
             
             
-            <div class="p"><span class="doubleletter-fill">Y</span>es.&#x201D;
-            </div>
+            <div class="p"><span class="doubleletter-fill">Y</span>es.”</div>
             
             
             <div class="p">Now I will run out and refresh<div class="g-justification" style="width:NaNem"> </div><span class="gloss-inline">
@@ -324,8 +311,7 @@ EOT
                 
               </a></span><br/>
                     myself a little now it has done raining<br/>
-                    said <span class="persName-fictional-LUCY">Lucy</span>.&#x201D;
-            </div>
+                    said <span class="persName-fictional-LUCY">Lucy</span>.”</div>
             
             <div id="1229106r" class="pb"></div>
             <div class="pageNum-top-left"><span class="space" style="padding-left:4.4em"> </span>page 4</div><br/>
@@ -348,8 +334,7 @@ EOT
                 
               </a></span><br/>
                and I will go and see my white<br/>
-                        rabbit<span class="del-scratchout">s</span> said <span class="persName-fictional-LUCY">Lucy</span>.
-            </div>
+                        rabbit<span class="del-scratchout">s</span> said <span class="persName-fictional-LUCY">Lucy</span>.</div>
             
             
             <div class="p"><div 
@@ -373,7 +358,7 @@ EOT
                 u
                 </span>
                 
-              </a></span>&#x201D;<span class="unclear-CWB">&#x2013;</span><span class="gloss-inline">
+              </a></span>”<span class="unclear-CWB">–</span><span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/harry_and_lucy_vol1_glosses_textual#DASHENDQUOTE" target="_blank" class="inactive">
           
           
@@ -388,8 +373,7 @@ EOT
             <div class="p"><span class="doubleletter-fill">Y</span>es my dear said her <span class="persName-fictional-MAMMA">mother</span></div>
             
             
-            <div class="p">Now <span class="persName-fictional-MAMMA">mamma</span> here is dinner.
-            </div>
+            <div class="p">Now <span class="persName-fictional-MAMMA">mamma</span> here is dinner.</div>
             
             
             <div class="p"><span class="persName-fictional-MAMMA">mamma</span> my white rabbit has got<div class="g-justification" style="width:NaNem"> </div><span class="gloss-inline">
@@ -405,7 +389,7 @@ EOT
                     young ones said <span class="persName-fictional-LUCY">Lucy</span> and they are such<br/>
                     pretty ones one black and white and<br/>
                     another red and white and another<br/>
-                        quite white in<span class="unclear-CWB">&#x2014;</span>short of all colours<span class="unclear-DCH">!</span><span class="gloss-inline">
+                        quite white in<span class="unclear-CWB">—</span>short of all colours<span class="unclear-DCH">!</span><span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/harry_and_lucy_vol1_glosses_textual#QUERYOREXCLAMATION" target="_blank" class="inactive">
           
           
@@ -414,7 +398,7 @@ EOT
                 x
                 </span>
                 
-              </a></span>&#x201D;<span class="unclear-CWB">&#x2013;</span><span class="gloss-inline">
+              </a></span>”<span class="unclear-CWB">–</span><span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/harry_and_lucy_vol1_glosses_textual#DASHENDQUOTE" target="_blank" class="inactive">
           
           
@@ -427,8 +411,7 @@ EOT
             
             
             <div class="p">and how many in number said her<br/>
-               <span class="persName-fictional-MAMMA">mother</span>.
-            </div>
+               <span class="persName-fictional-MAMMA">mother</span>.</div>
             
             
             <div class="p">ten said <span class="persName-fictional-LUCY">Lucy</span></div>
@@ -448,7 +431,7 @@ EOT
               </a></span></div>
             
             
-            <div class="p"><span class="doubleletter-fill">Y</span>es said <span class="persName-fictional-LUCY">Lucy</span> eleven.&#x201D;<span class="gloss-inline">
+            <div class="p"><span class="doubleletter-fill">Y</span>es said <span class="persName-fictional-LUCY">Lucy</span> eleven.”<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/harry_and_lucy_vol1_glosses_contextual#NUMBERGLOSS" target="_blank" class="inactive">
           
           
@@ -471,12 +454,10 @@ EOT
                 </span>
                 
               </a></span><br/>
-                    plainly said her <span class="persName-fictional-MAMMA">mother</span>.
-            </div>
+                    plainly said her <span class="persName-fictional-MAMMA">mother</span>.</div>
             
             
-            <div class="p"><span class="doubleletter-fill">Y</span>es <span class="persName-fictional-MAMMA">mamma</span> I am.&#x201D;
-            </div>
+            <div class="p"><span class="doubleletter-fill">Y</span>es <span class="persName-fictional-MAMMA">mamma</span> I am.”</div>
             
             
             <div class="p">But we ought to break off this<div class="g-justification" style="width:NaNem"> </div><span class="gloss-inline">
@@ -519,13 +500,11 @@ EOT
                     said her <span class="persName-fictional-MAMMA">moth<div 
           class="subst-del s-subst s-del" >o</div><div 
           class="s-subst s-add s-overwrite s-inline">e</div>r</span>. How are they<br/>
-                    getting on.&#x201D;
-            </div>
+                    getting on.”</div>
             
             
             <div class="p">very well said <span class="persName-fictional-LUCY">Lucy</span> one of them<br/>
-                    has spun a great deal of silk.&#x201D;
-            </div>
+                    has spun a great deal of silk.”</div>
             
             
             <div class="p">have any of them spun all they<br/>
@@ -534,8 +513,7 @@ EOT
           class="s-subst s-add s-overwrite s-inline">i</div>d her <span class="persName-fictional-MAMMA">mothe<span class="overwriting">r</span></span></div>
             
             
-            <div class="p">Yes said <span class="persName-fictional-LUCY">Lucy</span> three of them<span class="unclear-DCH">!</span>&#x201D;
-            </div>
+            <div class="p">Yes said <span class="persName-fictional-LUCY">Lucy</span> three of them<span class="unclear-DCH">!</span>”</div>
             
             
             <div class="p">thats a great deal said her <span class="persName-fictional-MAMMA">mother</span><br/>
@@ -549,11 +527,10 @@ EOT
                 </span>
                 
               </a></span><br/>
-                    winders.&#x201D;
-            </div>
+                    winders.”</div>
             
             
-            <div class="p"><span class="doubleletter-fill">Y</span>es said <span class="persName-fictional-LUCY">Lucy</span> so we will.&#x201D;<span class="gloss-inline">
+            <div class="p"><span class="doubleletter-fill">Y</span>es said <span class="persName-fictional-LUCY">Lucy</span> so we will.”<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/harry_and_lucy_vol1_glosses_contextual#SILKGLOSS" target="_blank" class="inactive">
           
           
@@ -579,12 +556,10 @@ EOT
                 </span>
                 
               </a></span><br/>
-               <span class="persName-fictional-MAMMA">mother</span>.&#x201D;
-            </div>
+               <span class="persName-fictional-MAMMA">mother</span>.”</div>
             
             
-            <div class="p">two hours said <span class="persName-fictional-LUCY">Lucy</span>.
-            </div>
+            <div class="p">two hours said <span class="persName-fictional-LUCY">Lucy</span>.</div>
             
             
             <div class="p">three said her <span class="persName-fictional-MAMMA">mother</span> and how<br/>
@@ -592,8 +567,7 @@ EOT
                     said her <span class="persName-fictional-MAMMA">mother</span></div>
             
             
-            <div class="p">nine said <span class="persName-fictional-LUCY">Lucy</span>.
-            </div>
+            <div class="p">nine said <span class="persName-fictional-LUCY">Lucy</span>.</div>
             
             
             <div class="p">so nine whole hours must<div class="g-justification" style="width:NaNem"> </div><span class="gloss-inline">
@@ -618,12 +592,10 @@ EOT
                 </span>
                 
               </a></span><br/>
-                    her <span class="persName-fictional-MAMMA">mother</span>.
-            </div>
+                    her <span class="persName-fictional-MAMMA">mother</span>.</div>
             
             
-            <div class="p"><span class="doubleletter-fill">Y</span>es said <span class="persName-fictional-LUCY">Lucy</span>.
-            </div>
+            <div class="p"><span class="doubleletter-fill">Y</span>es said <span class="persName-fictional-LUCY">Lucy</span>.</div>
             
             
             <div class="p">Well these are very large<div class="g-justification" style="width:NaNem"> </div><span class="gloss-inline">
@@ -639,7 +611,7 @@ EOT
                     balls said her <span class="persName-fictional-MAMMA">mother</span><span class="unclear-DCH">!</span></div>
             
             
-            <div class="p"><span class="doubleletter-fill">Y</span>es said <span class="persName-fictional-LUCY">Lucy</span><span class="unclear-DCH">!</span>&#x201D;<span class="gloss-inline">
+            <div class="p"><span class="doubleletter-fill">Y</span>es said <span class="persName-fictional-LUCY">Lucy</span><span class="unclear-DCH">!</span>”<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/harry_and_lucy_vol1_glosses_textual#DASHENDQUOTE" target="_blank" class="inactive">
           
           
@@ -655,14 +627,13 @@ EOT
                
                <div id="1229108v" class="pb"></div>
                <div class="pageNum-top-left"><span class="space" style="padding-left:2.8em"> </span>page 7</div><br/>
-                    sea&#x2010;side we were told that the thread<br/>
+                    sea‐side we were told that the thread<br/>
                     of the silk worms was two or three<br/>
-                    miles in length.&#x201D;
-            </div>
+                    miles in length.”</div>
             
             
             <div class="p"><span class="doubleletter-fill">Y</span>es said her <span class="persName-fictional-MAMMA">mother</span> and is not that<br/>
-                    a good length<span class="unclear-DCH">?!</span>&#x201D;<span class="gloss-inline">
+                    a good length<span class="unclear-DCH">?!</span>”<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/harry_and_lucy_vol1_glosses_textual#DASHENDQUOTE" target="_blank" class="inactive">
           
           
@@ -674,22 +645,19 @@ EOT
               </a></span></div>
             
             
-            <div class="p"><span class="doubleletter-fill">Y</span>es said <span class="persName-fictional-LUCY">Lucy</span>.&#x201D;
-            </div>
+            <div class="p"><span class="doubleletter-fill">Y</span>es said <span class="persName-fictional-LUCY">Lucy</span>.”</div>
             
             
             <div class="p"><span class="doubleletter-fill">W</span>ell I think we have had thought<br/>
                     enough for the present said her<br/>
-               <span class="persName-fictional-MAMMA">mother</span>.&#x201D;
-            </div>
+               <span class="persName-fictional-MAMMA">mother</span>.”</div>
             
             
             <div class="p">I have just two or three questions<br/>
                     to ask you more said <div 
           class="subst-del s-subst s-del" >her<span class="space" style="padding-left:0.4em"> </span></div><div 
           class="s-subst s-add s-overwrite s-inline"><span class="persName-fictional-LUCY">Lucy</span></div><div 
-          class="subst-del-scratchout s-subst s-del s-scratchout" >mother</div>
-            </div>
+          class="subst-del-scratchout s-subst s-del s-scratchout" >mother</div></div>
             
             
             <div class="p"><span class="doubleletter">W</span>ell said <span class="persName-fictional-LUCY">Lucy</span> how thin is the<div class="g-justification" style="width:NaNem"> </div><span class="gloss-inline">
@@ -703,8 +671,7 @@ EOT
                 
               </a></span><br/>
                     thinnest of the threads which<br/>
-               <span class="del-strikethrough">spin</span> <span class="del-scratchout">s<span class="unclear-CWB">a</span></span> silkworms spin.
-            </div>
+               <span class="del-strikethrough">spin</span> <span class="del-scratchout">s<span class="unclear-CWB">a</span></span> silkworms spin.</div>
             
             
             <div class="p">I do not my dear know</div>
@@ -719,8 +686,7 @@ EOT
                <div id="1229108r" class="pb"></div>
                <div class="pageNum-top-left">dear<span class="space" style="padding-left:2.0em"> </span>page 8</div><br/>
                <div class="full"></div>
-               
-            </div>
+               </div>
             
             
             <div class="p"><span class="del-scratchout">dear</span> what is the size of the<br/>
@@ -736,10 +702,8 @@ EOT
               </a></span><br/>
                <span class="l"><span class="del-strikethrough"><div 
               class="add-above" 
-              style="left:NaNem">spid</div></span></span><br/>spiders&#x007C;chap II
+              style="left:NaNem">spid</div></span></span><br/>spiders|chap II</div>
             </div>
-            
-         </div>
          
          
          <div class="chapter" id="">
@@ -762,12 +726,11 @@ EOT
                     home and <span class="persName-fictional-LUCY">Lucy</span> then marched up<br/>
                     to him and said <span class="persName-fictional-PAPA">papa</span> would you<br/>
                         be so good as to hear me my<br/>
-                    lessons.&#x201D;
-            </div>
+                    lessons.”</div>
             
             
             <div class="p">I will if I have time my dear<br/>
-                    but I fear I shall not have time.&#x201D;</div>
+                    but I fear I shall not have time.”</div>
             
             
             <div class="p">Very well said <span class="persName-fictional-LUCY">Lucy</span>. <div 
@@ -788,13 +751,12 @@ EOT
                     will. <div 
           class="subst-del s-subst s-del" >a</div><div 
           class="s-subst s-add s-overwrite s-inline">A</div>nd would you be so good as<br/>
-                    to hear me my lesson now.
-            </div>
+                    to hear me my lesson now.</div>
             
             <div id="1229109v" class="pb"></div>
             <div class="pageNum-top-left"><span class="space" style="padding-left:2.0em"> </span>page 9</div><br/>
             
-            <div class="p"><span class="doubleletter">Y</span>es I will <span class="persName-fictional-LUCY">Lucy</span> answered her <br/><span class="persName-fictional-PAPA">father</span>.&#x201D;<span class="gloss-inline">
+            <div class="p"><span class="doubleletter">Y</span>es I will <span class="persName-fictional-LUCY">Lucy</span> answered her <br/><span class="persName-fictional-PAPA">father</span>.”<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/harry_and_lucy_vol1_glosses_contextual#ANSWEREDHERFATHERGLOSS" target="_blank" class="inactive">
           
           
@@ -805,7 +767,7 @@ EOT
             
             
             <div class="p"><span class="persName-fictional-LUCY">Lucy</span> said her lesson very well<br/>
-                    and after that her <span class="persName-fictional-MAMMA">mother</span> said.&#x201D;<span class="gloss-inline">
+                    and after that her <span class="persName-fictional-MAMMA">mother</span> said.”<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/harry_and_lucy_vol1_glosses_contextual#LUCYSAIDHERLESSONGLOSS" target="_blank" class="inactive">
           
           
@@ -815,20 +777,17 @@ EOT
               </a></span><br/>
                I was wondering what made <span class="persName-fictional-LUCY">Lucy</span><br/>
                     not come to say her lesson to me and<br/>
-                    now I find out the cause.&#x201D;
-            </div>
+                    now I find out the cause.”</div>
             
             
-            <div class="p"><span class="doubleletter-fill">Y</span>es said her <span class="persName-fictional-PAPA">father</span>.
-            </div>
+            <div class="p"><span class="doubleletter-fill">Y</span>es said her <span class="persName-fictional-PAPA">father</span>.</div>
             
             
             <div class="p">Well <span class="persName-fictional-LUCY">Lucy</span> you have said your<br/>
                     lesson very well and in reward<br/>
                     for so doing after church you<br/>
                     shall take a very pleasant walk<br/>
-                    with me said her <span class="persName-fictional-MAMMA">mother</span>.
-            </div>
+                    with me said her <span class="persName-fictional-MAMMA">mother</span>.</div>
             
             
             <div class="p">and now <span class="persName-fictional-LUCY">Lucy</span> has gone to bed<br/>
@@ -843,8 +802,7 @@ EOT
                 
               </a></span><br/>
                     attend to <span class="persName-fictional-HARRY">harry</span> whose history<br/>
-                    we have hitherto forgot.&#x201D;
-            </div>
+                    we have hitherto forgot.”</div>
             
             <div id="1229109r" class="pb"></div>
             <div class="pageNum-top-left"><span class="space" style="padding-left:1.6em"> </span>page I0</div><br/>
@@ -864,9 +822,8 @@ EOT
                     said he would take him into<br/>
                     town to see the apparatus for<br/>
                     making ice and <span class="persName-fictional-HARRY">harry</span> had been<br/>
-                    with his <span class="persName-fictional-PAPA">father</span> to see this app&#x2010;<br/>
-                    arratus.&#x201D;
-            </div>
+                    with his <span class="persName-fictional-PAPA">father</span> to see this app‐<br/>
+                    arratus.”</div>
             
             
             <div class="p">the apparatus was a very large<br/>
@@ -876,7 +833,7 @@ EOT
                     explain it to <span class="persName-fictional-LUCY">Lucy</span> because<br/>
                     he did not see that part<br/>
                     of the apparatus which made<br/>
-                    the ice.&#x201D;<span class="gloss-inline">
+                    the ice.”<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/harry_and_lucy_vol1_glosses_contextual#ICEGLOSS" target="_blank" class="inactive">
           
           
@@ -913,8 +870,7 @@ EOT
             <div class="p"><span class="persName-fictional-HARRY">harry</span> said he wou<div 
           class="subst-del s-subst s-del" >d</div><div 
           class="s-subst s-add s-overwrite s-inline">l</div>d and the<br/>
-                    moment that I have time added he <br/>so Ill do that <span class="persName-fictional-LUCY">Lucy</span>.
-            </div>
+                    moment that I have time added he <br/>so Ill do that <span class="persName-fictional-LUCY">Lucy</span>.</div>
             
             
             <div class="p"><div 
@@ -930,12 +886,10 @@ EOT
             <div class="p"><div 
           class="subst-del s-subst s-del" >h</div><div 
           class="s-subst s-add s-overwrite s-inline">H</div>ave you not time to day<br/>
-               <span class="persName-fictional-HARRY">brother</span>.
-            </div>
+               <span class="persName-fictional-HARRY">brother</span>.</div>
             
             
-            <div class="p">No <span class="persName-fictional-LUCY">Lucy</span>.
-            </div>
+            <div class="p">No <span class="persName-fictional-LUCY">Lucy</span>.</div>
             
             
             <div class="p"><div 
@@ -943,20 +897,17 @@ EOT
           class="s-subst s-add s-overwrite s-inline">W</div>ell I can easily wa<div 
           class="subst-del s-subst s-del" >t</div><div 
           class="s-subst s-add s-overwrite s-inline">i</div>t can<br/>
-                    I not <span class="persName-fictional-HARRY">brother</span>.
-            </div>
+                    I not <span class="persName-fictional-HARRY">brother</span>.</div>
             
             
-            <div class="p"><span class="doubleletter">Y</span>es <span class="persName-fictional-LUCY">Lucy</span>.
-            </div>
+            <div class="p"><span class="doubleletter">Y</span>es <span class="persName-fictional-LUCY">Lucy</span>.</div>
             
             
             <div class="p"><div 
           class="subst-del s-subst s-del" >a</div><div 
           class="s-subst s-add s-overwrite s-inline">A</div>nd said her <span class="persName-fictional-PAPA">father</span> now I<br/>
-                    will show you some experi&#x2010;<br/>
-                    ments on sound.
-            </div>
+                    will show you some experi‐<br/>
+                    ments on sound.</div>
             
             <div id="1229110r" class="pb"></div>
             <div class="pageNum-top-left"><span class="space" style="padding-left:2.8em"> </span>I2</div><br/>
@@ -975,15 +926,13 @@ EOT
                 </span>
                 
               </a></span><br/>
-                    workshop said her <span class="persName-fictional-PAPA">father</span>.
-            </div>
+                    workshop said her <span class="persName-fictional-PAPA">father</span>.</div>
             
             
             <div class="p"><span class="persName-fictional-HARRY">Harry</span> and <span class="persName-fictional-LUCY">Lucy</span> followed<br/>
                     him quic<div 
           class="subst-del s-subst s-del" >ly</div><div 
-          class="s-subst s-add s-overwrite s-inline">kl</div>y
-            </div>
+          class="s-subst s-add s-overwrite s-inline">kl</div>y</div>
             
             
             <div class="p"><div 
@@ -1049,8 +998,8 @@ EOT
                 </span>
                 
               </a></span></div>
-               &#x005B;<i>Pencil drawing</i>.&#x2014;From left, of an object that is meant perhaps for the balloon suspended at a height of half a mile, connected to a rod, as described in the <span class="persName-fictional-PAPA">father</span>&#x02BC;s experiment on the facing page, 
-                        or for the sun sending down its beams; a tree; and a square, two&#x2010;story, brick or stone house.&#x005D;
+               [<i>Pencil drawing</i>.—From left, of an object that is meant perhaps for the balloon suspended at a height of half a mile, connected to a rod, as described in the <span class="persName-fictional-PAPA">father</span>ʼs experiment on the facing page, 
+                        or for the sun sending down its beams; a tree; and a square, two‐story, brick or stone house.]
                
                
                <div id="1229111r" class="pb"></div>
@@ -1059,8 +1008,7 @@ EOT
                     perceptible then he set fire<br/>
                     to it by setting fire to a rod<br/>
                     that communicated with it and<br/>
-                    the noise could not be heard.&#x201D;
-            </div>
+                    the noise could not be heard.”</div>
             
             
             <div class="p">Now said her <span class="persName-fictional-PAPA">father</span> <div 
@@ -1088,10 +1036,9 @@ EOT
                 </span>
                 
               </a></span><br/>
-               <span class="del-strikethrough"><span class="unclear-CWB">&#x007C;</span></span>of these two alloons.<br/>
+               <span class="del-strikethrough"><span class="unclear-CWB">|</span></span>of these two alloons.<br/>
                     they answered half a mile<br/>
-               Right said her <span class="persName-fictional-PAPA">father</span>.
-            </div>
+               Right said her <span class="persName-fictional-PAPA">father</span>.</div>
             
             
             <div class="p"><span class="doubleletter">A</span>nd did you not observe that<br/>
@@ -1125,7 +1072,7 @@ EOT
                 </span>
                 
               </a></span><br/>
-                    but in a few moments af&#x2010;<br/>
+                    but in a few moments af‐<br/>
                     terwards. And you o<div 
           class="subst-del s-subst s-del" >e</div><div 
           class="s-subst s-add s-overwrite s-inline">b</div>served<br/>
@@ -1137,13 +1084,11 @@ EOT
                     the higher one as in<br/>
                     the <span class="del-scratchout">sm</span><div 
           class="s-subst s-add s-overwrite s-inline">low</div><div 
-          class="subst-del-scratchout s-subst s-del s-scratchout" >all</div>er one.
-            </div>
+          class="subst-del-scratchout s-subst s-del s-scratchout" >all</div>er one.</div>
             
             
             <div class="p"><span class="doubleletter-fill">Y</span>es answered <span class="persName-fictional-LUCY"><span class="doubleletter">L</span>ucy</span>. what<br/>
-                    was the cause of that
-            </div>
+                    was the cause of that</div>
             
             
             <div class="p">The cause was that sound<br/>
@@ -1183,8 +1128,7 @@ EOT
                 </span>
                 
               </a></span><br/>
-                    because of their height
-            </div>
+                    because of their height</div>
             
             <div id="1229112r" class="pb"></div>
             <div class="pageNum-top-left"><span class="space" style="padding-left:0.4em"> </span><span class="del-erasure">I6</span><span class="space" style="padding-left:2.0em"> </span>I6</div><br/>
@@ -1211,8 +1155,7 @@ EOT
                 
               </a></span><br/>
                     other experiment said her<br/>
-               <span class="persName-fictional-PAPA">father</span>.
-            </div>
+               <span class="persName-fictional-PAPA">father</span>.</div>
             
             
             <div class="p"><span class="overwriting">T</span>hen he took a pipe of<div class="g-justification" style="width:NaNem"> </div><span class="gloss-inline">
@@ -1301,8 +1244,7 @@ EOT
               </a></span><br/>
                     blows on the wedges out they<br/>
                     flew the blocks sunk and<br/>
-                    the boat hung on the shores
-            </div>
+                    the boat hung on the shores</div>
             
             
             <div class="p"><span class="persName-fictional-LUCY"><span class="doubleletter-fill">L</span>ucy</span> now recollected a<br/>
@@ -1333,8 +1275,7 @@ EOT
           class="s-subst s-add s-overwrite s-inline">H</div>arry</span> told her she w<span class="unclear-DCH">a</span>s
                 <div id="1229113r" class="pb"></div>
                <div class="pageNum-top-left"><span class="space" style="padding-left:2.8em"> </span>I8</div><br/>
-                    right.
-            </div>
+                    right.</div>
             
             
             <div class="p">But how did you manage<br/>
@@ -1359,19 +1300,16 @@ EOT
                 </span>
                 
               </a></span><br/>
-                    upright.&#x201D;
-            </div>
+                    upright.”</div>
             
             
             <div class="p">That would take us up<br/>
-                    too long a time stand&#x2010;<br/>
-                    ing here said <span class="persName-fictional-HARRY">harry</span>.
-            </div>
+                    too long a time stand‐<br/>
+                    ing here said <span class="persName-fictional-HARRY">harry</span>.</div>
             
             
             <div class="p"><span class="doubleletter">W</span>ell then come into the<br/>
-                    house if you will.
-            </div>
+                    house if you will.</div>
             
             
             <div class="p">No said <span class="persName-fictional-HARRY">harry</span>. We can<div class="g-justification" style="width:NaNem"> </div><span class="gloss-inline">
@@ -1385,12 +1323,10 @@ EOT
                 
               </a></span><br/>
                     walk about the garden<br/>
-                    and then I can tell you.
-            </div>
+                    and then I can tell you.</div>
             
             
-            <div class="p"><span class="doubleletter-fill">Y</span>es answered <span class="persName-fictional-LUCY">Lucy</span>.
-            </div>
+            <div class="p"><span class="doubleletter-fill">Y</span>es answered <span class="persName-fictional-LUCY">Lucy</span>.</div>
             
             
             <div class="p">They are just plainly<div class="g-justification" style="width:NaNem"> </div><span class="gloss-inline">
@@ -1407,7 +1343,7 @@ EOT
                
                <div id="1229114v" class="pb"></div>
                <div class="pageNum-top-left"><span class="space" style="padding-left:3.2em"> </span>I9</div><br/>
-                    &#x2010;aged to set them so as<br/>
+                    ‐aged to set them so as<br/>
                     to cross each other so that<br/>
                     the ship went in betw<div 
           class="subst-del s-subst s-del" >een</div><div 
@@ -1429,8 +1365,7 @@ EOT
                 14
                 </span>
               </a></span> and so was<br/>
-                    held up by them.
-            </div>
+                    held up by them.</div>
             
             
             <div class="p"><span class="persName-fictional-LUCY">Lucy</span> now reminded <span class="persName-fictional-HARRY">harry</span><br/>
@@ -1446,8 +1381,7 @@ EOT
                 </span>
                 
               </a></span><br/>
-                    first so they parted.&#x201D;
-            </div>
+                    first so they parted.”</div>
             
             
             <div class="p"><span class="persName-fictional-LUCY"><span class="doubleletter-fill">L</span>ucy</span> ran about the gar<br/>
@@ -1470,7 +1404,7 @@ EOT
                 </span>
                 
               </a></span><br/>
-                    recollec&#x2010;ting her <span class="persName-fictional-HARRY">brother</span><br/>
+                    recollec‐ting her <span class="persName-fictional-HARRY">brother</span><br/>
                     she ran in to him to<br/>
                     ask him if he was<div class="g-justification" style="width:NaNem"> </div><span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/harry_and_lucy_vol1_glosses_textual#JUSTIFICATION" target="_blank" class="inactive">
@@ -1483,11 +1417,11 @@ EOT
                 
               </a></span><br/>
                     ready he was ready and<br/>
-                    then <span class="persName-fictional-LUCY"><span class="doubleletter">L</span>ucy</span> went to the work&#x2010;<br/>
+                    then <span class="persName-fictional-LUCY"><span class="doubleletter">L</span>ucy</span> went to the work‐<br/>
                
                <div id="1229114r" class="pb"></div>
                <div class="pageNum-top-left"><span class="space" style="padding-left:3.6em"> </span>20</div><br/>
-                    shop with <span class="persName-fictional-HARRY">harry</span>.&#x201D;<span class="gloss-inline">
+                    shop with <span class="persName-fictional-HARRY">harry</span>.”<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/harry_and_lucy_vol1_glosses_textual#DASHENDQUOTE" target="_blank" class="inactive">
           
           
@@ -1497,8 +1431,7 @@ EOT
                 </span>
                 
               </a></span></div>
-            
-         </div>
+            </div>
          
          <div class="chapter" id="">
             <span class="head-chapter" id=""><span class="space" style="padding-left:1.2em"> </span>chapter III<div class="half"></div></span>
@@ -1549,7 +1482,7 @@ EOT
           class="s-subst s-add s-overwrite s-inline">u</div>r spirits go b<div 
           class="subst-del s-subst s-del" >e</div><div 
           class="s-subst s-add s-overwrite s-inline">y</div> this let us<br/>
-                        run and tell <span class="persName-fictional-MAMMA">mamma</span>.&#x201D;<span class="gloss-inline">
+                        run and tell <span class="persName-fictional-MAMMA">mamma</span>.”<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/harry_and_lucy_vol1_glosses_contextual#TELLMAMMAGLOSS" target="_blank" class="inactive">
           
           
@@ -1595,8 +1528,7 @@ EOT
                     f<div 
           class="subst-del s-subst s-del" >o</div><div 
           class="s-subst s-add s-overwrite s-inline">r</div>om her worktable. <span class="doubleletter">Y</span>ou<br/>
-                    shall have these in reward
-            </div>
+                    shall have these in reward</div>
             
             
             <div class="p"><div 
@@ -1625,7 +1557,7 @@ EOT
           class="subst-del s-subst s-del" >i</div><div 
           class="s-subst s-add s-overwrite s-inline"></div>n reward for breaking<br/>
                     the window what can you<br/>
-                        mean <span class="persName-fictional-MAMMA">mother</span>.&#x201D;<span class="gloss-inline">
+                        mean <span class="persName-fictional-MAMMA">mother</span>.”<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/harry_and_lucy_vol1_glosses_textual#DASHENDQUOTE" target="_blank" class="inactive">
           
           
@@ -1641,7 +1573,7 @@ EOT
                     breaking the window <span class="l"><span class="del-scratchout">but</span><div 
               class="add-above" 
               style="left:NaNem">not</div></span><br/>
-                    in reward for break&#x2010;<br/>
+                    in reward for break‐<br/>
                     ing the window but<div class="g-justification" style="width:NaNem"> </div><span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/harry_and_lucy_vol1_glosses_textual#JUSTIFICATION" target="_blank" class="inactive">
           
@@ -1653,13 +1585,11 @@ EOT
                 
               </a></span><br/>
                     in reward for coming<br/>
-                    and telling me of it.&#x201D;
-            </div>
+                    and telling me of it.”</div>
             
             
             <div class="p"><span class="doubleletter">H</span>o ho so that is the<br/>
-                        reason <span class="persName-fictional-MAMMA">mamma</span>.&#x201D;
-            </div>
+                        reason <span class="persName-fictional-MAMMA">mamma</span>.”</div>
             
             
             <div class="p"><span class="doubleletter-fill">Y</span>es that is it my dears.<span class="gloss-inline">
@@ -1737,7 +1667,7 @@ EOT
               style="left:2.4em">they</div>thought of shaking it<br/>               
                     but then they could not shake<br/>
                     it because it was too firm<br/>
-               <span class="doubleletter">N</span>ext they thought of climb&#x2010;<br/>
+               <span class="doubleletter">N</span>ext they thought of climb‐<br/>
                     ing but the <span class="del-scratchout">the</span> tree was<br/>
                     too rugged for that <span class="doubleletter">N</span>ext<br/>
                
@@ -1757,8 +1687,7 @@ EOT
               </a></span><br/>
                     theirs and they must not<br/>
                     fell it so they were in a<br/>
-                    great perplexity.
-            </div>
+                    great perplexity.</div>
             
             
             <div class="p"><span class="doubleletter-fill">A</span>t last they saw a man<br/>
@@ -1773,8 +1702,7 @@ EOT
                 
               </a></span><br/>
                     asked him whether it<br/>
-                    might be felled.
-            </div>
+                    might be felled.</div>
             
             
             <div class="p"><span class="doubleletter">H</span>e said that it was<div class="g-justification" style="width:NaNem"> </div><span class="gloss-inline">
@@ -1788,8 +1716,7 @@ EOT
                 
               </a></span><br/>
                     his and they might cut<br/>
-                    it down.
-            </div>
+                    it down.</div>
             
             
             <div class="p"><span class="doubleletter-fill">H</span>e went and got a man<br/>
@@ -1824,7 +1751,7 @@ EOT
           class="s-subst s-add s-overwrite s-inline">24</div> <span class="del-erasure">3</span><span class="space" style="padding-left:0.8em"> </span><span class="del-erasure">22</span></div><br/>
                <span class="add"></span><h1 class="page-title"><span class="title-artwork-JRLUCYHUTCHMSI">Lucy hutch of rabbits<br/>
                      <span class="space" style="padding-left:2.8em"> </span>and her silkworms</span></h1>
-               &#x005B;<i>Pencil drawing</i>.&#x2014;From left, a rabbit cage, with a rabbit inside; a table with cocoons(?) sorted on top, and with silkworms(?) crawling up its legs; and a (mulberry?) tree.&#x005D;
+               [<i>Pencil drawing</i>.—From left, a rabbit cage, with a rabbit inside; a table with cocoons(?) sorted on top, and with silkworms(?) crawling up its legs; and a (mulberry?) tree.]
                
                
                <div id="1229117v" class="pb"></div>
@@ -1833,8 +1760,7 @@ EOT
                
                <div id="1229117r" class="pb"></div>
                <div class="pageNum-top-left"><span class="space" style="padding-left:2.4em"> </span><span class="del-erasure">24</span><span class="add-overwriting">26</span><span class="space" style="padding-left:0.8em"> </span><span class="del-erasure">2<span class="unclear-CWB">9</span></span></div><br/>
-                ly home.
-            </div>
+                ly home.</div>
             
             <div class="p"><span class="persName-fictional-HARRY">Harry</span> did not dare<br/>
                     to do that again but as<br/>
@@ -1850,8 +1776,7 @@ EOT
                     the a<div 
           class="subst-del s-subst s-del" >r</div><div 
           class="s-subst s-add s-overwrite s-inline">i</div>r and down as<br/>
-                    if it was a fountain
-            </div>
+                    if it was a fountain</div>
             
             
             <div class="p"><span class="persName-fictional-LUCY"><span class="doubleletter-fill">L</span>ucy</span> asked <span class="persName-fictional-HARRY">harry</span> to<br/>
@@ -1865,11 +1790,10 @@ EOT
                 </span>
                 
               </a></span><br/>
-                    pond and he did.
-            </div>
+                    pond and he did.</div>
             
             
-            <div class="p"><span class="doubleletter-fill">I</span>t just now hap&#x2010;<br/>
+            <div class="p"><span class="doubleletter-fill">I</span>t just now hap‐<br/>
                     penned that <span class="persName-fictional-LUCY">Lucy</span>s<div class="g-justification" style="width:NaNem"> </div><span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/harry_and_lucy_vol1_glosses_textual#JUSTIFICATION" target="_blank" class="inactive">
           
@@ -1890,10 +1814,8 @@ EOT
           class="subst-del s-subst s-del" >v</div><div 
           class="s-subst s-add s-overwrite s-inline">f</div>or what<br/>
                     only her <span class="persName-fictional-MAMMA">mother</span> wanted<br/>
-                    her
+                    her</div>
             </div>
-            
-         </div>
          
          <div class="chapter" id="">
             <span class="head-chapter" id=""><span class="doubleletter">H</span><div class="half"></div><div class="add-margin"><span class="space" style="padding-left:2.0em"> </span>chap 4</div></span>
@@ -1917,8 +1839,7 @@ EOT
               </a></span><br/>
                     canal was too deep to get<br/>
                     it up again <span class="persName-fictional-HARRY">harry</span> was<br/>
-                    in a puzzle.
-            </div>
+                    in a puzzle.</div>
             
             
             <div class="p"><span class="doubleletter">A</span>t last <span class="persName-fictional-LUCY">lucy</span> came t<div 
@@ -1943,8 +1864,7 @@ EOT
                     the <div 
           class="subst-del s-subst s-del" >w</div><div 
           class="s-subst s-add s-overwrite s-inline">ve</div>ssel and brought<br/>
-                    it up again.
-            </div>
+                    it up again.</div>
             
             
             <div class="p"><span class="persName-fictional-HARRY"><span class="doubleletter">H</span>arry</span> set to work to<br/>
@@ -1969,11 +1889,10 @@ EOT
                 
               </a></span><br/>
                     put it into the water<br/>
-                    and it swam.
-            </div>
+                    and it swam.</div>
             
             
-            <div class="p"><span class="doubleletter">N</span>ow <span class="persName-fictional-HARRY">harry</span> want&#x2010;<br/>
+            <div class="p"><span class="doubleletter">N</span>ow <span class="persName-fictional-HARRY">harry</span> want‐<br/>
                     ed a kite and at last<br/>
                     his <span class="persName-fictional-MAMMA">mother</span> gave him<br/>
                     one. <span class="doubleletter">O</span>ne day when<br/>
@@ -2032,8 +1951,7 @@ EOT
                 </span>
                 
               </a></span><br/>
-                    had some water in it.
-            </div>
+                    had some water in it.</div>
             
             
             <div class="p"><span class="doubleletter">T</span>his let <span class="persName-fictional-HARRY">harry</span> know<div class="g-justification" style="width:NaNem"> </div><span class="gloss-inline">
@@ -2046,7 +1964,7 @@ EOT
                 </span>
                 
               </a></span><br/>
-                    that he had not com&#x2010;<br/>
+                    that he had not com‐<br/>
                <span class="doubleletter">p</span>letely stop<div 
               class="add-below" 
               style="left:5.2em">⌄</div><div 
@@ -2079,7 +1997,7 @@ EOT
               </a></span><br/>
                     it was <span class="persName-fictional-HARRY">harry</span> poured<br/>
                     out the water and was<br/>
-                    done with it<span class="unclear-DCH">!</span>&#x201D;<span class="gloss-inline">
+                    done with it<span class="unclear-DCH">!</span>”<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/harry_and_lucy_vol1_glosses_textual#DASHENDQUOTE" target="_blank" class="inactive">
           
           
@@ -2117,11 +2035,10 @@ EOT
                 
               </a></span><br/>
                a mans finger is for a child<br/>
-                    too large
-            </div>
+                    too large</div>
             
             
-            <div class="p">right said <span class="persName-fictional-HARRY">harry</span>.&#x201D;<br/>
+            <div class="p">right said <span class="persName-fictional-HARRY">harry</span>.”<br/>
                a lea<div 
           class="subst-del s-subst s-del" >v</div><div 
           class="s-subst s-add s-overwrite s-inline">f</div>e is a Leaf but it<div class="g-justification" style="width:NaNem"> </div><span class="gloss-inline">
@@ -2134,8 +2051,7 @@ EOT
                 </span>
                 
               </a></span><br/>
-                    grows on a <span class="overwriting">root</span>.&#x201D;
-            </div>
+                    grows on a <span class="overwriting">root</span>.”</div>
             
             
             <div class="p"><span class="persName-fictional-LUCY"><span class="doubleletter">L</span>ucy</span> found out this<div class="g-justification" style="width:NaNem"> </div><span class="gloss-inline">
@@ -2168,14 +2084,13 @@ EOT
                 </span>
                 
               </a></span><br/>
-                    and the leaf on a tree.
-            </div>
+                    and the leaf on a tree.</div>
             
             
             <div class="p"><span class="persName-fictional-HARRY"><span class="doubleletter">H</span>arry</span> said she was<br/>
                     right.<br/>
                a little book is made<br/>
-                        of paste.&#x201D;<span class="gloss-inline">
+                        of paste.”<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/harry_and_lucy_vol1_glosses_contextual#HARRYSAIDGLOSS" target="_blank" class="inactive">
           
           
@@ -2199,27 +2114,24 @@ EOT
                
                <div id="1229121v" class="pb"></div>
                <div class="placeNum-top"><span class="space" style="padding-left:1.2em"> </span>33</div><br/>
-                    made of paste.&#x201D;
-            </div>
+                    made of paste.”</div>
             
             
             <div class="p"><span class="doubleletter">A</span>lls right we have <span class="doubleletter">d</span>one<br/>
-                    with <span class="overwriting">o</span>ur riddles.
-            </div>
+                    with <span class="overwriting">o</span>ur riddles.</div>
             
             
-            <div class="p">What only three.&#x201D;</div>
+            <div class="p">What only three.”</div>
             
             
             <div class="p">threes enough.</div>
             
             
             <div class="p"><span class="doubleletter">W</span>e will have some more<br/>
-                    ridde<span class="del-erasure"><span class="del-strikethrough">l</span></span>s some other time.
-            </div>
+                    ridde<span class="del-erasure"><span class="del-strikethrough">l</span></span>s some other time.</div>
             
             
-            <div class="p">So we will.&#x201D;</div>
+            <div class="p">So we will.”</div>
             
             
             <div class="p"><span class="doubleletter">T</span>he first thing <span class="persName-fictional-HARRY">Harry</span><br/>
@@ -2302,10 +2214,8 @@ EOT
                 </span>
                 
               </a></span><br/>
-                    it
+                    it</div>
             </div>
-            
-         </div>
          
          <div class="chapter" id="">
             <span class="head-chapter" id=""><div class="half"></div><div class="add-margin">chap 5</div></span>
@@ -2346,8 +2256,7 @@ EOT
                 </span>
                 
               </a></span><br/>
-                    read.
-            </div>
+                    read.</div>
             
             
             <div class="p">But besides reading<div class="g-justification" style="width:NaNem"> </div><span class="gloss-inline">
@@ -2445,7 +2354,7 @@ EOT
                 
               </a></span><br/>
                     dancing <span class="del-scratchout">h<span class="unclear-CWB"><span class="space" style="padding-left:0.4em"> </span>a</span></span>and flying<br/>
-                    and eating and hop&#x2010;<br/>
+                    and eating and hop‐<br/>
                     ping and jumping<div class="g-justification" style="width:NaNem"> </div><span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/harry_and_lucy_vol1_glosses_textual#JUSTIFICATION" target="_blank" class="inactive">
           
@@ -2456,8 +2365,7 @@ EOT
                 </span>
                 
               </a></span><br/>
-                    all over the green.
-            </div>
+                    all over the green.</div>
             
             <div id="1229122r" class="pb"></div>
             <div class="pageNum-top-left"><span class="space" style="padding-left:2.0em"> </span>3<span class="del-erasure"><span class="unclear-CWB">4</span></span><span class="add-overwriting">6</span><span class="gloss-inline">
@@ -2506,8 +2414,7 @@ EOT
                 
               </a></span><br/>
                     had kept it a secret even<br/>
-                    from her.
-            </div>
+                    from her.</div>
             
             
             <div class="p"><span class="doubleletter-fill">N</span>ow they went in and<div class="g-justification" style="width:NaNem"> </div><span class="gloss-inline">
@@ -2521,21 +2428,18 @@ EOT
                 
               </a></span><br/>
                <span class="persName-fictional-HARRY">harry</span> was dressing him<br/>
-                    self when he was inter&#x2010;<br/>
+                    self when he was inter‐<br/>
                     rupted by <span class="persName-fictional-LUCY"><span class="doubleletter">L</span>ucy</span> running<br/>
-                    jumping and cutting ca&#x2010;<br/>
-                    pers.
-            </div>
+                    jumping and cutting ca‐<br/>
+                    pers.</div>
             
             
-            <div class="p"><span class="doubleletter">W</span>hy whats the mat&#x2010;<br/>
-                    ter my dear.
-            </div>
+            <div class="p"><span class="doubleletter">W</span>hy whats the mat‐<br/>
+                    ter my dear.</div>
             
             
             <div class="p"><span class="persName-fictional-HARRY">Harry</span> do you know<br/>
-                    we are going to the seaside again.
-            </div>
+                    we are going to the seaside again.</div>
             
             
             <div class="p"><div 
@@ -2555,9 +2459,9 @@ EOT
                
                
                <h1 class="page-title"><span class="del-scratchout">4</span> 5 <span class="title-artwork-JRLUCYSDRAWINGROOMMSI">Lucys drawing room</span></h1>
-               &#x005B;<i>Pencil drawing</i>.&#x2014;An interior room, containing, from left, a door; a picture hanging on the wall or from a picture rail, 
+               [<i>Pencil drawing</i>.—An interior room, containing, from left, a door; a picture hanging on the wall or from a picture rail, 
                         showing two trees on a hilly terrain; a round table, at which a person (male?) is seated in a chair, with an arm extended toward a book(?); 
-                        an angle between walls; a picture hanging on the wall, showing a ship at sea.&#x005D;<span class="gloss-inline">
+                        an angle between walls; a picture hanging on the wall, showing a ship at sea.]<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/harry_and_lucy_vol1_glosses_textual#PLATENUMBER" target="_blank" class="inactive">
           
           
@@ -2598,11 +2502,10 @@ EOT
                 
               </a></span> dress your<br/>
                     self as fast as you can<br/>
-                    be ready.
-            </div>
+                    be ready.</div>
             
             
-            <div class="p"><span class="persName-fictional-LUCY"><span class="doubleletter">L</span>ucy</span> <span class="sic">prounounced &#x005B;sic&#x005D;</span> the<div class="g-justification" style="width:NaNem"> </div><span class="gloss-inline">
+            <div class="p"><span class="persName-fictional-LUCY"><span class="doubleletter">L</span>ucy</span> <span class="sic">prounounced [sic]</span> the<div class="g-justification" style="width:NaNem"> </div><span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/harry_and_lucy_vol1_glosses_textual#JUSTIFICATION" target="_blank" class="inactive">
           
           
@@ -2615,7 +2518,7 @@ EOT
                     words as fast as she<br/>
                     could that was the why<br/>
                     that she forgot the part<br/>
-                    of speech <span class="unclear-DCH">&#x2014;</span> and <span class="unclear-CWB">&#x2014;.</span><span class="gloss-inline">
+                    of speech <span class="unclear-DCH">—</span> and <span class="unclear-CWB">—.</span><span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/harry_and_lucy_vol1_glosses_contextual#PARTOFSPEECHGLOSS" target="_blank" class="inactive">
           
           
@@ -2645,7 +2548,7 @@ EOT
                 </span>
                 
               </a></span><br/>
-                    his <span class="persName-fictional-PAPA">father</span> <span class="sic">withe<span class="persName-fictional-LUCY">Lucy</span> &#x005B;sic&#x005D;</span><br/>
+                    his <span class="persName-fictional-PAPA">father</span> <span class="sic">withe<span class="persName-fictional-LUCY">Lucy</span> [sic]</span><br/>
                     away they went.<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/harry_and_lucy_vol1_glosses_contextual#AWAYTHEYWENTGLOSS" target="_blank" class="inactive">
           
@@ -2656,7 +2559,7 @@ EOT
               </a></span></div>
             
             
-            <div class="p"><span class="doubleletter">P</span>resent&#x2010;<div 
+            <div class="p"><span class="doubleletter">P</span>resent‐<div 
               class="add-below" 
               style="left:3.6em">⌄</div>ly<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/harry_and_lucy_vol1_glosses_textual#JUSTIFICATIONCARET" target="_blank" class="inactive">
@@ -2756,11 +2659,9 @@ EOT
                 </span>
                 
               </a></span><br/>
-                    they got to the inn.
+                    they got to the inn.</div>
+            
             </div>
-            
-            
-         </div>
          
          <div class="chapter" id="">
             <span class="head-chapter" id="">chap 6<span class="add"><div class="quarter"></div></span><span class="add"><div class="quarter"></div></span></span>
@@ -2833,8 +2734,7 @@ EOT
                 
               </a></span><br/>
                     they could not see one<br/>
-                    spot of black upon it.<br/>
-            </div>
+                    spot of black upon it.<br/></div>
             
             
             <div class="p">just like the froth<br/>
@@ -2858,8 +2758,7 @@ EOT
                 <span class="gloss-contextual">
                 26
                 </span>
-              </a></span> said <span class="persName-fictional-HARRY">harry</span>.
-            </div>
+              </a></span> said <span class="persName-fictional-HARRY">harry</span>.</div>
             
             
             <div class="p">Ha ha thats an odd<br/>
@@ -2878,27 +2777,25 @@ EOT
             
             <div class="p">Ha ha ha ha you will<br/>
                     come to nonsense at<br/>
-                    last <span class="persName-fictional-HARRY">harry</span>.
-            </div>
+                    last <span class="persName-fictional-HARRY">harry</span>.</div>
             
             
             <div class="p"><span class="doubleletter">N</span>o said <span class="persName-fictional-HARRY">harry</span> youll<br/>
-                    get to nonsense.
-            </div>
+                    get to nonsense.</div>
             
             <div id="1229125r" class="pb"></div>
             <div class="pageNum-top-left"><span class="space" style="padding-left:2.4em"> </span><span class="del-erasure">40</span><span class="add-overwriting">42</span></div><br/>
             
             
             <h1 class="page-title"><span class="del-scratchout">5</span> 6 <span class="title-artwork-JRSHIPLAUNCHMSI">harry seeing a ship<br/><span class="space" style="padding-left:1.6em"> </span>launch</span></h1>
-            &#x005B;<i>Pencil drawing</i>.&#x2014;Three-masted ship, with a figure next to the bow.<span class="gloss-inline">
+            [<i>Pencil drawing</i>.—Three-masted ship, with a figure next to the bow.<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/harry_and_lucy_vol1_glosses_contextual#SHIPLAUNCHGLOSS" target="_blank" class="inactive">
           
           
                 <span class="gloss-contextual">
                 28
                 </span>
-              </a></span>&#x005D;
+              </a></span>]
             
             
             <div id="1229126v" class="pb"></div>
@@ -2923,9 +2820,8 @@ EOT
               </a></span><br/>
                     gr<span class="overwriting">e</span><div 
           class="subst-del s-subst s-del" ><span class="unclear-CWB">t</span></div><div 
-          class="s-subst s-add s-overwrite s-inline">a</div>t many words ab&#x2010;<br/>
-                    out one thing said <span class="persName-fictional-LUCY"><span class="doubleletter">L</span>ucy</span>.
-            </div>
+          class="s-subst s-add s-overwrite s-inline">a</div>t many words ab‐<br/>
+                    out one thing said <span class="persName-fictional-LUCY"><span class="doubleletter">L</span>ucy</span>.</div>
             
             
             <div class="p"><div 
@@ -2933,8 +2829,7 @@ EOT
           class="s-subst s-add s-overwrite s-inline">S</div>o m<div 
           class="subst-del s-subst s-del" >o</div><div 
           class="s-subst s-add s-overwrite s-inline">u</div>ch the better said<br/>
-               <span class="persName-fictional-HARRY">harry</span>.
-            </div>
+               <span class="persName-fictional-HARRY">harry</span>.</div>
             
             
             <div class="p">So much the worse said <span class="persName-fictional-LUCY"><span class="doubleletter">L</span>ucy</span><span class="gloss-inline">
@@ -2958,8 +2853,7 @@ EOT
               </a></span></div>
             
             
-            <div class="p"><span class="doubleletter-fill">N</span>o I do not what is it.
-            </div>
+            <div class="p"><span class="doubleletter-fill">N</span>o I do not what is it.</div>
             
             
             <div class="p"><span class="doubleletter">T</span>he fact was that <span class="persName-fictional-HARRY">harry</span> had<br/>
@@ -3003,8 +2897,7 @@ EOT
                 </span>
                 
               </a></span><br/>
-                    blazing.
-            </div>
+                    blazing.</div>
             
             
             <div class="p"><span class="doubleletter">T</span>hats a bad job indeed<div class="g-justification" style="width:NaNem"> </div><span class="gloss-inline">
@@ -3032,8 +2925,7 @@ EOT
                 </span>
                 
               </a></span><br/>
-                    may set fire to it.
-            </div>
+                    may set fire to it.</div>
             
             
             <div class="p"><span class="doubleletter-fill">N</span>o <span class="persName-fictional-PAPA">papa</span> said <span class="persName-fictional-HARRY">harry</span><br/>
@@ -3043,8 +2935,7 @@ EOT
                     by a ditch which is wet<br/>
                     and if the flames come<br/>
                     to it they will quickly<br/>
-                    be quenched
-            </div>
+                    be quenched</div>
             
             
             <div class="p"><span class="doubleletter-fill">B</span>ut remember <span class="persName-fictional-HARRY">harry</span><br/>
@@ -3058,8 +2949,7 @@ EOT
                 </span>
                 
               </a></span><br/>
-                    not quench much fire
-            </div>
+                    not quench much fire</div>
             
             
             <div class="p"><span class="doubleletter-fill">B</span>ut theres a great<div class="g-justification" style="width:NaNem"> </div><span class="gloss-inline">
@@ -3073,8 +2963,7 @@ EOT
                 
               </a></span><br/>
                     deal of water i<span class="overwriting">n</span> the<br/>
-                    ditch.
-            </div>
+                    ditch.</div>
             
             <div id="1229127v" class="pb"></div>
             <div class="pageNum-top-left"><span class="space" style="padding-left:1.2em"> </span>4<div 
@@ -3134,12 +3023,11 @@ EOT
               </a></span><br/>
                <div 
               class="add-above" 
-              style="left:NaNem">little froth</div>appearing
-            </div>
+              style="left:NaNem">little froth</div>appearing</div>
             
             
             <div class="p">give me my telescope<br/>
-               <span class="persName-fictional-HARRY">harry</span> and I&#x02BC;ll<span class="gloss-inline">
+               <span class="persName-fictional-HARRY">harry</span> and Iʼll<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/harry_and_lucy_vol1_glosses_textual#APOSTROPHE" target="_blank" class="inactive">
           
           
@@ -3158,8 +3046,7 @@ EOT
                 </span>
                 
               </a></span><br/>
-                    you.
-            </div>
+                    you.</div>
             
             
             <div class="p">its the sea.</div>
@@ -3170,8 +3057,7 @@ EOT
           class="s-subst s-add s-overwrite s-inline">t</div>he sea</div>
             
             
-            <div class="p"><span class="overwriting">Y</span>es the sea
-            </div>
+            <div class="p"><span class="overwriting">Y</span>es the sea</div>
             
             
             <div class="p">a shout of joy followed<span class="gloss-inline">
@@ -3206,12 +3092,10 @@ EOT
             
             
             <div class="p">Are we going to hast<span class="del-scratchout">i</span><br/>
-                    ings.
-            </div>
+                    ings.</div>
             
             
-            <div class="p"><span class="doubleletter-fill">Y</span>es.
-            </div>
+            <div class="p"><span class="doubleletter-fill">Y</span>es.</div>
             
             
             <div class="p"><span class="doubleletter-fill">B</span>y this time they had<br/>
@@ -3255,7 +3139,7 @@ EOT
                 
               </a></span><br/>
                     two master which<br/>
-                    he showed to&#x2038;<div 
+                    he showed to‸<div 
               class="add-above" 
               style="left:NaNem"><span class="persName-fictional-LUCY">Lucy</span></div><span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/harry_and_lucy_vol1_glosses_textual#SHOWEDTOLUCY" target="_blank" class="inactive">
@@ -3268,8 +3152,7 @@ EOT
                 
               </a></span></div>
             
-            
-         </div>
+            </div>
          
          <div class="chapter" id="">
             <span class="head-chapter" id="">chap 7</span>
@@ -3392,7 +3275,7 @@ EOT
           class="s-subst s-add s-overwrite s-inline">u</div>ld pre<div 
           class="subst-del s-subst s-del" >w</div><div 
           class="s-subst s-add s-overwrite s-inline">ve</div>nt him<br/>
-                    gnawed it to peices <span class="persName-fictional-HARRY">Harry</span> find&#x2010;<br/>
+                    gnawed it to peices <span class="persName-fictional-HARRY">Harry</span> find‐<br/>
                     ing that amusement stopped am<br/>
                     used himself for some time<div class="g-justification" style="width:NaNem"> </div><span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/harry_and_lucy_vol1_glosses_textual#JUSTIFICATION" target="_blank" class="inactive">
@@ -3477,8 +3360,7 @@ EOT
                 </span>
                 
               </a></span><br/>
-                    took tea and went to bed.
-            </div>
+                    took tea and went to bed.</div>
             
             <div class="p"><span class="doubleletter-fill">N</span>ext morning they were<div class="g-justification" style="width:NaNem"> </div><span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/harry_and_lucy_vol1_glosses_textual#JUSTIFICATION" target="_blank" class="inactive">
@@ -3557,8 +3439,7 @@ EOT
                
                <div id="1229130v" class="pb"></div>
                <div class="pageNum-top-left"><span class="space" style="padding-left:3.2em"> </span>49</div><br/>
-                    was out.
-            </div>
+                    was out.</div>
             
             <div class="p"><span class="persName-fictional-HARRY">Harry</span>s <span class="persName-fictional-PAPA">father</span> now said that<br/>
                     it was a ship on fire and on<br/>
@@ -3578,8 +3459,7 @@ EOT
                     and <span class="persName-fictional-HARRY"><span class="doubleletter">H</span>arry</span> agreed in his opinion<br/>
                <span class="doubleletter">N</span>ow <span class="persName-fictional-HARRY"><span class="doubleletter-fill">H</span>arry</span> went to <span class="persName-fictional-LUCY"><span class="doubleletter-fill">L</span>ucy</span> to<br/>
                     remind her of riddles and he<br/>
-                    began.
-            </div>
+                    began.</div>
             
             <div class="p">
                <span class="space" style="padding-left:2.4em"> </span>three parts of a cross<br/>
@@ -3591,13 +3471,11 @@ EOT
             <div id="1229130r" class="pb"></div>
             <div class="pageNum-top-left"><span class="space" style="padding-left:2.8em"> </span>50</div><br/>
             
-            <div class="p">I know that riddle it&#x02BC;s tobacco<br/>
-                    said <span class="persName-fictional-LUCY"><span class="doubleletter-fill">L</span>ucy</span>.
-            </div>
+            <div class="p">I know that riddle itʼs tobacco<br/>
+                    said <span class="persName-fictional-LUCY"><span class="doubleletter-fill">L</span>ucy</span>.</div>
             
             <div class="p"><span class="doubleletter-fill">Y</span>es it is said <span class="persName-fictional-HARRY"><span class="doubleletter-fill">H</span>arry</span> but how<br/>
-                    does it make tobacco.
-            </div>
+                    does it make tobacco.</div>
             
             <div class="p">three parts of a cross make <span class="doubleletter-fill">T</span><br/>
                     and a circle complete <span class="doubleletter-fill">O</span><div class="g-justification" style="width:NaNem"> </div><span class="gloss-inline">
@@ -3615,16 +3493,14 @@ EOT
                     feet <span class="doubleletter-fill">A</span> two semicircles and<br/>
                     a circle complete double <span class="doubleletter-fill">C</span><br/>
                     and <span class="doubleletter-fill">O</span> <span class="doubleletter-fill">Y</span>es said <span class="persName-fictional-HARRY"><span class="doubleletter-fill">H</span>arry</span> but<br/>
-                    I will give you another
-            </div>
+                    I will give you another</div>
             
             <div class="p"><span class="space" style="padding-left:3.2em"> </span>two letter s each<br/>
                <span class="space" style="padding-left:3.2em"> </span>and each a half<br/>
                <span class="space" style="padding-left:3.2em"> </span>of w<div 
           class="subst-del s-subst s-del" >a</div><div 
           class="s-subst s-add s-overwrite s-inline">h</div>at the beach<br/>
-               <span class="space" style="padding-left:3.2em"> </span>was involved in
-            </div>
+               <span class="space" style="padding-left:3.2em"> </span>was involved in</div>
             
             <div class="p">fire said <span class="persName-fictional-LUCY">Lucy</span></div>
             <div id="1229131v" class="pb"></div>
@@ -3640,10 +3516,8 @@ EOT
                 </span>
                 
               </a></span><br/>
-                    done
+                    done</div>
             </div>
-            
-         </div>
          
          <div class="chapter" id="">
             <span class="head-chapter" id=""><span class="space" style="padding-left:1.6em"> </span>chap 8</span>
@@ -3732,8 +3606,7 @@ EOT
                 </span>
                 
               </a></span><br/>
-                    and went to bed.
-            </div>
+                    and went to bed.</div>
             
             <div class="p">Next morning <span class="persName-fictional-HARRY"><span class="doubleletter-fill">H</span>arry</span> went<div class="g-justification" style="width:NaNem"> </div><span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/harry_and_lucy_vol1_glosses_textual#JUSTIFICATION" target="_blank" class="inactive">
@@ -3872,11 +3745,10 @@ EOT
                 </span>
                 
               </a></span><br/>
-                    sort of foot&#x2010;path sometimes<br/>
-                    a full view of the sea some&#x2010;<br/>
+                    sort of foot‐path sometimes<br/>
+                    a full view of the sea some‐<br/>
                     times none at all till unexpected<br/>
-                    ly they arrived at home.
-            </div>
+                    ly they arrived at home.</div>
             
             <div class="p"><span class="persName-fictional-HARRY"><span class="doubleletter-fill">H</span>arry</span> sat down to draw and<div class="g-justification" style="width:NaNem"> </div><span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/harry_and_lucy_vol1_glosses_textual#JUSTIFICATION" target="_blank" class="inactive">
@@ -3908,17 +3780,14 @@ EOT
                 </span>
                 
               </a></span><br/>
-                    to the door.
-            </div>
+                    to the door.</div>
             
             <div class="p"><span class="doubleletter-fill">W</span>ho is<div 
               class="add-above" 
-              style="left:2.4em">it</div> said <span class="persName-fictional-HARRY">Harry</span> look&#x2010;<br/>
-                    ing out.
-            </div>
+              style="left:2.4em">it</div> said <span class="persName-fictional-HARRY">Harry</span> look‐<br/>
+                    ing out.</div>
             
-            <div class="p"><span class="doubleletter-fill">I</span>t was only an arrival.
-            </div>
+            <div class="p"><span class="doubleletter-fill">I</span>t was only an arrival.</div>
             
             <div class="p"><span class="persName-fictional-HARRY"><span class="doubleletter-fill">H</span>arry</span> sat down again<div class="g-justification" style="width:NaNem"> </div><span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/harry_and_lucy_vol1_glosses_textual#JUSTIFICATION" target="_blank" class="inactive">
@@ -3941,7 +3810,7 @@ EOT
                 
               </a></span><br/>
                     they were soon turned out of<br/>
-                    their apartment and put in&#x2010;<br/>
+                    their apartment and put in‐<br/>
                     to another for they were<div class="g-justification" style="width:NaNem"> </div><span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/harry_and_lucy_vol1_glosses_textual#JUSTIFICATION" target="_blank" class="inactive">
           
@@ -3957,7 +3826,7 @@ EOT
                
                
                <h1 class="page-title"><span class="del-scratchout">7</span> 8<br/><span class="space" style="padding-left:2.0em"> </span><span class="title-artwork-JRHARRYSDOCKMSI">harrys dock</span></h1>
-               &#x005B;<i>Pencil drawing</i>.&#x2014;Drawing of a stone and/or brick arched bridge&#x2010;like structure, with stairs leading down to the water. Atop the bridge stands a faint figure next to a clock(?).&#x005D;
+               [<i>Pencil drawing</i>.—Drawing of a stone and/or brick arched bridge‐like structure, with stairs leading down to the water. Atop the bridge stands a faint figure next to a clock(?).]
                
                <div id="1229133v" class="pb"></div>
                <div class="pageNum-top-left"><span class="space" style="padding-left:2.8em"> </span>5<div 
@@ -3965,16 +3834,15 @@ EOT
           class="s-subst s-add s-overwrite s-inline">5</div></div><br/>
                     told that the person who<br/>
                     had just come in wanted<br/>
-                    their apartments.
-            </div>
+                    their apartments.</div>
             
             <div class="p"><span class="doubleletter-fill">A</span>fter dinner it being the<br/>
                     longest day tea came in<div class="g-justification" style="width:NaNem"> </div><br/>
-                    seemingly at three o&#x2010;clock<div class="g-justification" style="width:NaNem"> </div><br/>
+                    seemingly at three o‐clock<div class="g-justification" style="width:NaNem"> </div><br/>
                     when it was seven <span class="persName-fictional-HARRY">harry</span><br/>
                     going to bed at nine had<div class="g-justification" style="width:NaNem"> </div><br/>
                     only two hours to play<div class="g-justification" style="width:NaNem"> </div><br/>
-                    which he spent in draw&#x2010;<br/>
+                    which he spent in draw‐<br/>
                     ing and went to bed.<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/harry_and_lucy_vol1_glosses_contextual#LONGESTDAYGLOSS" target="_blank" class="inactive">
           
@@ -4005,7 +3873,7 @@ EOT
                 
               </a></span><br/>
                     to go on with science and<br/>
-                    told <span class="persName-fictional-LUCY"><span class="doubleletter-fill">L</span>ucy</span> he must be&#x2010;<br/>
+                    told <span class="persName-fictional-LUCY"><span class="doubleletter-fill">L</span>ucy</span> he must be‐<br/>
                     gin with pneumatics<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/harry_and_lucy_vol1_glosses_contextual#PNEUMATICSGLOSS" target="_blank" class="inactive">
           
@@ -4197,13 +4065,11 @@ EOT
                 </span>
                 
               </a></span><br/>
-                    away
-            </div>
+                    away</div>
             
             
             <div class="p"><span class="persName-fictional-HARRY"><span class="doubleletter-fill">H</span>arry</span> now said he would des<br/>
-                    cribe the airgun to <span class="persName-fictional-LUCY"><span class="doubleletter-fill">L</span>ucy</span>.
-            </div>
+                    cribe the airgun to <span class="persName-fictional-LUCY"><span class="doubleletter-fill">L</span>ucy</span>.</div>
             
             
             <div class="p"><span class="doubleletter-fill">W</span>hat is an airgun said <span class="persName-fictional-LUCY"><span class="doubleletter-fill">L</span>ucy</span><div class="g-justification" style="width:NaNem"> </div><span class="gloss-inline">
@@ -4228,13 +4094,11 @@ EOT
                 </span>
                 
               </a></span><br/>
-                    by air instead of gunpowder.
-            </div>
+                    by air instead of gunpowder.</div>
             
             
             <div class="p"><span class="doubleletter-fill">H</span>ow does it act by air instead<br/>
-                    of gunpowder.
-            </div>
+                    of gunpowder.</div>
             
             
             <div class="p"><span class="doubleletter-fill">T</span>here is a ball of condensed<div class="g-justification" style="width:NaNem"> </div><span class="gloss-inline">
@@ -4269,7 +4133,7 @@ EOT
                 </span>
                 
               </a></span><br/>
-                    a valve in the ball open<span class="del-erasure">e</span><span class="add-overwriting">i</span>ng in&#x2010;<br/>
+                    a valve in the ball open<span class="del-erasure">e</span><span class="add-overwriting">i</span>ng in‐<br/>
                     wards and when the ball is<div class="g-justification" style="width:NaNem"> </div><span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/harry_and_lucy_vol1_glosses_textual#JUSTIFICATION" target="_blank" class="inactive">
           
@@ -4330,8 +4194,7 @@ EOT
             
             
             <div class="p"><span class="doubleletter-fill">W</span>hat is the eolian harp said<br/>
-               <span class="persName-fictional-LUCY"><span class="doubleletter-fill">L</span>ucy</span>.
-            </div>
+               <span class="persName-fictional-LUCY"><span class="doubleletter-fill">L</span>ucy</span>.</div>
             
             
             <div class="p"><span class="doubleletter-fill">I</span>t is a sort of harp that acts<br/>
@@ -4373,14 +4236,13 @@ EOT
                 </span>
                 
               </a></span><br/>
-               <span class="persName-fictional-LUCY">ucy</span>.
-            </div>
+               <span class="persName-fictional-LUCY">ucy</span>.</div>
             <div id="1229135v" class="pb"></div>
             <div class="pageNum-top-left"><span class="space" style="padding-left:4.4em"> </span>59</div><br/>
             
             
             <h1 class="page-title"><span class="del-scratchout">8</span> 9<br/><span class="space" style="padding-left:2.0em"> </span><span class="title-artwork-JRHARRYSSHIPMSI">harrys ship</span></h1>
-            &#x005B;<i>Pencil drawing</i>.&#x2014;A masted ship, its sails unfurled at sea.&#x005D;
+            [<i>Pencil drawing</i>.—A masted ship, its sails unfurled at sea.]
             
             <div id="1229135r" class="pb"></div>
             <div class="pageNum-top-left"><span class="space" style="padding-left:2.8em"> </span>80<span class="gloss-inline">
@@ -4396,9 +4258,8 @@ EOT
             
             
             <div class="p"><span class="doubleletter-fill">T</span>hey are flannel water air<br/>
-                    which last is absolutely neces&#x2010;<br/>
-                    sary to sound.
-            </div>
+                    which last is absolutely neces‐<br/>
+                    sary to sound.</div>
             
             
             <div class="p"><span class="doubleletter-fill">W</span>ill you prove<div 
@@ -4406,8 +4267,7 @@ EOT
               style="left:5.6em">that</div> to me said <span class="persName-fictional-LUCY"><span class="doubleletter-fill">L</span>ucy</span></div>
             
             
-            <div class="p"><span class="doubleletter-fill">Y</span>es <span class="doubleletter-fill">I</span> will said <span class="persName-fictional-HARRY"><span class="doubleletter-fill">H</span>arry</span>.
-            </div>
+            <div class="p"><span class="doubleletter-fill">Y</span>es <span class="doubleletter-fill">I</span> will said <span class="persName-fictional-HARRY"><span class="doubleletter-fill">H</span>arry</span>.</div>
             
             
             <div class="p"><span class="persName-fictional-HARRY"><span class="doubleletter-fill">H</span>arry</span> then took a bell and<div class="g-justification" style="width:NaNem"> </div><span class="gloss-inline">
@@ -4432,24 +4292,20 @@ EOT
                 </span>
                 
               </a></span><br/>
-                    shook the air pump.
-            </div>
+                    shook the air pump.</div>
             
             
             <div class="p"><span class="doubleletter-fill">I</span> see plainly the clapper knocks<br/>
                     the side of the bell but <span class="doubleletter-fill">I</span> hear<br/>
-                    no noise said <span class="persName-fictional-LUCY"><span class="doubleletter-fill">L</span>ucy</span>.
-            </div>
+                    no noise said <span class="persName-fictional-LUCY"><span class="doubleletter-fill">L</span>ucy</span>.</div>
             
             
             <div class="p"><span class="doubleletter-fill">T</span>hat is because there is<br/>
-                    no air inside listen again.
-            </div>
+                    no air inside listen again.</div>
             
             
             <div class="p"><span class="doubleletter-fill">I</span> hear the bell very plainly<br/>
-                    now said <span class="persName-fictional-LUCY"><span class="doubleletter-fill">L</span>ucy</span>.
-            </div>
+                    now said <span class="persName-fictional-LUCY"><span class="doubleletter-fill">L</span>ucy</span>.</div>
             
             <div id="1229136v" class="pb"></div>
             <div class="pageNum-top-left"><span class="space" style="padding-left:3.6em"> </span>8I</div><br/>
@@ -4513,10 +4369,8 @@ EOT
                 
               </a></span><br/>
                     you now or I shall not have<br/>
-                    time for my lessons
+                    time for my lessons</div>
             </div>
-            
-         </div>
          
          <div class="chapter" id="">
             <div class="quarter"></div>
@@ -4526,10 +4380,10 @@ EOT
             
             <div class="p"><span class="doubleletter-fill">H</span><span class="doubleletter-fill"><span class="smallcaps">ar</span></span>r<span class="smallcaps">y</span> now determined to have<br/>
                     another grand scheme so he took<br/>
-                    a handfull of earth moistened<span class="g-runover">&#x2013;</span><div class="quarter"></div><br/>
+                    a handfull of earth moistened<span class="g-runover">–</span><div class="quarter"></div><br/>
                <div id="1229136r" class="pb"></div>
                <div class="pageNum-top-left"><span class="space" style="padding-left:4.4em"> </span>82</div><br/>
-               <span class="g-runover">&#x2013;</span>it with water and stuck it<div class="g-justification" style="width:NaNem"> </div><div class="quarter"></div><br/>
+               <span class="g-runover">–</span>it with water and stuck it<div class="g-justification" style="width:NaNem"> </div><div class="quarter"></div><br/>
                     onto the green. <span class="doubleletter-fill">H</span>e then took<br/>
                     another handfull<div 
               class="add-above" 
@@ -4608,7 +4462,7 @@ EOT
                 </span>
                 
               </a></span><br/>
-                    stop&#x2010;cock while he took off<div class="g-justification" style="width:NaNem"> </div><span class="gloss-inline">
+                    stop‐cock while he took off<div class="g-justification" style="width:NaNem"> </div><span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/harry_and_lucy_vol1_glosses_textual#JUSTIFICATION" target="_blank" class="inactive">
           
           
@@ -4630,7 +4484,7 @@ EOT
               </a></span><br/>
                     could escape but putting<br/>
                     a jet instead of a syringe<br/>
-                    and turning the stop&#x2010;cock<div class="g-justification" style="width:NaNem"> </div><span class="gloss-inline">
+                    and turning the stop‐cock<div class="g-justification" style="width:NaNem"> </div><span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/harry_and_lucy_vol1_glosses_textual#JUSTIFICATION" target="_blank" class="inactive">
           
           
@@ -4676,15 +4530,14 @@ EOT
                     s<span class="del-erasure"><span class="unclear-CWB">v</span></span><span class="add-overwriting">q</span>uare bottle<div 
               class="add-above" 
               style="left:NaNem">and</div> he <span class="overwriting">c</span>emented<br/>
-                    to it a screw&#x2010;valve by which<br/>
+                    to it a screw‐valve by which<br/>
                     he fixed it on the pla<span class="overwriting">t</span>e of the<br/>
                     air pump and exhausted the<br/>
                     air and the pressure of the at<br/>
                     mosphere <div 
           class="subst-del s-subst s-del" >o</div><div 
           class="s-subst s-add s-overwrite s-inline">u</div>pon the glass broke<br/>
-                    it into a thousand pieces.
-            </div>
+                    it into a thousand pieces.</div>
             
             
             <div class="p"><span class="persName-fictional-LUCY"><span class="doubleletter-fill">L</span>ucy</span> asked why he had<div class="g-justification" style="width:NaNem"> </div><span class="gloss-inline">
@@ -4698,8 +4551,7 @@ EOT
                 
               </a></span><br/>
                     chosen a square bottle instead<br/>
-                    of a round one.
-            </div>
+                    of a round one.</div>
             
             
             <div class="p"><span class="doubleletter-fill">B</span>ecause one of that shape<br/>
@@ -4737,7 +4589,7 @@ EOT
                 
               </a></span><br/>
                     pieces of iron zinc and stone<br/>
-               <span class="g-runover">-</span>&#x0026;c then he exhausted<div class="g-justification" style="width:NaNem"> </div><span class="gloss-inline">
+               <span class="g-runover">-</span>&c then he exhausted<div class="g-justification" style="width:NaNem"> </div><span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/harry_and_lucy_vol1_glosses_textual#JUSTIFICATION" target="_blank" class="inactive">
           
           
@@ -4864,7 +4716,7 @@ EOT
                <div id="1229139v" class="pb"></div>
                <div class="pageNum-top-left">88<span class="space" style="padding-left:1.2em"> </span><span class="del-erasure">9</span></div><br/>
                     of cork and a piece of lead and<br/>
-                    balanced the<span class="overwriting">m</span> on a scale&#x2010;beam<div class="g-justification" style="width:NaNem"> </div><span class="gloss-inline">
+                    balanced the<span class="overwriting">m</span> on a scale‐beam<div class="g-justification" style="width:NaNem"> </div><span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/harry_and_lucy_vol1_glosses_textual#JUSTIFICATION" target="_blank" class="inactive">
           
           
@@ -5097,7 +4949,7 @@ EOT
                     glass can filled with wa<br/>
                     ter and three little im<div 
           class="subst-del s-subst s-del" >g</div><div 
-          class="s-subst s-add s-overwrite s-inline">a</div>&#x2010;<br/>
+          class="s-subst s-add s-overwrite s-inline">a</div>‐<br/>
                     ges flo<span class="del-erasure">o</span><span class="add-overwriting">a</span>ting at the top<div class="g-justification" style="width:NaNem"> </div><span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/harry_and_lucy_vol1_glosses_textual#JUSTIFICATION" target="_blank" class="inactive">
           
@@ -5123,7 +4975,7 @@ EOT
                <div class="pageNum-top-left"><span class="space" style="padding-left:9.2em"> </span>9I</div><br/>
                     des<span class="del-erasure"><span class="unclear-CWB">e</span></span><span class="add-overwriting">c</span>ended to the bottom<span class="del-erasure"><div class="g-justification" style="width:NaNem"> </div></span><span class="add-overwriting">but</span><br/>
                     on removing the air they<br/>
-                    ascended to the top dragg&#x2010;<br/>
+                    ascended to the top dragg‐<br/>
                     ing the weights after them<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/harry_and_lucy_vol1_glosses_contextual#IMAGESGLOSS" target="_blank" class="inactive">
           
@@ -5179,8 +5031,7 @@ EOT
                 
               </a></span><br/>
                     them <span class="del-erasure">chap I0</span></div>
-            
-         </div>
+            </div>
          
          <div class="chapter" id="">
             <span class="head-chapter" id="">chap I0</span>
@@ -5263,8 +5114,7 @@ EOT
                     as many as he could reach<br/>
                <div id="1229141r" class="pb"></div>
                <div class="pageNum-top-left"><span class="space" style="padding-left:9.2em"> </span>93</div><br/>
-                    and go home.
-            </div>
+                    and go home.</div>
             
             <div class="p"><span class="persName-fictional-HARRY"><span class="doubleletter-fill">H</span>arry</span> sat down to draw<br/>
                     and had just said <span class="doubleletter-fill">H</span>ow<br/>
@@ -5310,7 +5160,7 @@ EOT
                 </span>
                 
               </a></span><br/>
-               <span class="persName-fictional-LUCY"><span class="doubleletter-fill">L</span>ucy</span> soon called him aw&#x2010;<br/>
+               <span class="persName-fictional-LUCY"><span class="doubleletter-fill">L</span>ucy</span> soon called him aw‐<br/>
                     ay and bid him observe<br/>
                     a great b<span class="del-erasure">a</span><span class="add-overwriting">l</span>ack cloud from<div class="g-justification" style="width:NaNem"> </div><span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/harry_and_lucy_vol1_glosses_textual#JUSTIFICATION" target="_blank" class="inactive">
@@ -5341,7 +5191,7 @@ EOT
                
                
                <div class="title"><span class="space" style="padding-left:2.8em"> </span><span class="title-artwork-JRHARRYSGARDENMSI"><span class="del-scratchout">I0</span>plat II<br/><span class="space" style="padding-left:2.0em"> </span>harrys garden</span></div>
-               &#x005B;<i>Pencil drawing</i>.&#x2014;An enclosed, flowering garden being tended by a figure with a shovel or some other garden implement.&#x005D;
+               [<i>Pencil drawing</i>.—An enclosed, flowering garden being tended by a figure with a shovel or some other garden implement.]
                
                <div id="1229142r" class="pb"></div>
                <div class="pageNum-top-left"><span class="space" style="padding-left:12.8em"> </span>95</div><br/>
@@ -5516,12 +5366,9 @@ EOT
                 
               </a></span><br/>
                     affected <span class="persName-fictional-HARRY"><span class="doubleletter-fill">H</span>arry</span> now when<br/>
-                    he saw in the clouds some&#x2010;<br/><span class="space" style="padding-left:8.4em"> </span>thing<br/><span class="space" style="padding-left:8.4em"> </span>like i<span class="supplied-CWB">t</span></div>
+                    he saw in the clouds some‐<br/><span class="space" style="padding-left:8.4em"> </span>thing<br/><span class="space" style="padding-left:8.4em"> </span>like i<span class="supplied-CWB">t</span></div>
             <div class="close-bottom">end of harry<br/>and Lucy</div><br/>
-            
-         </div>
+            </div>
          <div class="half"></div>
-         
-      </div>
-   </div><div id="" class="pb"></div>
-</div><?php require_once(ROOT_PATH."layout_includes/showcase_bottom.inc.php"); ?>
+         </div>
+   </div><div id="" class="pb"></div></div><?php require_once(ROOT_PATH."layout_includes/showcase_bottom.inc.php"); ?>

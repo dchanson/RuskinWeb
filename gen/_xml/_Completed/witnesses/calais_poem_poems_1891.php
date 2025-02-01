@@ -24,20 +24,17 @@ define("FACS_FILE_NAMES", <<<EOT
 EOT
 );
       ?>
-    <?php require_once(ROOT_PATH."layout_includes/showcase_top.inc.php"); ?><div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-left"><img id="facs_preview" src="" width="100&#x0025;"><img id="facs" src="" width="100&#x0025;" style="display:none"></div>
-<div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-splitter"></div>
-<div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-right">
+    <?php require_once(ROOT_PATH."layout_includes/showcase_top.inc.php"); ?><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-left"><img id="facs_preview" src="" width="100%"><img id="facs" src="" width="100%" style="display:none"></div><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-splitter"></div><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-right">
    <div class="backToApparatusLink"><a href="/apparatuses/apparatuses/account_of_a_tour_on_the_continent_apparatus#account_of_a_tour_on_the_continent_poems_1891" target="_self"></a><br/></div>
-   <div class="fileName"><span>&#x201C;Calais&#x201D; &#x005B;poem&#x005D;</span></div>
+   <div class="fileName"><span>“Calais” [poem]</span></div>
    <div class="witness">
       <div class="poem" id="">
          
-         <h1 class="page-title"><span class="caps">CALAIS</span>.
-         </h1>
+         <h1 class="page-title"><span class="caps">CALAIS</span>.</h1>
          
          <div class="lg-stanza">
             <span class="l">T<span class="smallcaps">HE</span> sands are in the sunlight sleeping,</span><br/>
-            <span class="l">&#x005B;The tide upon the bar is leaping;&#x005D;<span class="gloss-inline">
+            <span class="l">[The tide upon the bar is leaping;]<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/calais_poem_glosses_textual#CALAISPOEMLINE2" target="_blank" class="inactive">
           
           
@@ -58,7 +55,7 @@ EOT
                   <div class="tooltip">
           System generated line number
         </div><a href="#L5" id="L5">5</a></div></span><br/>
-            <span class="l">On playful childhood&#x02BC;s daring feet,</span><br/>
+            <span class="l">On playful childhoodʼs daring feet,</span><br/>
             <span class="l">That seeks within its sandy cell</span><br/>
             <span class="l">The pebble bright, or purple shell.<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/calais_glosses_contextual#CALAISPOEMSHELL" target="_blank" class="inactive">
@@ -79,9 +76,9 @@ EOT
           System generated line number
         </div><a href="#L10" id="L10">10</a></div></span><br/>
             <span class="l">Stretching away where paler grew</span><br/>
-            <span class="l">The heaven&#x02BC;s bright unclouded blue.</span><br/>
+            <span class="l">The heavenʼs bright unclouded blue.</span><br/>
             <span class="l">And, far away in distance dying,</span><br/>
-            <span class="l">Old <span class="placeName-ENGLAND">England</span>&#x02BC;s cliffy coast was lying;</span><br/>
+            <span class="l">Old <span class="placeName-ENGLAND">England</span>ʼs cliffy coast was lying;</span><br/>
             <span class="l">And beautiful as summer cloud
                <div class="s-line-number s-line-number-ruskin linenumber-right-JR">
                   <div class="tooltip">
@@ -92,14 +89,13 @@ EOT
           System generated line number
         </div><a href="#L15" id="L15">15</a></div></span><br/>
             <span class="l">By the low sun empurpled proud.</span><br/>
-            
-         </div>
+            </div>
          
          <div class="lg-stanza">
             <span class="l">Strange, that a space from shore to shore</span><br/>
-            <span class="l">So soon, so easily passed o&#x02BC;er,</span><br/>
+            <span class="l">So soon, so easily passed oʼer,</span><br/>
             <span class="l">Should yet a wide distinction place</span><br/>
-            <span class="l">&#x02BC;Twixt man and man, &#x02BC;twixt race and race!
+            <span class="l">ʼTwixt man and man, ʼtwixt race and race!
                <div class="s-line-number s-line-number-ruskin linenumber-right-JR">
                   <div class="tooltip">
              Ruskin's line number
@@ -108,7 +104,7 @@ EOT
                   <div class="tooltip">
           System generated line number
         </div><a href="#L20" id="L20">20</a></div></span><br/>
-            <span class="l">Sudden and marked the change you find,&#x2014;</span><br/>
+            <span class="l">Sudden and marked the change you find,—</span><br/>
             <span class="l">Religion, language, even mind;<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/calais_glosses_contextual#CALAISPOEMDISTINCTION" target="_blank" class="inactive">
           
@@ -119,9 +115,6 @@ EOT
               </a></span></span><br/>
             <span class="l">That you might think that narrow span</span><br/>
             <span class="l">Marked the varieties of man.</span><br/>
-            
+            </div>
          </div>
-         
-      </div>
-   </div><div id="" class="pb"></div>
-</div><?php require_once(ROOT_PATH."layout_includes/showcase_bottom.inc.php"); ?>
+   </div><div id="" class="pb"></div></div><?php require_once(ROOT_PATH."layout_includes/showcase_bottom.inc.php"); ?>

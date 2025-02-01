@@ -24,11 +24,9 @@ define("FACS_FILE_NAMES", <<<EOT
 EOT
 );
       ?>
-    <?php require_once(ROOT_PATH."layout_includes/showcase_top.inc.php"); ?><div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-left"><img id="facs_preview" src="" width="100&#x0025;"><img id="facs" src="" width="100&#x0025;" style="display:none"></div>
-<div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-splitter"></div>
-<div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-right">
+    <?php require_once(ROOT_PATH."layout_includes/showcase_top.inc.php"); ?><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-left"><img id="facs_preview" src="" width="100%"><img id="facs" src="" width="100%" style="display:none"></div><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-splitter"></div><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-right">
    <div class="backToApparatusLink"><a href="/apparatuses/apparatuses/account_of_a_tour_on_the_continent_apparatus#account_of_a_tour_on_the_continent_le" target="_self"></a><br/></div>
-   <div class="fileName"><span>&#x201C;The Descent&#x201D; &#x005B;poem&#x005D;</span></div>
+   <div class="fileName"><span>“The Descent” [poem]</span></div>
    <div class="witness">
       <div class="poem" id="">
          
@@ -67,8 +65,8 @@ EOT
                   <div class="tooltip">
           System generated line number
         </div><a href="#L5" id="L5">5</a></div></span><br/>
-            <span class="l">And all along that hill&#x02BC;s steep breast</span><br/>
-            <span class="l">With snake&#x2010;like coilings, wound our way<span class="gloss-inline">
+            <span class="l">And all along that hillʼs steep breast</span><br/>
+            <span class="l">With snake‐like coilings, wound our way<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/the_descent_glosses_contextual#WOUNDOURWAYGLOSS" target="_blank" class="inactive">
           
           
@@ -77,8 +75,8 @@ EOT
                 </span>
               </a></span></span><br/>
             <span class="l">On narrow shelves of rock, that lay</span><br/>
-            <span class="l">Almost o&#x02BC;erhanging, and so sheer,</span><br/>
-            <span class="l">&#x02BC;Twas terror to look down, so near
+            <span class="l">Almost oʼerhanging, and so sheer,</span><br/>
+            <span class="l">ʼTwas terror to look down, so near
                <div class="s-line-number s-line-number-auto">
                   <div class="tooltip">
           System generated line number
@@ -86,7 +84,7 @@ EOT
             <span class="l">To such a precipice of fear.</span><br/>
             <div id="" class="pb"></div>
             <span class="l">And far before, and far behind,</span><br/>
-            <span class="l">We tracked our dread way&#x02BC;s mazy wind,</span><br/>
+            <span class="l">We tracked our dread wayʼs mazy wind,</span><br/>
             <span class="l">Continuous and descending, low,</span><br/>
             <span class="l">At length looked up to the white snow
                <div class="s-line-number s-line-number-auto">
@@ -102,7 +100,7 @@ EOT
                   <div class="tooltip">
           System generated line number
         </div><a href="#L20" id="L20">20</a></div></span><br/>
-            <span class="l">Of a roaring torrent&#x02BC;s flashing force;<span class="gloss-inline">
+            <span class="l">Of a roaring torrentʼs flashing force;<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/the_descent_glosses_contextual#SCALEDARIDGESOHIGH" target="_blank" class="inactive">
           
           
@@ -119,9 +117,6 @@ EOT
           System generated line number
         </div><a href="#L25" id="L25">25</a></div></span><br/>
             <span class="l">Among the forest pines.</span><br/>
-            
+            </div>
          </div>
-         
-      </div>
-   </div><div id="" class="pb"></div>
-</div><?php require_once(ROOT_PATH."layout_includes/showcase_bottom.inc.php"); ?>
+   </div><div id="" class="pb"></div></div><?php require_once(ROOT_PATH."layout_includes/showcase_bottom.inc.php"); ?>

@@ -24,11 +24,9 @@ msix/MSIX18v-19r.jpg msix/MSIX19v-20r.jpg
 EOT
 );
       ?>
-    <?php require_once(ROOT_PATH."layout_includes/showcase_top.inc.php"); ?><div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-left"><img id="facs_preview" src="" width="100&#x0025;"><img id="facs" src="" width="100&#x0025;" style="display:none"></div>
-<div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-splitter"></div>
-<div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-right">
+    <?php require_once(ROOT_PATH."layout_includes/showcase_top.inc.php"); ?><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-left"><img id="facs_preview" src="" width="100%"><img id="facs" src="" width="100%" style="display:none"></div><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-splitter"></div><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-right">
    <div class="backToApparatusLink"><a href="/apparatuses/apparatuses/account_of_a_tour_on_the_continent_apparatus#account_of_a_tour_on_the_continent_msix" target="_self"></a><br/></div>
-   <div class="fileName"><span>&#x201C;Lille&#x201D; &#x005B;poem&#x005D;</span></div>
+   <div class="fileName"><span>“Lille” [poem]</span></div>
    <div class="witness">
       <div class="poem" id="">
          <div id="MSIX18v" class="pb"></div>
@@ -43,7 +41,7 @@ EOT
                   <div class="tooltip">
           System generated line number
         </div><a href="#L5" id="L5">5</a></div></span><br/>
-            <span class="l">That to the tangled copse&#x2010;wood clung</span><br/>
+            <span class="l">That to the tangled copse‐wood clung</span><br/>
             <span class="l">That shot like stars through every shade</span><br/>
             <span class="l">And glanced on every wildwood glade.</span><br/>
             <span class="l">At length by many a wind descending</span><br/>
@@ -71,7 +69,7 @@ EOT
         </div><a href="#L15" id="L15">15</a></div></span><br/>
             <span class="l">That spoke the coming noontide blaze.</span><br/>
             <span class="l">That noontide blaze delayed not long</span><br/>
-            <span class="l">On Tournays tow&#x02BC;rs<span class="gloss-inline">
+            <span class="l">On Tournays towʼrs<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/lille_glosses_contextual#TOURNAYSTOWERSGLOSS" target="_blank" class="inactive">
           
           
@@ -177,9 +175,6 @@ EOT
           System generated line number
         </div><a href="#L50" id="L50">50</a></div></span><br/>
             <span class="space" style="padding-left:2.0em"> </span>
-            
+            </div>
          </div>
-         
-      </div>
-   </div><div id="" class="pb"></div>
-</div><?php require_once(ROOT_PATH."layout_includes/showcase_bottom.inc.php"); ?>
+   </div><div id="" class="pb"></div></div><?php require_once(ROOT_PATH."layout_includes/showcase_bottom.inc.php"); ?>

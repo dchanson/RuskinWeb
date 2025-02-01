@@ -24,11 +24,9 @@ msiii/1229188
 EOT
 );
       ?>
-    <?php require_once(ROOT_PATH."layout_includes/showcase_top.inc.php"); ?><div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-left"><img id="facs_preview" src="" width="100&#x0025;"><img id="facs" src="" width="100&#x0025;" style="display:none"></div>
-<div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-splitter"></div>
-<div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-right">
+    <?php require_once(ROOT_PATH."layout_includes/showcase_top.inc.php"); ?><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-left"><img id="facs_preview" src="" width="100%"><img id="facs" src="" width="100%" style="display:none"></div><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-splitter"></div><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-right">
    <div class="backToApparatusLink"><br/></div>
-   <div class="fileName"><span>&#x201C;The Storm&#x201D;</span></div>
+   <div class="fileName"><span>“The Storm”</span></div>
    <div class="witness">
       <div class="poem" id="">
          <div id="1229188r" class="pb"></div>
@@ -42,7 +40,7 @@ EOT
             <span class="l">Hark to the wind it howls among the<br/><span class="space" style="padding-left:12.4em"> </span>trees</span><br/>
             <span class="l">And the high rising wind the pigs<div 
               class="add-above" 
-              style="left:12.0em"><span class="metamark-unknown">&#x00D7;</span></div> do see<span class="gloss-inline">
+              style="left:12.0em"><span class="metamark-unknown">×</span></div> do see<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/the_storm_glosses_contextual#STORMCROSS" target="_blank" class="inactive">
           
           
@@ -71,8 +69,7 @@ EOT
                   <div class="tooltip">
           System generated line number
         </div><a href="#L10" id="L10">10</a></div></span><br/>
-            
-         </div>
+            </div>
          
          <div class="half"></div>
          
@@ -102,9 +99,6 @@ EOT
             <span class="l">Gives it that dazzling whiteness<span class="runover" style="left:4.4em">to the eye</span></span><br/>
             <span class="l">In which its principle beauty<span class="runover" style="left:2.8em">doth consist</span></span><br/>
             <span class="l">And so in beginning another<span class="runover" style="left:3.2em">line I end</span></span><br/>
-            
+            </div>
          </div>
-         
-      </div>
-   </div><div id="" class="pb"></div>
-</div><?php require_once(ROOT_PATH."layout_includes/showcase_bottom.inc.php"); ?>
+   </div><div id="" class="pb"></div></div><?php require_once(ROOT_PATH."layout_includes/showcase_bottom.inc.php"); ?>

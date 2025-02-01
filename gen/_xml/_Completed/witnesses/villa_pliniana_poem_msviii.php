@@ -24,16 +24,14 @@ msviii/MSVIII80v-81r.jpg
 EOT
 );
       ?>
-    <?php require_once(ROOT_PATH."layout_includes/showcase_top.inc.php"); ?><div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-left"><img id="facs_preview" src="" width="100&#x0025;"><img id="facs" src="" width="100&#x0025;" style="display:none"></div>
-<div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-splitter"></div>
-<div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-right">
+    <?php require_once(ROOT_PATH."layout_includes/showcase_top.inc.php"); ?><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-left"><img id="facs_preview" src="" width="100%"><img id="facs" src="" width="100%" style="display:none"></div><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-splitter"></div><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-right">
    <div class="backToApparatusLink"><a href="/apparatuses/apparatuses/account_of_a_tour_on_the_continent_apparatus#account_of_a_tour_on_the_continent_msviii" target="_self"></a><br/></div>
-   <div class="fileName"><span>&#x201C;Villa Pliniana&#x201D; &#x005B;poem&#x005D;</span></div>
+   <div class="fileName"><span>“Villa Pliniana” [poem]</span></div>
    <div class="witness">
       <div class="poem" id="">
          <div id="MSVIII80v" class="pb"></div>
          
-         <div class="title" id="&#x0040;"><span class="space" style="padding-left:6.4em"> </span><span class="placeName-building-VILLAPLINIANA">Villa Pliniana</span><span class="gloss-inline">
+         <div class="title" id="@"><span class="space" style="padding-left:6.4em"> </span><span class="placeName-building-VILLAPLINIANA">Villa Pliniana</span><span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/villa_pliniana_poem_glosses_textual#PUBLICATIONGLOSS" target="_blank" class="inactive">
           
           
@@ -119,7 +117,7 @@ EOT
             <span class="l">That one would wonder how a thing</span><br/>
             <span class="l">So temporary, perishing</span><br/>
             <span class="l">Should dare such deeds, or work such change</span><br/>
-            <span class="l">I&#x02BC; the texture of the world.
+            <span class="l">Iʼ the texture of the world.
                <div class="s-line-number s-line-number-ruskin linenumber-right-JR">
                   <div class="tooltip">
              Ruskin's line number
@@ -132,9 +130,6 @@ EOT
             <span class="l">And many more renowned,</span><br/>
             <span class="l">The ignoble and the glorious,</span><br/>
             <span class="l">Are underneath the ground</span><br/>
-            
+            </div>
          </div>
-         
-      </div>
-   </div><div id="" class="pb"></div>
-</div><?php require_once(ROOT_PATH."layout_includes/showcase_bottom.inc.php"); ?>
+   </div><div id="" class="pb"></div></div><?php require_once(ROOT_PATH."layout_includes/showcase_bottom.inc.php"); ?>

@@ -24,15 +24,13 @@ define("FACS_FILE_NAMES", <<<EOT
 EOT
 );
       ?>
-    <?php require_once(ROOT_PATH."layout_includes/showcase_top.inc.php"); ?><div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-left"><img id="facs_preview" src="" width="100&#x0025;"><img id="facs" src="" width="100&#x0025;" style="display:none"></div>
-<div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-splitter"></div>
-<div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-right">
+    <?php require_once(ROOT_PATH."layout_includes/showcase_top.inc.php"); ?><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-left"><img id="facs_preview" src="" width="100%"><img id="facs" src="" width="100%" style="display:none"></div><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-splitter"></div><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-right">
    <div class="backToApparatusLink"><a href="/apparatuses/apparatuses/account_of_a_tour_on_the_continent_apparatus#account_of_a_tour_on_the_continent_poems_1891" target="_self"></a><br/></div>
-   <div class="fileName"><span>&#x201C;I woke to hear the lullaby&#x201D; &#x005B;&#x201C;The Arve at Chamouni&#x201D;&#x005D; &#x005B;poem&#x005D;</span></div>
+   <div class="fileName"><span>“I woke to hear the lullaby” [“The Arve at Chamouni”] [poem]</span></div>
    <div class="witness">
       <div class="poem" id="">
          
-         <h1 class="page-title"><span class="title-poem-JRARVEATCHAMOUNI">&#x005B;<span class="caps">THE ARVE AT CHAMOUNI</span>.&#x005D;</span><span class="gloss-inline">
+         <h1 class="page-title"><span class="title-poem-JRARVEATCHAMOUNI">[<span class="caps">THE ARVE AT CHAMOUNI</span>.]</span><span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/i_woke_to_hear_the_lullaby_poem_glosses_textual#ARVEATCHAMOUNITITLE" target="_blank" class="inactive">
           
           
@@ -45,7 +43,7 @@ EOT
          
          <div class="lg-stanza">
             <span class="l">I <span class="smallcaps">WOKE</span> to hear the lullaby</span><br/>
-            <span class="l">Of the swift river rolling by,&#x2014;</span><br/> 
+            <span class="l">Of the swift river rolling by,—</span><br/> 
             <span class="l">Monotonous yet beautiful</span><br/>                     
             <span class="l">Ever the gentle pebbly swell!</span><br/> 
             <span class="l">And every ripple lent his plash
@@ -56,14 +54,14 @@ EOT
             <span class="l">Joining in chorus with the dash</span><br/> 
             <span class="l">Of every mighty mountain stream</span><br/>                     
             <span class="l">That joyful sung his morning hymn,</span><br/> 
-            <span class="l">His iris&#x2010;glory round him quivering</span><br/>                     
+            <span class="l">His iris‐glory round him quivering</span><br/>                     
             <span class="l">Where his white showery falls were shivering.
                <div class="s-line-number s-line-number-auto">
                   <div class="tooltip">
           System generated line number
         </div><a href="#L10" id="L10">10</a></div></span><br/> 
             <span class="l">There is a melancholy smile</span><br/>
-            <span class="l">On Nature&#x02BC;s features fair the while,</span><br/> 
+            <span class="l">On Natureʼs features fair the while,</span><br/> 
             <span class="l">When the dank dews descending grey</span><br/>                     
             <span class="l">Weep for the loss of parting day;</span><br/> 
             <span class="l">There is a sad and soft complaining
@@ -75,7 +73,7 @@ EOT
             <span class="l">The evening star is fair and full,</span><br/>                     
             <span class="l">But it is passing sorrowful;</span><br/> 
             <span class="l">And merry is the laughing light</span><br/>                     
-            <span class="l">That blushes o&#x02BC;er the heaven&#x02BC;s height,
+            <span class="l">That blushes oʼer the heavenʼs height,
                <div class="s-line-number s-line-number-auto">
                   <div class="tooltip">
           System generated line number
@@ -99,7 +97,7 @@ EOT
           System generated line number
         </div><a href="#L30" id="L30">30</a></div></span><br/> 
             <span class="l">They were a sort of visible breeze</span><br/> 
-            <span class="l">Touching the tops of the pine&#x2010;trees</span><br/> 
+            <span class="l">Touching the tops of the pine‐trees</span><br/> 
             <span class="l">That, as we passed beneath and strook</span><br/> 
             <span class="l">Their stretching branches, ever shook</span><br/>
             <span class="l">The laughing showers of dancing dew
@@ -126,9 +124,6 @@ EOT
           System generated line number
         </div><a href="#L45" id="L45">45</a></div></span><br/>
             
-            
+            </div>
          </div>
-         
-      </div>
-   </div><div id="" class="pb"></div>
-</div><?php require_once(ROOT_PATH."layout_includes/showcase_bottom.inc.php"); ?>
+   </div><div id="" class="pb"></div></div><?php require_once(ROOT_PATH."layout_includes/showcase_bottom.inc.php"); ?>

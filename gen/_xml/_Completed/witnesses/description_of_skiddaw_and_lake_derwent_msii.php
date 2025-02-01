@@ -24,15 +24,13 @@ msii/1229225.jpg msii/1229226.jpg msii/1229227.jpg msii/1229228.jpg
 EOT
 );
       ?>
-    <?php require_once(ROOT_PATH."layout_includes/showcase_top.inc.php"); ?><div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-left"><img id="facs_preview" src="" width="100&#x0025;"><img id="facs" src="" width="100&#x0025;" style="display:none"></div>
-<div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-splitter"></div>
-<div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-right">
+    <?php require_once(ROOT_PATH."layout_includes/showcase_top.inc.php"); ?><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-left"><img id="facs_preview" src="" width="100%"><img id="facs" src="" width="100%" style="display:none"></div><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-splitter"></div><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-right">
    <div class="backToApparatusLink"><br/></div>
-   <div class="fileName"><span>&#x003E;&#x201C;Description of Skiddaw and Lake Derwent&#x003E;&#x201D;</span></div>
+   <div class="fileName"><span>>“Description of Skiddaw and Lake Derwent>”</span></div>
    <div class="witness">
       <div class="poem" id="">
          
-         <h1 class="page-title"><span class="space" style="padding-left:2.8em"> </span>description of <span class="geogName-SKIDDAW">skiddaw</span> &#x0026;<br/><span class="space" style="padding-left:4.0em"> </span><span class="geogName-DERWENTWATER">lake derwent</span></h1>
+         <h1 class="page-title"><span class="space" style="padding-left:2.8em"> </span>description of <span class="geogName-SKIDDAW">skiddaw</span> &<br/><span class="space" style="padding-left:4.0em"> </span><span class="geogName-DERWENTWATER">lake derwent</span></h1>
          
          
          <div class="lg-stanza">
@@ -115,7 +113,7 @@ EOT
             <span class="l">noble and grand and beutious<span class="runover" style="left:3.6em">clothed with green</span></span><br/>
             <span class="l">and yet but scantily and in<span class="runover" style="left:3.2em">some parts</span></span><br/>
             <span class="l">a bare terrific cliff precipitous</span><br/>
-            <span class="l">descends with only here &#x0026;
+            <span class="l">descends with only here &
                <div class="s-line-number s-line-number-auto">
                   <div class="tooltip">
           System generated line number
@@ -143,8 +141,7 @@ EOT
                 </span>
                 
               </a></span></span><br/>
-            
-         </div>
+            </div>
          
          <div id="1229226r" class="pb"></div>
           
@@ -238,8 +235,7 @@ EOT
                 </span>
                 
               </a></span></span></span><br/>
-            
-         </div>
+            </div>
          <br/>
          <div class="full"></div>
          
@@ -307,7 +303,7 @@ EOT
         </div><a href="#L50" id="L50">50</a></div></span><br/>
             <span class="l"><span class="space" style="padding-left:1.6em"> </span>who labours at the snow to<span class="runover" style="left:1.2em">make a man</span></span><br/>
             <div id="1229228v" class="pb"></div>
-            <span class="l">And when he&#x02BC;s made it knocks it<span class="runover" style="left:6.0em">down again<span class="gloss-inline">
+            <span class="l">And when heʼs made it knocks it<span class="runover" style="left:6.0em">down again<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/on_skiddaw_and_derwentwater_glosses_textual#MADEITGLOSS" target="_blank" class="inactive">
           
           
@@ -317,7 +313,7 @@ EOT
                 </span>
                 
               </a></span></span></span><br/>
-            <span class="l">So when thou&#x02BC;st made a picture<span class="runover" style="left:4.0em">thou dost play</span></span><br/>
+            <span class="l">So when thouʼst made a picture<span class="runover" style="left:4.0em">thou dost play</span></span><br/>
             <span class="l">At tearing it to pieces trees do<span class="runover" style="left:4.8em">first</span></span><br/>
             <span class="l">Tremble as if a monstrous heart of
                <div class="s-line-number s-line-number-auto">
@@ -353,8 +349,7 @@ EOT
                 </span>
                 
               </a></span></span><br/>
-            
-         </div>
+            </div>
          <div class="full"></div>
          
          <span class="metamark-resume"><span class="space" style="padding-left:4.0em"> </span>conclusion</span>
@@ -400,11 +395,8 @@ EOT
               </a></span> <span class="geogName-DERWENTWATER">derwent</span>s<span class="runover" style="left:5.2em">shores</span></span><br/>
             <span class="l">and where the lightning<span class="runover" style="left:2.8em">flashes still</span></span><br/>
             <span class="l">reflected in the mountain<span class="runover" style="left:3.2em">rill</span></span><br/>
-            
-         </div>
+            </div>
          <div class="full"></div>
          
-         
-      </div>
-   </div><div id="" class="pb"></div>
-</div><?php require_once(ROOT_PATH."layout_includes/showcase_bottom.inc.php"); ?>
+         </div>
+   </div><div id="" class="pb"></div></div><?php require_once(ROOT_PATH."layout_includes/showcase_bottom.inc.php"); ?>

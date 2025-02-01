@@ -24,11 +24,9 @@ define("FACS_FILE_NAMES", <<<EOT
 EOT
 );
       ?>
-    <?php require_once(ROOT_PATH."layout_includes/showcase_top.inc.php"); ?><div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-left"><img id="facs_preview" src="" width="100&#x0025;"><img id="facs" src="" width="100&#x0025;" style="display:none"></div>
-<div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-splitter"></div>
-<div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-right">
+    <?php require_once(ROOT_PATH."layout_includes/showcase_top.inc.php"); ?><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-left"><img id="facs_preview" src="" width="100%"><img id="facs" src="" width="100%" style="display:none"></div><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-splitter"></div><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-right">
    <div class="backToApparatusLink"><br/></div>
-   <div class="fileName"><span>&#x201C;The Months&#x201D;</span></div>
+   <div class="fileName"><span>“The Months”</span></div>
    <div class="witness">
       <div class="poem" id="">
          
@@ -38,25 +36,24 @@ EOT
             <span class="l">THE MONTHS.</span><br/>
             <span class="l">I.</span><br/>
             <span class="l">From your high dwellings, in the realms of your snow</span><br/>
-            <span class="l"><span class="space" style="padding-left:1.6em"> </span>And cloud, where many an avalanche&#x02BC;s fall</span><br/> 
-            <span class="l">Is heard resounding from the mountain&#x02BC;s brow,
+            <span class="l"><span class="space" style="padding-left:1.6em"> </span>And cloud, where many an avalancheʼs fall</span><br/> 
+            <span class="l">Is heard resounding from the mountainʼs brow,
                <div class="s-line-number s-line-number-auto">
                   <div class="tooltip">
           System generated line number
         </div><a href="#L5" id="L5">5</a></div></span><br/>
-            <span class="l"><span class="space" style="padding-left:1.6em"> </span>Come, ye cold wind, at January&#x02BC;s call,</span><br/>
+            <span class="l"><span class="space" style="padding-left:1.6em"> </span>Come, ye cold wind, at Januaryʼs call,</span><br/>
             <span class="l">On whistling wings ; and with white flakes bestrew</span><br/>
-            <span class="l"><span class="space" style="padding-left:1.6em"> </span>The earth, till February&#x02BC;s reign restore</span><br/>
+            <span class="l"><span class="space" style="padding-left:1.6em"> </span>The earth, till Februaryʼs reign restore</span><br/>
             <span class="l">The race of torrents to their wonted flow,</span><br/>
             <span class="l"><span class="space" style="padding-left:1.6em"> </span>Whose waves shall stand in silent ice no more ;
                <div class="s-line-number s-line-number-auto">
                   <div class="tooltip">
           System generated line number
         </div><a href="#L10" id="L10">10</a></div></span><br/>
-            <span class="l">But, lashed by March&#x02BC;s maddened winds, shall roar</span><br/>
+            <span class="l">But, lashed by Marchʼs maddened winds, shall roar</span><br/>
             <span class="l">With voice of ire, and beat the rocks on every shore.</span><br/>
-            
-         </div>
+            </div>
          
          <div class="lg-stanza">            
             <span class="l">II.</span><br/>
@@ -66,7 +63,7 @@ EOT
                   <div class="tooltip">
           System generated line number
         </div><a href="#L15" id="L15">15</a></div></span><br/> 
-            <span class="l">Whose sun shines through her clouds with quick sur&#x2010;</span><br/>
+            <span class="l">Whose sun shines through her clouds with quick sur‐</span><br/>
             <span class="l"><span class="space" style="padding-left:3.2em"> </span>prise,</span><br/>
             <span class="l"><span class="space" style="padding-left:1.6em"> </span>Shedding soft influences on your heads ;</span><br/>
             <span class="l">And wreathe ye round the rosy month that flies</span><br/>
@@ -75,7 +72,7 @@ EOT
                   <div class="tooltip">
           System generated line number
         </div><a href="#L20" id="L20">20</a></div></span><br/>
-            <span class="l">Till July&#x02BC;s sun upon the mountains rise</span><br/>
+            <span class="l">Till Julyʼs sun upon the mountains rise</span><br/>
             <span class="l"><span class="space" style="padding-left:1.6em"> </span>Triumphant, and the wan and weary moon</span><br/>
             <span class="l">Mingle her cold beams with the burning lume</span><br/>
             <span class="l">That <span class="persName-fictional-SEIRIOS">Sirius</span> shoots through all the dreary midnight</span><br/>
@@ -84,33 +81,29 @@ EOT
                   <div class="tooltip">
           System generated line number
         </div><a href="#L25" id="L25">25</a></div></span><br/>
-            
-         </div>
+            </div>
          
          <div class="lg-stanza">                                        
             <span class="l">III.</span><br/>
             <span class="l">Rejoice ! ye fields, rejoice, and wave with gold,</span><br/>
             <span class="l"><span class="space" style="padding-left:1.6em"> </span>When August round her previous gifts is flinging ;</span><br/> 
             <span class="l">Lo ! the crushed wain is slowly homeward rolled ;</span><br/> 
-            <span class="l"><span class="space" style="padding-left:1.6em"> </span>The sun&#x2010;burnt reaper&#x02BC;s jocund lays are singing ;
+            <span class="l"><span class="space" style="padding-left:1.6em"> </span>The sun‐burnt reaperʼs jocund lays are singing ;
                <div class="s-line-number s-line-number-auto">
                   <div class="tooltip">
           System generated line number
         </div><a href="#L30" id="L30">30</a></div></span><br/> 
-            <span class="l">September&#x02BC;s steps her juicy stores unfold,</span><br/>
+            <span class="l">Septemberʼs steps her juicy stores unfold,</span><br/>
             <span class="l"><span class="space" style="padding-left:1.6em"> </span>If the spring blossoms have not blushed in vain :</span><br/> 
-            <span class="l">October&#x02BC;s foliage yellows with his cold :</span><br/> 
-            <span class="l"><span class="space" style="padding-left:1.6em"> </span>In rattling showers dark November&#x02BC;s rain,&#x003E;</span><br/> 
+            <span class="l">Octoberʼs foliage yellows with his cold :</span><br/> 
+            <span class="l"><span class="space" style="padding-left:1.6em"> </span>In rattling showers dark Novemberʼs rain,></span><br/> 
             <span class="l">From every stormy cloud, descends amain,
                <div class="s-line-number s-line-number-auto">
                   <div class="tooltip">
           System generated line number
         </div><a href="#L35" id="L35">35</a></div></span><br/>
-            <span class="l">Till keen December&#x02BC;s snows close up the year again.</span><br/>
+            <span class="l">Till keen Decemberʼs snows close up the year again.</span><br/>
             <span class="l"><span class="space" style="padding-left:24.0em"> </span>J. R.</span><br/> 
-            
+            </div>
          </div>
-         
-      </div>
-   </div><div id="" class="pb"></div>
-</div><?php require_once(ROOT_PATH."layout_includes/showcase_bottom.inc.php"); ?>
+   </div><div id="" class="pb"></div></div><?php require_once(ROOT_PATH."layout_includes/showcase_bottom.inc.php"); ?>

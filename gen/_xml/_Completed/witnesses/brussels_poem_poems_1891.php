@@ -24,16 +24,13 @@ define("FACS_FILE_NAMES", <<<EOT
 EOT
 );
       ?>
-    <?php require_once(ROOT_PATH."layout_includes/showcase_top.inc.php"); ?><div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-left"><img id="facs_preview" src="" width="100&#x0025;"><img id="facs" src="" width="100&#x0025;" style="display:none"></div>
-<div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-splitter"></div>
-<div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-right">
+    <?php require_once(ROOT_PATH."layout_includes/showcase_top.inc.php"); ?><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-left"><img id="facs_preview" src="" width="100%"><img id="facs" src="" width="100%" style="display:none"></div><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-splitter"></div><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-right">
    <div class="backToApparatusLink"><a href="/apparatuses/apparatuses/account_of_a_tour_on_the_continent_apparatus#account_of_a_tour_on_the_continent_poems_1891" target="_self"></a><br/></div>
-   <div class="fileName"><span>&#x201C;BRUSSELS.&#x201D; &#x005B;poem&#x005D;</span></div>
+   <div class="fileName"><span>“BRUSSELS.” [poem]</span></div>
    <div class="witness">
       <div class="poem" id="">
          
-         <h1 class="page-title"><span class="caps">BRUSSELS</span>.
-         </h1>
+         <h1 class="page-title"><span class="caps">BRUSSELS</span>.</h1>
          
          <div class="lg-stanza">                    
             <span class="l">T<span class="smallcaps">HE</span> racking clouds were fleeting fast</span><br/> 
@@ -73,7 +70,7 @@ EOT
             <span class="l">Against that light, for time full brief,</span><br/> 
             <span class="l"><span class="placeName-BRUSSELS">Brussels</span> arose in dark relief.</span><br/>
             <span class="l">Colossal on the western fire</span><br/>
-            <span class="l">Seemed massive tow&#x02BC;r and slender spire.</span><br/>
+            <span class="l">Seemed massive towʼr and slender spire.</span><br/>
             <span class="l">Nearer, and nearer as we drew,
                <div class="s-line-number s-line-number-ruskin linenumber-right-JR">
                   <div class="tooltip">
@@ -86,7 +83,7 @@ EOT
             <span class="l">More strongly marked the outlines grew,</span><br/> 
             <span class="l">Till of the buildings you might see</span><br/>
             <span class="l">Distinct, the Gothic tracerie.</span><br/>
-            <span class="l">The drawbridge rung,&#x2014;we passed the gate,<span class="gloss-inline">
+            <span class="l">The drawbridge rung,—we passed the gate,<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/brussels_glosses_contextual#DRAWBRIDGE" target="_blank" class="inactive">
           
           
@@ -103,13 +100,12 @@ EOT
                   <div class="tooltip">
           System generated line number
         </div><a href="#L20" id="L20">20</a></div></span><br/>
-            
-         </div>
+            </div>
          
          <div class="lg-stanza">
             <span class="l">It stirs, to see the human tide</span><br/>
             <span class="l">That marks a city in its pride!</span><br/>
-            <span class="l">That fitful ocean&#x02BC;s eddying sweep</span><br/>
+            <span class="l">That fitful oceanʼs eddying sweep</span><br/>
             <span class="l">Is still more changeful than the deep:</span><br/>
             <span class="l">For those dark billows as they roll
                <div class="s-line-number s-line-number-ruskin linenumber-right-JR">
@@ -124,7 +120,7 @@ EOT
             <span class="l">Yet in that city there was none</span><br/>
             <span class="l">Of that confused and busy hum,</span><br/>
             <span class="l">That tells of traffic and of trade;</span><br/>
-            <span class="l">No, <span class="placeName-BRUSSELS">Brussels</span>&#x02BC; time of power was sped:
+            <span class="l">No, <span class="placeName-BRUSSELS">Brussels</span>ʼ time of power was sped:
                <div class="s-line-number s-line-number-ruskin linenumber-right-JR">
                   <div class="tooltip">
              Ruskin's line number
@@ -136,8 +132,7 @@ EOT
             <div id="" class="pb"></div>
             <span class="l">Yet in her streets was something seen</span><br/>
             <span class="l">Spoke what the city once had been.</span><br/>
-            
-         </div>
+            </div>
          
          <div class="lg-stanza">
             <span class="l">Our rapid course as now we wheel</span><br/>
@@ -149,7 +144,7 @@ EOT
                 3
                 </span>
               </a></span></span><br/>
-            <span class="l">The noble spire&#x02BC;s proportions high
+            <span class="l">The noble spireʼs proportions high
                <div class="s-line-number s-line-number-ruskin linenumber-right-JR">
                   <div class="tooltip">
              Ruskin's line number
@@ -173,7 +168,7 @@ EOT
         </div><a href="#L40" id="L40">40</a></div></span><br/>
             <span class="l">In all the depth of twilight shade,</span><br/>
             <span class="l">Yet shot there, faint, a yellow glow</span><br/>
-            <span class="l">Where the tall arches shafted show;&#x2014;</span><br/>
+            <span class="l">Where the tall arches shafted show;—</span><br/>
             <span class="l">Glimmered a moment there the ray,</span><br/>
             <span class="l">Then fainter grew, and past away.
                <div class="s-line-number s-line-number-ruskin linenumber-right-JR">
@@ -184,13 +179,12 @@ EOT
                   <div class="tooltip">
           System generated line number
         </div><a href="#L45" id="L45">45</a></div></span><br/>
-            
-         </div>
+            </div>
          
          <div class="lg-stanza">
             <span class="l"><span class="placeName-BRUSSELS">Brussels</span>, thy battlements have been</span><br/>
             <span class="l">Of many an action strange the scene!</span><br/>
-            <span class="l">Thou saw&#x02BC;st, on July&#x02BC;s dreadful night,<span class="gloss-inline">
+            <span class="l">Thou sawʼst, on Julyʼs dreadful night,<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/brussels_glosses_contextual#JULYSDREADFULNIGHTGLOSS" target="_blank" class="inactive">
           
           
@@ -198,7 +192,7 @@ EOT
                 4
                 </span>
               </a></span></span><br/>
-            <span class="l">The veterans rushing to the fight:&#x2014;</span><br/>
+            <span class="l">The veterans rushing to the fight:—</span><br/>
             <span class="l">Thou heardest when the word was spoken;
                <div class="s-line-number s-line-number-ruskin linenumber-right-JR">
                   <div class="tooltip">
@@ -209,9 +203,9 @@ EOT
           System generated line number
         </div><a href="#L50" id="L50">50</a></div></span><br/>
             <span class="l">At midnight thy repose was broken</span><br/>
-            <span class="l">By tramp of men and neigh of steed,&#x2014;</span><br/>
+            <span class="l">By tramp of men and neigh of steed,—</span><br/>
             <span class="l">Battalions bursting forth to bleed;</span><br/>
-            <span class="l">Till the dark phalanx&#x02BC; waving crest</span><br/>
+            <span class="l">Till the dark phalanxʼ waving crest</span><br/>
             <span class="l">Forth from thy gates was forward prest,
                <div class="s-line-number s-line-number-ruskin linenumber-right-JR">
                   <div class="tooltip">
@@ -225,7 +219,7 @@ EOT
             <span class="l">The distant roar of battle wild.</span><br/>
             <div id="" class="pb"></div>
             <span class="l">And, later still, the rabble shout,</span><br/>
-            <span class="l">And revolution&#x02BC;s riot rout;</span><br/> 
+            <span class="l">And revolutionʼs riot rout;</span><br/> 
             <span class="l">Leaving such marks as long shall tell
                <div class="s-line-number s-line-number-ruskin linenumber-right-JR">
                   <div class="tooltip">
@@ -236,9 +230,6 @@ EOT
           System generated line number
         </div><a href="#L60" id="L60">60</a></div></span><br/>
             <span class="l">Of dark destruction fierce and fell.</span><br/>
-            
+            </div>
          </div>
-         
-      </div>
-   </div><div id="" class="pb"></div>
-</div><?php require_once(ROOT_PATH."layout_includes/showcase_bottom.inc.php"); ?>
+   </div><div id="" class="pb"></div></div><?php require_once(ROOT_PATH."layout_includes/showcase_bottom.inc.php"); ?>

@@ -24,17 +24,14 @@ msi/1229146.jpg
 EOT
 );
       ?>
-    <?php require_once(ROOT_PATH."layout_includes/showcase_top.inc.php"); ?><div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-left"><img id="facs_preview" src="" width="100&#x0025;"><img id="facs" src="" width="100&#x0025;" style="display:none"></div>
-<div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-splitter"></div>
-<div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-right">
+    <?php require_once(ROOT_PATH."layout_includes/showcase_top.inc.php"); ?><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-left"><img id="facs_preview" src="" width="100%"><img id="facs" src="" width="100%" style="display:none"></div><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-splitter"></div><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-right">
    <div class="backToApparatusLink"><br/></div>
-   <div class="fileName"><span>&#x201C;The Needless Alarm&#x201D;</span></div>
+   <div class="fileName"><span>“The Needless Alarm”</span></div>
    <div class="witness">
       <div class="poem" id="">
          <div class="half"></div>
          
-         <div class="title" id="&#x0040;"><span class="space" style="padding-left:1.6em"> </span><span class="del-erasure">The needless alarm</span><span class="add-overwriting"><span class="space" style="padding-left:0.4em"> </span>poem IIII</span><br/><span class="space" style="padding-left:1.6em"> </span>the needless alarm
-         </div>
+         <div class="title" id="@"><span class="space" style="padding-left:1.6em"> </span><span class="del-erasure">The needless alarm</span><span class="add-overwriting"><span class="space" style="padding-left:0.4em"> </span>poem IIII</span><br/><span class="space" style="padding-left:1.6em"> </span>the needless alarm</div>
          <div class="half"></div>
          <br/>
          
@@ -44,7 +41,7 @@ EOT
           class="s-subst s-add s-overwrite s-inline"><span class="caps">A</span><span class="smallcaps">m</span></div><span class="smallcaps">ong</span> the rushes lived a mouse</span><br/>
             <span class="l">with a pretty little house</span><br/>
             <span class="l">made of rushes tall and high</span><br/>
-            <span class="l">that to the skies were heard to<span class="runover" style="left:10.8em"><span class="g-runover">&#x007C;</span>sigh<span class="gloss-inline">
+            <span class="l">that to the skies were heard to<span class="runover" style="left:10.8em"><span class="g-runover">|</span>sigh<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/the_needless_alarm_glosses_textual#RUNOVER" target="_blank" class="inactive">
           
           
@@ -58,7 +55,7 @@ EOT
                <div class="s-line-number s-line-number-auto">
                   <div class="tooltip">
           System generated line number
-        </div><a href="#L5" id="L5">5</a></div><span class="runover" style="left:10.4em"><span class="g-runover">&#x007C;</span>sleeping<span class="gloss-inline">
+        </div><a href="#L5" id="L5">5</a></div><span class="runover" style="left:10.4em"><span class="g-runover">|</span>sleeping<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/the_needless_alarm_glosses_textual#RUNOVER" target="_blank" class="inactive">
           
           
@@ -85,9 +82,6 @@ EOT
               class="add-above" 
               style="left:10.4em">e</div></span><br/>
             <span class="l">was left in safety with<span class="runover" style="left:2.4em">her house</span></span><br/>
-            
+            </div>
          </div>
-         
-      </div>
-   </div><div id="" class="pb"></div>
-</div><?php require_once(ROOT_PATH."layout_includes/showcase_bottom.inc.php"); ?>
+   </div><div id="" class="pb"></div></div><?php require_once(ROOT_PATH."layout_includes/showcase_bottom.inc.php"); ?>

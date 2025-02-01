@@ -24,11 +24,9 @@ define("FACS_FILE_NAMES", <<<EOT
 EOT
 );
       ?>
-    <?php require_once(ROOT_PATH."layout_includes/showcase_top.inc.php"); ?><div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-left"><img id="facs_preview" src="" width="100&#x0025;"><img id="facs" src="" width="100&#x0025;" style="display:none"></div>
-<div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-splitter"></div>
-<div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-right">
+    <?php require_once(ROOT_PATH."layout_includes/showcase_top.inc.php"); ?><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-left"><img id="facs_preview" src="" width="100%"><img id="facs" src="" width="100%" style="display:none"></div><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-splitter"></div><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-right">
    <div class="backToApparatusLink"><a href="/apparatuses/apparatuses/account_of_a_tour_on_the_continent_apparatus#account_of_a_tour_on_the_continent_le" target="_self">Back to apparatus</a><br/></div>
-   <div class="fileName"><span>&#x201C;Chamouni&#x201D; &#x005B;essay&#x005D;</span></div>
+   <div class="fileName"><span>“Chamouni” [essay]</span></div>
    <div class="witness">
       <div class="essay" id="">
          
@@ -46,15 +44,15 @@ EOT
                     beautiful blue hills; they ever look half <span class="placeName-ENGLAND">English</span>, and I love them for it.<br/>
                     They may not be so wonderful, so majestic, so mighty, or so beautiful, but<br/><div id="" class="pb"></div>
                     they are more like home, sweet home, and it is pleasant, very pleasant, to<br/>
-                    meet a friend in a foreign land. We are going to <span class="placeName-CHAMOUNI">Chamouni</span>, <i>c&#x02BC;est vrai</i>,<br/>
+                    meet a friend in a foreign land. We are going to <span class="placeName-CHAMOUNI">Chamouni</span>, <i>cʼest vrai</i>,<br/>
                     but it seems exceeding strange. Before we left home, I had read of<br/>
             <span class="placeName-CHAMOUNI">Chamouni</span>, heard of <span class="placeName-CHAMOUNI">Chamouni</span>, and seen some few drawings of <span class="placeName-CHAMOUNI">Chamouni</span>,<br/>
-                    but never so much as dreamed of going to <span class="placeName-CHAMOUNI">Chamouni</span>, it seemed so un&#x2010;<br/>
-                    come&#x2010;at&#x2010;able; and for the <span class="geogName-MONTBLANC">Mont Blanc</span>, it seemed in another world, in fairy&#x2010;<br/>
+                    but never so much as dreamed of going to <span class="placeName-CHAMOUNI">Chamouni</span>, it seemed so un‐<br/>
+                    come‐at‐able; and for the <span class="geogName-MONTBLANC">Mont Blanc</span>, it seemed in another world, in fairy‐<br/>
                     land, and of course had a magic halo thrown round it, an ætherialness<br/>
                     that can never be joined with reality. That halo comes again on looking<br/>
                     back. And this is our last excursion on <span class="placeName-SWITZERLAND">Swiss</span> ground, thought I, the<br/>
-                    last, and the wildest, and the sweetest, because&#x2014;because, perhaps it is<br/>
+                    last, and the wildest, and the sweetest, because—because, perhaps it is<br/>
                     the last. The day was exceedingly favourable for the scenery of the<br/>
                     lower mountains, not for the <span class="geogName-ALPS">Alps</span>; they were reserved for other times.<br/>
                     The noon verged gradually from burning sunshine<span class="gloss-inline">
@@ -80,9 +78,9 @@ EOT
                     flash, flash, flashing, and the bridleless clouds careered along the crags at<br/>
                     such a wild rate that their own speed broke them into scattered confusion,<br/>
                     that the blue sky shone calmly through their openings, and the labouring<br/>
-                    sun struggled strangely&#x2014;now gleaming waterily on the red&#x2010;ribbed skeleton<br/>
+                    sun struggled strangely—now gleaming waterily on the red‐ribbed skeleton<br/>
                     crags, now mingling with the quiver of the lightning, now again plunged<br/>
-                    into the swift rack of the thunder&#x2010;clouds that seemed sweeping round the<br/>
+                    into the swift rack of the thunder‐clouds that seemed sweeping round the<br/>
                     mountain summits like lashed ocean waves round a labouring vessel. The<br/>
             <span class="geogName-ARVE">Arve</span> swelled on the instant, and his turbid waves tore madly down, trees,<br/>
                     stones, rocks, all tost along the channel, by the arrowy force of that<br/>
@@ -90,29 +88,27 @@ EOT
                     the horizon, the clouds swept partially away; the hills, the cliffs, the<br/>
                     mountains, the rocks, and the blue vaulted sky glowed with his last rays<br/>
                     for a moment; he sunk and the night came, his darkness made yet more<br/>
-                    visible by the thunder gloom of the storm.
-         </div>
+                    visible by the thunder gloom of the storm.</div>
          
          
-         <div class="p">&#x201C;Voilà les aiguilles,&#x201D; quoth our char&#x2010;à&#x2010;banc driver. If any person in<br/>
+         <div class="p">“Voilà les aiguilles,” quoth our char‐à‐banc driver. If any person in<br/>
                     the whole world is totally insensible to pain, knocks, aches, and bruises, it<br/>
-                    must be a <span class="placeName-SWITZERLAND">Swiss</span> char&#x2010;à&#x2010;banc driver. The <span class="placeName-SWITZERLAND">Swiss</span> char&#x2010;à&#x2010;banc is a vehicle<br/>
+                    must be a <span class="placeName-SWITZERLAND">Swiss</span> char‐à‐banc driver. The <span class="placeName-SWITZERLAND">Swiss</span> char‐à‐banc is a vehicle<br/>
                     expressly built for the purpose of passing over those roads, which no<br/>
                     other species of conveyance can pass over twelve yards of without immediate<br/>
-                    demolition. It is a sort of large side&#x2010;saddle, capable of containing, if<br/>
+                    demolition. It is a sort of large side‐saddle, capable of containing, if<br/>
                     well packed, three pauvres miserables, with a back and roof to it, and a<br/>
                     board to put the feet on, with a leather to keep you in, all which are of<br/>
                     a most ancient and venerable description; this is fixed totally without<br/>
                     springs or anything of the kind, as far as I could see, upon four wheels,<br/>
-                    et voilà un char&#x2010;à&#x2010;banc. With this kind of vehicle, upon roads which<br/>
+                    et voilà un char‐à‐banc. With this kind of vehicle, upon roads which<br/>
                     always resemble and are often carried through the beds of tumbling<br/>
                     mountain torrents, any one may easily imagine the sort of pleasurable<br/>
                     penance to which he is subjected who submits to be driven from <span class="placeName-SALLANCHES">Salenches</span><br/>
-                    up to <span class="placeName-CHAMOUNI">Chamouni</span> in a char&#x2010;à&#x2010;banc.
-         </div>
+                    up to <span class="placeName-CHAMOUNI">Chamouni</span> in a char‐à‐banc.</div>
          
          
-         <div class="p">&#x201C;Voilà les aiguilles,&#x201D; quoth our char&#x2010;à&#x2010;banc driver.<span class="gloss-inline">
+         <div class="p">“Voilà les aiguilles,” quoth our char‐à‐banc driver.<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/chamouni_glosses_contextual#VOILAGLOSS" target="_blank" class="inactive">
           
           
@@ -121,16 +117,16 @@ EOT
                 </span>
               </a></span> How I started,<br/>
                     I believe I was dreaming of home at the time; it is odd you always think<br/><div id="" class="pb"></div>
-                    it would be very pleasant to be where you are not; it can&#x02BC;t be helped, but<br/>
+                    it would be very pleasant to be where you are not; it canʼt be helped, but<br/>
                     it is very provoking, the charms of a place always increase in geometrical<br/>
-                    ratio as you get farther from it, and therefore &#x02BC;tis a rich pleasure to look<br/>
+                    ratio as you get farther from it, and therefore ʼtis a rich pleasure to look<br/>
                     back on anything, though it has a dash of regret. It is singular that<br/>
                     almost all pleasure is past, or coming. Well, I looked up, and lo! seven<br/>
                     thousand feet above me soared the needles of <span class="geogName-MONTBLANC">Mont Blanc</span>, splintered and<br/>
                     crashed and shivered, the marks of the tempest for three score centuries,<br/>
                     yet they are here, shooting up red, bare, scarcely even lichened, entirely<br/>
-                    inaccessible, snowless, the very snow cannot cling to the down&#x2010;plunging<br/>
-                    sheerness of these terrific flanks that rise pre&#x2010;eminently dizzying and<br/>
+                    inaccessible, snowless, the very snow cannot cling to the down‐plunging<br/>
+                    sheerness of these terrific flanks that rise pre‐eminently dizzying and<br/>
                     beetling above the sea of wreathed snow that rolled its long surging waves<br/>
                     over the summits of the lower and less precipitous mountains. Then came<br/>
                     the stretching gloominess of the pine forests, jagging darkly upon the<br/>
@@ -163,7 +159,5 @@ EOT
                 5
                 </span>
               </a></span></div>
-         
-      </div>
-   </div><div id="" class="pb"></div>
-</div><?php require_once(ROOT_PATH."layout_includes/showcase_bottom.inc.php"); ?>
+         </div>
+   </div><div id="" class="pb"></div></div><?php require_once(ROOT_PATH."layout_includes/showcase_bottom.inc.php"); ?>

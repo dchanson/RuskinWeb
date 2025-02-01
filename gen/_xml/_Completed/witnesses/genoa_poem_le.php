@@ -24,18 +24,16 @@ define("FACS_FILE_NAMES", <<<EOT
 EOT
 );
       ?>
-    <?php require_once(ROOT_PATH."layout_includes/showcase_top.inc.php"); ?><div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-left"><img id="facs_preview" src="" width="100&#x0025;"><img id="facs" src="" width="100&#x0025;" style="display:none"></div>
-<div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-splitter"></div>
-<div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-right">
+    <?php require_once(ROOT_PATH."layout_includes/showcase_top.inc.php"); ?><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-left"><img id="facs_preview" src="" width="100%"><img id="facs" src="" width="100%" style="display:none"></div><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-splitter"></div><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-right">
    <div class="backToApparatusLink"><a href="/apparatuses/apparatuses/account_of_a_tour_on_the_continent_apparatus#account_of_a_tour_on_the_continent_le" target="_self"></a><br/></div>
-   <div class="fileName"><span>&#x201C;Genoa&#x201D; &#x005B;poem&#x005D;</span></div>
+   <div class="fileName"><span>“Genoa” [poem]</span></div>
    <div class="witness">
       <div class="poem" id="">
          
          <div class="lg-stanza">
             <span class="l"><span class="caps">N</span><span class="smallcaps">ow</span> rouse thee, ho! For <span class="placeName-GENOA">Genoa</span> straight!</span><br/>
             <span class="l">We did not for the dawning wait;</span><br/>
-            <span class="l">The stars shone pale on Novi&#x02BC;s gate,<span class="gloss-inline">
+            <span class="l">The stars shone pale on Noviʼs gate,<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/genoa_poem_glosses_contextual#NOVISGATEGLOSS" target="_blank" class="inactive">
           
           
@@ -50,7 +48,7 @@ EOT
           System generated line number
         </div><a href="#L5" id="L5">5</a></div></span><br/>
             <span class="l">Lay southward in a lengthened line.</span><br/>
-            <span class="l">And we knew,&#x2014;and we knew,&#x2014;and we knew</span><br/>
+            <span class="l">And we knew,—and we knew,—and we knew</span><br/>
             <span class="l">That from <span class="geogName-ELBA">Elba</span> to the <span class="geogName-ALPS">Alps</span>,<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/genoa_poem_glosses_contextual#ELBAGLOSS" target="_blank" class="inactive">
           
@@ -58,7 +56,7 @@ EOT
                 <span class="gloss-contextual">
                 2
                 </span>
-              </a></span> o&#x02BC;er the sea&#x02BC;s broad blue,<span class="gloss-inline">
+              </a></span> oʼer the seaʼs broad blue,<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/genoa_poem_glosses_textual#SEASBROADBLUEGLOSS" target="_blank" class="inactive">
           
           
@@ -74,17 +72,17 @@ EOT
                   <div class="tooltip">
           System generated line number
         </div><a href="#L10" id="L10">10</a></div></span><br/>
-            <span class="l">From the torrent&#x02BC;s barren bed,</span><br/>
+            <span class="l">From the torrentʼs barren bed,</span><br/>
             <span class="l">Bound by blocks of <span class="name--GRANITE">granite</span> red,</span><br/>
-            <span class="l">Came the gay cicada&#x02BC;s song;</span><br/>
-            <span class="l">Wheresoe&#x02BC;er the dew was dank</span><br/>
+            <span class="l">Came the gay cicadaʼs song;</span><br/>
+            <span class="l">Wheresoeʼer the dew was dank</span><br/>
             <span class="l">On the tree, the shrub, the bank,
                <div class="s-line-number s-line-number-auto">
                   <div class="tooltip">
           System generated line number
         </div><a href="#L15" id="L15">15</a></div></span><br/>
             <span class="l">All our scorching road along</span><br/>
-            <span class="l">Came the gay cicada&#x02BC;s song.<span class="gloss-inline">
+            <span class="l">Came the gay cicadaʼs song.<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/genoa_poem_glosses_contextual#CICADAGLOSS" target="_blank" class="inactive">
           
           
@@ -153,14 +151,14 @@ EOT
                 </span>
                 
               </a></span></span><br/>
-            <span class="l">From the <span class="placeName-STBERNARD">St. Bernard</span>&#x02BC;s fastnesses;</span><br/>
-            <span class="l">White as the wreathed salt sea&#x2010;spray,</span><br/>
+            <span class="l">From the <span class="placeName-STBERNARD">St. Bernard</span>ʼs fastnesses;</span><br/>
+            <span class="l">White as the wreathed salt sea‐spray,</span><br/>
             <span class="l">With the snow wreaths that ever press
                <div class="s-line-number s-line-number-auto">
                   <div class="tooltip">
           System generated line number
         </div><a href="#L35" id="L35">35</a></div></span><br/>
-            <span class="l">Upon that heaven girt boundary,&#x2014;<span class="gloss-inline">
+            <span class="l">Upon that heaven girt boundary,—<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/genoa_poem_glosses_contextual#STBERNARDGLOSS" target="_blank" class="inactive">
           
           
@@ -168,9 +166,9 @@ EOT
                 5
                 </span>
               </a></span></span><br/>
-            <span class="l">Boundary meet for <span class="placeName-ITALY">Italy</span>,&#x2014;</span><br/>
+            <span class="l">Boundary meet for <span class="placeName-ITALY">Italy</span>,—</span><br/>
             <span class="l">Most meet for such a lovely clime,</span><br/>
-            <span class="l">As it looks o&#x02BC;er Marengo&#x02BC;s sea<span class="gloss-inline">
+            <span class="l">As it looks oʼer Marengoʼs sea<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/genoa_poem_glosses_contextual#MARENGOSSEAGLOSS" target="_blank" class="inactive">
           
           
@@ -183,7 +181,7 @@ EOT
                   <div class="tooltip">
           System generated line number
         </div><a href="#L40" id="L40">40</a></div></span><br/>
-            <span class="l">&#x02BC;Tis sweet, a topmost mountain&#x2010;ridge</span><br/>
+            <span class="l">ʼTis sweet, a topmost mountain‐ridge</span><br/>
             <span class="l">Impatiently to climb,</span><br/>
             <span class="l">And there to stand, and dream away</span><br/>
             <span class="l">A little space of time.<span class="gloss-inline">
@@ -211,13 +209,13 @@ EOT
                 </span>
                 
               </a></span></span><br/>
-            <span class="l">That shout &#x201C;the morn!&#x201D; from steep to steep,&#x2014;</span><br/>
+            <span class="l">That shout “the morn!” from steep to steep,—</span><br/>
             <span class="l">When far away to seaward show
                <div class="s-line-number s-line-number-auto">
                   <div class="tooltip">
           System generated line number
         </div><a href="#L50" id="L50">50</a></div></span><br/>
-            <span class="l">Her first beam&#x02BC;s solitary glow?<span class="gloss-inline">
+            <span class="l">Her first beamʼs solitary glow?<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/genoa_poem_glosses_textual#SOLITARYGLOWGLOSS" target="_blank" class="inactive">
           
           
@@ -227,8 +225,8 @@ EOT
                 </span>
                 
               </a></span></span><br/>
-            <span class="l">Whoe&#x02BC;er thou art, who hast not felt</span><br/>
-            <span class="l">Thou loved&#x02BC;st to be where sea&#x2010;birds dwelt,&#x2014;</span><br/>
+            <span class="l">Whoeʼer thou art, who hast not felt</span><br/>
+            <span class="l">Thou lovedʼst to be where sea‐birds dwelt,—</span><br/>
             <span class="l">To wander on the weary beach,</span><br/>
             <span class="l">Just on the line the wild waves reach,
                <div class="s-line-number s-line-number-auto">
@@ -236,10 +234,10 @@ EOT
           System generated line number
         </div><a href="#L55" id="L55">55</a></div></span><br/>
             <span class="l">Or watch the petrels flit before</span><br/>
-            <span class="l">The marching tempest&#x02BC;s warning roar,</span><br/>
-            <span class="l">And ocean&#x2010;eagles dark and proud,</span><br/>
-            <span class="l">And white winged ospreys skim the cloud;&#x2014;</span><br/>
-            <span class="l">And if thou ne&#x02BC;er hast felt as if
+            <span class="l">The marching tempestʼs warning roar,</span><br/>
+            <span class="l">And ocean‐eagles dark and proud,</span><br/>
+            <span class="l">And white winged ospreys skim the cloud;—</span><br/>
+            <span class="l">And if thou neʼer hast felt as if
                <div class="s-line-number s-line-number-auto">
                   <div class="tooltip">
           System generated line number
@@ -247,15 +245,12 @@ EOT
             <span class="l">The ocean had a mind,</span><br/>
             <span class="l">Nor held communion with the deep,</span><br/>
             <span class="l">And converse with the wind,</span><br/>
-            <span class="l">When broad, black waves before it roll,&#x2014;</span><br/>
-            <span class="l">I would not think thou had&#x02BC;st a soul.
+            <span class="l">When broad, black waves before it roll,—</span><br/>
+            <span class="l">I would not think thou hadʼst a soul.
                <div class="s-line-number s-line-number-auto">
                   <div class="tooltip">
           System generated line number
         </div><a href="#L65" id="L65">65</a></div></span><br/>
-            
+            </div>
          </div>
-         
-      </div>
-   </div><div id="" class="pb"></div>
-</div><?php require_once(ROOT_PATH."layout_includes/showcase_bottom.inc.php"); ?>
+   </div><div id="" class="pb"></div></div><?php require_once(ROOT_PATH."layout_includes/showcase_bottom.inc.php"); ?>

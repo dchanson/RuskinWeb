@@ -24,11 +24,9 @@ define("FACS_FILE_NAMES", <<<EOT
 EOT
 );
       ?>
-    <?php require_once(ROOT_PATH."layout_includes/showcase_top.inc.php"); ?><div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-left"><img id="facs_preview" src="" width="100&#x0025;"><img id="facs" src="" width="100&#x0025;" style="display:none"></div>
-<div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-splitter"></div>
-<div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-right">
+    <?php require_once(ROOT_PATH."layout_includes/showcase_top.inc.php"); ?><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-left"><img id="facs_preview" src="" width="100%"><img id="facs" src="" width="100%" style="display:none"></div><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-splitter"></div><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-right">
    <div class="backToApparatusLink"><br/></div>
-   <div class="fileName"><span>&#x003E;&#x201C;On Skiddaw and Derwent Water&#x201D;</span></div>
+   <div class="fileName"><span>>“On Skiddaw and Derwent Water”</span></div>
    <div class="witness">
       <div class="poem" id="">
          
@@ -44,10 +42,10 @@ EOT
                   <div class="tooltip">
           System generated line number
         </div><a href="#L5" id="L5">5</a></div></span><br/>
-            <span class="l">And making more intense the sun&#x02BC;s return.</span><br/>
+            <span class="l">And making more intense the sunʼs return.</span><br/>
             <span class="l">Then, in the morning, on thy head those clouds</span><br/>
             <span class="l">Rest, as upon a couch, and give fair scope</span><br/> 
-            <span class="l">To fancy&#x02BC;s play; and airy fortresses,</span><br/>
+            <span class="l">To fancyʼs play; and airy fortresses,</span><br/>
             <span class="l">Towers, banners, spears and battlements appear
                <div class="s-line-number s-line-number-auto">
                   <div class="tooltip">
@@ -64,7 +62,7 @@ EOT
                 
               </a></span> and in their turn</span><br/>
             <span class="l">Are vanquished too, dissolving like the mould</span><br/>
-            <span class="l">That&#x02BC;s trampled by the foot of urchin boy;<span class="gloss-inline">
+            <span class="l">Thatʼs trampled by the foot of urchin boy;<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/on_skiddaw_and_derwentwater_glosses_textual#SKIDDAWCOMEGLOSS" target="_blank" class="inactive">
           
           
@@ -80,7 +78,7 @@ EOT
                   <div class="tooltip">
           System generated line number
         </div><a href="#L15" id="L15">15</a></div></span><br/>
-            <span class="l">Climbs on to invade the hidden eagle&#x02BC;s nest.<span class="gloss-inline">
+            <span class="l">Climbs on to invade the hidden eagleʼs nest.<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/on_skiddaw_and_derwentwater_glosses_textual#STRAGGLERGLOSS" target="_blank" class="inactive">
           
           
@@ -90,7 +88,7 @@ EOT
                 </span>
                 
               </a></span></span><br/>
-            <span class="l"><span class="geogName-SKIDDAW">Skiddaw</span>! majestic, a giant&#x2010;nature&#x02BC;s work,<span class="gloss-inline">
+            <span class="l"><span class="geogName-SKIDDAW">Skiddaw</span>! majestic, a giant‐natureʼs work,<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/on_skiddaw_and_derwentwater_glosses_textual#AGIANTGLOSS" target="_blank" class="inactive">
           
           
@@ -116,12 +114,12 @@ EOT
                 2
                 </span>
               </a></span> to thee are nothing, they at best</span><br/> 
-            <span class="l">Are but gigantic tombs,&#x2014;the work of art.
+            <span class="l">Are but gigantic tombs,—the work of art.
                <div class="s-line-number s-line-number-auto">
                   <div class="tooltip">
           System generated line number
         </div><a href="#L20" id="L20">20</a></div></span><br/>
-            <span class="l">Proud nature makes no tombs, save where the snow&#x2014;</span><br/>
+            <span class="l">Proud nature makes no tombs, save where the snow—</span><br/>
             <span class="l">The fleecy locks of winter fall around,</span><br/>
             <span class="l">A mausoleum for the careless swain;<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/on_skiddaw_and_derwentwater_glosses_textual#WHITETOMBGLOSS" target="_blank" class="inactive">
@@ -163,11 +161,10 @@ EOT
                   <div class="tooltip">
           System generated line number
         </div><a href="#L30" id="L30">30</a></div></span><br/>
-            
-         </div>
+            </div>
          
          <div class="lg-stanza">
-            <span class="l">Now <span class="geogName-DERWENTWATER">Derwent Water</span> come!&#x2014;a looking&#x2010;glass<span class="gloss-inline">
+            <span class="l">Now <span class="geogName-DERWENTWATER">Derwent Water</span> come!—a looking‐glass<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/on_skiddaw_and_derwentwater_glosses_textual#LOOKINGGLASSGLOSS" target="_blank" class="inactive">
           
           
@@ -177,8 +174,8 @@ EOT
                 </span>
                 
               </a></span></span><br/>
-            <span class="l">Wherein reflected are the mountain&#x02BC;s heights;</span><br/>
-            <span class="l">For thou&#x02BC;rt a mirror, framed in rocks and woods.</span><br/>
+            <span class="l">Wherein reflected are the mountainʼs heights;</span><br/>
+            <span class="l">For thouʼrt a mirror, framed in rocks and woods.</span><br/>
             <span class="l">Upon thee, seeming mounts arise, and trees</span><br/>
             <span class="l">And seeming rivulets, that charm the eye;
                <div class="s-line-number s-line-number-auto">
@@ -188,14 +185,14 @@ EOT
             <span class="l">All on thee painted by a master hand,</span><br/>
             <span class="l">Which not a critic can well criticise.</span><br/>
             <span class="l">But to disturb thee oft, bluff <span class="persName-fictional-AEOLUS">Eolus</span></span><br/>
-            <span class="l">Descends upon thy heath&#x2010;top with his breath;</span><br/>
+            <span class="l">Descends upon thy heath‐top with his breath;</span><br/>
             <span class="l">Thy polished surface is a boy at play,
                <div class="s-line-number s-line-number-auto">
                   <div class="tooltip">
           System generated line number
         </div><a href="#L40" id="L40">40</a></div></span><br/>
             <span class="l">Who labours at the snow to make a man,</span><br/>
-            <span class="l">And when he&#x02BC;s made it, he strikes it into ruin.<span class="gloss-inline">
+            <span class="l">And when heʼs made it, he strikes it into ruin.<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/on_skiddaw_and_derwentwater_glosses_textual#MADEITGLOSS" target="_blank" class="inactive">
           
           
@@ -205,7 +202,7 @@ EOT
                 </span>
                 
               </a></span></span><br/>
-            <span class="l">So when thou&#x02BC;st made a picture, thou dost play</span><br/>
+            <span class="l">So when thouʼst made a picture, thou dost play</span><br/>
             <span class="l">At tearing it to pieces. Trees do first</span><br/>
             <span class="l">Tremble, as if a monstrous heart of <span class="name--OAK">oak</span><div class="s-line-number s-line-number-auto">
                   <div class="tooltip">
@@ -213,9 +210,9 @@ EOT
         </div><a href="#L45" id="L45">45</a></div></span><br/>
             <span class="l">Were but an <span class="name--ASPEN">aspen</span> leaf, and then as if</span><br/>
             <span class="l">It were a cobweb in the tempest.</span><br/>
-            <span class="l">Thus like <span class="persName-fictional-PENELOPE">Penelope</span> thou weav&#x02BC;st a web,</span><br/>
-            <span class="l">And then thou dost undo it; thou&#x02BC;rt like her</span><br/>
-            <span class="l">Because thou&#x02BC;rt fair and full of labour too.<span class="gloss-inline">
+            <span class="l">Thus like <span class="persName-fictional-PENELOPE">Penelope</span> thou weavʼst a web,</span><br/>
+            <span class="l">And then thou dost undo it; thouʼrt like her</span><br/>
+            <span class="l">Because thouʼrt fair and full of labour too.<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/on_skiddaw_and_derwentwater_glosses_contextual#PENELOPEGLOSS" target="_blank" class="inactive">
           
           
@@ -226,9 +223,6 @@ EOT
                   <div class="tooltip">
           System generated line number
         </div><a href="#L50" id="L50">50</a></div></span><br/>
-            
+            </div>
          </div>
-         
-      </div>
-   </div><div id="" class="pb"></div>
-</div><?php require_once(ROOT_PATH."layout_includes/showcase_bottom.inc.php"); ?>
+   </div><div id="" class="pb"></div></div><?php require_once(ROOT_PATH."layout_includes/showcase_bottom.inc.php"); ?>

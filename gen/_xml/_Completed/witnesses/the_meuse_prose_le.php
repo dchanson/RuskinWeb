@@ -24,11 +24,9 @@ define("FACS_FILE_NAMES", <<<EOT
 EOT
 );
       ?>
-    <?php require_once(ROOT_PATH."layout_includes/showcase_top.inc.php"); ?><div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-left"><img id="facs_preview" src="" width="100&#x0025;"><img id="facs" src="" width="100&#x0025;" style="display:none"></div>
-<div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-splitter"></div>
-<div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-right">
+    <?php require_once(ROOT_PATH."layout_includes/showcase_top.inc.php"); ?><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-left"><img id="facs_preview" src="" width="100%"><img id="facs" src="" width="100%" style="display:none"></div><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-splitter"></div><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-right">
    <div class="backToApparatusLink"><a href="/apparatuses/apparatuses/account_of_a_tour_on_the_continent_apparatus#account_of_a_tour_on_the_continent_le" target="_self">Back to apparatus</a><br/></div>
-   <div class="fileName"><span>&#x201C;The Meuse&#x201D; &#x005B;essay&#x005D;</span></div>
+   <div class="fileName"><span>“The Meuse” [essay]</span></div>
    <div class="witness">
       <div class="essay" id="">
          
@@ -44,7 +42,7 @@ EOT
                 </span>
               </a></span> as it began to smile to the first glance of the joyous sun, that 
                     <br/>was drinking up the delicate mists which clung to the hills, and rested on 
-                    <br/>the valley, in which the fair city reposed so peacefully&#x2014;and then we 
+                    <br/>the valley, in which the fair city reposed so peacefully—and then we 
                     <br/>dashed along the valley of the <span class="geogName-MEUSE">Meuse</span>. I know not if it was because this 
                     <br/>was our first initiation in to<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/the_meuse_prose_glosses_textual#INTO" target="_blank" class="inactive">
@@ -67,18 +65,17 @@ EOT
                 </span>
                 
               </a></span> but in that romantic and picturesque fairy beauty 
-                    <br/>which is, in many cases, superior to either) to anything which I ever after&#x2010;
-                    <br/>wards saw on the shores of the far famed <span class="geogName-RHINE">Rhine</span>.
-         </div>
+                    <br/>which is, in many cases, superior to either) to anything which I ever after‐
+                    <br/>wards saw on the shores of the far famed <span class="geogName-RHINE">Rhine</span>.</div>
          
          <div class="p">There was, to me, a great sameness throughout the whole of the course 
                     <br/>of the latter river; and, for its fortresses, it is positively too much of a 
-                    <br/>good thing&#x2014;a tiresome repetition of ruins, and ruins too which do not 
+                    <br/>good thing—a tiresome repetition of ruins, and ruins too which do not 
                     <br/>altogether agree with my idea of what ruins ought to be. But for the 
-                    <br/><span class="geogName-MEUSE">Meuse</span>&#x2014;the infinite variety of scenery, the impossibility of seeing every 
-                    <br/>successive change as you feel that it ought to be seen&#x2014;and, finally, the 
+                    <br/><span class="geogName-MEUSE">Meuse</span>—the infinite variety of scenery, the impossibility of seeing every 
+                    <br/>successive change as you feel that it ought to be seen—and, finally, the 
                     <br/>tantalizing rate at which you dash away from that which you could feast 
-                    <br/>upon, and look upon, and dwell upon, for&#x2014;ages, I was going to say, 
+                    <br/>upon, and look upon, and dwell upon, for—ages, I was going to say, 
                     <br/>months, I will say, are enough to enchant you with anything. If you<div id="" class="pb"></div>
                     wish to see rock scenery in perfection, go to the <span class="geogName-MEUSE">Meuse</span>,<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/the_meuse_glosses_contextual#GOTOTHEMEUSEGLOSS" target="_blank" class="inactive">
@@ -100,7 +97,5 @@ EOT
                 3
                 </span>
               </a></span></div>
-         
-      </div>
-   </div><div id="" class="pb"></div>
-</div><?php require_once(ROOT_PATH."layout_includes/showcase_bottom.inc.php"); ?>
+         </div>
+   </div><div id="" class="pb"></div></div><?php require_once(ROOT_PATH."layout_includes/showcase_bottom.inc.php"); ?>

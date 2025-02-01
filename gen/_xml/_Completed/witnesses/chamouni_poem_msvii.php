@@ -24,11 +24,9 @@ msvii/MSVII160v-161r.jpg msvii/MSVII159v-160r.jpg
 EOT
 );
       ?>
-    <?php require_once(ROOT_PATH."layout_includes/showcase_top.inc.php"); ?><div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-left"><img id="facs_preview" src="" width="100&#x0025;"><img id="facs" src="" width="100&#x0025;" style="display:none"></div>
-<div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-splitter"></div>
-<div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-right">
+    <?php require_once(ROOT_PATH."layout_includes/showcase_top.inc.php"); ?><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-left"><img id="facs_preview" src="" width="100%"><img id="facs" src="" width="100%" style="display:none"></div><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-splitter"></div><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-right">
    <div class="backToApparatusLink"><a href="/apparatuses/apparatuses/account_of_a_tour_on_the_continent_apparatus#account_of_a_tour_on_the_continent_msvii" target="_self"></a><br/></div>
-   <div class="fileName"><span>&#x201C;Chamouni&#x201D; &#x005B;poem&#x005D;</span></div>
+   <div class="fileName"><span>“Chamouni” [poem]</span></div>
    <div class="witness">
       <div class="poem" id="">
          <div id="MSVII161r" class="pb"></div>
@@ -73,7 +71,7 @@ EOT
             <span class="l">The avalanches thunder rolling</span><br/>
             <span class="l">No summer heat his reign controlling</span><br/> 
             <span class="l">The gloomy tyrant in his pride</span><br/> 
-            <span class="l">Spreads his dominion far &#x0026; wide</span><br/> 
+            <span class="l">Spreads his dominion far & wide</span><br/> 
             <span class="l">Till set with many an icy gem
                <div class="s-line-number s-line-number-auto">
                   <div class="tooltip">
@@ -108,7 +106,7 @@ EOT
             <span class="l">Opposed the torrents forceful way</span><br/>
             <span class="l">So headlong rushed the lightning tide</span><br/>                     
             <span class="l">No pass was there for aught beside</span><br/> 
-            <span class="l">And we high o&#x02BC;er those cliffs so sheer</span><br/>                     
+            <span class="l">And we high oʼer those cliffs so sheer</span><br/>                     
             <span class="l">Must climb the mountain barrier
                <div class="s-line-number s-line-number-auto">
                   <div class="tooltip">
@@ -139,12 +137,12 @@ EOT
                   <div class="tooltip">
           System generated line number
         </div><a href="#L40" id="L40">40</a></div></span><br/>                     
-            <span class="l">Whose dark &#x0026; spiry forests rose</span><br/>
+            <span class="l">Whose dark & spiry forests rose</span><br/>
             <div id="MSVII160r" class="pb"></div>
             <span class="l">Till mingled with eternal snows</span><br/>                     
             <span class="l">That climbed into the clear blue sky</span><br/> 
             <span class="l">In peaked impending majesty</span><br/>                     
-            <span class="l">&#x02BC;Tis passing strange that such a place
+            <span class="l">ʼTis passing strange that such a place
                <div class="s-line-number s-line-number-auto">
                   <div class="tooltip">
           System generated line number
@@ -175,7 +173,7 @@ EOT
                 4
                 </span>
               </a></span></span><br/>                   
-            <span class="l">And now <span class="placeName-SWITZERLAND">Helvetia</span>&#x02BC;s cliffy reign</span><br/> 
+            <span class="l">And now <span class="placeName-SWITZERLAND">Helvetia</span>ʼs cliffy reign</span><br/> 
             <span class="l">Contains not in her <span class="geogName-ALPS">Alpine</span> chain</span><br/>
             <span class="l">In valley deep, on mountain high,</span><br/>
             <span class="l">A race like those of <span class="placeName-CHAMOUNI">Chamouni</span><div class="s-line-number s-line-number-auto">
@@ -209,8 +207,7 @@ EOT
         </div><a href="#L70" id="L70">70</a></div></span><br/>                                 
             <span class="l">Returning with his spoils at even</span><br/> 
             <span class="l">Ere the red sun hath left the heaven</span><br/> 
-            
-         </div>
+            </div>
          
          <span class="space" style="padding-left:13.6em"> </span>1833.<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/chamouni_poem_glosses_textual#DATELINEGLOSS" target="_blank" class="inactive">
@@ -223,7 +220,5 @@ EOT
                 
               </a></span>  
          
-         
-      </div>
-   </div><div id="" class="pb"></div>
-</div><?php require_once(ROOT_PATH."layout_includes/showcase_bottom.inc.php"); ?>
+         </div>
+   </div><div id="" class="pb"></div></div><?php require_once(ROOT_PATH."layout_includes/showcase_bottom.inc.php"); ?>

@@ -24,15 +24,13 @@ msi/1229145.jpg
 EOT
 );
       ?>
-    <?php require_once(ROOT_PATH."layout_includes/showcase_top.inc.php"); ?><div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-left"><img id="facs_preview" src="" width="100&#x0025;"><img id="facs" src="" width="100&#x0025;" style="display:none"></div>
-<div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-splitter"></div>
-<div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-right">
+    <?php require_once(ROOT_PATH."layout_includes/showcase_top.inc.php"); ?><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-left"><img id="facs_preview" src="" width="100%"><img id="facs" src="" width="100%" style="display:none"></div><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-splitter"></div><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-right">
    <div class="backToApparatusLink"><br/></div>
-   <div class="fileName"><span>&#x201C;On Scotland&#x201D;</span></div>
+   <div class="fileName"><span>“On Scotland”</span></div>
    <div class="witness">
       <div class="poem" id="">             
          
-         <div class="title" id="&#x0040;"><span class="space" style="padding-left:2.0em"> </span>poem II<span class="runover" style="left:2.0em">on scotland</div>
+         <div class="title" id="@"><span class="space" style="padding-left:2.0em"> </span>poem II<span class="runover" style="left:2.0em">on scotland</div>
          
          <div class="lg-stanza">
             <span class="l"><span class="space" style="padding-left:0.8em"> </span><span class="doubleletter-fill">O</span> what a change from<span class="runover" style="left:2.4em">pretty <span class="placeName-PERTH">perth</span> so near</span></span><br/>
@@ -76,7 +74,7 @@ EOT
             <span class="l">in short such changes<span class="runover" style="left:2.0em"><span class="placeName-SCOTLAND">scotland</span> does <div 
           class="subst-del s-subst s-del" >m</div><div 
           class="s-subst s-add s-overwrite s-inline">no</div>w take</span></span><br/>
-            <span class="l">that I can&#x02BC;t tell them an<div 
+            <span class="l">that I canʼt tell them an<div 
           class="subst-del s-subst s-del" ><span class="space" style="padding-left:0.4em"> </span>I</div><div 
           class="s-subst s-add s-overwrite s-inline">d<span class="space" style="padding-left:0.4em"> </span>I</div><span class="runover">quickly end<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/on_scotland_glosses_contextual#COLLINGWOODSENDGLOSS" target="_blank" class="inactive">
@@ -86,9 +84,6 @@ EOT
                 2
                 </span>
               </a></span></span></span><br/>
-            
+            </div>
          </div>
-         
-      </div>
-   </div><div id="" class="pb"></div>
-</div><?php require_once(ROOT_PATH."layout_includes/showcase_bottom.inc.php"); ?>
+   </div><div id="" class="pb"></div></div><?php require_once(ROOT_PATH."layout_includes/showcase_bottom.inc.php"); ?>

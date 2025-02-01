@@ -24,16 +24,14 @@ msviii/MSVIII78v-79r.jpg msviii/MSVIII79v-80r.jpg
 EOT
 );
       ?>
-    <?php require_once(ROOT_PATH."layout_includes/showcase_top.inc.php"); ?><div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-left"><img id="facs_preview" src="" width="100&#x0025;"><img id="facs" src="" width="100&#x0025;" style="display:none"></div>
-<div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-splitter"></div>
-<div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-right">
+    <?php require_once(ROOT_PATH."layout_includes/showcase_top.inc.php"); ?><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-left"><img id="facs_preview" src="" width="100%"><img id="facs" src="" width="100%" style="display:none"></div><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-splitter"></div><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-right">
    <div class="backToApparatusLink"><a href="/apparatuses/apparatuses/account_of_a_tour_on_the_continent_apparatus#account_of_a_tour_on_the_continent_msviii" target="_self"></a><br/></div>
-   <div class="fileName"><span>&#x201C;Genoa&#x201D; &#x005B;poem&#x005D;</span></div>
+   <div class="fileName"><span>“Genoa” [poem]</span></div>
    <div class="witness">
       <div class="poem" id="">
          <div id="MSVIII77r" class="pb"></div>
          
-         <div class="title" id="&#x0040;"><span class="space" style="padding-left:6.4em"> </span><span class="placeName-GENOA">Genoa</span></div>
+         <div class="title" id="@"><span class="space" style="padding-left:6.4em"> </span><span class="placeName-GENOA">Genoa</span></div>
          
          <div class="lg-stanza">
             <span class="l">Now rouse thee ho. For <span class="placeName-GENOA">Genoa</span> straight</span><br/>
@@ -107,7 +105,7 @@ EOT
                 </span>
               </a></span></span><br/>
             <span class="l">While beside our path was seen</span><br/>
-            <span class="l">Of various trees a vista green, <span class="metamark-insertion">&#x0026;c.</span><span class="gloss-inline">
+            <span class="l">Of various trees a vista green, <span class="metamark-insertion">&c.</span><span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/genoa_poem_glosses_textual#OFVARIOUSTREESGLOSS" target="_blank" class="inactive">
           
           
@@ -126,7 +124,7 @@ EOT
                   <div class="tooltip">
           System generated line number
         </div><a href="#L20" id="L20">20</a></div></span><br/>
-            <span class="l">Whose living crystal shot between <span class="metamark-insertion">&#x0026;.</span> 
+            <span class="l">Whose living crystal shot between <span class="metamark-insertion">&.</span> 
                <div class="s-line-number s-line-number-ruskin linenumber-right-JR">
                   <div class="tooltip">
              Ruskin's line number
@@ -136,13 +134,13 @@ EOT
               style="left:NaNem"></div> little space of time</span></span><br/>
             <span class="l"><span class="del-strikethrough">And think how wide the world must be</span></span><br/>
             <span class="l"><span class="del-strikethrough">Across from pole to pole</span></span><br/>
-            <span class="l"><span class="del-strikethrough">When &#x2038;<div 
+            <span class="l"><span class="del-strikethrough">When ‸<div 
               class="add-above" 
               style="left:2.4em">all</div> that there you look upon</span> 
                <div class="s-line-number s-line-number-ruskin linenumber-right-JR">
                   <div class="tooltip">
              Ruskin's line number
-          </div><a href="javascript:void(0)">&#x00D7; 80</a></div>
+          </div><a href="javascript:void(0)">× 80</a></div>
                <div class="s-line-number s-line-number-auto">
                   <div class="tooltip">
           System generated line number
@@ -196,7 +194,7 @@ EOT
               </a></span></span><br/>
             <span class="l"><div 
           class="s-subst s-add s-overwrite s-inline">W</div><div 
-          class="subst-del s-subst s-del" >T</div>hoe&#x02BC;r thou art, who hast not felt</span><br/>
+          class="subst-del s-subst s-del" >T</div>hoeʼr thou art, who hast not felt</span><br/>
             <span class="l">Thou lovedst to be where seabirds dwelt</span><br/>
             <span class="l">To wander on the weary beach 
                <div class="s-line-number s-line-number-ruskin linenumber-right-JR">
@@ -228,7 +226,7 @@ EOT
             <span class="l"><div 
           class="s-subst s-add s-overwrite s-inline">Nor</div><div 
           class="subst-del s-subst s-del" >And</div> converse with the wind</span><br/>
-            <span class="l">When broad black waves before it roll &#x2014; 
+            <span class="l">When broad black waves before it roll — 
                <div class="s-line-number s-line-number-ruskin linenumber-right-JR">
                   <div class="tooltip">
              Ruskin's line number
@@ -238,9 +236,6 @@ EOT
           System generated line number
         </div><a href="#L45" id="L45">45</a></div></span><br/>
             <span class="l">I would not think thou hadst a soul.</span><br/>
-            
+            </div>
          </div>
-         
-      </div>
-   </div><div id="" class="pb"></div>
-</div><?php require_once(ROOT_PATH."layout_includes/showcase_bottom.inc.php"); ?>
+   </div><div id="" class="pb"></div></div><?php require_once(ROOT_PATH."layout_includes/showcase_bottom.inc.php"); ?>

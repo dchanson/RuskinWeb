@@ -24,22 +24,19 @@ define("FACS_FILE_NAMES", <<<EOT
 EOT
 );
       ?>
-    <?php require_once(ROOT_PATH."layout_includes/showcase_top.inc.php"); ?><div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-left"><img id="facs_preview" src="" width="100&#x0025;"><img id="facs" src="" width="100&#x0025;" style="display:none"></div>
-<div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-splitter"></div>
-<div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-right">
+    <?php require_once(ROOT_PATH."layout_includes/showcase_top.inc.php"); ?><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-left"><img id="facs_preview" src="" width="100%"><img id="facs" src="" width="100%" style="display:none"></div><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-splitter"></div><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-right">
    <div class="backToApparatusLink"><br/></div>
-   <div class="fileName"><span>&#x201C;Skiddaw&#x201D;</span></div>
+   <div class="fileName"><span>“Skiddaw”</span></div>
    <div class="witness">
       <div class="poem" id="">
          
-         <h1 class="page-title"><span class="caps"><span class="geogName-SKIDDAW">SKIDDAW</span></span>.
-         </h1>
+         <h1 class="page-title"><span class="caps"><span class="geogName-SKIDDAW">SKIDDAW</span></span>.</h1>
          
          <div class="lg-stanza">
             <span class="l"><span class="geogName-SKIDDAW">S<span class="smallcaps">kiddaw</span></span>, upon thy heights the sun shines bright,</span><br/>
             <span class="l">But only for a moment: then gives place</span><br/>
             <span class="l">Unto a playful cloud which on thy brow</span><br/>
-            <span class="l">Sports wantonly,&#x2014;then floats away in air,&#x2014;</span><br/>
+            <span class="l">Sports wantonly,—then floats away in air,—</span><br/>
             <span class="l">Throwing its shadow on thy towering height;
                <div class="s-line-number s-line-number-auto">
                   <div class="tooltip">
@@ -72,7 +69,7 @@ EOT
                   <div class="tooltip">
           System generated line number
         </div><a href="#L10" id="L10">10</a></div></span><br/>
-            <span class="l">For fancy&#x02BC;s play. And airy fortresses,</span><br/>
+            <span class="l">For fancyʼs play. And airy fortresses,</span><br/>
             <span class="l">And towers, and battlements, and all appear</span><br/>
             <span class="l">Chasing the others off, and in their turn</span><br/>
             <span class="l">Are chasèd by the others.<span class="gloss-inline">
@@ -121,7 +118,7 @@ EOT
                 </span>
                 
               </a></span></span><br/>
-            <span class="l"><span class="geogName-SKIDDAW">Skiddaw</span>, majestic! Giant Nature&#x02BC;s work!
+            <span class="l"><span class="geogName-SKIDDAW">Skiddaw</span>, majestic! Giant Natureʼs work!
                <div class="s-line-number s-line-number-auto">
                   <div class="tooltip">
           System generated line number
@@ -137,7 +134,7 @@ EOT
             <span class="l">Sink into nothing; all that Art can do</span><br/>
             <span class="l">Is nothing beside thee. The touch of man</span><br/>
             <span class="l">Raised pigmy mountains, but gigantic tombs.</span><br/>
-            <span class="l">The touch of Nature raised the mountain&#x02BC;s brow,
+            <span class="l">The touch of Nature raised the mountainʼs brow,
                <div class="s-line-number s-line-number-auto">
                   <div class="tooltip">
           System generated line number
@@ -168,9 +165,6 @@ EOT
                   <div class="tooltip">
           System generated line number
         </div><a href="#L30" id="L30">30</a></div></span><br/>
-            
+            </div>
          </div>
-         
-      </div>
-   </div><div id="" class="pb"></div>
-</div><?php require_once(ROOT_PATH."layout_includes/showcase_bottom.inc.php"); ?>
+   </div><div id="" class="pb"></div></div><?php require_once(ROOT_PATH."layout_includes/showcase_bottom.inc.php"); ?>

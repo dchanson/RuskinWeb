@@ -24,17 +24,14 @@ msia_g2/12180625.jpg msia_g2/12180626.jpg
 EOT
 );
       ?>
-    <?php require_once(ROOT_PATH."layout_includes/showcase_top.inc.php"); ?><div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-left"><img id="facs_preview" src="" width="100&#x0025;"><img id="facs" src="" width="100&#x0025;" style="display:none"></div>
-<div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-splitter"></div>
-<div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-right">
+    <?php require_once(ROOT_PATH."layout_includes/showcase_top.inc.php"); ?><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-left"><img id="facs_preview" src="" width="100%"><img id="facs" src="" width="100%" style="display:none"></div><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-splitter"></div><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-right">
    <div class="backToApparatusLink"><a href="/apparatuses/apparatuses/account_of_a_tour_on_the_continent_apparatus#account_of_a_tour_on_the_continent_msia_g2" target="_self"></a><br/></div>
-   <div class="fileName"><span>&#x201C;Passing the Alps&#x201D; &#x005B;poem&#x005D;</span></div>
+   <div class="fileName"><span>“Passing the Alps” [poem]</span></div>
    <div class="witness">
       <div class="poem" id="">
          <div id="12180625" class="pb"></div>
          
-         <h1 class="page-title"><span class="title-poem-JRPASSINGTHEALPSPOEM">Passing the <span class="geogName-ALPS">Alps</span></span>.
-         </h1>
+         <h1 class="page-title"><span class="title-poem-JRPASSINGTHEALPSPOEM">Passing the <span class="geogName-ALPS">Alps</span></span>.</h1>
          
          <div class="lg-stanza">
             <span class="l">To day we pass the <span class="geogName-ALPS">Alps</span>,<span class="gloss-inline">
@@ -156,7 +153,7 @@ EOT
                   <div class="tooltip">
           System generated line number
         </div><a href="#L35" id="L35">35</a></div></span><br/>
-            <span class="l">It meets the storm on Cannæs plain.&#x2014;<span class="gloss-inline">
+            <span class="l">It meets the storm on Cannæs plain.—<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/passing_the_alps_poem_glosses_contextual#CANNAESPLAINGLOSS" target="_blank" class="inactive">
           
           
@@ -164,9 +161,6 @@ EOT
                 5
                 </span>
               </a></span></span><br/>
-            
-         </div> 
-         
-      </div>
-   </div><div id="" class="pb"></div>
-</div><?php require_once(ROOT_PATH."layout_includes/showcase_bottom.inc.php"); ?>
+            </div> 
+         </div>
+   </div><div id="" class="pb"></div></div><?php require_once(ROOT_PATH."layout_includes/showcase_bottom.inc.php"); ?>

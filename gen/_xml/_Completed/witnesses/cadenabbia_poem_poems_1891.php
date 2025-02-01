@@ -24,21 +24,18 @@ define("FACS_FILE_NAMES", <<<EOT
 EOT
 );
       ?>
-    <?php require_once(ROOT_PATH."layout_includes/showcase_top.inc.php"); ?><div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-left"><img id="facs_preview" src="" width="100&#x0025;"><img id="facs" src="" width="100&#x0025;" style="display:none"></div>
-<div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-splitter"></div>
-<div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-right">
+    <?php require_once(ROOT_PATH."layout_includes/showcase_top.inc.php"); ?><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-left"><img id="facs_preview" src="" width="100%"><img id="facs" src="" width="100%" style="display:none"></div><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-splitter"></div><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-right">
    <div class="backToApparatusLink"><a href="/apparatuses/apparatuses/account_of_a_tour_on_the_continent_apparatus#account_of_a_tour_on_the_continent_poems_1891" target="_self"></a><br/></div>
-   <div class="fileName"><span>&#x201C;Cadenabbia&#x201D; &#x005B;poem&#x005D;</span></div>
+   <div class="fileName"><span>“Cadenabbia” [poem]</span></div>
    <div class="witness">
       <div class="poem" id="">
          
-         <h1 class="page-title"><span class="caps">CADENABBIA</span>.
-         </h1>
+         <h1 class="page-title"><span class="caps">CADENABBIA</span>.</h1>
          
          <div class="lg-stanza">
-            <span class="l"><span class="caps">O</span><span class="smallcaps">H</span>! coolly came, on <span class="geogName-LAKECOMO">Como</span>&#x02BC;s lake,</span><br/> 
+            <span class="l"><span class="caps">O</span><span class="smallcaps">H</span>! coolly came, on <span class="geogName-LAKECOMO">Como</span>ʼs lake,</span><br/> 
             <span class="l">The lovely beams of morning mild,</span><br/>
-            <span class="l">That o&#x02BC;er the <span class="placeName-LECCO">Lecco</span> mountains break,<span class="gloss-inline">
+            <span class="l">That oʼer the <span class="placeName-LECCO">Lecco</span> mountains break,<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/cadenabbia_poem_glosses_contextual#LECCOGLOSS" target="_blank" class="inactive">
           
           
@@ -55,7 +52,7 @@ EOT
             <span class="l">Their weary winter garments bore.</span><br/> 
             <span class="l">The broad boat lay along the tide;</span><br/> 
             <span class="l">The light waves lapped its sloping side,</span><br/> 
-            <span class="l">And soft perfume of <span class="name--ORANGE">orange&#x2010;trees</span></span><br/> 
+            <span class="l">And soft perfume of <span class="name--ORANGE">orange‐trees</span></span><br/> 
             <span class="l">By fits came on the landward breeze.
                <div class="s-line-number s-line-number-auto">
                   <div class="tooltip">
@@ -78,15 +75,15 @@ EOT
         </div><a href="#L15" id="L15">15</a></div></span><br/> 
             <span class="l">How fast retires yon <span class="name--MYRTLE">myrtle</span> brake,</span><br/>
             <span class="l">All sprinkled with a silver shower,</span><br/> 
-            <span class="l">Through the dark leaves of lemon&#x2010;flower.</span><br/>
+            <span class="l">Through the dark leaves of lemon‐flower.</span><br/>
             <div id="" class="pb"></div>
-            <span class="l">Clear, as if near,&#x2014;nor faint, though far,</span><br/> 
+            <span class="l">Clear, as if near,—nor faint, though far,</span><br/> 
             <span class="l">Shines on the mountain, like a star,
                <div class="s-line-number s-line-number-auto">
                   <div class="tooltip">
           System generated line number
         </div><a href="#L20" id="L20">20</a></div></span><br/> 
-            <span class="l">The rock&#x2010;born torrent&#x02BC;s milky spray.</span><br/> 
+            <span class="l">The rock‐born torrentʼs milky spray.</span><br/> 
             <span class="l">And many a small boat on its way</span><br/> 
             <span class="l">Urged by a breeze that bore them well,</span><br/> 
             <span class="l">Though unfelt as invisible,</span><br/> 
@@ -96,8 +93,7 @@ EOT
           System generated line number
         </div><a href="#L25" id="L25">25</a></div></span><br/> 
             <span class="l">Past, like young eaglets on the gale.</span><br/>
-            
-         </div>
+            </div>
          
          <div class="lg-stanza">
             <span class="l">The steps were broken, mossed, and steep;</span><br/> 
@@ -118,24 +114,24 @@ EOT
                 </span>
               </a></span></span><br/> 
             <span class="l">Nor once its wave had sunned, nor seen</span><br/> 
-            <span class="l">Aught but dark rock, and ice&#x2010;caves green,</span><br/> 
+            <span class="l">Aught but dark rock, and ice‐caves green,</span><br/> 
             <span class="l">Where the dark waters, as a home,
                <div class="s-line-number s-line-number-auto">
                   <div class="tooltip">
           System generated line number
         </div><a href="#L35" id="L35">35</a></div></span><br/> 
-            <span class="l">Received the torrent&#x02BC;s churnèd foam.</span><br/> 
+            <span class="l">Received the torrentʼs churnèd foam.</span><br/> 
             <span class="l">We launched again, and downward bore</span><br/> 
             <span class="l">A while beside the centre shore;</span><br/> 
-            <span class="l">Then left the shadowy eastern lake,&#x2014;</span><br/> 
-            <span class="l">Crossed through thick vines the wooded cape,&#x2014;
+            <span class="l">Then left the shadowy eastern lake,—</span><br/> 
+            <span class="l">Crossed through thick vines the wooded cape,—
                <div class="s-line-number s-line-number-auto">
                   <div class="tooltip">
           System generated line number
         </div><a href="#L40" id="L40">40</a></div></span><br/>
-            <span class="l">Struck the clear wave with long, light oar,&#x2014;</span><br/> 
+            <span class="l">Struck the clear wave with long, light oar,—</span><br/> 
             <span class="l">Left a white wake that sought the shore;</span><br/> 
-            <span class="l">High o&#x02BC;er the boat the awning spread,</span><br/> 
+            <span class="l">High oʼer the boat the awning spread,</span><br/> 
             <span class="l">And, quick as sunned waves<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/cadenabbia_poem_glosses_textual#SUNREDWAVESGLOSS" target="_blank" class="inactive">
           
@@ -151,9 +147,6 @@ EOT
                   <div class="tooltip">
           System generated line number
         </div><a href="#L45" id="L45">45</a></div></span><br/>
-            
-         </div>              
-         
-      </div>
-   </div><div id="" class="pb"></div>
-</div><?php require_once(ROOT_PATH."layout_includes/showcase_bottom.inc.php"); ?>
+            </div>              
+         </div>
+   </div><div id="" class="pb"></div></div><?php require_once(ROOT_PATH."layout_includes/showcase_bottom.inc.php"); ?>

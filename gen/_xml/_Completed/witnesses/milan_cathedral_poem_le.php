@@ -24,11 +24,9 @@ define("FACS_FILE_NAMES", <<<EOT
 EOT
 );
       ?>
-    <?php require_once(ROOT_PATH."layout_includes/showcase_top.inc.php"); ?><div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-left"><img id="facs_preview" src="" width="100&#x0025;"><img id="facs" src="" width="100&#x0025;" style="display:none"></div>
-<div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-splitter"></div>
-<div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-right">
+    <?php require_once(ROOT_PATH."layout_includes/showcase_top.inc.php"); ?><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-left"><img id="facs_preview" src="" width="100%"><img id="facs" src="" width="100%" style="display:none"></div><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-splitter"></div><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-right">
    <div class="backToApparatusLink"><a href="/apparatuses/apparatuses/account_of_a_tour_on_the_continent_apparatus#account_of_a_tour_on_the_continent_le" target="_self"></a><br/></div>
-   <div class="fileName"><span>&#x201C;Milan Cathedral&#x201D; &#x005B;poem&#x005D;</span></div>
+   <div class="fileName"><span>“Milan Cathedral” [poem]</span></div>
    <div class="witness">
       <div class="poem" id="">
          
@@ -44,7 +42,7 @@ EOT
                 1
                 </span>
               </a></span></span><br/>
-            <span class="l">And mark you <span class="placeName-MILAN">Milan</span>&#x02BC;s marble pile</span><br/>
+            <span class="l">And mark you <span class="placeName-MILAN">Milan</span>ʼs marble pile</span><br/>
             <span class="l">Glow with the mellow rays awhile!</span><br/>
             <div id="" class="pb"></div>
             <span class="l">Lo, there relieved,<span class="gloss-inline">
@@ -68,7 +66,7 @@ EOT
                   <div class="tooltip">
           System generated line number
         </div><a href="#L10" id="L10">10</a></div></span><br/>
-            <span class="l">And dazzling bright as <span class="geogName-MONTEROSA">Rosa</span>&#x02BC;s crest,</span><br/>
+            <span class="l">And dazzling bright as <span class="geogName-MONTEROSA">Rosa</span>ʼs crest,</span><br/>
             <span class="l">Each with his sculptured statue prest,</span><br/>
             <span class="l">They seem to stand in that thin air</span><br/>
             <span class="l">As on a thread of gossamer.<span class="gloss-inline">
@@ -79,7 +77,7 @@ EOT
                 3
                 </span>
               </a></span></span><br/>
-            <span class="l">You think the evening zephyr&#x02BC;s play
+            <span class="l">You think the evening zephyrʼs play
                <div class="s-line-number s-line-number-auto">
                   <div class="tooltip">
           System generated line number
@@ -87,9 +85,6 @@ EOT
             <span class="l">Could sweep them from their post away,</span><br/>
             <span class="l">And bear them on its sportful wing</span><br/>
             <span class="l">As autumn leaves, wild scattering.</span><br/>
-            
+            </div>
          </div>
-         
-      </div>
-   </div><div id="" class="pb"></div>
-</div><?php require_once(ROOT_PATH."layout_includes/showcase_bottom.inc.php"); ?>
+   </div><div id="" class="pb"></div></div><?php require_once(ROOT_PATH."layout_includes/showcase_bottom.inc.php"); ?>

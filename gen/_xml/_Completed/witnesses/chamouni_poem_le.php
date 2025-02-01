@@ -24,11 +24,9 @@ define("FACS_FILE_NAMES", <<<EOT
 EOT
 );
       ?>
-    <?php require_once(ROOT_PATH."layout_includes/showcase_top.inc.php"); ?><div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-left"><img id="facs_preview" src="" width="100&#x0025;"><img id="facs" src="" width="100&#x0025;" style="display:none"></div>
-<div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-splitter"></div>
-<div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-right">
+    <?php require_once(ROOT_PATH."layout_includes/showcase_top.inc.php"); ?><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-left"><img id="facs_preview" src="" width="100%"><img id="facs" src="" width="100%" style="display:none"></div><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-splitter"></div><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-right">
    <div class="backToApparatusLink"><a href="/apparatuses/apparatuses/account_of_a_tour_on_the_continent_apparatus#account_of_a_tour_on_the_continent_le" target="_self"></a><br/></div>
-   <div class="fileName"><span>&#x201C;Chamouni&#x201D; &#x005B;poem&#x005D;</span></div>
+   <div class="fileName"><span>“Chamouni” [poem]</span></div>
    <div class="witness">
       <div class="poem" id="">
          
@@ -58,7 +56,7 @@ EOT
                   <div class="tooltip">
           System generated line number
         </div><a href="#L10" id="L10">10</a></div></span><br/>
-            <span class="l">The avalanche&#x02BC;s thunder rolling,</span><br/>
+            <span class="l">The avalancheʼs thunder rolling,</span><br/>
             <span class="l">No summer heat his reign controlling;</span><br/>
             <span class="l">The gloomy tyrant in his pride</span><br/>
             <span class="l">Spreads his dominion far and wide,</span><br/>
@@ -75,8 +73,7 @@ EOT
                 2
                 </span>
               </a></span></span><br/>
-            
-         </div>
+            </div>
          <div id="" class="pb"></div> 
          
          <div class="lg-stanza">
@@ -97,10 +94,10 @@ EOT
                   <div class="tooltip">
           System generated line number
         </div><a href="#L25" id="L25">25</a></div></span><br/>
-            <span class="l">Opposed the torrent&#x02BC;s forceful way;</span><br/>
+            <span class="l">Opposed the torrentʼs forceful way;</span><br/>
             <span class="l">So headlong rushed the lightning tide,</span><br/>
             <span class="l">No pass was there for aught beside;</span><br/>
-            <span class="l">And we high o&#x02BC;er those cliffs so sheer</span><br/>
+            <span class="l">And we high oʼer those cliffs so sheer</span><br/>
             <span class="l">Must climb the mountain barrier,
                <div class="s-line-number s-line-number-auto">
                   <div class="tooltip">
@@ -115,8 +112,7 @@ EOT
                 3
                 </span>
               </a></span></span><br/>
-            
-         </div>
+            </div>
          
          <div class="lg-stanza">
             <span class="l">It lay before us, as a child</span><br/>
@@ -126,10 +122,10 @@ EOT
                   <div class="tooltip">
           System generated line number
         </div><a href="#L35" id="L35">35</a></div></span><br/>
-            <span class="l">So fairy&#x2010;like, could harbour there;</span><br/>
+            <span class="l">So fairy‐like, could harbour there;</span><br/>
             <span class="l">For fields of bending corn there grew</span><br/>
-            <span class="l">Close to the glacier&#x02BC;s wintry blue;</span><br/>
-            <span class="l">And saw we the same sun&#x2010;ray shine</span><br/>
+            <span class="l">Close to the glacierʼs wintry blue;</span><br/>
+            <span class="l">And saw we the same sun‐ray shine</span><br/>
             <span class="l">On pasture gay and mountain pine,
                <div class="s-line-number s-line-number-auto">
                   <div class="tooltip">
@@ -139,16 +135,15 @@ EOT
             <span class="l">Till mingled with eternal snows</span><br/>
             <span class="l">That climbed into the clear blue sky</span><br/>
             <span class="l">In peaked, impending majesty.</span><br/>
-            <span class="l">&#x02BC;Tis passing strange that such a place
+            <span class="l">ʼTis passing strange that such a place
                <div class="s-line-number s-line-number-auto">
                   <div class="tooltip">
           System generated line number
         </div><a href="#L45" id="L45">45</a></div></span><br/>
             <span class="l">In an its native loveliness</span><br/>
             <span class="l">Should, pent within those wilds so lone,</span><br/>
-            <span class="l">For many ages pass unknown&#x2014;</span><br/>
-            
-         </div>
+            <span class="l">For many ages pass unknown—</span><br/>
+            </div>
          
          <div class="lg-stanza">
             <span class="l">Unknown save by a simple few<span class="gloss-inline">
@@ -183,7 +178,7 @@ EOT
                 4
                 </span>
               </a></span></span><br/>
-            <span class="l">And now <span class="placeName-SWITZERLAND">Helvetia</span>&#x02BC;s cliffy reign</span><br/>
+            <span class="l">And now <span class="placeName-SWITZERLAND">Helvetia</span>ʼs cliffy reign</span><br/>
             <span class="l">Contains not in her <span class="geogName-ALPS">Alpine</span> chain,</span><br/>
             <span class="l">In valley deep, on mountain high,</span><br/>
             <span class="l">A race like those of <span class="placeName-CHAMOUNI">Chamouni</span>;
@@ -193,7 +188,7 @@ EOT
         </div><a href="#L60" id="L60">60</a></div></span><br/>
             <div id="" class="pb"></div>
             <span class="l">For they have loved, at dawn of day,</span><br/>
-            <span class="l">To trace the chamois&#x02BC; fearful way,</span><br/>
+            <span class="l">To trace the chamoisʼ fearful way,</span><br/>
             <span class="l">Or on the toppling shelf of snow</span><br/>
             <span class="l">With crags above and clouds below;</span><br/>
             <span class="l">Or on the peak whose spiry head
@@ -201,10 +196,10 @@ EOT
                   <div class="tooltip">
           System generated line number
         </div><a href="#L65" id="L65">65</a></div></span><br/>
-            <span class="l">Is beetling o&#x02BC;er abysses dread,</span><br/>
+            <span class="l">Is beetling oʼer abysses dread,</span><br/>
             <span class="l">Where place for foot, and grasp for hand,</span><br/>
             <span class="l">Is all the hunter can command;</span><br/>
-            <span class="l">Or on the glacier&#x02BC;s rigid wave</span><br/>
+            <span class="l">Or on the glacierʼs rigid wave</span><br/>
             <span class="l">Where he may find a chasmy grave;<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/chamouni_glosses_contextual#RACEOFHUNTERSGLOSS" target="_blank" class="inactive">
           
@@ -218,9 +213,6 @@ EOT
         </div><a href="#L70" id="L70">70</a></div></span><br/>
             <span class="l">Returning with his spoils at even</span><br/>
             <span class="l">Ere the red sun hath left the heaven.</span><br/>
-            
+            </div>
          </div>
-         
-      </div>
-   </div><div id="" class="pb"></div>
-</div><?php require_once(ROOT_PATH."layout_includes/showcase_bottom.inc.php"); ?>
+   </div><div id="" class="pb"></div></div><?php require_once(ROOT_PATH."layout_includes/showcase_bottom.inc.php"); ?>

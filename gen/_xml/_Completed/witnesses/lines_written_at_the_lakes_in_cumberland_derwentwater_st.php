@@ -24,16 +24,13 @@ define("FACS_FILE_NAMES", <<<EOT
 EOT
 );
       ?>
-    <?php require_once(ROOT_PATH."layout_includes/showcase_top.inc.php"); ?><div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-left"><img id="facs_preview" src="" width="100&#x0025;"><img id="facs" src="" width="100&#x0025;" style="display:none"></div>
-<div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-splitter"></div>
-<div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-right">
+    <?php require_once(ROOT_PATH."layout_includes/showcase_top.inc.php"); ?><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-left"><img id="facs_preview" src="" width="100%"><img id="facs" src="" width="100%" style="display:none"></div><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-splitter"></div><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-right">
    <div class="backToApparatusLink"><br/></div>
-   <div class="fileName"><span>&#x201C;Lines Written at the Lakes in Cumberland&#x201D;</span></div>
+   <div class="fileName"><span>“Lines Written at the Lakes in Cumberland”</span></div>
    <div class="witness">
       <div class="poem" id="">
          
-         <h1 class="page-title"><span class="caps">LINES WRITTEN AT THE LAKES IN <span class="placeName-CUMBERLAND">CUMBERLAND</span></span>. <i><span class="geogName-DERWENTWATER">Derwentwater</span></i>.
-         </h1>
+         <h1 class="page-title"><span class="caps">LINES WRITTEN AT THE LAKES IN <span class="placeName-CUMBERLAND">CUMBERLAND</span></span>. <i><span class="geogName-DERWENTWATER">Derwentwater</span></i>.</h1>
          
          <div class="lg-stanza">
             <span class="l">Sweet <span class="geogName-DERWENTWATER"><span class="caps">D</span><span class="smallcaps">erwent</span></span>! on thy winding shore,</span><br/>
@@ -62,7 +59,7 @@ EOT
                   <div class="tooltip">
           System generated line number
         </div><a href="#L5" id="L5">5</a></div></span><br/>
-            <span class="l">And mingles with the eagle&#x02BC;s call;</span><br/>
+            <span class="l">And mingles with the eagleʼs call;</span><br/>
             <span class="l">While from <span class="geogName-HELVELLYN">Helvellyn</span> thunders break,<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/on_skiddaw_and_derwentwater_glosses_textual#BREAKGLOSS" target="_blank" class="inactive">
           
@@ -73,7 +70,7 @@ EOT
                 </span>
                 
               </a></span></span><br/>
-            <span class="l">Re&#x2010;echoed from Old <span class="geogName-DERWENTWATER">Derwent</span>&#x02BC;s lake.<span class="gloss-inline">
+            <span class="l">Re‐echoed from Old <span class="geogName-DERWENTWATER">Derwent</span>ʼs lake.<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/on_skiddaw_and_derwentwater_glosses_textual#FROMOLDGLOSS" target="_blank" class="inactive">
           
           
@@ -83,8 +80,8 @@ EOT
                 </span>
                 
               </a></span></span><br/>
-            <span class="l">And where the lightning&#x02BC;s flaming dart,</span><br/>
-            <span class="l">Plays o&#x02BC;er the Poet&#x02BC;s eye, and warms his heart:
+            <span class="l">And where the lightningʼs flaming dart,</span><br/>
+            <span class="l">Plays oʼer the Poetʼs eye, and warms his heart:
                <div class="s-line-number s-line-number-auto">
                   <div class="tooltip">
           System generated line number
@@ -100,15 +97,12 @@ EOT
                 </span>
                 
               </a></span></span><br/>
-            
-         </div>
+            </div>
          <br/>
          
          
          <span class="space" style="padding-left:17.6em"> </span>
          
          
-         
-      </div>
-   </div><div id="" class="pb"></div>
-</div><?php require_once(ROOT_PATH."layout_includes/showcase_bottom.inc.php"); ?>
+         </div>
+   </div><div id="" class="pb"></div></div><?php require_once(ROOT_PATH."layout_includes/showcase_bottom.inc.php"); ?>

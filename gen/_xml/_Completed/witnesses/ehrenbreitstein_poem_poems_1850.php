@@ -24,16 +24,13 @@ define("FACS_FILE_NAMES", <<<EOT
 EOT
 );
       ?>
-    <?php require_once(ROOT_PATH."layout_includes/showcase_top.inc.php"); ?><div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-left"><img id="facs_preview" src="" width="100&#x0025;"><img id="facs" src="" width="100&#x0025;" style="display:none"></div>
-<div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-splitter"></div>
-<div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-right">
+    <?php require_once(ROOT_PATH."layout_includes/showcase_top.inc.php"); ?><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-left"><img id="facs_preview" src="" width="100%"><img id="facs" src="" width="100%" style="display:none"></div><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-splitter"></div><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-right">
    <div class="backToApparatusLink"><a href="/apparatuses/apparatuses/account_of_a_tour_on_the_continent_apparatus#account_of_a_tour_on_the_continent_ehrenbreitstein_poem_1850" target="_self"></a><br/></div>
-   <div class="fileName"><span>&#x201C;Ehrenbreitstein&#x201D; &#x005B;poem&#x005D;</span></div>
+   <div class="fileName"><span>“Ehrenbreitstein” [poem]</span></div>
    <div class="witness">
       <div class="poem" id="">
          
-         <h1 class="page-title"><span class="caps">EHRENBREITSTEIN</span>.
-         </h1>
+         <h1 class="page-title"><span class="caps">EHRENBREITSTEIN</span>.</h1>
          <span class="head-sub" id=""><span class="smallcaps">FRAGMENT FROM A METRICAL JOURNAL</span>.</span>
          (Æ<span class="smallcaps">TAT</span>. 16.)
          
@@ -107,7 +104,7 @@ EOT
           System generated line number
         </div><a href="#L30" id="L30">30</a></div></span><br/>
             <span class="l">Together down the rivers go,</span><br/> 
-            <span class="l">Resistless o&#x02BC;er their rocky foe,</span><br/> 
+            <span class="l">Resistless oʼer their rocky foe,</span><br/> 
             <span class="l">As lovers, joining hand in hand;</span><br/>
             <span class="l">Towards the west, beside their strand</span><br/>
             <span class="l">They pass together playfully,
@@ -115,7 +112,7 @@ EOT
                   <div class="tooltip">
           System generated line number
         </div><a href="#L35" id="L35">35</a></div></span><br/> 
-            <span class="l">Like allied armies&#x02BC; mingled band:</span><br/> 
+            <span class="l">Like allied armiesʼ mingled band:</span><br/> 
             <span class="l">Toward the east white whirls of sand</span><br/> 
             <span class="l">The torrent tosses by.<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/ehrenbreitstein_glosses_contextual#EHRENBREITSTEINPLAYFULLYGLOSS" target="_blank" class="inactive">
@@ -141,7 +138,7 @@ EOT
               </a></span></span><br/>
             <span class="l">While, far beneath in misty night,</span><br/> 
             <span class="l">The waters wheeled their sullen flight,</span><br/> 
-            <span class="l">Till o&#x02BC;er them far, for many a rood,</span><br/>
+            <span class="l">Till oʼer them far, for many a rood,</span><br/>
             <span class="l">The red sun scattered tinge of blood;
                <div class="s-line-number s-line-number-auto">
                   <div class="tooltip">
@@ -166,9 +163,9 @@ EOT
                   <div class="tooltip">
           System generated line number
         </div><a href="#L55" id="L55">55</a></div></span><br/> 
-            <span class="l">And on the eye&#x2010;like frown</span><br/> 
+            <span class="l">And on the eye‐like frown</span><br/> 
             <span class="l">Of the portals of her palaces,</span><br/> 
-            <span class="l">And on her people&#x02BC;s busy press.</span><br/> 
+            <span class="l">And on her peopleʼs busy press.</span><br/> 
             <span class="l">There never was a fairer town,</span><br/> 
             <span class="l">Between two rivers as it lay,
                <div class="s-line-number s-line-number-auto">
@@ -176,9 +173,9 @@ EOT
           System generated line number
         </div><a href="#L60" id="L60">60</a></div></span><br/> 
             <span class="l">Whence morning mist was curling grey</span><br/> 
-            <span class="l">On the plain&#x02BC;s edge beside the hill:&#x2014;</span><br/>
+            <span class="l">On the plainʼs edge beside the hill:—</span><br/>
             <span class="l">Oh! it was lying calm and still</span><br/> 
-            <span class="l">In morning&#x02BC;s chastened glow:</span><br/> 
+            <span class="l">In morningʼs chastened glow:</span><br/> 
             <span class="l">The multitudes were thronging by,
                <div class="s-line-number s-line-number-auto">
                   <div class="tooltip">
@@ -188,7 +185,7 @@ EOT
             <span class="l">And we might not one murmur hear,</span><br/> 
             <span class="l">Nor whisper tingling on the ear,</span><br/> 
             <span class="l">From the far depth below.</span><br/>
-            <span class="l">The bridge of boats, the bridge of boats&#x2014;
+            <span class="l">The bridge of boats, the bridge of boats—
                <div class="s-line-number s-line-number-auto">
                   <div class="tooltip">
           System generated line number
@@ -196,15 +193,15 @@ EOT
             <span class="l">Across the swift tide how it floats</span><br/> 
             <span class="l">In one dark bending line!</span><br/>
             <div id="" class="pb"></div>
-            <span class="l">For other bridge were swept away;&#x2014;</span><br/>
+            <span class="l">For other bridge were swept away;—</span><br/>
             <span class="l">Such shackle loveth not the play</span><br/> 
-            <span class="l">Of the impetuous <span class="geogName-RHINE">Rhine</span>;&#x2014;
+            <span class="l">Of the impetuous <span class="geogName-RHINE">Rhine</span>;—
                <div class="s-line-number s-line-number-auto">
                   <div class="tooltip">
           System generated line number
         </div><a href="#L75" id="L75">75</a></div></span><br/>
             <span class="l">The feeble bridge that bends below</span><br/>
-            <span class="l">The tread of one weak man,&#x2014;</span><br/>
+            <span class="l">The tread of one weak man,—</span><br/>
             <span class="l">It yet can stem the forceful flow,</span><br/>
             <span class="l">Which nought unyielding can.</span><br/> 
             <span class="l">The bar of shingle stems the sea,
@@ -224,8 +221,8 @@ EOT
             <span class="l">Oh! fast and faster on the stream</span><br/>
             <span class="l">An island driveth down;</span><br/>
             <span class="l">The <span class="geogName-BLACKFOREST">Schwartzwald</span> pine hath shed its green,</span><br/> 
-            <span class="l">But not at autumn&#x02BC;s frown;</span><br/> 
-            <span class="l">A sharper winter stripped them there,&#x2014;
+            <span class="l">But not at autumnʼs frown;</span><br/> 
+            <span class="l">A sharper winter stripped them there,—
                <div class="s-line-number s-line-number-auto">
                   <div class="tooltip">
           System generated line number
@@ -242,7 +239,7 @@ EOT
             <span class="l">The chamois gave his warning call,</span><br/>
             <span class="l">And higher on the mountain tall</span><br/>
             <span class="l">Pursued his way unweary.</span><br/> 
-            <span class="l">They come, they come! the long pine floats,&#x2014;</span><br/> 
+            <span class="l">They come, they come! the long pine floats,—</span><br/> 
             <span class="l">Unchain the bridge, throw loose the boats,
                <div class="s-line-number s-line-number-auto">
                   <div class="tooltip">
@@ -258,15 +255,15 @@ EOT
                 5
                 </span>
               </a></span></span><br/> 
-            <span class="l">They come, they come! careering fast,&#x2014;</span><br/> 
-            <span class="l">The bridge is gained, the bridge is past,&#x2014;</span><br/> 
+            <span class="l">They come, they come! careering fast,—</span><br/> 
+            <span class="l">The bridge is gained, the bridge is past,—</span><br/> 
             <span class="l">Before the flashing foam they flee,
                <div class="s-line-number s-line-number-auto">
                   <div class="tooltip">
           System generated line number
         </div><a href="#L105" id="L105">105</a></div></span><br/> 
             <span class="l">Towards the ocean rapidly;</span><br/>
-            <span class="l">There, firmly bound by builder&#x02BC;s care,</span><br/> 
+            <span class="l">There, firmly bound by builderʼs care,</span><br/> 
             <span class="l">The rage of wave and wind to dare,</span><br/> 
             <span class="l">Or burst of battle shock to bear,</span><br/>
             <span class="l">Upon the boundless sea.
@@ -274,9 +271,6 @@ EOT
                   <div class="tooltip">
           System generated line number
         </div><a href="#L110" id="L110">110</a></div></span><br/> 
-            
+            </div>
          </div>
-         
-      </div>
-   </div><div id="" class="pb"></div>
-</div><?php require_once(ROOT_PATH."layout_includes/showcase_bottom.inc.php"); ?>
+   </div><div id="" class="pb"></div></div><?php require_once(ROOT_PATH."layout_includes/showcase_bottom.inc.php"); ?>

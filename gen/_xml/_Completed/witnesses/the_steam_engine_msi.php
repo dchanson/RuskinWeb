@@ -24,11 +24,9 @@ msi/1229143.jpg msi/1229144.jpg msi/1229145.jpg
 EOT
 );
       ?>
-    <?php require_once(ROOT_PATH."layout_includes/showcase_top.inc.php"); ?><div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-left"><img id="facs_preview" src="" width="100&#x0025;"><img id="facs" src="" width="100&#x0025;" style="display:none"></div>
-<div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-splitter"></div>
-<div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-right">
+    <?php require_once(ROOT_PATH."layout_includes/showcase_top.inc.php"); ?><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-left"><img id="facs_preview" src="" width="100%"><img id="facs" src="" width="100%" style="display:none"></div><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-splitter"></div><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-right">
    <div class="backToApparatusLink"><br/></div>
-   <div class="fileName"><span>&#x201C;When furious up from mines the water pours&#x201D; &#x005B;&#x201C;The Steam Engine&#x201D;&#x005D;</span></div>
+   <div class="fileName"><span>“When furious up from mines the water pours” [“The Steam Engine”]</span></div>
    <div class="witness">
       <div class="poem" id="">
          
@@ -46,14 +44,14 @@ EOT
           class="subst-del s-subst s-del" ><span class="space" style="padding-left:0.8em"> </span><span class="gap-illegible" style="padding-left: 2em"></span></div><div 
           class="s-subst s-add s-overwrite s-inline">then may</div> cloud<div 
           class="subst-del s-subst s-del" ><span class="gap" style="padding-left:0.4em"> </span>e<span class="gap-illegible" style="padding-left: 2em"></span></div><div 
-          class="s-subst s-add s-overwrite s-inline">s gather then may</div> thunder<span class="runover" style="left:14.0em"><span class="g-runover">&#x005B;</span>roar</span></span><br/>
+          class="s-subst s-add s-overwrite s-inline">s gather then may</div> thunder<span class="runover" style="left:14.0em"><span class="g-runover">[</span>roar</span></span><br/>
             <span class="l"><div 
           class="subst-del s-subst s-del" ><span class="space" style="padding-left:0.8em"> </span><span class="unclear-CWB">th</span>e</div><div 
           class="s-subst s-add s-overwrite s-inline">then m</div>ay <div 
           class="subst-del s-subst s-del" ><span class="gap" style="padding-left:1.2em"> </span>n<span class="gap" style="padding-left:0.4em"> </span></div><div 
           class="s-subst s-add s-overwrite s-inline">the li</div>ghtnings <div 
           class="subst-del s-subst s-del" ><span class="gap-illegible" style="padding-left: 2em"></span></div><div 
-          class="s-subst s-add s-overwrite s-inline">flash and</div> rain<span class="runover" style="left:4.0em">may pour<span class="space" style="padding-left:6.4em"> </span><span class="g-runover">&#x005B;</span>sig<span class="unclear-CWB">h</span><span class="gloss-inline">
+          class="s-subst s-add s-overwrite s-inline">flash and</div> rain<span class="runover" style="left:4.0em">may pour<span class="space" style="padding-left:6.4em"> </span><span class="g-runover">[</span>sig<span class="unclear-CWB">h</span><span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/the_steam_engine_glosses_contextual#LIGHTNING" target="_blank" class="inactive">
           
           
@@ -78,31 +76,31 @@ EOT
                <div class="s-line-number s-line-number-auto">
                   <div class="tooltip">
           System generated line number
-        </div><a href="#L10" id="L10">10</a></div><span class="runover" style="left:11.2em"><span class="g-runover">&#x005B;</span>waves</span></span><br/>
-            <span class="l">by boile<span class="overwriting">rs</span> bursting but a steamboat<span class="runover" style="left:12.0em"><span class="g-runover">&#x005B;</span>can</span></span><br/>
+        </div><a href="#L10" id="L10">10</a></div><span class="runover" style="left:11.2em"><span class="g-runover">[</span>waves</span></span><br/>
+            <span class="l">by boile<span class="overwriting">rs</span> bursting but a steamboat<span class="runover" style="left:12.0em"><span class="g-runover">[</span>can</span></span><br/>
             <div id="1229144v" class="pb"></div>
             <div class="pageNum-top-left">98</div><br/>
-            <span class="l">be the most useful engine brought<span class="runover" style="left:11.2em"><span class="g-runover">&#x005B;</span>to man</span></span><br/>
+            <span class="l">be the most useful engine brought<span class="runover" style="left:11.2em"><span class="g-runover">[</span>to man</span></span><br/>
             <span class="l">the grinding stones that by its force<span class="runover" style="left:3.6em">are whi<div 
           class="subst-del s-subst s-del" ><span class="unclear-CWB">l</span></div><div 
           class="s-subst s-add s-overwrite s-inline">r</div>led</span></span><br/>
-            <span class="l">and by their force the yellow grains<span class="runover" style="left:10.4em"><span class="g-runover">&#x005B;</span>are twirled</span></span><br/>
+            <span class="l">and by their force the yellow grains<span class="runover" style="left:10.4em"><span class="g-runover">[</span>are twirled</span></span><br/>
             <span class="l"><span class="caps-doubleletter">B</span>ruised ground and thrown away
                <div class="s-line-number s-line-number-auto">
                   <div class="tooltip">
           System generated line number
         </div><a href="#L15" id="L15">15</a></div><span class="runover" style="left:3.2em">in boxes small</span></span><br/>
-            <span class="l"><span class="caps-doubleletter">W</span>hile it doth thunder near the<span class="runover" style="left:8.8em"><span class="g-runover">&#x005B;</span>echoing wall</span></span><br/>
-            <span class="l"><span class="caps-doubleletter">T</span>he whirring wheels arranged in<span class="runover" style="left:10.8em"><span class="g-runover">&#x005B;</span>whirling rows</span></span><br/>
+            <span class="l"><span class="caps-doubleletter">W</span>hile it doth thunder near the<span class="runover" style="left:8.8em"><span class="g-runover">[</span>echoing wall</span></span><br/>
+            <span class="l"><span class="caps-doubleletter">T</span>he whirring wheels arranged in<span class="runover" style="left:10.8em"><span class="g-runover">[</span>whirling rows</span></span><br/>
             <span class="l"><span class="caps-doubleletter">A</span>nd on the wheels the spinner <div 
           class="subst-del s-subst s-del" ><span class="gap-illegible" style="padding-left: 2em"></span>ws</div><div 
-          class="s-subst s-add s-overwrite s-inline">cotton</div><span class="runover" style="left:12.8em"><span class="g-runover">&#x005B;</span><span class="space" style="padding-left:0.4em"> </span>throws</span></span><br/>
+          class="s-subst s-add s-overwrite s-inline">cotton</div><span class="runover" style="left:12.8em"><span class="g-runover">[</span><span class="space" style="padding-left:0.4em"> </span>throws</span></span><br/>
             <span class="l"><span class="caps-doubleletter">N</span>ext moves the noisy beam the<span class="runover" style="left:2.8em">wheels do whirl</span></span><br/>
             <span class="l"><span class="caps-doubleletter">A</span>nd next the wheels the cotton
                <div class="s-line-number s-line-number-auto">
                   <div class="tooltip">
           System generated line number
-        </div><a href="#L20" id="L20">20</a></div><span class="runover" style="left:8.8em"><span class="g-runover">&#x007C;</span>fibres twirl<span class="gloss-inline">
+        </div><a href="#L20" id="L20">20</a></div><span class="runover" style="left:8.8em"><span class="g-runover">|</span>fibres twirl<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/the_steam_engine_glosses_contextual#COTTONFIBRES" target="_blank" class="inactive">
           
           
@@ -110,9 +108,9 @@ EOT
                 2
                 </span>
               </a></span></span></span><br/>
-            <span class="l"><span class="caps-doubleletter">T</span>he moving bellows that are made<span class="runover" style="left:10.8em"><span class="g-runover">&#x007C;</span>to roar</span></span><br/>
+            <span class="l"><span class="caps-doubleletter">T</span>he moving bellows that are made<span class="runover" style="left:10.8em"><span class="g-runover">|</span>to roar</span></span><br/>
             <span class="l"><span class="caps-doubleletter">B</span>y its huge strength that melt<span class="runover" style="left:3.2em">the red hot ore</span></span><br/>
-            <span class="l"><span class="caps-doubleletter">T</span>he copper mines that by it<span class="runover" style="left:8.8em"><span class="g-runover">&#x007C;</span>emptied are</span></span><br/>
+            <span class="l"><span class="caps-doubleletter">T</span>he copper mines that by it<span class="runover" style="left:8.8em"><span class="g-runover">|</span>emptied are</span></span><br/>
             <span class="l">nd their blue metal now is<span class="runover" style="left:2.4em">brought from far</span></span><br/>
             <div id="1229144r" class="pb"></div>
             <div class="pageNum-top-right">99</div><br/>
@@ -161,9 +159,6 @@ EOT
                   <div class="tooltip">
           System generated line number
         </div><a href="#L35" id="L35">35</a></div></span><br/>
-            
+            </div>
          </div>
-         
-      </div>
-   </div><div id="" class="pb"></div>
-</div><?php require_once(ROOT_PATH."layout_includes/showcase_bottom.inc.php"); ?>
+   </div><div id="" class="pb"></div></div><?php require_once(ROOT_PATH."layout_includes/showcase_bottom.inc.php"); ?>

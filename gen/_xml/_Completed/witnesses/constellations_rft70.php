@@ -24,11 +24,9 @@ RF_T70_R.jpg RF_T70_V.jpg
 EOT
 );
       ?>
-    <?php require_once(ROOT_PATH."layout_includes/showcase_top.inc.php"); ?><div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-left"><img id="facs_preview" src="" width="100&#x0025;"><img id="facs" src="" width="100&#x0025;" style="display:none"></div>
-<div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-splitter"></div>
-<div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-right">
+    <?php require_once(ROOT_PATH."layout_includes/showcase_top.inc.php"); ?><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-left"><img id="facs_preview" src="" width="100%"><img id="facs" src="" width="100%" style="display:none"></div><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-splitter"></div><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-right">
    <div class="backToApparatusLink"><br/></div>
-   <div class="fileName"><span>&#x201C;The Constellations: Northern, Some of the Zodiac, and Some of the Southern&#x201D;</span></div>
+   <div class="fileName"><span>“The Constellations: Northern, Some of the Zodiac, and Some of the Southern”</span></div>
    <div class="witness">
       <div class="poem" id="">
          <div id="RF_T70_R" class="pb"></div>
@@ -68,7 +66,7 @@ EOT
                 </span>
               </a></span></span><br/>
             <span class="l">Then the <span class="name--URSAMAJOR">greater bear</span> is seen,</span><br/>
-            <span class="l">Then <span class="name--CHARLESSWAIN">charles&#x02BC;s wain</span> with his bright team,<span class="gloss-inline">
+            <span class="l">Then <span class="name--CHARLESSWAIN">charlesʼs wain</span> with his bright team,<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/constellations_glosses_contextual#URSAMAJORGLOSS" target="_blank" class="inactive">
           
           
@@ -84,7 +82,7 @@ EOT
                 5
                 </span>
               </a></span></span><br/>
-            <span class="l"><span class="add">10</span>Next <span class="del-strikethrough">doth</span> <span class="name--COMABERENICES">berenice&#x02BC;s <span class="add"><span class="metamark-insertion-INSERTION1">&#x2038;</span></span> hair</span><span class="gloss-inline">
+            <span class="l"><span class="add">10</span>Next <span class="del-strikethrough">doth</span> <span class="name--COMABERENICES">bereniceʼs <span class="add"><span class="metamark-insertion-INSERTION1">‸</span></span> hair</span><span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/constellations_glosses_contextual#BERENICESHAIRGLOSS" target="_blank" class="inactive">
           
           
@@ -114,7 +112,7 @@ EOT
                 7
                 </span>
               </a></span></span><br/>
-            <span class="l">Then the very <span class="del-strikethrough">pretty</span><span class="add"><span class="metamark-insertion-INSERTION2">&#x2038;</span></span> <span class="name--CYGNUS">swan</span>:<span class="gloss-inline">
+            <span class="l">Then the very <span class="del-strikethrough">pretty</span><span class="add"><span class="metamark-insertion-INSERTION2">‸</span></span> <span class="name--CYGNUS">swan</span>:<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/constellations_glosses_contextual#CYGNUSGLOSS" target="_blank" class="inactive">
           
           
@@ -132,7 +130,7 @@ EOT
                 
               </a></span> <span class="add">fiery</span></span><br/>
             
-            <span class="l">Next comes starry <span class="name--CHARLESSHEART">charles&#x02BC;s heart</span>,<span class="gloss-inline">
+            <span class="l">Next comes starry <span class="name--CHARLESSHEART">charlesʼs heart</span>,<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/constellations_glosses_contextual#CHARLESSHEARTGLOSS" target="_blank" class="inactive">
           
           
@@ -222,7 +220,7 @@ EOT
                   <div class="tooltip">
           System generated line number
         </div><a href="#L20" id="L20">20</a></div></span><br/>
-            <span class="l">Then we see great <span class="name--CHARLESSOAK">charles&#x02BC;s oak</span><span class="gloss-inline">
+            <span class="l">Then we see great <span class="name--CHARLESSOAK">charlesʼs oak</span><span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/constellations_glosses_contextual#CHARLESSOAKGLOSS" target="_blank" class="inactive">
           
           
@@ -230,7 +228,7 @@ EOT
                 17
                 </span>
               </a></span></span><br/>
-            <span class="l">Next I&#x02BC;ll call it juno&#x02BC;s <span class="name--CRATER">cup</span><span class="gloss-inline">
+            <span class="l">Next Iʼll call it junoʼs <span class="name--CRATER">cup</span><span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/constellations_glosses_contextual#CRATERGLOSS" target="_blank" class="inactive">
           
           
@@ -307,7 +305,7 @@ EOT
                 
               </a></span></span><br/>
             
-            <span class="l"><span class="name--MONSMAENALUS">Maenalus&#x02BC; mountain</span><span class="gloss-inline">
+            <span class="l"><span class="name--MONSMAENALUS">Maenalusʼ mountain</span><span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/constellations_glosses_contextual#MONSMAENALUSGLOSS" target="_blank" class="inactive">
           
           
@@ -315,7 +313,7 @@ EOT
                 26
                 </span>
               </a></span> next</span><br/>
-            <span class="l"><span class="add">30</span><span class="del-strikethrough">After that</span><span class="add">then</span> the <span class="del-strikethrough">furious <span class="name--LYNX">lynx</span></span><span class="add"><span class="metamark-insertion">&#x2038;</span> <span class="del">brighteyed lynx</span><span class="add">keeneyed lynx</span></span><span class="gloss-inline">
+            <span class="l"><span class="add">30</span><span class="del-strikethrough">After that</span><span class="add">then</span> the <span class="del-strikethrough">furious <span class="name--LYNX">lynx</span></span><span class="add"><span class="metamark-insertion">‸</span> <span class="del">brighteyed lynx</span><span class="add">keeneyed lynx</span></span><span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/constellations_glosses_contextual#LYNXGLOSS" target="_blank" class="inactive">
           
           
@@ -416,7 +414,7 @@ EOT
                 33
                 </span>
               </a></span></span><br/>
-            <span class="l"><span class="name--SCUTUM">Sobieski&#x02BC;s shield</span><span class="gloss-inline">
+            <span class="l"><span class="name--SCUTUM">Sobieskiʼs shield</span><span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/constellations_glosses_contextual#SCUTUMGLOSS" target="_blank" class="inactive">
           
           
@@ -643,7 +641,7 @@ EOT
                 
               </a></span></span><br/>
             
-            <span class="l"><span class="add">55</span>Shining in golden light he&#x02BC;s drest
+            <span class="l"><span class="add">55</span>Shining in golden light heʼs drest
                <div class="s-line-number s-line-number-auto">
                   <div class="tooltip">
           System generated line number
@@ -813,9 +811,6 @@ EOT
               style="left:4.8em">knowledge yes</div> indeed</span><br/>
             
             <span class="l">Virtue you should have the lead</span><br/>
-            
+            </div>
          </div>
-         
-      </div>
-   </div><div id="" class="pb"></div>
-</div><?php require_once(ROOT_PATH."layout_includes/showcase_bottom.inc.php"); ?>
+   </div><div id="" class="pb"></div></div><?php require_once(ROOT_PATH."layout_includes/showcase_bottom.inc.php"); ?>

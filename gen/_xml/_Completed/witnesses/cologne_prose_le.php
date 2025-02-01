@@ -24,11 +24,9 @@ define("FACS_FILE_NAMES", <<<EOT
 EOT
 );
       ?>
-    <?php require_once(ROOT_PATH."layout_includes/showcase_top.inc.php"); ?><div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-left"><img id="facs_preview" src="" width="100&#x0025;"><img id="facs" src="" width="100&#x0025;" style="display:none"></div>
-<div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-splitter"></div>
-<div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-right">
+    <?php require_once(ROOT_PATH."layout_includes/showcase_top.inc.php"); ?><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-left"><img id="facs_preview" src="" width="100%"><img id="facs" src="" width="100%" style="display:none"></div><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-splitter"></div><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-right">
    <div class="backToApparatusLink"><a href="/apparatuses/apparatuses/account_of_a_tour_on_the_continent_apparatus#account_of_a_tour_on_the_continent_le" target="_self"></a><br/></div>
-   <div class="fileName"><span>&#x201C;Cologne&#x201D; &#x005B;essay&#x005D;</span></div>
+   <div class="fileName"><span>“Cologne” [essay]</span></div>
    <div class="witness">
       <div class="essay" id="">
          
@@ -40,8 +38,8 @@ EOT
                 1
                 </span>
               </a></span> Sink these French bad roads.<br/>
-                    A long day&#x02BC;s journey over them under a burning sun, together with a<br/>
-                    perambulation on a damp evening at <span class="placeName-AIXLACHAPELLE">Aix&#x2010;la&#x2010;Chapelle</span> so knocked me up<br/>
+                    A long dayʼs journey over them under a burning sun, together with a<br/>
+                    perambulation on a damp evening at <span class="placeName-AIXLACHAPELLE">Aix‐la‐Chapelle</span> so knocked me up<br/>
                     that I was forced to diet and quiet it, and could not stir out<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/cologne_glosses_contextual#STIROUTGLOSS" target="_blank" class="inactive">
           
@@ -50,7 +48,7 @@ EOT
                 2
                 </span>
               </a></span> to see<br/>
-            <span class="persName-PPR">Rubens</span>&#x02BC; last picture, the masterpiece of the master, the <span class="title-artwork-RUBENSCRUCIFIXIONSTPETER">Crucifixion of<br/>
+            <span class="persName-PPR">Rubens</span>ʼ last picture, the masterpiece of the master, the <span class="title-artwork-RUBENSCRUCIFIXIONSTPETER">Crucifixion of<br/>
                <div id="" class="pb"></div>
                <span class="persName-STPETER">St. Peter</span></span>, bequeathed by him at his death to his native city,<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/cologne_glosses_contextual#RUBENSSTPETERGLOSS" target="_blank" class="inactive">
@@ -60,8 +58,7 @@ EOT
                 3
                 </span>
               </a></span> and, yet more,<br/>
-                    his birth&#x2010;chamber.
-         </div>
+                    his birth‐chamber.</div>
          
          <div class="p">There is in many, in most, of the pictures of <span class="persName-PPR">Rubens</span>, and that even<br/>
                     in his most sacred subjects, magnificent as they are viewed as paintings<br/>
@@ -96,13 +93,13 @@ EOT
                     dream of heaven. It is by such pictures as this that <span class="persName-PPR">Rubens</span> has gained<br/>
                     his immortality; and it was, I believe, such a picture as this that I did not<br/>
                     see at <span class="placeName-COLOGNE">Cologne</span>. Then the disappointment made me worse, and I could<br/>
-                    not stir out to see the room in which he was born. But it don&#x02BC;t signify<br/>
+                    not stir out to see the room in which he was born. But it donʼt signify<br/>
                     talking. Reader, beware of the <span class="placeName-RHEINBERGHOTEL">Grosser Rheinberg hotel</span> at <span class="placeName-COLOGNE">Cologne</span>. Art<br/>
                     thou a poet, a painter, or a romancer? Imagine the <span class="geogName-RHINE">Rhine</span>, the beautiful,<br/>
                     the mighty, the celebrated <span class="geogName-RHINE">Rhine</span>, fouler than the <span class="geogName-THAMES">Thames</span> at <span class="placeName-LONDONBRDG">London<br/>
                     Bridge</span>, compressed into almost as narrow a channel, washing dirty coal<br/>
                     wharfs on the one side; bogs, marshes, and coke manufactories on the<br/>
-                    other, yellow with mud from beneath, black with tar and coal&#x2010;dust from<br/>
+                    other, yellow with mud from beneath, black with tar and coal‐dust from<br/>
                     above, loaded with clumsy barges and dirty shipping; in short, a vile, sordid,<br/>
                     mercenary river, fit only for traffic, high Germans and low Dutchmen,<br/>
                     and you will have some idea of the <span class="geogName-RHINE">Rhine</span>, as seen from the bedroom<br/>
@@ -125,28 +122,27 @@ EOT
                 7
                 </span>
               </a></span> and there gaze and dream and<br/>
-                    meditate. Secondly, Art thou an epicure? Imagine mutton&#x2010;chops which<br/>
+                    meditate. Secondly, Art thou an epicure? Imagine mutton‐chops which<br/>
                     ought to have been tough, but which age had made tender, accompanied<br/>
                     by circular cakes of congealed fat, denominated gravy, together with a<br/>
                     kind of brown ashes, apparently moistened with whale oil (which, I think,<br/>
                     they called fried potatoes), as an addition to your feast, and you have an<br/>
                     idea of a dinner of the Grosser Rheinberg. I have omitted one thing,<br/>
-                    however, which was really capital&#x2014;the vinegar. They called it Hock wine,<br/>
-                    certainly, but that don&#x02BC;t signify; you must not be led astray by names in<br/>
+                    however, which was really capital—the vinegar. They called it Hock wine,<br/>
+                    certainly, but that donʼt signify; you must not be led astray by names in<br/>
                     this part of the world. However, good vinegar would not make up for<br/>
                     the want, or worse than want, of everything else; and although the waiters<br/>
                     made a point of not appearing until the bell had been rung seven times,<br/>
                     we at last made them understand that we neither liked their mode of<br/>
                     waiting, nor the contents of their larder, and so, according to their<br/>
-                    deserts, deserted them.
-         </div>
+                    deserts, deserted them.</div>
          
          <div class="p">The <span class="placeName-STPETERCATHEDRAL">cathedral</span> is the richest in fretwork and carving, in the delicate<br/>
                     finish of every shaft, and buttress, and pinnacle, that I saw on the journey,<br/>
                     except <span class="placeName-MILAN">Milan</span>. They showed us, in a little Gothic chapel, three skulls,<br/>
                     which they told us were those of the Magi. They were set in framework<br/>
                     of gold, and covered with jewels, but the pomp became not the dry<br/>
-                    bones. The soul&#x2010;less eye and fleshless cheek looked not the less horrible<br/>
+                    bones. The soul‐less eye and fleshless cheek looked not the less horrible<br/>
                     though a diamond beamed through the one and a bar of gold bound the<br/>
                     other.<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/cologne_glosses_contextual#MAGIGLOSS" target="_blank" class="inactive">
@@ -165,9 +161,6 @@ EOT
                 9
                 </span>
               </a></span>
-            
+            </div>
          </div>
-         
-      </div>
-   </div><div id="" class="pb"></div>
-</div><?php require_once(ROOT_PATH."layout_includes/showcase_bottom.inc.php"); ?>
+   </div><div id="" class="pb"></div></div><?php require_once(ROOT_PATH."layout_includes/showcase_bottom.inc.php"); ?>

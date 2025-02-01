@@ -24,11 +24,9 @@ msix/MSIX31v-32r.jpg msix/MSIX34v-35r.jpg
 EOT
 );
       ?>
-    <?php require_once(ROOT_PATH."layout_includes/showcase_top.inc.php"); ?><div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-left"><img id="facs_preview" src="" width="100&#x0025;"><img id="facs" src="" width="100&#x0025;" style="display:none"></div>
-<div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-splitter"></div>
-<div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-right">
+    <?php require_once(ROOT_PATH."layout_includes/showcase_top.inc.php"); ?><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-left"><img id="facs_preview" src="" width="100%"><img id="facs" src="" width="100%" style="display:none"></div><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-splitter"></div><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-right">
    <div class="backToApparatusLink"><a href="/apparatuses/apparatuses/account_of_a_tour_on_the_continent_apparatus#account_of_a_tour_on_the_continent_msix" target="_self"></a><br/></div>
-   <div class="fileName"><span>&#x201C;Cologne&#x201D; &#x005B;essay&#x005D;</span></div>
+   <div class="fileName"><span>“Cologne” [essay]</span></div>
    <div class="witness">
       <div class="essay" id="">
          <span class="space" style="padding-left:2.0em"> </span>
@@ -43,9 +41,9 @@ EOT
                 </span>
               </a></span> Sink these
                     <br/>French bad roads, a long days journey over them,
-                    <br/>under a burning sun, together with a peram&#x2010;
+                    <br/>under a burning sun, together with a peram‐
                 <div id="MSIX32v" class="pb"></div>
-            <br/>bulation on a damp evening at <span class="placeName-AIXLACHAPELLE">Aix&#x2010;la&#x2010;Chapelle</span>,
+            <br/>bulation on a damp evening at <span class="placeName-AIXLACHAPELLE">Aix‐la‐Chapelle</span>,
                     <br/>so knocked me up, that I was forced to diet
                     <br/>it and quiet it, and could not stir out<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/cologne_glosses_contextual#STIROUTGLOSS" target="_blank" class="inactive">
@@ -55,7 +53,7 @@ EOT
                 2
                 </span>
               </a></span> to see
-                    <br/><span class="persName-PPR">Rubens</span>&#x02BC; last picture, the masterpiece of the mas
+                    <br/><span class="persName-PPR">Rubens</span>ʼ last picture, the masterpiece of the mas
                     <br/>ter, the <span class="title-artwork-RUBENSCRUCIFIXIONSTPETER">crucifixion of <span class="persName-STPETER">St Peter</span></span>, bequeated by,
                     <br/>him at his death to his native city,<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/cologne_glosses_contextual#RUBENSSTPETERGLOSS" target="_blank" class="inactive">
@@ -65,8 +63,7 @@ EOT
                 3
                 </span>
               </a></span> and, yet
-                    <br/>more, his birthchamber.
-         </div>
+                    <br/>more, his birthchamber.</div>
          
          <div class="p">There is, in many, in most, of the pictures of <span class="persName-PPR">Ru
                     <br/>bens</span>, and that even in his most sacred subjects
@@ -80,7 +77,7 @@ EOT
                 <span class="gloss-contextual">
                 4
                 </span>
-              </a></span> But there a few, a cho&#x2010;
+              </a></span> But there a few, a cho‐
                     <br/>sen few, of his pictures, which the master hath
                     <br/>poured his whole soul into, and the produc
                     <br/>tion of one of which, were enough to repay a
@@ -117,9 +114,9 @@ EOT
                 </span>
                 
               </a></span>
-            <br/>the rest is in obscurity, there is nothing more, not&#x2010;
+            <br/>the rest is in obscurity, there is nothing more, not‐
                     <br/>hing to disturb either the eye or the mind, and
-                    <br/>you feel calmed and subdued when you look u&#x2010;
+                    <br/>you feel calmed and subdued when you look u‐
                     <br/>pon that one solitary figure, as if in the presence
                     <br/>of a superior being. It is impossible to see
                     <br/>that picture, the reality is too striking<span class="g-pause-period">.</span><span class="gloss-inline">
@@ -144,15 +141,15 @@ EOT
                 </span>
                 
               </a></span> It
-                    <br/>is by such pictures as this that <span class="persName-PPR">Rubens</span> has gain&#x2010;
+                    <br/>is by such pictures as this that <span class="persName-PPR">Rubens</span> has gain‐
                     <br/>ed his immortality, and it was, I believe such
                     <br/>a picture as this that I did not see at <span class="placeName-COLOGNE">Cologne</span>.
                     <br/>Then the disappointment made me worse, and
                     <br/>I could not stir out to see the room in which
-                    <br/>he was born. But it don&#x02BC;t signify talking.
+                    <br/>he was born. But it donʼt signify talking.
                     <br/>Reader, beware of the <span class="placeName-RHEINBERGHOTEL">Grosser Rheinberg hotel</span>
             <br/>at <span class="placeName-COLOGNE">Cologne</span>. Art thou a poet, a painter, or a
-                    <br/>romancer? Imagine the <span class="placeName-RHINE">Rhine</span>, the beauti&#x2010;
+                    <br/>romancer? Imagine the <span class="placeName-RHINE">Rhine</span>, the beauti‐
                     <br/>ful, the mighty, the celebrated <span class="placeName-RHINE">Rhine, </span>fouler<div class="g-justification" style="width:NaNem"> </div><span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/cologne_prose_glosses_textual#JUSTIFICATION" target="_blank" class="inactive">
           
@@ -164,8 +161,8 @@ EOT
                 
               </a></span>
             <div id="MSIX33v" class="pb"></div>
-            <br/>than the <span class="geogName-THAMES">Thames</span> at <span class="placeName-LONDONBRDG">London bridge</span>, compress&#x2010;
-                    <br/>ed into almost as narrow a channel, wash&#x2010;
+            <br/>than the <span class="geogName-THAMES">Thames</span> at <span class="placeName-LONDONBRDG">London bridge</span>, compress‐
+                    <br/>ed into almost as narrow a channel, wash‐
                     <br/>ing dirty coal wharfs on the <div 
           class="subst-del s-subst s-del" >th</div><div 
           class="s-subst s-add s-overwrite s-inline">on</div>e side; bogs<span class="g-pause-period">.</span><span class="gloss-inline">
@@ -206,7 +203,7 @@ EOT
               </a></span>
             <br/>Oh, if thou wouldest see the <span class="placeName-RHINE">Rhine</span> as it may
                     <br/>be seen, as it ought to be seen, shut your eyes,
-                    <br/>sleep your time away, do any thing but look a&#x2010;
+                    <br/>sleep your time away, do any thing but look a‐
                     <br/>bout you, till you get to <span class="placeName-BONN">Bonn</span>, then walk out,
                     <br/>upon the terrace which looks forth over the
                     <br/>swell of the deep waters, to the dim outline of
@@ -217,17 +214,17 @@ EOT
                 <span class="gloss-contextual">
                 7
                 </span>
-              </a></span> and there gaze, &#x0026; dream
-                    <br/>and meditate, 2ndly. &#x201C;Art thou an epicure?
+              </a></span> and there gaze, & dream
+                    <br/>and meditate, 2ndly. “Art thou an epicure?
                     <br/>Imagine mutton chops, which ought to have
-                    <br/>been tough, but which age had made ten&#x2010;
+                    <br/>been tough, but which age had made ten‐
                 <div id="MSIX34r" class="pb"></div>
             <br/>der, accompanied by circular cakes of congealed
                     <br/>fat, denominated gravy, together with a kind
                     <br/>of brown ashes, apparently moistened, with,
                     <br/>whale oil (which I think they called fried po
                     <br/>tatoes,) as an addition to your feast, and you
-                    <br/>have an idea of a dinner of the Grosser Rhein&#x2010;
+                    <br/>have an idea of a dinner of the Grosser Rhein‐
                     <br/>berg. I have omitted one thing however,<div class="g-justification" style="width:NaNem"> </div><span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/cologne_prose_glosses_textual#JUSTIFICATION" target="_blank" class="inactive">
           
@@ -259,8 +256,7 @@ EOT
                 
               </a></span>
             <br/>their larder, and so, according to their de
-                    <br/>serts, deserted them.
-         </div>                
+                    <br/>serts, deserted them.</div>                
          
          <div class="p">The <span class="placeName-STPETERCATHEDRAL">cathedral</span> is the richest in fretwork
                 <div id="MSIX34v" class="pb"></div>
@@ -278,7 +274,7 @@ EOT
               </a></span> They showed us
                     <br/>in a little Gothic chapel, three skulls which,
                     <br/>they told us were those of the Magi. They
-                    <br/>were set in framework of gold, and co&#x2010;
+                    <br/>were set in framework of gold, and co‐
                     <br/>vered with jewels, but the pomp became<div class="g-justification" style="width:NaNem"> </div><span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/cologne_prose_glosses_textual#JUSTIFICATION" target="_blank" class="inactive">
           
@@ -292,14 +288,14 @@ EOT
             <br/>not the dry bones, The soulless eye, and
                     <br/>fleshless cheek looked not the less horrible,
                     <br/>though a diamond beamed through the one
-                    <br/>and a bar of gold bound the other.&#x2014;<span class="gloss-inline">
+                    <br/>and a bar of gold bound the other.—<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/cologne_glosses_contextual#MAGIGLOSS" target="_blank" class="inactive">
           
           
                 <span class="gloss-contextual">
                 8
                 </span>
-              </a></span> Re&#x2010;
+              </a></span> Re‐
                     <br/>turned home, and the next morning de
                     <br/>parted from <span class="placeName-COLOGNE">Cologne</span> with regret, to trace<div class="g-justification" style="width:NaNem"> </div><span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/cologne_prose_glosses_textual#JUSTIFICATION" target="_blank" class="inactive">
@@ -328,7 +324,5 @@ EOT
                 </span>
               </a></span></div>
          <span class="space" style="padding-left:2.4em"> </span>
-         
-      </div>
-   </div><div id="" class="pb"></div>
-</div><?php require_once(ROOT_PATH."layout_includes/showcase_bottom.inc.php"); ?>
+         </div>
+   </div><div id="" class="pb"></div></div><?php require_once(ROOT_PATH."layout_includes/showcase_bottom.inc.php"); ?>

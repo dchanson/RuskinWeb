@@ -24,11 +24,9 @@ MSIAsheet161.jpg MSIAsheet162-163.jpg MSIAsheet164.jpg
 EOT
 );
       ?>
-    <?php require_once(ROOT_PATH."layout_includes/showcase_top.inc.php"); ?><div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-left"><img id="facs_preview" src="" width="100&#x0025;"><img id="facs" src="" width="100&#x0025;" style="display:none"></div>
-<div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-splitter"></div>
-<div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-right">
+    <?php require_once(ROOT_PATH."layout_includes/showcase_top.inc.php"); ?><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-left"><img id="facs_preview" src="" width="100%"><img id="facs" src="" width="100%" style="display:none"></div><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-splitter"></div><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-right">
    <div class="backToApparatusLink"><br/></div>
-   <div class="fileName"><span>&#x201C;The Constellations: Northern, Some of the Zodiac, and Some of the Southern&#x201D;</span></div>
+   <div class="fileName"><span>“The Constellations: Northern, Some of the Zodiac, and Some of the Southern”</span></div>
    <div class="witness">
       <div class="poem" id="">
          <div id="MSIAsheet161" class="pb"></div>
@@ -368,7 +366,7 @@ EOT
                 32
                 </span>
               </a></span> doth bear</span></span><br/>
-            <span class="l">shining in golden light he&#x02BC;s<span class="runover" style="left:9.6em">drest</span></span><br/>
+            <span class="l">shining in golden light heʼs<span class="runover" style="left:9.6em">drest</span></span><br/>
             <span class="l">with a horn instead of
                <div class="s-line-number s-line-number-auto">
                   <div class="tooltip">
@@ -456,8 +454,7 @@ EOT
                 40
                 </span>
               </a></span></span></span><br/>
-            
-         </div>
+            </div>
          
          
          <div class="floating-text">
@@ -465,10 +462,8 @@ EOT
             <div>
                
                <div class="p">I end end</div>
-               
+               </div>
             </div>
-            
-         </div>
          
          <div id="MSIAsheet164" class="pb"></div>
          
@@ -478,10 +473,8 @@ EOT
             <div>
                
                <div class="p"><span class="doubleletter-fill"><span class="caps">ABC</span></span></div>
-               
+               </div>
             </div>
-            
-         </div>
          
          
          <div class="lg-stanza">
@@ -506,24 +499,18 @@ EOT
             <span class="l">virtue you <span class="del-strikethrough">shall</span><div 
               class="add-below" 
               style="left:4.8em">should</div> have<span class="runover" style="left:3.2em">the lead</span></span><br/>
-            
+            </div>
          </div>
-         
-      </div>
    </div>
    <div>
       
       <div class="p">I end end</div>
-      
-   </div>
+      </div>
    <div>
       
       <div class="p"><span class="doubleletter-fill"><span class="caps">ABC</span></span></div>
-      
-   </div>
+      </div>
    <div>
       
       <div class="p">I end I end</div>
-      
-   </div><div id="" class="pb"></div>
-</div><?php require_once(ROOT_PATH."layout_includes/showcase_bottom.inc.php"); ?>
+      </div><div id="" class="pb"></div></div><?php require_once(ROOT_PATH."layout_includes/showcase_bottom.inc.php"); ?>

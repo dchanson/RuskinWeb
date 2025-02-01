@@ -24,11 +24,9 @@ msia_g2/12180625.jpg
 EOT
 );
       ?>
-    <?php require_once(ROOT_PATH."layout_includes/showcase_top.inc.php"); ?><div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-left"><img id="facs_preview" src="" width="100&#x0025;"><img id="facs" src="" width="100&#x0025;" style="display:none"></div>
-<div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-splitter"></div>
-<div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-right">
+    <?php require_once(ROOT_PATH."layout_includes/showcase_top.inc.php"); ?><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-left"><img id="facs_preview" src="" width="100%"><img id="facs" src="" width="100%" style="display:none"></div><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-splitter"></div><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-right">
    <div class="backToApparatusLink"><a href="/apparatuses/apparatuses/account_of_a_tour_on_the_continent_apparatus#account_of_a_tour_on_the_continent_msia_g2" target="_self"></a><br/></div>
-   <div class="fileName"><span>&#x201C;Calais&#x201D; &#x005B;essay&#x005D;</span></div>
+   <div class="fileName"><span>“Calais” [essay]</span></div>
    <div class="witness">
       <div class="essay" id="">
          <div id="12180625" class="pb"></div>
@@ -56,7 +54,7 @@ EOT
                 b
                 </span>
                 
-              </a></span> And no marvel, <span class="placeName-CALAIS">Calais</span>&#x2014;the busy, the bustling the&#x2014;I had<br/>
+              </a></span> And no marvel, <span class="placeName-CALAIS">Calais</span>—the busy, the bustling the—I had<br/>
                     almost said the beautiful, for beautiful it was to me and I<br/>
                     believe to every one, who enters it as a vestibule, an introduction<br/>
                     to <span class="placeName-FRANCE">France</span>, and to the french.<span class="gloss-inline">
@@ -86,7 +84,7 @@ EOT
                 
               </a></span> No it is a mere breath, you cant call it a breeze<br/>
                     yet bearing a delicious a balmy <span class="unclear-smudged-AMU">coolness,</span> and a little, a very<br/>
-                    little smell of the sea, Look<span class="del-strikethrough">ing</span> at <span class="unclear-smudged-AMU">the fishing</span> boats, they are peculi&#x2010;<br/>
+                    little smell of the sea, Look<span class="del-strikethrough">ing</span> at <span class="unclear-smudged-AMU">the fishing</span> boats, they are peculi‐<br/>
                     arly french, and particularly clumsy The red, tattered shapeless<br/>
                     sail, the undistinguishable resemblance of stem to stern<br/>
                     the porpoise like manner in which the vessel labours through<br/>
@@ -96,7 +94,7 @@ EOT
                     quarter of the world it might hap<span class="unclear-smudged-AMU">pen to be</span> driven to Look at<br/>
                     the town, the chimnies are entirely vapourless, and have that<br/>
                     peculiarly <span class="del-strikethrough">clu</span> awkward look incident to all useless things And<br/>
-                    look at the people, the countenance the costume the tout en&#x2010;<br/>
+                    look at the people, the countenance the costume the tout en‐<br/>
                     semble is altogether different from any thing you ever saw <span class="del-strikethrough">and</span><br/>
                     in <span class="placeName-ENGLAND">England</span>, and yet <span class="placeName-ENGLAND">England</span>s cliffs are on the horizon four<br/>
                     hours might see you beneath them<span class="gloss-inline">
@@ -107,9 +105,6 @@ EOT
                 2
                 </span>
               </a></span> It is most extraordinary
-                
+                </div>
          </div>
-         
-      </div>
-   </div><div id="" class="pb"></div>
-</div><?php require_once(ROOT_PATH."layout_includes/showcase_bottom.inc.php"); ?>
+   </div><div id="" class="pb"></div></div><?php require_once(ROOT_PATH."layout_includes/showcase_bottom.inc.php"); ?>

@@ -24,11 +24,9 @@ fo/fragments_2.jpg
 EOT
 );
       ?>
-    <?php require_once(ROOT_PATH."layout_includes/showcase_top.inc.php"); ?><div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-left"><img id="facs_preview" src="" width="100&#x0025;"><img id="facs" src="" width="100&#x0025;" style="display:none"></div>
-<div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-splitter"></div>
-<div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-right">
+    <?php require_once(ROOT_PATH."layout_includes/showcase_top.inc.php"); ?><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-left"><img id="facs_preview" src="" width="100%"><img id="facs" src="" width="100%" style="display:none"></div><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-splitter"></div><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-right">
    <div class="backToApparatusLink"><a href="/apparatuses/apparatuses/account_of_a_tour_on_the_continent_apparatus#account_of_a_tour_on_the_continent_fo" target="_self"></a><br/></div>
-   <div class="fileName"><span>&#x201C;Fragments from a Metrical Journal: St. Goar&#x201D; &#x005B;poem&#x005D;</span></div>
+   <div class="fileName"><span>“Fragments from a Metrical Journal: St. Goar” [poem]</span></div>
    <div class="witness">
       <div class="poem" id="">
          
@@ -45,7 +43,7 @@ EOT
          
          <div class="lg-stanza">
             <span class="l">Past a rock with frowning front,</span><br/>
-            <span class="l">Wrinkled by the tempest&#x02BC;s brunt,<span class="gloss-inline">
+            <span class="l">Wrinkled by the tempestʼs brunt,<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/st_goar_glosses_contextual#STGOARLORELEIGLOSS" target="_blank" class="inactive">
           
           
@@ -64,7 +62,7 @@ EOT
             <span class="l">Loitering the banks between,</span><br/>
             <span class="l">As if, enamoured of the scene,</span><br/>
             <span class="l">He had forgot his onward way</span><br/>
-            <span class="l">For a live&#x2010;long summer day.
+            <span class="l">For a live‐long summer day.
                <div class="s-line-number s-line-number-auto">
                   <div class="tooltip">
           System generated line number
@@ -89,25 +87,22 @@ EOT
                 </span>
               </a></span></span><br/>
             <span class="l">Or flinging far the scattering spray,</span><br/>
-            <span class="l">O&#x02BC;er the peaked rocks that bar his way.
+            <span class="l">Oʼer the peaked rocks that bar his way.
                <div class="s-line-number s-line-number-auto">
                   <div class="tooltip">
           System generated line number
         </div><a href="#L20" id="L20">20</a></div></span><br/>
             <div id="" class="pb"></div>
-            <span class="l">&#x2014;No marvel that the spell&#x2010;bound <span class="geogName-RHINE">Rhine</span>,</span><br/>
+            <span class="l">—No marvel that the spell‐bound <span class="geogName-RHINE">Rhine</span>,</span><br/>
             <span class="l">Like giant overcome with wine,</span><br/>
             <span class="l">Should <i>here</i> relax his angry frown,</span><br/>
             <span class="l">And, soothed to slumber, lay him down</span><br/>
-            <span class="l">Amid the vine&#x2010;clad banks, that lave
+            <span class="l">Amid the vine‐clad banks, that lave
                <div class="s-line-number s-line-number-auto">
                   <div class="tooltip">
           System generated line number
         </div><a href="#L25" id="L25">25</a></div></span><br/> 
             <span class="l">Their tresses in his placid wave.</span><br/>
-            
+            </div>
          </div>
-         
-      </div>
-   </div><div id="" class="pb"></div>
-</div><?php require_once(ROOT_PATH."layout_includes/showcase_bottom.inc.php"); ?>
+   </div><div id="" class="pb"></div></div><?php require_once(ROOT_PATH."layout_includes/showcase_bottom.inc.php"); ?>

@@ -24,29 +24,26 @@ define("FACS_FILE_NAMES", <<<EOT
 EOT
 );
       ?>
-    <?php require_once(ROOT_PATH."layout_includes/showcase_top.inc.php"); ?><div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-left"><img id="facs_preview" src="" width="100&#x0025;"><img id="facs" src="" width="100&#x0025;" style="display:none"></div>
-<div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-splitter"></div>
-<div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-right">
+    <?php require_once(ROOT_PATH."layout_includes/showcase_top.inc.php"); ?><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-left"><img id="facs_preview" src="" width="100%"><img id="facs" src="" width="100%" style="display:none"></div><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-splitter"></div><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-right">
    <div class="backToApparatusLink"><a href="/apparatuses/apparatuses/account_of_a_tour_on_the_continent_apparatus#account_of_a_tour_on_the_continent_poems_1891" target="_self"></a><br/></div>
-   <div class="fileName"><span>&#x201C;The Meuse&#x201D; &#x005B;poem&#x005D;</span></div>
+   <div class="fileName"><span>“The Meuse” [poem]</span></div>
    <div class="witness">
       <div class="poem" id="">
          
-         <h1 class="page-title"><span class="caps">THE MEUSE</span>.
-         </h1>
+         <h1 class="page-title"><span class="caps">THE MEUSE</span>.</h1>
          
          <div class="lg-stanza">
             <span class="l">T<span class="smallcaps">HE</span> sky was clear, the morn was gay</span><br/>
             <span class="l">In promise of a cloudless day.</span><br/>
             <span class="l">Fresh flew the breeze, with whose light wing</span><br/>
             <span class="l">Aspen and oak were quivering:</span><br/>
-            <span class="l">From flow&#x02BC;ret dank it dashed the dew,&#x2014;
+            <span class="l">From flowʼret dank it dashed the dew,—
                <div class="s-line-number s-line-number-auto">
                   <div class="tooltip">
           System generated line number
         </div><a href="#L5" id="L5">5</a></div></span><br/>
-            <span class="l">The harebell bent its blossom blue,&#x2014;</span><br/>                     
-            <span class="l">And from the <span class="geogName-MEUSE">Meuse</span> the mist&#x2010;wreaths<span class="gloss-inline">
+            <span class="l">The harebell bent its blossom blue,—</span><br/>                     
+            <span class="l">And from the <span class="geogName-MEUSE">Meuse</span> the mist‐wreaths<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/the_meuse_glosses_contextual#MISTWREATHSGLOSS" target="_blank" class="inactive">
           
           
@@ -76,7 +73,7 @@ EOT
                   <div class="tooltip">
           System generated line number
         </div><a href="#L15" id="L15">15</a></div></span><br/> 
-            <span class="l">Rose sheerly from the river&#x02BC;s bed,<span class="gloss-inline">
+            <span class="l">Rose sheerly from the riverʼs bed,<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/the_meuse_glosses_contextual#PEAKOVERPEAKGLOSS" target="_blank" class="inactive">
           
           
@@ -93,7 +90,7 @@ EOT
           System generated line number
         </div><a href="#L20" id="L20">20</a></div></span><br/>
             <span class="l">As threatening, on some future day,</span><br/>
-            <span class="l">Those mighty rocks to tear away,&#x2014;</span><br/>
+            <span class="l">Those mighty rocks to tear away,—</span><br/>
             <div id="" class="pb"></div>
             <span class="l">What though their front should seem to be</span><br/>
             <span class="l">A barrier, to eternity!<span class="gloss-inline">
@@ -110,27 +107,24 @@ EOT
           System generated line number
         </div><a href="#L25" id="L25">25</a></div></span><br/>
             <span class="l">Were mazy forests ever seen,</span><br/>
-            <span class="l">That the tall cliff&#x02BC;s steep flanks so grey</span><br/>
+            <span class="l">That the tall cliffʼs steep flanks so grey</span><br/>
             <span class="l">Were clothed in mantle green and gay.</span><br/>
             <span class="l">Long time along that dell so deep,</span><br/>
-            <span class="l">Beside the river&#x02BC;s bed, we sweep;
+            <span class="l">Beside the riverʼs bed, we sweep;
                <div class="s-line-number s-line-number-auto">
                   <div class="tooltip">
           System generated line number
         </div><a href="#L30" id="L30">30</a></div></span><br/> 
             <span class="l">So steep the mighty crests inclined,</span><br/>
             <span class="l">None other pathway you might find;</span><br/>
-            <span class="l">Till the tall cliff&#x02BC;s gigantic grace</span><br/>
+            <span class="l">Till the tall cliffʼs gigantic grace</span><br/>
             <span class="l">To undulating hills gave place,</span><br/>
             <span class="l">And vineyards clothe the bending brow,
                <div class="s-line-number s-line-number-auto">
                   <div class="tooltip">
           System generated line number
         </div><a href="#L35" id="L35">35</a></div></span><br/>
-            <span class="l">&#x02BC;Stead of the clinging copsewood now.</span><br/>
-            
+            <span class="l">ʼStead of the clinging copsewood now.</span><br/>
+            </div>
          </div>
-         
-      </div>
-   </div><div id="" class="pb"></div>
-</div><?php require_once(ROOT_PATH."layout_includes/showcase_bottom.inc.php"); ?>
+   </div><div id="" class="pb"></div></div><?php require_once(ROOT_PATH."layout_includes/showcase_bottom.inc.php"); ?>

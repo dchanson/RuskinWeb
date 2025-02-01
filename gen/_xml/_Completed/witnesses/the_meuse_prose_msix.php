@@ -24,17 +24,15 @@ msix/MSIX26v-27r.jpg msix/MSIX27v-28r.jpg
 EOT
 );
       ?>
-    <?php require_once(ROOT_PATH."layout_includes/showcase_top.inc.php"); ?><div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-left"><img id="facs_preview" src="" width="100&#x0025;"><img id="facs" src="" width="100&#x0025;" style="display:none"></div>
-<div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-splitter"></div>
-<div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-right">
+    <?php require_once(ROOT_PATH."layout_includes/showcase_top.inc.php"); ?><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-left"><img id="facs_preview" src="" width="100%"><img id="facs" src="" width="100%" style="display:none"></div><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-splitter"></div><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-right">
    <div class="backToApparatusLink"><a href="/apparatuses/apparatuses/account_of_a_tour_on_the_continent_apparatus#account_of_a_tour_on_the_continent_msix" target="_self"></a><br/></div>
-   <div class="fileName"><span>&#x201C;The Meuse&#x201D; &#x005B;essay&#x005D;</span></div>
+   <div class="fileName"><span>“The Meuse” [essay]</span></div>
    <div class="witness">
       <div class="essay" id="">
          <div id="MSIX26v" class="pb"></div>
          
          <div class="p">How lightly the waves of the broad <span class="geogName-MEUSE">Meuse</span>
-            <br/>crisped with the first breath of the mor&#x2010;
+            <br/>crisped with the first breath of the mor‐
                 <br/>ning as we swept over the long bridge
                 <br/>that crosses the river from <span class="placeName-NAMUR">Namur</span>, and
                 <br/>looked back on the rich dome of its small<div class="g-justification" style="width:NaNem"> </div><span class="gloss-inline">
@@ -69,7 +67,7 @@ EOT
                 </span>
                 
               </a></span>
-            <br/>so peacefully &#x2014; and then we dashed along
+            <br/>so peacefully — and then we dashed along
                 <br/>the valley of the <span class="geogName-MEUSE">Meuse</span>. I know not, if it<div class="g-justification" style="width:NaNem"> </div><span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/the_meuse_prose_glosses_textual#JUSTIFICATION" target="_blank" class="inactive">
           
@@ -149,7 +147,7 @@ EOT
                 
               </a></span>
             <br/>with my idea of what ruins ought to be.
-                <br/>But for the <span class="geogName-MEUSE">Meuse</span>, the infinite variety of scene&#x2013;
+                <br/>But for the <span class="geogName-MEUSE">Meuse</span>, the infinite variety of scene–
                 <br/>ry.<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/the_meuse_prose_glosses_textual#PAUSEPERIOD" target="_blank" class="inactive">
           
@@ -161,7 +159,7 @@ EOT
                 
               </a></span> the impossibility of seeing every successive
             <div id="MSIX27v" class="pb"></div>
-            <br/>change as you feel that it ought to be seen &#x2014;, and,
+            <br/>change as you feel that it ought to be seen —, and,
                 <br/>finally, the tantalizing rate at which you dash<div class="g-justification" style="width:NaNem"> </div><span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/the_meuse_prose_glosses_textual#JUSTIFICATION" target="_blank" class="inactive">
           
@@ -182,9 +180,9 @@ EOT
                 </span>
                 
               </a></span>
-            <br/>look upon, and dwell upon, for &#x2014; ages I was going
+            <br/>look upon, and dwell upon, for — ages I was going
                 <br/>to say, months, I will say, are enough to enchant
-                <br/>you with anything. If you wish to see rock scen&#x2010;
+                <br/>you with anything. If you wish to see rock scen‐
                 <br/>ery in perfection, go to the <span class="geogName-MEUSE">Meuse</span>,<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/the_meuse_glosses_contextual#GOTOTHEMEUSEGLOSS" target="_blank" class="inactive">
           
@@ -253,9 +251,6 @@ EOT
                 </span>
               </a></span><br/>
             <span class="space" style="padding-left:2.8em"> </span>
-            
+            </div>
          </div>
-         
-      </div>
-   </div><div id="" class="pb"></div>
-</div><?php require_once(ROOT_PATH."layout_includes/showcase_bottom.inc.php"); ?>
+   </div><div id="" class="pb"></div></div><?php require_once(ROOT_PATH."layout_includes/showcase_bottom.inc.php"); ?>

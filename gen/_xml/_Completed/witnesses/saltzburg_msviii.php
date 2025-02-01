@@ -24,11 +24,9 @@ msviii/MSVIII80v-81r.jpg msviii/MSVIII81v-82r.jpg
 EOT
 );
       ?>
-    <?php require_once(ROOT_PATH."layout_includes/showcase_top.inc.php"); ?><div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-left"><img id="facs_preview" src="" width="100&#x0025;"><img id="facs" src="" width="100&#x0025;" style="display:none"></div>
-<div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-splitter"></div>
-<div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-right">
+    <?php require_once(ROOT_PATH."layout_includes/showcase_top.inc.php"); ?><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-left"><img id="facs_preview" src="" width="100%"><img id="facs" src="" width="100%" style="display:none"></div><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-splitter"></div><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-right">
    <div class="backToApparatusLink"><br/></div>
-   <div class="fileName"><span>&#x201C;Saltzburg&#x201D;</span></div>
+   <div class="fileName"><span>“Saltzburg”</span></div>
    <div class="witness">
       <div class="poem" id="">
          <div class="pageNum-top-right">p. 106.</div><br/>
@@ -87,7 +85,7 @@ EOT
               class="add-below" 
               style="left:0.4em"><div 
           class="subst-del s-subst s-del" >But moveless</div><div 
-          class="s-subst s-add s-overwrite s-inline">But moveless&#x2014;</div></div> changeless, beautifully proud,</span><br/>
+          class="s-subst s-add s-overwrite s-inline">But moveless—</div></div> changeless, beautifully proud,</span><br/>
             <span class="l">Shadow imbued with sunbeams like a veil,</span><br/>
             <span class="l">Clasps the wide city, wreathes its outlines pale</span><br/>
             <span class="l">And mingles roof with roof and tower with towr,</span><br/>
@@ -128,8 +126,8 @@ EOT
                   <div class="tooltip">
           System generated line number
         </div><a href="#L25" id="L25">25</a></div></span><br/>
-            <span class="l">And there are sounds from city &#x0026; from hill</span><br/>
-            <span class="l">Shore, forest, flood, &#x0026; field, yet all <span class="del-scratchout"><span class="unclear-blotted-"></span></span> <div 
+            <span class="l">And there are sounds from city & from hill</span><br/>
+            <span class="l">Shore, forest, flood, & field, yet all <span class="del-scratchout"><span class="unclear-blotted-"></span></span> <div 
               class="add-above" 
               style="left:15.2em">seems</div><span class="add-overwriting">seems</span> still.</span><br/>
             <span class="l">I left the shore, and ere the nights descent</span><br/>
@@ -145,7 +143,7 @@ EOT
         </div><a href="#L30" id="L30">30</a></div></span><br/>
             <div id="MSVIII81v-82r" class="pb"></div>
             <div class="pageNum-top-right">82</div><br/>
-            <span class="l">Chiselled &#x0026; fretted, walled the temple through</span><br/>
+            <span class="l">Chiselled & fretted, walled the temple through</span><br/>
             <span class="l">Successive altars lit with incensed flame</span><br/>
             <span class="l">Rose through the chapels, none without a name</span><br/>
             <span class="l">And the worn pavement every shrine before</span><br/>
@@ -178,7 +176,7 @@ EOT
                   <div class="tooltip">
           System generated line number
         </div><a href="#L40" id="L40">40</a></div></span><br/>
-            <span class="l">Stands from the rest, unbuttressed, &#x0026; alone</span><br/>
+            <span class="l">Stands from the rest, unbuttressed, & alone</span><br/>
             <span class="l">A bulwark, rears its iron strength for aye,</span><br/>
             <span class="l">The <span class="del-strikethrough">weaker</span> <div 
               class="add-above" 
@@ -218,7 +216,7 @@ EOT
           System generated line number
         </div><a href="#L50" id="L50">50</a></div></span><br/>
             <span class="l">Beneath whose concave slumbers <span class="placeName-SCOTLAND">Scotland</span>s child</span><br/>
-            <span class="l">The Good <span class="persName-STRUPERT">St Rupert</span>, &#x0026; full silently</span><br/> 
+            <span class="l">The Good <span class="persName-STRUPERT">St Rupert</span>, & full silently</span><br/> 
             <span class="l">Star after <div 
           class="subst-del s-subst s-del" >sky</div><div 
           class="s-subst s-add s-overwrite s-inline">star</div> was scattered on the sky</span><br/>
@@ -233,9 +231,6 @@ EOT
           System generated line number
         </div><a href="#L55" id="L55">55</a></div></span><br/>
             <span class="l">And I held through them commune with the heaven.</span><br/>
-            
-         </div>                    
-         
-      </div>
-   </div><div id="" class="pb"></div>
-</div><?php require_once(ROOT_PATH."layout_includes/showcase_bottom.inc.php"); ?>
+            </div>                    
+         </div>
+   </div><div id="" class="pb"></div></div><?php require_once(ROOT_PATH."layout_includes/showcase_bottom.inc.php"); ?>

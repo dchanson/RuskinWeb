@@ -24,11 +24,9 @@ define("FACS_FILE_NAMES", <<<EOT
 EOT
 );
       ?>
-    <?php require_once(ROOT_PATH."layout_includes/showcase_top.inc.php"); ?><div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-left"><img id="facs_preview" src="" width="100&#x0025;"><img id="facs" src="" width="100&#x0025;" style="display:none"></div>
-<div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-splitter"></div>
-<div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-right">
+    <?php require_once(ROOT_PATH."layout_includes/showcase_top.inc.php"); ?><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-left"><img id="facs_preview" src="" width="100%"><img id="facs" src="" width="100%" style="display:none"></div><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-splitter"></div><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-right">
    <div class="backToApparatusLink"><a href="/apparatuses/apparatuses/account_of_a_tour_on_the_continent_apparatus#account_of_a_tour_on_the_continent_le" target="_self"></a><br/></div>
-   <div class="fileName"><span>&#x201C;Calais&#x201D; &#x005B;poem&#x005D;</span></div>
+   <div class="fileName"><span>“Calais” [poem]</span></div>
    <div class="witness">
       <div class="poem" id="">
          
@@ -51,7 +49,7 @@ EOT
                   <div class="tooltip">
           System generated line number
         </div><a href="#L5" id="L5">5</a></div></span><br/>
-            <span class="l">Of playful Childhood&#x02BC;s daring feet,</span><br/>
+            <span class="l">Of playful Childhoodʼs daring feet,</span><br/>
             <span class="l">That seeks within its sandy cell</span><br/>
             <span class="l">The pebble bright, or purple shell.<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/calais_glosses_contextual#CALAISPOEMSHELL" target="_blank" class="inactive">
@@ -62,34 +60,33 @@ EOT
                 </span>
               </a></span></span><br/>
             <span class="l">Far in its clear expanse, lay wide</span><br/>
-            <span class="l">Unruffledly that ocean&#x2010;tide,
+            <span class="l">Unruffledly that ocean‐tide,
                <div class="s-line-number s-line-number-auto">
                   <div class="tooltip">
           System generated line number
         </div><a href="#L10" id="L10">10</a></div></span><br/>
             <span class="l">Stretching away where paler grew</span><br/>
-            <span class="l">The heaven&#x02BC;s bright unclouded blue.</span><br/>
+            <span class="l">The heavenʼs bright unclouded blue.</span><br/>
             <span class="l">And, far away in distance dying,</span><br/>
-            <span class="l">Old <span class="placeName-ENGLAND">England</span>&#x02BC;s cliffy coast was lying;</span><br/>
+            <span class="l">Old <span class="placeName-ENGLAND">England</span>ʼs cliffy coast was lying;</span><br/>
             <span class="l">And beautiful as summer cloud
                <div class="s-line-number s-line-number-auto">
                   <div class="tooltip">
           System generated line number
         </div><a href="#L15" id="L15">15</a></div></span><br/>
             <span class="l">By the low sun empurpled proud.</span><br/>
-            
-         </div>
+            </div>
          
          <div class="lg-stanza">
             <span class="l">Strange, that a space from shore to shore</span><br/>
-            <span class="l">So soon, so easily passed o&#x02BC;er,</span><br/>
+            <span class="l">So soon, so easily passed oʼer,</span><br/>
             <span class="l">Should yet a wide distinction place</span><br/>
-            <span class="l">&#x02BC;Twixt man and man, &#x02BC;twixt race and race!
+            <span class="l">ʼTwixt man and man, ʼtwixt race and race!
                <div class="s-line-number s-line-number-auto">
                   <div class="tooltip">
           System generated line number
         </div><a href="#L20" id="L20">20</a></div></span><br/>
-            <span class="l">Sudden and marked the change you find,&#x2014;</span><br/>
+            <span class="l">Sudden and marked the change you find,—</span><br/>
             <span class="l">Religion, language, even mind;<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/calais_glosses_contextual#CALAISPOEMDISTINCTION" target="_blank" class="inactive">
           
@@ -100,9 +97,6 @@ EOT
               </a></span></span><br/>
             <span class="l">That you might think that narrow span</span><br/>
             <span class="l">Marked the varieties of man.</span><br/>
-            
+            </div>
          </div>
-         
-      </div>
-   </div><div id="" class="pb"></div>
-</div><?php require_once(ROOT_PATH."layout_includes/showcase_bottom.inc.php"); ?>
+   </div><div id="" class="pb"></div></div><?php require_once(ROOT_PATH."layout_includes/showcase_bottom.inc.php"); ?>

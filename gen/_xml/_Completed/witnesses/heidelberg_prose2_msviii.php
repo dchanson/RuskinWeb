@@ -24,15 +24,13 @@ msviii/MSVIII77v-78r.jpg msviii/MSVIII78v-79r.jpg
 EOT
 );
       ?>
-    <?php require_once(ROOT_PATH."layout_includes/showcase_top.inc.php"); ?><div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-left"><img id="facs_preview" src="" width="100&#x0025;"><img id="facs" src="" width="100&#x0025;" style="display:none"></div>
-<div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-splitter"></div>
-<div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-right">
+    <?php require_once(ROOT_PATH."layout_includes/showcase_top.inc.php"); ?><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-left"><img id="facs_preview" src="" width="100%"><img id="facs" src="" width="100%" style="display:none"></div><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-splitter"></div><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-right">
    <div class="backToApparatusLink"><a href="/apparatuses/apparatuses/account_of_a_tour_on_the_continent_apparatus#account_of_a_tour_on_the_continent_msviii" target="_self"></a><br/></div>
-   <div class="fileName"><span>"Cont. Heidelberg" &#x005B;essay, part 2&#x005D;</span></div>
+   <div class="fileName"><span>"Cont. Heidelberg" [essay, part 2]</span></div>
    <div class="witness">
       <div class="essay" id="">
          
-         <div class="title" id="&#x0040;"><span class="space" style="padding-left:6.4em"> </span>Cont. Heidelberg</div>
+         <div class="title" id="@"><span class="space" style="padding-left:6.4em"> </span>Cont. Heidelberg</div>
          
          <div class="p">The <span class="placeName-building-HEIDELBERGCASTLE">castle of Heidelberg</span> is exceeding desolate.  Armies<br/>
                     have razed its foundations, the thunder hath riven its<br/>
@@ -48,7 +46,7 @@ EOT
                             on the floor of the hall of the banquet, and the wild<br/>
                             birds build their nests in the watchtowers, and they<br/>
                             dwell in the dwellings of man, for they are forsaken<br/> 
-                            and left and there is no voice there &#x2014; there is no<br/>
+                            and left and there is no voice there — there is no<br/>
                             complaining in the dungeon, and where is the voice of<br/> 
                             gladness in the hall.  It is a ruin, a ruin, a<br/>
                             desolate ruin, the husbandman sees it on the height of<br/>
@@ -57,9 +55,6 @@ EOT
                             bers the power of his ancient princes, and knows not<br/>
                             if he should grieve that there power is past away.<br/>
             I know not how it is, but all nations in all ages<br/>
-                            seem to have respected the juice of the fruit of the vine<br/>
-         </div>            
-         
-      </div>
-   </div><div id="" class="pb"></div>
-</div><?php require_once(ROOT_PATH."layout_includes/showcase_bottom.inc.php"); ?>
+                            seem to have respected the juice of the fruit of the vine<br/></div>            
+         </div>
+   </div><div id="" class="pb"></div></div><?php require_once(ROOT_PATH."layout_includes/showcase_bottom.inc.php"); ?>

@@ -24,11 +24,9 @@ msix/MSIX40v-41r.jpg msix/MSIX41v-42r.jpg
 EOT
 );
       ?>
-    <?php require_once(ROOT_PATH."layout_includes/showcase_top.inc.php"); ?><div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-left"><img id="facs_preview" src="" width="100&#x0025;"><img id="facs" src="" width="100&#x0025;" style="display:none"></div>
-<div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-splitter"></div>
-<div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-right">
+    <?php require_once(ROOT_PATH."layout_includes/showcase_top.inc.php"); ?><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-left"><img id="facs_preview" src="" width="100%"><img id="facs" src="" width="100%" style="display:none"></div><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-splitter"></div><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-right">
    <div class="backToApparatusLink"><a href="/apparatuses/apparatuses/account_of_a_tour_on_the_continent_apparatus#account_of_a_tour_on_the_continent_msix" target="_self"></a><br/></div>
-   <div class="fileName"><span>&#x201C;Ehrenbreitstein&#x201D; &#x005B;essay&#x005D;</span></div>
+   <div class="fileName"><span>“Ehrenbreitstein” [essay]</span></div>
    <div class="witness">
       <div class="essay" id="">
          <div id="MSIX41r" class="pb"></div>
@@ -48,8 +46,8 @@ EOT
                     <br/>it will not carry you over <span class="placeName-GERMANY">Germany</span>.
                     <div id="MSIX41v" class="pb"></div>
             <br/>You might manage with the Grand Turk, 
-                    <br/>but you will not manage with the Ger&#x2010;
-                    <br/><span class="g-word_division">&#x003D;</span>mans.<span class="gloss-inline">
+                    <br/>but you will not manage with the Ger‐
+                    <br/><span class="g-word_division">=</span>mans.<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/ehrenbreitstein_prose_glosses_textual#WORDDIVISION" target="_blank" class="inactive">
           
           
@@ -63,14 +61,13 @@ EOT
                     <br/>guide, and coming to a place where two 
                     <br/>roads met, considered him to be going
                     <br/>the wrong way. Here was a poser, how 
-                    <br/>could we stop him. &#x201C;Nein, nein,&#x2014;&#x201D; we 
-                    <br/>called after him. &#x201C;Ya,&#x201D; quoth he; &#x201C;Nein,
-                    <br/>So he went the way we chose.
-         </div> 
+                    <br/>could we stop him. “Nein, nein,—” we 
+                    <br/>called after him. “Ya,” quoth he; “Nein,
+                    <br/>So he went the way we chose.</div> 
          
          
-         <div class="p">After a very hard pull up an abom&#x2010;
-                    <br/><span class="g-word_division">&#x003D;</span>inably<span class="gloss-inline">
+         <div class="p">After a very hard pull up an abom‐
+                    <br/><span class="g-word_division">=</span>inably<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/ehrenbreitstein_prose_glosses_textual#WORDDIVISION" target="_blank" class="inactive">
           
           
@@ -87,7 +84,7 @@ EOT
                 1
                 </span>
               </a></span> hill, we beheld the top of 
-                    <br/>the flagstaff. &#x201C;Here we are, all right.&#x201D; No, 
+                    <br/>the flagstaff. “Here we are, all right.” No, 
                     <br/>There was the fortress, certainly, but between 
                     <br/>us and it, a ravine nearly a hundred
                     <br/>feet deep, walled up the sides so as to form 
@@ -104,7 +101,7 @@ EOT
                 
               </a></span> 
             <br/>Well, there was nothing for it, so we went 
-                    <br/>back, and took the other path.&#x2014;<span class="gloss-inline">
+                    <br/>back, and took the other path.—<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/ehrenbreitstein_glosses_contextual#EHRENBREITSTEINPATHGLOSS" target="_blank" class="inactive">
           
           
@@ -115,8 +112,8 @@ EOT
          <div id="MSIX42r" class="pb"></div>
          
          <div class="p">This time all went right, and we got into 
-                    <br/>the fortress, first however prudently step&#x2010;
-         <br/><span class="g-word_division">&#x003D;</span>ping<span class="gloss-inline">
+                    <br/>the fortress, first however prudently step‐
+         <br/><span class="g-word_division">=</span>ping<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/ehrenbreitstein_prose_glosses_textual#WORDDIVISION" target="_blank" class="inactive">
           
           
@@ -126,12 +123,12 @@ EOT
                 </span>
                 
               </a></span> up to a sentinel, to ask permission; 
-                    <br/>and he brought an officer upon us. &#x201C;Do 
-                    <br/>you speak English, sir.&#x201D; (A stare.) &#x201C;Francais,&#x201D; 
+                    <br/>and he brought an officer upon us. “Do 
+                    <br/>you speak English, sir.” (A stare.) “Francais,” 
                     <br/>(a vibratory motion of the head, and a, 
-                    <br/>&#x201C;Nein&#x201D;) &#x201C;Deutsch.&#x201D; &#x201C;Ya.&#x201D; and there we 
-                    <br/>stuck. Well, we pulled out our pass&#x2010;
-         <br/><span class="g-word_division">&#x003D;</span>port,<span class="gloss-inline">
+                    <br/>“Nein”) “Deutsch.” “Ya.” and there we 
+                    <br/>stuck. Well, we pulled out our pass‐
+         <br/><span class="g-word_division">=</span>port,<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/ehrenbreitstein_prose_glosses_textual#WORDDIVISION" target="_blank" class="inactive">
           
           
@@ -140,8 +137,8 @@ EOT
                 f
                 </span>
                 
-              </a></span> but it was in French, and the offi&#x2010;
-         <br/><span class="g-word_division">&#x003D;</span>cer<span class="gloss-inline">
+              </a></span> but it was in French, and the offi‐
+         <br/><span class="g-word_division">=</span>cer<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/ehrenbreitstein_prose_glosses_textual#WORDDIVISION" target="_blank" class="inactive">
           
           
@@ -157,8 +154,8 @@ EOT
                     <br/>looked over the battlements, and trotted 
                     <br/>down again, having a very high opinion 
                     <br/>of the height of German hills, the strength 
-                    <br/>of German walls, the size of German can&#x2010;
-         <br/><span class="g-word_division">&#x003D;</span>non,<span class="gloss-inline">
+                    <br/>of German walls, the size of German can‐
+         <br/><span class="g-word_division">=</span>non,<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/ehrenbreitstein_prose_glosses_textual#WORDDIVISION" target="_blank" class="inactive">
           
           
@@ -176,7 +173,5 @@ EOT
                 3
                 </span>
               </a></span></div>
-         
-      </div>
-   </div><div id="" class="pb"></div>
-</div><?php require_once(ROOT_PATH."layout_includes/showcase_bottom.inc.php"); ?>
+         </div>
+   </div><div id="" class="pb"></div></div><?php require_once(ROOT_PATH."layout_includes/showcase_bottom.inc.php"); ?>

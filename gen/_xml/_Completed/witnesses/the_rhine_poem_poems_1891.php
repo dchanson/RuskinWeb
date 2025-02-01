@@ -24,11 +24,9 @@ define("FACS_FILE_NAMES", <<<EOT
 EOT
 );
       ?>
-    <?php require_once(ROOT_PATH."layout_includes/showcase_top.inc.php"); ?><div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-left"><img id="facs_preview" src="" width="100&#x0025;"><img id="facs" src="" width="100&#x0025;" style="display:none"></div>
-<div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-splitter"></div>
-<div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-right">
+    <?php require_once(ROOT_PATH."layout_includes/showcase_top.inc.php"); ?><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-left"><img id="facs_preview" src="" width="100%"><img id="facs" src="" width="100%" style="display:none"></div><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-splitter"></div><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-right">
    <div class="backToApparatusLink"><a href="/apparatuses/apparatuses/account_of_a_tour_on_the_continent_apparatus#account_of_a_tour_on_the_continent_poems_1891" target="_self"></a><br/></div>
-   <div class="fileName"><span>&#x201C;The Rhine&#x201D; &#x005B;poem&#x005D;</span></div>
+   <div class="fileName"><span>“The Rhine” [poem]</span></div>
    <div class="witness">
       <div class="poem" id="">
          
@@ -52,14 +50,14 @@ EOT
                 </span>
               </a></span></span><br/>
             <span class="l">We saw it where its ripples ride</span><br/>
-            <span class="l">&#x02BC;Neath <span class="geogName-EHRENBREITSTEIN">Ehrenbreitstein</span>&#x02BC;s beetling pride;</span><br/>
+            <span class="l">ʼNeath <span class="geogName-EHRENBREITSTEIN">Ehrenbreitstein</span>ʼs beetling pride;</span><br/>
             <span class="l">We saw it where its whirlpools roar
                <div class="s-line-number s-line-number-auto">
                   <div class="tooltip">
           System generated line number
         </div><a href="#L5" id="L5">5</a></div></span><br/>
-            <span class="l">Among the rocks of gaunt <span class="placeName-STGOAR">St. Goar</span>&#x2014;</span><br/> 
-            <span class="l">In all its aspects &#x02BC;tis as fair!</span><br/>
+            <span class="l">Among the rocks of gaunt <span class="placeName-STGOAR">St. Goar</span>—</span><br/> 
+            <span class="l">In all its aspects ʼtis as fair!</span><br/>
             <span class="l">That aspect changes everywhere.</span><br/>
             <span class="l">From <span class="geogName-RHAETIANALPS">Rhætian</span> and <span class="geogName-DINARICALPS">Dinaric</span> crest,<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/the_rhine_glosses_contextual#DINARIC" target="_blank" class="inactive">
@@ -82,7 +80,7 @@ EOT
                   <div class="tooltip">
           System generated line number
         </div><a href="#L10" id="L10">10</a></div></span><br/>
-            <span class="l">From fearful <span class="placeName-SPLUGEN">Splügen</span>&#x02BC;s glaciered head,</span><br/> 
+            <span class="l">From fearful <span class="placeName-SPLUGEN">Splügen</span>ʼs glaciered head,</span><br/> 
             <span class="l">The mighty torrent dashes, dread;</span><br/><div id="" class="pb"></div>
             <span class="l">And, swelled by every Alpine snow,</span><br/>
             <span class="l">Now see it chase these clffs below,</span><br/>
@@ -94,9 +92,6 @@ EOT
             <span class="l">Rise many a fortress battlement,</span><br/>
             <span class="l">Seeming the lords of rock and hill,</span><br/> 
             <span class="l">And mighty in their ruin still.</span><br/>
-            
+            </div>
          </div>
-         
-      </div>
-   </div><div id="" class="pb"></div>
-</div><?php require_once(ROOT_PATH."layout_includes/showcase_bottom.inc.php"); ?>
+   </div><div id="" class="pb"></div></div><?php require_once(ROOT_PATH."layout_includes/showcase_bottom.inc.php"); ?>

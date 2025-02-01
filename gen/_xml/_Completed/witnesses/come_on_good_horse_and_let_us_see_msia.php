@@ -24,11 +24,9 @@ MSIAsheet1.jpg
 EOT
 );
       ?>
-    <?php require_once(ROOT_PATH."layout_includes/showcase_top.inc.php"); ?><div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-left"><img id="facs_preview" src="" width="100&#x0025;"><img id="facs" src="" width="100&#x0025;" style="display:none"></div>
-<div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-splitter"></div>
-<div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-right">
+    <?php require_once(ROOT_PATH."layout_includes/showcase_top.inc.php"); ?><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-left"><img id="facs_preview" src="" width="100%"><img id="facs" src="" width="100%" style="display:none"></div><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-splitter"></div><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-right">
    <div class="backToApparatusLink"><br/></div>
-   <div class="fileName"><span>&#x201C;come on good horse and let us see&#x201D;</span></div>
+   <div class="fileName"><span>“come on good horse and let us see”</span></div>
    <div class="witness">
       <div class="poem" id="">
          
@@ -53,7 +51,7 @@ EOT
           System generated line number
         </div><a href="#L5" id="L5">5</a></div></span><br/>
             <span class="l">they had come nearer to the <span class="geogName-GLENDEARG">glen</span></span><br/>
-            <span class="l">it was so bad that <span class="sic">there &#x005B;sic&#x005D;</span><span class="gloss-inline">
+            <span class="l">it was so bad that <span class="sic">there [sic]</span><span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/monastery_glosses_textual#THEIRGLOSS" target="_blank" class="inactive">
           
           
@@ -72,8 +70,7 @@ EOT
         </div><a href="#L10" id="L10">10</a></div></span><br/>
             <span class="l"><span class="gap" style="padding-left:NaNem"> </span> selecting the safest way</span><br/>
             <span class="l">he to <span class="name--SHAGRAMSCOTTMONASTERY">shagram</span> be<span class="gap" style="padding-left:NaNem"> </span> to say<span id="damageEnd"></span></span><br/>
-            
-         </div>
+            </div>
          
          <div class="lg-stanza">
             <span class="l">come on good horse and let us see</span><br/>
@@ -127,7 +124,7 @@ EOT
             <span class="l">I see a lady just up there</span><br/>
             <span class="l">and I must say <span class="del-strikethrough"><span class="unclear-smudged-DCH">exedding</span></span><div 
               class="add-above" 
-              style="left:6.0em"><span class="sic">exeeding &#x005B;sic&#x005D;</span></div> fair<span class="gloss-inline">
+              style="left:6.0em"><span class="sic">exeeding [sic]</span></div> fair<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/monastery_glosses_textual#EXCEEDINGGLOSS" target="_blank" class="inactive">
           
           
@@ -144,7 +141,7 @@ EOT
                   <div class="tooltip">
           System generated line number
         </div><a href="#L35" id="L35">35</a></div></span><br/>
-            <span class="l">but it was <span class="del-strikethrough"><span class="unclear-smudged-DCH">gay</span></span> avenels fate <span class="metamark-insertion-substitution2">&#x002A;</span><span class="space" style="padding-left:1.6em"> </span><span class="add">great</span></span><br/>
+            <span class="l">but it was <span class="del-strikethrough"><span class="unclear-smudged-DCH">gay</span></span> avenels fate <span class="metamark-insertion-substitution2">*</span><span class="space" style="padding-left:1.6em"> </span><span class="add">great</span></span><br/>
             <span class="l"><span class="delSpan-deletion2-delEnd1"></span><span class="del-strikethrough">to see things that nobody</span> saw</span><br/>
             <span class="l"><span class="del-strikethrough">except themselves, and would say pshaw</span><span id="delEnd1"></span></span><br/>
             <span class="l"><div 
@@ -167,7 +164,7 @@ EOT
         </div><a href="#L45" id="L45">45</a></div><span class="runover" style="left:11.6em">neer</span></span><br/>
             <span class="l">frightened by her very fair</span><br/>
             <div class="full"></div><br/>
-            <span class="l"><span class="add">to have a spirit in their line<span class="metamark-insertion">&#x002A;</span></span><span class="gloss-inline">
+            <span class="l"><span class="add">to have a spirit in their line<span class="metamark-insertion">*</span></span><span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/monastery_glosses_textual#AVENELSFATEGLOSS" target="_blank" class="inactive">
           
           
@@ -213,9 +210,6 @@ EOT
                 </span>
                 
               </a></span> good rate</span><br/>
-            
+            </div>
          </div>
-         
-      </div>
-   </div><div id="" class="pb"></div>
-</div><?php require_once(ROOT_PATH."layout_includes/showcase_bottom.inc.php"); ?>
+   </div><div id="" class="pb"></div></div><?php require_once(ROOT_PATH."layout_includes/showcase_bottom.inc.php"); ?>

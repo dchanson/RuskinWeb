@@ -24,16 +24,14 @@ msviii/MSVIIIp54-55.jpg
 EOT
 );
       ?>
-    <?php require_once(ROOT_PATH."layout_includes/showcase_top.inc.php"); ?><div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-left"><img id="facs_preview" src="" width="100&#x0025;"><img id="facs" src="" width="100&#x0025;" style="display:none"></div>
-<div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-splitter"></div>
-<div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-right">
+    <?php require_once(ROOT_PATH."layout_includes/showcase_top.inc.php"); ?><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-left"><img id="facs_preview" src="" width="100%"><img id="facs" src="" width="100%" style="display:none"></div><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-splitter"></div><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-right">
    <div class="backToApparatusLink"><a href="/apparatuses/apparatuses/account_of_a_tour_on_the_continent_apparatus#account_of_a_tour_on_the_continent_msiii" target="_self"></a><br/></div>
-   <div class="fileName"><span>&#x201C;Source of the Arveron&#x201D; &#x005B;essay&#x005D;</span></div>
+   <div class="fileName"><span>“Source of the Arveron” [essay]</span></div>
    <div class="witness">
       <div class="essay" id="">
          <div id="MSVIIIp54" class="pb"></div>
          
-         <div class="title" id="&#x0040;"><span class="space" style="padding-left:6.4em"> </span><span class="title-essay-JRSOURCEOFTHEARVERON">Source of the Arveron</span><span class="gloss-inline">
+         <div class="title" id="@"><span class="space" style="padding-left:6.4em"> </span><span class="title-essay-JRSOURCEOFTHEARVERON">Source of the Arveron</span><span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/source_of_the_arveron_prose_glosses_textual#SOURCEOFTHEARVERONTITLE" target="_blank" class="inactive">
           
           
@@ -109,9 +107,6 @@ EOT
                     of the passing away tempest the last murmers of the storm<br/>
                     spirit as he yielded up his reign, it past away and the<br/>
                     blue rigidness of the transparent <span class="del-strikethrough">grotto</span> cavern of the glacier<br/>
-                    woke rosily to the kiss of the departing sun
+                    woke rosily to the kiss of the departing sun</div>
          </div>
-         
-      </div>
-   </div><div id="" class="pb"></div>
-</div><?php require_once(ROOT_PATH."layout_includes/showcase_bottom.inc.php"); ?>
+   </div><div id="" class="pb"></div></div><?php require_once(ROOT_PATH."layout_includes/showcase_bottom.inc.php"); ?>

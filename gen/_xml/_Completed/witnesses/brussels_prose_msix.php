@@ -24,21 +24,19 @@ msix/MSIX22v-23r.jpg msix/MSIX23v-24r.jpg msix/MSIX24v-25r.jpg
 EOT
 );
       ?>
-    <?php require_once(ROOT_PATH."layout_includes/showcase_top.inc.php"); ?><div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-left"><img id="facs_preview" src="" width="100&#x0025;"><img id="facs" src="" width="100&#x0025;" style="display:none"></div>
-<div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-splitter"></div>
-<div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-right">
+    <?php require_once(ROOT_PATH."layout_includes/showcase_top.inc.php"); ?><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-left"><img id="facs_preview" src="" width="100%"><img id="facs" src="" width="100%" style="display:none"></div><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-splitter"></div><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-right">
    <div class="backToApparatusLink"><a href="/apparatuses/apparatuses/account_of_a_tour_on_the_continent_apparatus#account_of_a_tour_on_the_continent_msix" target="_self"></a><br/></div>
-   <div class="fileName"><span>&#x201C;Brussels&#x201D; &#x005B;essay&#x005D;</span></div>
+   <div class="fileName"><span>“Brussels” [essay]</span></div>
    <div class="witness">
       <div class="essay" id="">
          <div id="MSIX23r" class="pb"></div>
          
          <div class="p"><span class="placeName-BRUSSELS">Brussels</span> is a lovely, a queenlike city, from<br/>
                     a distance, sweeping up the flanks of its<br/>
-                    hill, battlement over battlement swell&#x2013;<br/>
+                    hill, battlement over battlement swell–<br/>
                     ing up higher, and higher, and yet higher<br/>
                     and the massive obscurity of the two huge<br/>
-                    square cathedral tow&#x02BC;rs looming over the<br/>
+                    square cathedral towʼrs looming over the<br/>
                     whole, and contrasted strangely with the<br/>
                     delicate sharp spiriness of the steeple of<br/>
                     the <span class="placeName-building-HOTELDEVILLEBRUSSELS">hotel de ville</span>.<span class="gloss-inline">
@@ -61,9 +59,9 @@ EOT
                     We saw <span class="placeName-BRUSSELS">Brussels</span> at eleven miles distance<br/>
                     its towers rising dark and spearlike out<br/>
             <div id="MSIX23v" class="pb"></div>
-                    of the horizon&#x2014; It was waxing dark as we<br/>
+                    of the horizon— It was waxing dark as we<br/>
                     entered the city, and the lights began to<br/>
-                    twinkle in the few, the very few shop win&#x2010; <br/>
+                    twinkle in the few, the very few shop win‐ <br/>
                     dows. I love to pass through a city at night<br/>
                     the hum of the voices rises so softly out of<br/>
                     the obscurity, and the figures flit about<br/>
@@ -77,7 +75,7 @@ EOT
                 a
                 </span>
                 
-              </a></span> the red swar&#x2010;<br/>
+              </a></span> the red swar‐<br/>
                     thy gleam of the lamps, and when you<br/>
                     look up, the narrow strip of sky is of<br/>
                     such a dark dark blue, you may see<br/>
@@ -93,7 +91,7 @@ EOT
                 </span>
                 
               </a></span><br/>
-                    it and the windows seem grinning ma&#x2013;<br/>
+                    it and the windows seem grinning ma–<br/>
                     liciously askance at you. It makes one<br/>
                     shiver to think of it.<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/brussels_glosses_contextual#WAXINGDARKGLOSS" target="_blank" class="inactive">
@@ -102,10 +100,10 @@ EOT
                 <span class="gloss-contextual">
                 3
                 </span>
-              </a></span> Cities are exceed&#x2013;<br/>
+              </a></span> Cities are exceed–<br/>
                     ingly picturesque when built upon hills<br/>
                     but for exploring for circumnavigating for<br/>
-                    perambulating&#x2014; Oh woe to the walker<br/>
+                    perambulating— Oh woe to the walker<br/>
                     who is compelled to drag himself up<br/>
             <div id="MSIX24r" class="pb"></div>
                     their steeps, those tiresome paved steeps,<br/>
@@ -132,7 +130,7 @@ EOT
                 </span>
                 
               </a></span><br/>
-                    jerk, jerk, jerking, &#x2014; Oh facilis des&#x2013;<br/>
+                    jerk, jerk, jerking, — Oh facilis des–<br/>
                     census Averni,<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/brussels_glosses_contextual#FACILISDESCENSUSAVERNIGLOSS" target="_blank" class="inactive">
           
@@ -174,14 +172,13 @@ EOT
                 
               </a></span><br/>
                     well scale the crags of <span class="placeName-GIBRALTAR">Gibraltar</span>, as storm<br/>
-                    the heights of the <span class="placeName-building-HOTELDEBELLEVUE">hotel de belle vue</span>&#x2014;;<br/>
+                    the heights of the <span class="placeName-building-HOTELDEBELLEVUE">hotel de belle vue</span>—;<br/>
                     whence, for all the boast of its title, I<br/>
                     never could discover more belle vue, than<br/>
-                    a dusty square, some formal houses, &#x0026;<br/>
-                    a few murky park trees.
-         </div>
+                    a dusty square, some formal houses, &<br/>
+                    a few murky park trees.</div>
          
-         <div class="p">We left <span class="placeName-BRUSSELS">Brussels</span> on Wednesday mor&#x2013;<br/>
+         <div class="p">We left <span class="placeName-BRUSSELS">Brussels</span> on Wednesday mor–<br/>
                     ning<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/brussels_glosses_contextual#WEDNESDAYMORNING" target="_blank" class="inactive">
           
@@ -217,7 +214,7 @@ EOT
                 </span>
                 
               </a></span><br/>
-                    their damp bark glistened dewily,&#x2014; as<div class="g-justification" style="width:NaNem"> </div><span class="gloss-inline">
+                    their damp bark glistened dewily,— as<div class="g-justification" style="width:NaNem"> </div><span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/brussels_prose_glosses_textual#JUSTIFICATION" target="_blank" class="inactive">
           
           
@@ -233,7 +230,7 @@ EOT
                     with the delicate foliage scattered through<br/>
                     here every leaf defined separately and clear<br/>
                     ly, as you looked up to the broad sky there<br/>
-                    in light spready masses partially con&#x2013;<br/>
+                    in light spready masses partially con–<br/>
                     cealing the long tapery grey trunks which<br/>
                     which<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/brussels_prose_glosses_textual#WHICHWHICH" target="_blank" class="inactive">
@@ -244,7 +241,7 @@ EOT
                 i
                 </span>
                 
-              </a></span> retired back, farther and still far&#x2013;<br/>
+              </a></span> retired back, farther and still far–<br/>
                     ther, yet distinctly grouped, and those<br/>
                     groups separated by the gleamy stream,<br/>
                     of yellow sunshine, which shone full<div class="g-justification" style="width:NaNem"> </div><span class="gloss-inline">
@@ -261,7 +258,7 @@ EOT
                     banks, then broken by the intervening<br/>
                     hollows, then climbing again up the<br/>
                     dewy moss and white trunks. It was<br/>
-                    exceeding beautiful, I could have fan&#x2013;<br/>
+                    exceeding beautiful, I could have fan–<br/>
                     cied the glister<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/brussels_glosses_contextual#GLISTERGLOSS" target="_blank" class="inactive">
           
@@ -279,7 +276,7 @@ EOT
                 </span>
                 
               </a></span><br/>
-                    changing, like starlight on a wavy o&#x2013;<br/>
+                    changing, like starlight on a wavy o–<br/>
                     cean, among the retiring foilage of<div class="g-justification" style="width:NaNem"> </div><span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/brussels_prose_glosses_textual#JUSTIFICATION" target="_blank" class="inactive">
           
@@ -290,10 +287,10 @@ EOT
                 </span>
                 
               </a></span><br/>
-                    those ancient trees,&#x2014; I forgot how many<br/>
-                    long years had past by since that ev&#x2013;<br/>
+                    those ancient trees,— I forgot how many<br/>
+                    long years had past by since that ev–<br/>
             <div id="MSIX25r" class="pb"></div>
-                    entful day. &#x002A; &#x002A; &#x002A; This is the field of <span class="placeName-WATERLOO">Waterloo</span>.<span class="gloss-inline">
+                    entful day. * * * This is the field of <span class="placeName-WATERLOO">Waterloo</span>.<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/brussels_glosses_contextual#FIELDOFWATERLOOGLOSS" target="_blank" class="inactive">
           
           
@@ -309,9 +306,9 @@ EOT
                     the faint horizon. All is peace now.<br/>
                     Englishmen may feel proud on the field<br/>
                     of <span class="placeName-WATERLOO">Waterloo</span>, perhaps I did, but there is<br/>
-                    something mingled with it.&#x2014; Poor<br/>
+                    something mingled with it.— Poor<br/>
             <span class="persName-NBE">Napoleon</span>. The grass is very green on<br/>
-                    the field of <span class="placeName-WATERLOO">Waterloo</span>&#x2014; it has grown from<br/>
+                    the field of <span class="placeName-WATERLOO">Waterloo</span>— it has grown from<br/>
                     the dust of our bravest. Oh tread on<br/>
                     it<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/brussels_glosses_contextual#TREADSOFTLYGLOSS" target="_blank" class="inactive">
@@ -329,9 +326,6 @@ EOT
                 </span>
               </a></span>
             <span class="space" style="padding-left:2.8em"> </span>
-            
+            </div>
          </div>
-         
-      </div>
-   </div><div id="" class="pb"></div>
-</div><?php require_once(ROOT_PATH."layout_includes/showcase_bottom.inc.php"); ?>
+   </div><div id="" class="pb"></div></div><?php require_once(ROOT_PATH."layout_includes/showcase_bottom.inc.php"); ?>

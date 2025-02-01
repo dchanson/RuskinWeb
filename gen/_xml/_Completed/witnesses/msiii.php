@@ -24,16 +24,13 @@ msiii/1229164.jpg msiii/1229170.jpg msiii/1229164.jpg msiii/1229166.jpg msiii/12
 EOT
 );
       ?>
-    <?php require_once(ROOT_PATH."layout_includes/showcase_top.inc.php"); ?><div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-left"><img id="facs_preview" src="" width="100&#x0025;"><img id="facs" src="" width="100&#x0025;" style="display:none"></div>
-<div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-splitter"></div>
-<div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-right">
+    <?php require_once(ROOT_PATH."layout_includes/showcase_top.inc.php"); ?><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-left"><img id="facs_preview" src="" width="100%"><img id="facs" src="" width="100%" style="display:none"></div><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-splitter"></div><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-right">
    <div class="backToApparatusLink"><a href="<?php echo r_build_url("witnesses/look_at_that_ship_msxi.php");?>" target="_self">MS XI witness</a><br/></div>
-   <div class="fileName"><span>&#x201C;Poetry&#x201D;</span></div><br/>
+   <div class="fileName"><span>“Poetry”</span></div><br/>
    <div class="title" id="">
       
-      <div class="title" id="&#x0040;"><span class="space" style="padding-left:5.2em"> </span><span class="caps">Poetry</span></div>
-      
-   </div><div id="" class="pb"></div>
+      <div class="title" id="@"><span class="space" style="padding-left:5.2em"> </span><span class="caps">Poetry</span></div>
+      </div><div id="" class="pb"></div>
    <div class="fileName"><span>"Time: Blank Verse"</span></div>
    <div class="witness">
       <div class="poem" id="">
@@ -70,7 +67,7 @@ EOT
             <span class="l">Take time by his forelock he mows down every thing</span><br/>
             <span class="l">And so he has a scythe time is so quick</span><br/>
             <span class="l">That might a year be called a day</span><br/>
-            <span class="l">Day now I think of it &#x02BC;tis <span class="date-1827-01-01">newyearsday</span><span class="gloss-inline">
+            <span class="l">Day now I think of it ʼtis <span class="date-1827-01-01">newyearsday</span><span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/time_blank_verse_glosses_contextual#NEWYEARSDAYGLOSS" target="_blank" class="inactive">
           
           
@@ -90,13 +87,13 @@ EOT
             <span class="l">And now I must return to time</span><br/>
             <span class="l">Is time only a figure no he is not</span><br/>
             <span class="l">What is he then what is he I dont know</span><br/>
-            <span class="l">He&#x02BC;s not a quality of that I&#x02BC;m sure</span><br/>
+            <span class="l">Heʼs not a quality of that Iʼm sure</span><br/>
             <span class="l">Oh I remember now he is a god
                <div class="s-line-number s-line-number-auto">
                   <div class="tooltip">
           System generated line number
         </div><a href="#L20" id="L20">20</a></div></span><br/>
-            <span class="l">Entitled <span class="caps">S</span>aturn he&#x02BC;s a heathen god</span><br/>
+            <span class="l">Entitled <span class="caps">S</span>aturn heʼs a heathen god</span><br/>
             <span class="l">And well he might be called one none but they</span><br/>
             <span class="l">Could go so quick or jump from tween our hands</span><br/>
             <span class="l">As time does,<span class="gloss-inline">
@@ -106,14 +103,14 @@ EOT
                 <span class="gloss-contextual">
                 2
                 </span>
-              </a></span> time I&#x02BC;m quite away from him</span><br/>
-            <span class="l">Away from him no surely I&#x02BC;m not so
+              </a></span> time Iʼm quite away from him</span><br/>
+            <span class="l">Away from him no surely Iʼm not so
                <div class="s-line-number s-line-number-auto">
                   <div class="tooltip">
           System generated line number
         </div><a href="#L25" id="L25">25</a></div></span><br/>
-            <span class="l">For I&#x02BC;m at heathen gods and he&#x02BC;s a god</span><br/>
-            <span class="l">So though I may be from him I&#x02BC;m not far</span><br/>
+            <span class="l">For Iʼm at heathen gods and heʼs a god</span><br/>
+            <span class="l">So though I may be from him Iʼm not far</span><br/>
             <span class="l">From him and now I must go to him quite</span><br/>
             <span class="l">Tis but an hour to merry <span class="date-1827-01-01"><span class="caps">N</span>ewyearsday</span><span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/time_blank_verse_glosses_contextual#NEWYEARSDAYSPACEDGLOSS" target="_blank" class="inactive">
@@ -123,30 +120,27 @@ EOT
                 3
                 </span>
               </a></span></span><br/>
-            <span class="l">For though it is a&#x2010;day a&#x2010;day&#x02BC;s an hour
+            <span class="l">For though it is a‐day a‐dayʼs an hour
                <div class="s-line-number s-line-number-auto">
                   <div class="tooltip">
           System generated line number
         </div><a href="#L30" id="L30">30</a></div></span><br/>
-            <span class="l">And what&#x02BC;s an hour &#x02BC;tis only a wee minute</span><br/>
+            <span class="l">And whatʼs an hour ʼtis only a wee minute</span><br/>
             <span class="l">Made so by the quick course of time</span><br/>
-            <span class="l">So mr time as I&#x02BC;ve said all about you</span><br/>
-            <span class="l">All I&#x02BC;ve to say I must take leave of you</span><br/>
-            
+            <span class="l">So mr time as Iʼve said all about you</span><br/>
+            <span class="l">All Iʼve to say I must take leave of you</span><br/>
+            </div>
          </div>
-         
-      </div>
    </div><br/><div class="threequarter"></div>
    <div class="date" id="">
       
       <div class="p">Jan 1. 1827</div>
-      
-   </div><div id="" class="pb"></div>
-   <div class="fileName"><span>&#x201C;The Ship&#x201D; and &#x201C;Look at That Ship&#x201D; &#x005B;1827&#x005D;</span></div>
+      </div><div id="" class="pb"></div>
+   <div class="fileName"><span>“The Ship” and “Look at That Ship” [1827]</span></div>
    <div class="witness">
       <div class="poem" id="">
          
-         <div class="title" id="&#x0040;"><span class="space" style="padding-left:2.8em"> </span><span class="bold-caps">The Ship</span></div>
+         <div class="title" id="@"><span class="space" style="padding-left:2.8em"> </span><span class="bold-caps">The Ship</span></div>
          
          <div class="lg-stanza">
             <span class="l"><b><span class="caps">L</span><span class="smallcaps">ook</span></b> at that ship
@@ -208,10 +202,8 @@ EOT
             <span class="l">And steam a steamboat then had burst</span><br/>
             <span class="l">While from among the smoke the vessel quickly<span class="runover" style="left:5.6em">goes</span></span><br/>
             <span class="l">And gladly spies homes cliffs and home she<span class="runover" style="left:4.8em">goes.</span></span><br/>
-            
+            </div>
          </div>
-         
-      </div>
    </div><div class="full"></div><br/><div id="" class="pb"></div>
    <div class="fileName"><span>MS III Third Poetry Anthology Title</span></div><div id="1229171r" class="pb"></div><div class="pageNum-top"><span class="space" style="padding-left:6.4em"> </span>3<div 
           class="subst-del s-subst s-del" >7</div><div 
@@ -225,21 +217,19 @@ EOT
                 4
                 </span>
               </a></span></span>
-      
-   </div><div id="" class="pb"></div>
-   <div class="fileName"><span>&#x201C;Poetry Descriptive&#x201D;</span></div><div id="1229184r" class="pb"></div><div class="pageNum-top"><span class="space" style="padding-left:3.6em"> </span>6<div 
+      </div><div id="" class="pb"></div>
+   <div class="fileName"><span>“Poetry Descriptive”</span></div><div id="1229184r" class="pb"></div><div class="pageNum-top"><span class="space" style="padding-left:3.6em"> </span>6<div 
           class="subst-del s-subst s-del" >1</div><div 
           class="s-subst s-add s-overwrite s-inline">2</div></div><br/><br/>
    <div class="title" id="">
       
       <div class="title"><span class="space" style="padding-left:2.0em"> </span>poetry discriptive</div>
-      
-   </div><br/><div id="" class="pb"></div>
-   <div class="fileName"><span>&#x201C;Ragland Castle&#x201D;</span></div>
+      </div><br/><div id="" class="pb"></div>
+   <div class="fileName"><span>“Ragland Castle”</span></div>
    <div class="witness">
       <div class="poem" id="">
          
-         <div class="title" id="&#x0040;"><span class="space" style="padding-left:3.6em"> </span>ragland castle</div>
+         <div class="title" id="@"><span class="space" style="padding-left:3.6em"> </span>ragland castle</div>
          
          <div class="lg-stanza">
             
@@ -254,7 +244,7 @@ EOT
                 
               </a></span> <span class="smallcaps"><span class="placeName-RAGLAN">ragland</span></span> beauty as you <div 
               class="add-above" 
-              style="left:10.0em"><span class="metamark-unknown">&#x00D7;</span></div>ar<span class="overwriting">e</span><span class="gloss-inline">
+              style="left:10.0em"><span class="metamark-unknown">×</span></div>ar<span class="overwriting">e</span><span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/ragland_castle_glosses_contextual#CROSS" target="_blank" class="inactive">
           
           
@@ -276,7 +266,7 @@ EOT
                 6
                 </span>
               </a></span></span><br/>
-            <span class="l"><span class="space" style="padding-left:0.4em"> </span>your mice&#x2010;house moss and burnt up grass<span class="gloss-inline">
+            <span class="l"><span class="space" style="padding-left:0.4em"> </span>your mice‐house moss and burnt up grass<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/ragland_castle_glosses_contextual#MOSS" target="_blank" class="inactive">
           
           
@@ -311,16 +301,14 @@ EOT
           System generated line number
         </div><a href="#L70" id="L70">70</a></div></span><br/>
             <span class="l"><span class="space" style="padding-left:0.4em"> </span>I must take leave of you</span><br/>
-            
+            </div>
          </div>
-         
-      </div>
    </div><br/><div id="" class="pb"></div>
-   <div class="fileName"><span>&#x201C;Lochleven&#x201D;</span></div>
+   <div class="fileName"><span>“Lochleven”</span></div>
    <div class="witness">
       <div class="poem" id="">
          
-         <div class="title" id="&#x0040;"><span class="space" style="padding-left:2.4em"> </span>lochleven</div>
+         <div class="title" id="@"><span class="space" style="padding-left:2.4em"> </span>lochleven</div>
          
          <div class="lg-stanza">
             <span class="l"><span class="space" style="padding-left:0.4em"> </span><span class="placeName-LOCHLEVENCAS"><b><span class="caps">L</span><span class="smallcaps">ochleven</span></b></span> <b>is your castle there</b><span class="gloss-inline">
@@ -361,12 +349,10 @@ EOT
             <span class="l">as the day</span><br/>
             <span class="l">when we may say</span><br/>
             <span class="l">not a leaf is stirring now</span><br/>
-            
+            </div>
          </div>
-         
-      </div>
    </div><br/><div id="" class="pb"></div>
-   <div class="fileName"><span>&#x201C;Nature&#x201D;</span></div>
+   <div class="fileName"><span>“Nature”</span></div>
    <div class="witness">
       <div class="poem" id="">
          
@@ -381,16 +367,14 @@ EOT
             <span class="l">and the swallow on the eaves</span><br/>
             <span class="l">twittering and the tempests blow</span><br/>
             <span class="l">with the rippling waters flow</span><br/>
-            
+            </div>
          </div>
-         
-      </div>
    </div><div id="" class="pb"></div>
    <div class="fileName"><span>"Spring: Blank Verse"</span></div>
    <div class="witness">
       <div class="poem" id="">
          
-         <div class="title" id="&#x0040;"><span class="space" style="padding-left:1.6em"> </span>spring<span class="space" style="padding-left:2.4em"> </span>blank verse</div>
+         <div class="title" id="@"><span class="space" style="padding-left:1.6em"> </span>spring<span class="space" style="padding-left:2.4em"> </span>blank verse</div>
          
          <div class="lg-stanza">
             <span class="l"><span class="caps">What</span> beauties<span class="gloss-inline">
@@ -456,7 +440,7 @@ EOT
                 16
                 </span>
               </a></span></span><br/>
-            <span class="l">Some dog&#x02BC;s<span class="gloss-inline">
+            <span class="l">Some dogʼs<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/spring_blank_verse_glosses_contextual#LINE15APOSTROPHE" target="_blank" class="inactive">
           
           
@@ -478,7 +462,7 @@ EOT
                <div class="s-line-number s-line-number-auto">
                   <div class="tooltip">
           System generated line number
-        </div><a href="#L105" id="L105">105</a></div><span class="runover" style="left:3.2em">bring&#x02BC;st forth</span></span><br/>
+        </div><a href="#L105" id="L105">105</a></div><span class="runover" style="left:3.2em">bringʼst forth</span></span><br/>
             <div id="1229186v" class="pb"></div>
             <div class="pageNum-top"><span class="space" style="padding-left:3.2em"> </span>65</div><br/> 
             <span class="l">That is more beautiful than all<span class="runover" style="left:3.2em">the others</span></span><br/>
@@ -491,12 +475,10 @@ EOT
                 </span>
               </a></span> O how<span class="runover" style="left:4.0em">sweet</span></span><br/>
             <span class="l">Is that fine tree and so I end</span><br/>
-            
+            </div>
          </div>
-         
-      </div>
    </div><br/><div id="" class="pb"></div>
-   <div class="fileName"><span>&#x201C;Wales&#x201D;</span></div>
+   <div class="fileName"><span>“Wales”</span></div>
    <div class="witness">
       <div class="poem" id="">
          
@@ -544,12 +526,10 @@ EOT
                 </span>
               </a></span> tall they stand</span><br/>
             <span class="l">towering above the whitened land</span><br/>
-            
+            </div>
          </div>
-         
-      </div>
    </div><div class="half"></div><div id="" class="pb"></div>
-   <div class="fileName"><span>&#x201C;The Hill of Kinnoul&#x201D;</span></div>
+   <div class="fileName"><span>“The Hill of Kinnoul”</span></div>
    <div class="witness">
       <div class="poem" id="">
          
@@ -583,16 +563,14 @@ EOT
           System generated line number
         </div><a href="#L130" id="L130">130</a></div><span class="runover" style="left:4.8em">the hills</span></span><br/>
             <span class="l">dwindling into nothing mong<span class="runover" style="left:3.6em"><span class="geogName-GRAMPIANS">the distant mountains</span></span></span><br/>
-            
+            </div>
          </div>
-         
-      </div>
    </div><div id="" class="pb"></div>
-   <div class="fileName"><span>&#x201C;Glen of Glenfarg&#x201D; &#x005B;&#x201C;Glen of Glenfarg thy beauteous rill&#x201D;&#x005D;</span></div>
+   <div class="fileName"><span>“Glen of Glenfarg” [“Glen of Glenfarg thy beauteous rill”]</span></div>
    <div class="witness">
       <div class="poem" id="">
          
-         <div class="title" id="&#x0040;"><span class="space" style="padding-left:2.4em"> </span>glen of glenfarg</div>
+         <div class="title" id="@"><span class="space" style="padding-left:2.4em"> </span>glen of glenfarg</div>
          
          <div class="lg-stanza">
             <span class="l"><span class="space" style="padding-left:1.2em"> </span><span class="caps">GL</span><span class="smallcaps">en</span> of <span class="geogName-GLENFARG">glenfarg</span> thy beaut<div 
@@ -600,7 +578,7 @@ EOT
           class="s-subst s-add s-overwrite s-inline">eo</div><div 
           class="s-subst s-add s-inline">us</div><div 
               class="add-above" 
-              style="left:12.0em"><span class="g-runover">&#x005B;</span>rill</div></span><br/>
+              style="left:12.0em"><span class="g-runover">[</span>rill</div></span><br/>
             <span class="l"><span class="space" style="padding-left:1.2em"> </span>Streaming through thy <span class="geogName-OCHILS">mountains</span><span class="runover" style="left:6.0em">high</span></span><br/>
             <span class="l"><span class="space" style="padding-left:1.2em"> </span>onward pressing onward still</span><br/>
             <span class="l"><span class="space" style="padding-left:1.2em"> </span>hardly seeing the blue sky
@@ -608,8 +586,7 @@ EOT
                   <div class="tooltip">
           System generated line number
         </div><a href="#L135" id="L135">135</a></div></span><br/>
-            
-         </div>
+            </div>
          <div class="quarter"></div>
          
          <div class="lg-stanza">
@@ -617,8 +594,7 @@ EOT
             <span class="l"><span class="space" style="padding-left:1.2em"> </span>and run into the stream<span class="runover" style="left:10.4em">below</span></span><br/>
             <span class="l"><span class="space" style="padding-left:1.2em"> </span>never stop like idle clay</span><br/>
             <span class="l"><span class="space" style="padding-left:1.2em"> </span>hear the sheep and cattle low</span><br/>
-            
-         </div>
+            </div>
          <div class="quarter"></div>
          <div id="1229187r" class="pb"></div>
          <div class="pageNum-top"><span class="space" style="padding-left:2.8em"> </span>67</div><br/>
@@ -632,8 +608,7 @@ EOT
             <span class="l">bear the rushing torrent still</span><br/>
             <span class="l">thou shalt never never die</span><br/>
             <span class="l">submit unto the almightys will</span><br/>
-            
-         </div>
+            </div>
          <div class="quarter"></div>
          
          <div class="lg-stanza">
@@ -644,8 +619,7 @@ EOT
         </div><a href="#L145" id="L145">145</a></div></span><br/>
             <span class="l">never be a heavy mass</span><br/>
             <span class="l">like a stone thats in the rills</span><br/>
-            
-         </div>
+            </div>
          <div class="quarter"></div>
          
          <div class="lg-stanza">
@@ -657,14 +631,13 @@ EOT
           System generated line number
         </div><a href="#L150" id="L150">150</a></div></span><br/>
             <span class="l">and always on the grass be out</span><br/>
-            
-         </div>
+            </div>
          <div class="quarter"></div>
          
          <div class="lg-stanza">
             <span class="l">Cottages upon the <span class="geogName-GLENFARG">plain</span></span><br/>
             <span class="l">placed so near the floury mills</span><br/>
-            <span class="l">cottager look on <span class="name--CHARLESSWAIN">charles&#x02BC;s wain</span><span class="gloss-inline">
+            <span class="l">cottager look on <span class="name--CHARLESSWAIN">charlesʼs wain</span><span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/glen_of_glenfarg_glosses_contextual#CHARLESSWAINGLOSS" target="_blank" class="inactive">
           
           
@@ -677,8 +650,7 @@ EOT
                   <div class="tooltip">
           System generated line number
         </div><a href="#L155" id="L155">155</a></div></span><br/>
-            
-         </div>
+            </div>
          <div class="quarter"></div>
          <span class="space" style="padding-left:2.0em"> </span><span class="note-gloss-MR"><span class="date-1826-09">Sep<sup>t</sup>. 1826</span><span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/glen_of_glenfarg_glosses_contextual#SEPTEMBER1826GLOSS" target="_blank" class="inactive">
@@ -696,16 +668,14 @@ EOT
             <span class="l">when in dark nights thou art</span><br/>
             <span class="l">therefore look up at the starry<span class="runover" style="left:10.4em">day</span></span><br/>
             <span class="l">look at the stars about thee<span class="runover" style="left:10.4em">tost</span></span><br/>
-            
+            </div>
          </div>
-         
-      </div>
    </div><div id="" class="pb"></div>
-   <div class="fileName"><span>&#x201C;The Sea&#x201D;</span></div>
+   <div class="fileName"><span>“The Sea”</span></div>
    <div class="witness">
       <div class="poem" id="">
          
-         <div class="title" id="&#x0040;"><span class="space" style="padding-left:2.8em"> </span>The sea</div>
+         <div class="title" id="@"><span class="space" style="padding-left:2.8em"> </span>The sea</div>
          
          <div class="lg-stanza">
             <span class="l"><span class="caps">F</span><span class="smallcaps">low</span> on thou calm sea bear the ships to their
@@ -738,7 +708,7 @@ EOT
             <span class="l">do not throw them on rocks do not send them on<span class="runover" style="left:18.4em">high</span></span><br/>
             <span class="l">or make them upon the high precipice lie</span><br/>
             <span class="l">no profit to thee doth this havoc produce</span><br/>
-            <span class="l">while to men this great treasure&#x02BC;s of
+            <span class="l">while to men this great treasureʼs of
                <div class="s-line-number s-line-number-auto">
                   <div class="tooltip">
           System generated line number
@@ -754,12 +724,10 @@ EOT
                 </span>
                 
               </a></span></span></span><br/>
-            
+            </div>
          </div>
-         
-      </div>
    </div><div id="" class="pb"></div>
-   <div class="fileName"><span>&#x201C;The Storm&#x201D; &#x005B;Version A&#x005D;</span></div>
+   <div class="fileName"><span>“The Storm” [Version A]</span></div>
    <div class="witness">
       <div class="poem" id="">
          <div id="1229188r" class="pb"></div>
@@ -797,12 +765,10 @@ EOT
                 </span>
                 
               </a></span></span><br/>
-            
+            </div>
          </div>
-         
-      </div>
    </div><div class="half"></div><div id="" class="pb"></div>
-   <div class="fileName"><span>&#x201C;The Storm&#x201D; &#x005B;Version B&#x005D;</span></div>
+   <div class="fileName"><span>“The Storm” [Version B]</span></div>
    <div class="witness">
       <div class="poem" id="">
          
@@ -835,9 +801,6 @@ EOT
           System generated line number
         </div><a href="#L190" id="L190">190</a></div><span class="runover" style="left:3.2em">doth consist</span></span><br/>
             <span class="l">And so in beginning another<span class="runover" style="left:3.6em">line I end</span></span><br/>
-            
+            </div>
          </div>
-         
-      </div>
-   </div><br/><div id="" class="pb"></div>
-</div><?php require_once(ROOT_PATH."layout_includes/showcase_bottom.inc.php"); ?>
+   </div><br/><div id="" class="pb"></div></div><?php require_once(ROOT_PATH."layout_includes/showcase_bottom.inc.php"); ?>

@@ -24,11 +24,9 @@ msix/MSIX37v-38r.jpg msix/MSIX40v-41r.jpg
 EOT
 );
       ?>
-    <?php require_once(ROOT_PATH."layout_includes/showcase_top.inc.php"); ?><div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-left"><img id="facs_preview" src="" width="100&#x0025;"><img id="facs" src="" width="100&#x0025;" style="display:none"></div>
-<div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-splitter"></div>
-<div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-right">
+    <?php require_once(ROOT_PATH."layout_includes/showcase_top.inc.php"); ?><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-left"><img id="facs_preview" src="" width="100%"><img id="facs" src="" width="100%" style="display:none"></div><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-splitter"></div><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-right">
    <div class="backToApparatusLink"><a href="/apparatuses/apparatuses/account_of_a_tour_on_the_continent_apparatus#account_of_a_tour_on_the_continent_msix" target="_self"></a><br/></div>
-   <div class="fileName"><span>&#x201C;Ehrenbreitstein&#x201D; &#x005B;poem&#x005D;</span></div>
+   <div class="fileName"><span>“Ehrenbreitstein” [poem]</span></div>
    <div class="witness">
       <div class="poem" id="">
          <div id="MSIX38r" class="pb"></div>
@@ -238,7 +236,7 @@ EOT
         </div><a href="#L90" id="L90">90</a></div></span><br/>
             <span class="l">The long straight trunks are bald and bare.</span><br/>
             <span class="l">The peasant on some <span class="geogName-ALPS">Alpine</span> brow,</span><br/>
-            <span class="l">Hath cut the root and lop&#x02BC;t the bough,</span><br/>
+            <span class="l">Hath cut the root and lopʼt the bough,</span><br/>
             <div id="MSIX40v" class="pb"></div>
             <span class="l">The eagle heard the echoing fall,</span><br/>
             <span class="l">And soared away to his high eyrie,
@@ -274,7 +272,7 @@ EOT
             <span class="l">Toward the ocean rapidly,</span><br/>
             <span class="l">There firmly bound by builders care,</span><br/>
             <span class="l">The rage of wave and wind to dare,</span><br/>
-            <span class="l">Or burst of battle&#x2010;shock to bear.<span class="gloss-inline">
+            <span class="l">Or burst of battle‐shock to bear.<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/ehrenbreitstein_poem_glosses_textual#EHRENBREITSTEINPAUSEPERIODGLOSS" target="_blank" class="inactive">
           
           
@@ -289,9 +287,6 @@ EOT
                   <div class="tooltip">
           System generated line number
         </div><a href="#L110" id="L110">110</a></div></span><br/>
-            
+            </div>
          </div>
-         
-      </div>
-   </div><div id="" class="pb"></div>
-</div><?php require_once(ROOT_PATH."layout_includes/showcase_bottom.inc.php"); ?>
+   </div><div id="" class="pb"></div></div><?php require_once(ROOT_PATH."layout_includes/showcase_bottom.inc.php"); ?>

@@ -24,20 +24,17 @@ define("FACS_FILE_NAMES", <<<EOT
 EOT
 );
       ?>
-    <?php require_once(ROOT_PATH."layout_includes/showcase_top.inc.php"); ?><div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-left"><img id="facs_preview" src="" width="100&#x0025;"><img id="facs" src="" width="100&#x0025;" style="display:none"></div>
-<div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-splitter"></div>
-<div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-right">
+    <?php require_once(ROOT_PATH."layout_includes/showcase_top.inc.php"); ?><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-left"><img id="facs_preview" src="" width="100%"><img id="facs" src="" width="100%" style="display:none"></div><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-splitter"></div><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-right">
    <div class="backToApparatusLink"><a href="/apparatuses/apparatuses/account_of_a_tour_on_the_continent_apparatus#account_of_a_tour_on_the_continent_le" target="_self"></a><br/></div>
-   <div class="fileName"><span>"Oh, the morn looked bright on hill and dale" &#x005B;"The Black Forest"&#x005D; &#x005B;poem&#x005D;</span></div>
+   <div class="fileName"><span>"Oh, the morn looked bright on hill and dale" ["The Black Forest"] [poem]</span></div>
    <div class="witness">
       <div class="poem" id="">
          
-         <h1 class="page-title">&#x005B;<span class="caps">THE BLACK FOREST</span>&#x005D;
-         </h1>
+         <h1 class="page-title">[<span class="caps">THE BLACK FOREST</span>]</h1>
          
          <div class="lg-stanza">
             <span class="l">O<span class="smallcaps">H</span>! the morn looked bright on hill and dale,</span><br/>
-            <span class="l">As we left the walls of merry &#x005B;<span class="placeName-KEHL">Kehl</span>&#x005D;,<span class="gloss-inline">
+            <span class="l">As we left the walls of merry [<span class="placeName-KEHL">Kehl</span>],<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/oh_the_morn_looked_bright_on_hill_and_dale_poem_glosses_contextual#DAYLE" target="_blank" class="inactive">
           
           
@@ -45,8 +42,8 @@ EOT
                 1
                 </span>
               </a></span></span><br/>
-            <span class="l">And tow&#x02BC;rds the long hill&#x2010;ridges wound</span><br/>
-            <span class="l">That ramparted the plain around,&#x2014;</span><br/>
+            <span class="l">And towʼrds the long hill‐ridges wound</span><br/>
+            <span class="l">That ramparted the plain around,—</span><br/>
             <span class="l">That, greener growing as we neared,
                <div class="s-line-number s-line-number-auto">
                   <div class="tooltip">
@@ -70,14 +67,14 @@ EOT
         </div><a href="#L10" id="L10">10</a></div></span><br/>
             <span class="l">Grassy, and woody, and most sweet</span><br/>
             <span class="l">As ever fairy her retreat</span><br/>
-            <span class="l">Formed for her midnight dances. Through&#x2014;</span><br/>
+            <span class="l">Formed for her midnight dances. Through—</span><br/>
             <span class="l">Tracing, in mazy winds anew,</span><br/>
-            <span class="l">The spots it had passed o&#x02BC;er, as fain
+            <span class="l">The spots it had passed oʼer, as fain
                <div class="s-line-number s-line-number-auto">
                   <div class="tooltip">
           System generated line number
         </div><a href="#L15" id="L15">15</a></div></span><br/>
-            <span class="l">To run its sweet course o&#x02BC;er again,&#x2014;</span><br/>
+            <span class="l">To run its sweet course oʼer again,—</span><br/>
             <span class="l">Flowed a small tributary stream</span><br/>
             <span class="l">That the <span class="geogName-RHINE">Rhine</span> levied.<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/oh_the_morn_looked_bright_on_hill_and_dale_poem_glosses_contextual#KINZIGRIVER" target="_blank" class="inactive">
@@ -113,7 +110,7 @@ EOT
         </div><a href="#L25" id="L25">25</a></div></span><br/>
             <span class="l">And their song was all of liberty.</span><br/>
             <span class="l">But the dell narrowed as we went;</span><br/>
-            <span class="l">Till, &#x02BC;twixt the promontories pent</span><br/>
+            <span class="l">Till, ʼtwixt the promontories pent</span><br/>
             <div id="" class="pb"></div>
             <span class="l">It upward ran; and the clear stream</span><br/>
             <span class="l">Now forward shot, its banks between,
@@ -147,9 +144,6 @@ EOT
                 </span>
                 
               </a></span></span><br/>
-            
+            </div>
          </div>
-         
-      </div>
-   </div><div id="" class="pb"></div>
-</div><?php require_once(ROOT_PATH."layout_includes/showcase_bottom.inc.php"); ?>
+   </div><div id="" class="pb"></div></div><?php require_once(ROOT_PATH."layout_includes/showcase_bottom.inc.php"); ?>

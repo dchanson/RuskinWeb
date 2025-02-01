@@ -24,33 +24,27 @@ msviii/MSVIIIback_flyleafv-back_flyleafr.jpg
 EOT
 );
       ?>
-    <?php require_once(ROOT_PATH."layout_includes/showcase_top.inc.php"); ?><div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-left"><img id="facs_preview" src="" width="100&#x0025;"><img id="facs" src="" width="100&#x0025;" style="display:none"></div>
-<div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-splitter"></div>
-<div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-right">
+    <?php require_once(ROOT_PATH."layout_includes/showcase_top.inc.php"); ?><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-left"><img id="facs_preview" src="" width="100%"><img id="facs" src="" width="100%" style="display:none"></div><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-splitter"></div><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-right">
    <div class="backToApparatusLink"><a href="/apparatuses/apparatuses/account_of_a_tour_on_the_continent_apparatus#account_of_a_tour_on_the_continent_msviii" target="_self">Back to apparatus</a><br/></div>
    <div class="fileName"><span>Plan for Continuation of the Account of a Tour on the Continent</span></div>
    <div class="witness">
       <div class="bibliography_text" id="account_of_a_tour_on_the_continent_toc_msviii_main">
          
-         <h1 class="page-title">Lists of Proposed Additional Contents for the &#x201C;Account&#x201D;</h1>
+         <h1 class="page-title">Lists of Proposed Additional Contents for the “Account”</h1>
          
          <div class="tablespace" id="account_toc_msviii_addictional_sections_table">
-            <span class="head-section">Table 1. List of Proposed Additional Sections and/or Works<br/>(See <a href="/apparatuses/account_of_a_tour_on_the_continent_apparatus#PROPOSEDCONTENTS" target="_self">&#x201C;Account&#x201D; Apparatus: The Plan for Completion of the Work</a>.)</span>
+            <span class="head-section">Table 1. List of Proposed Additional Sections and/or Works<br/>(See <a href="/apparatuses/account_of_a_tour_on_the_continent_apparatus#PROPOSEDCONTENTS" target="_self">“Account” Apparatus: The Plan for Completion of the Work</a>.)</span>
             
             <table>
                
                <tr class="label">
                   
-                  <td>1.<i>a</i>. Meta&#x2010;textual Mark
-                  </td>
+                  <td>1.<i>a</i>. Meta‐textual Mark</td>
                   
-                  <td>1.<i>b</i>. Ruskin&#x02BC;s Numbering (Sequence of Sections and/or Works)
-                  </td>
+                  <td>1.<i>b</i>. Ruskinʼs Numbering (Sequence of Sections and/or Works)</td>
                   
-                  <td>1.<i>c</i>. Title of Section or Work
-                  </td>
-                  
-               </tr>
+                  <td>1.<i>c</i>. Title of Section or Work</td>
+                  </tr>
                
                <tr class="data">
                   
@@ -59,8 +53,7 @@ EOT
                   <td>1</td>
                   
                   <td><span class="title-composite-JRANDERNACHTCOMP"><span class="placeName-ANDERNACH">Andernacht</span></span></td>
-                  
-               </tr>
+                  </tr>
                <tr 
           class="data"
           id="ACCOUNTTOCEHRENBREITSTEIN">
@@ -69,8 +62,7 @@ EOT
                
                <td>2</td>
                
-               <td><span class="title-composite-JREHRENBREITSTEINCOMP"><span class="geogName-EHRENBREISTEIN">Ehrenbreistein</span></span> (see also <a href="#ACCOUNTTOCCOBLENTZILLUS">Table 2 &#x005B;<span class="title-composite-JREHRENBREITSTEINCOMP"><span class="placeName-COBLENZ">Coblentz</span></span>&#x005D;</a>)
-               </td>
+               <td><span class="title-composite-JREHRENBREITSTEINCOMP"><span class="geogName-EHRENBREISTEIN">Ehrenbreistein</span></span> (see also <a href="#ACCOUNTTOCCOBLENTZILLUS">Table 2 [<span class="title-composite-JREHRENBREITSTEINCOMP"><span class="placeName-COBLENZ">Coblentz</span></span>]</a>)</td>
                </tr>
                <tr 
           class="data"
@@ -80,8 +72,7 @@ EOT
                
                <td>3</td>
                
-               <td><span class="title-composite-JRSTGOARCOMP"><span class="placeName-STGOAR">St Goar</span></span> (see also <a href="#ACCOUNTTOCSTGOARILLUS">Table 2</a>)
-               </td>
+               <td><span class="title-composite-JRSTGOARCOMP"><span class="placeName-STGOAR">St Goar</span></span> (see also <a href="#ACCOUNTTOCSTGOARILLUS">Table 2</a>)</td>
                </tr>
                <tr 
           class="data"
@@ -108,8 +99,7 @@ EOT
                
                <td>5</td>
                
-               <td><span class="title-composite-JRHEIDELBERGCOMP"><span class="placeName-HEIDELBERG">Heidelberg</span></span> (see also <a href="#ACCOUNTTOCHEIDELBERGILLUS">Table 2</a>)
-               </td>
+               <td><span class="title-composite-JRHEIDELBERGCOMP"><span class="placeName-HEIDELBERG">Heidelberg</span></span> (see also <a href="#ACCOUNTTOCHEIDELBERGILLUS">Table 2</a>)</td>
                </tr>
                <tr 
           class="data"
@@ -126,8 +116,7 @@ EOT
                 <span class="gloss-contextual">
                 2
                 </span>
-              </a></span> (see also <a href="#ACCOUNTTOCSTRASBURGILLUS">Table 2</a>)
-               </td>
+              </a></span> (see also <a href="#ACCOUNTTOCSTRASBURGILLUS">Table 2</a>)</td>
                </tr>
                <tr 
           class="data"
@@ -147,8 +136,7 @@ EOT
                
                <td>8</td>
                
-               <td><span class="title-composite-JRSCHAFFHAUSENCOMP"><span class="placeName-SCHAFFHAUSEN">Schaffhausen</span></span> (see also <a href="#ACCOUNTTOCSCHAFFHAUSENILLUS">Table 2</a>)
-               </td>
+               <td><span class="title-composite-JRSCHAFFHAUSENCOMP"><span class="placeName-SCHAFFHAUSEN">Schaffhausen</span></span> (see also <a href="#ACCOUNTTOCSCHAFFHAUSENILLUS">Table 2</a>)</td>
                </tr>
                <tr 
           class="data"
@@ -158,8 +146,7 @@ EOT
                
                <td>9</td>
                
-               <td><span class="title-composite-JRTHEALPSCOMP"><span class="geogName-ALPS">The Alps</span></span> (see also <a href="#ACCOUNTTOCTHEALPSILLUS">Table 2</a>)
-               </td>
+               <td><span class="title-composite-JRTHEALPSCOMP"><span class="geogName-ALPS">The Alps</span></span> (see also <a href="#ACCOUNTTOCTHEALPSILLUS">Table 2</a>)</td>
                </tr>
                <tr 
           class="data"
@@ -172,8 +159,7 @@ EOT
                <td>
                   <span class="title-composite-JRTHEFALLOFTHERHINECOMP"><span class="geogName-RHINEFALLS">The fall of the Rhine</span></span>
                          (see also <a href="#ACCOUNTTOCFALLOFTHERHINEILLUS">Table 2</a>)
-                         
-               </td>
+                         </td>
                </tr>
                <tr 
           class="data"
@@ -196,8 +182,7 @@ EOT
                 </span>
               </a></span>
                             (see also <a href="#ACCOUNTTOCCONSTANCEILLUS">Table 2</a>)
-                         
-               </td>
+                         </td>
                </tr>
                <tr 
           class="data"
@@ -220,8 +205,7 @@ EOT
                 </span>
               </a></span>
                            (see also <a href="#ACCOUNTTOCWERDENBERGILLUS">Table 2</a>)
-                         
-               </td>
+                         </td>
                </tr>
                <tr 
           class="data"
@@ -244,8 +228,7 @@ EOT
                 </span>
               </a></span>
                             (see also <a href="#ACCOUNTTOCPFAFFERSILLUS">Table 2</a>)
-                         
-               </td>
+                         </td>
                </tr>
                <tr 
           class="data"
@@ -258,8 +241,7 @@ EOT
                <td>
                   <span class="title-composite-JRPASSINGTHEALPSCOMP">Passing the <span class="geogName-ALPS">Alps</span></span>
                            (see also <a href="#ACCOUNTTOCPASSINGTHEALPSILLUS">Table 2</a>)
-                         
-               </td>
+                         </td>
                </tr>
                <tr 
           class="data"
@@ -274,8 +256,7 @@ EOT
                      <span class="geogName-VIAMALA">The via mala</span>
                      </span>
                            (see also <a href="#ACCOUNTTOCVIAMALAILLUS">Table 2</a>)
-                         
-               </td>
+                         </td>
                </tr>
                <tr 
           class="data"
@@ -290,8 +271,7 @@ EOT
                      <span class="placeName-SPLUGEN">Splugen</span>
                      </span>
                            (see also <a href="#ACCOUNTTOCSPLUGENILLUS">Table 2</a>)
-                         
-               </td>
+                         </td>
                </tr>
                <tr 
           class="data"
@@ -299,16 +279,14 @@ EOT
                
                <td>
                   <span class="metamark-insertion">\</span>
-                  
-               </td>
+                  </td>
                
                <td></td>
                
                <td>
                   <span class="title-composite-JRTHESUMMITCOMP">The Summit</span>
                            (see also <a href="#ACCOUNTTOCTHESUMMITILLUS">Table 2</a>)
-                         
-               </td>
+                         </td>
                </tr>
                <tr 
           class="data"
@@ -321,8 +299,7 @@ EOT
                <td>
                   <span class="title-composite-JRTHEDESCENTCOMP">The descent</span>
                            (see also <a href="#ACCOUNTTOCTHEDESCENTILLUS">Table 2</a>)
-                         
-               </td>
+                         </td>
                </tr>
                <tr 
           class="data"
@@ -336,8 +313,7 @@ EOT
                   <span class="title-composite-JRITALIACOMP">
                      <span class="placeName-ITALY">Italia, Italia</span>
                      </span>
-                  
-               </td>
+                  </td>
                </tr>
                <tr 
           class="data"
@@ -352,8 +328,7 @@ EOT
                      <span class="geogName-LAKECOMO">Lago di Como</span>
                      </span>
                            (see also <a href="#ACCOUNTTOCLAGODICOMOILLUS">Table 2</a>)
-                         
-               </td>
+                         </td>
                </tr>
                <tr 
           class="data"
@@ -368,8 +343,7 @@ EOT
                      <span class="placeName-CADENABBIA">Cadenabbia</span>
                      </span>
                            (see also <a href="#ACCOUNTTOCCADENABBIAILLUS">Table 2</a>)
-                         
-               </td>
+                         </td>
                </tr>
                <tr 
           class="data"
@@ -384,8 +358,7 @@ EOT
                      <span class="placeName-VILLAPLINIANA">Villa pliniana</span>
                      </span>
                            (see also <a href="#ACCOUNTTOCVILLAPLINIANAILLUS">Table 2</a>)
-                         
-               </td>
+                         </td>
                </tr>
                <tr 
           class="data"
@@ -400,8 +373,7 @@ EOT
                      <span class="placeName-MILAN">Milan</span>
                      </span>
                            (see also <a href="#ACCOUNTTOCMILANILLUS">Table 2</a>)
-                         
-               </td>
+                         </td>
                </tr>
                <tr 
           class="data"
@@ -416,8 +388,7 @@ EOT
                      <span class="placeName-building-DUOMOMILAN">The duomo of Milan</span>
                      </span>
                            (see also <a href="#ACCOUNTTOCDUOMOILLUS">Table 2</a>)
-                         
-               </td>
+                         </td>
                </tr>
                <tr 
           class="data"
@@ -440,8 +411,7 @@ EOT
                 </span>
               </a></span>
                             (see also <a href="#ACCOUNTTOCCORSOILLUS">Table 2</a>)
-                         
-               </td>
+                         </td>
                </tr>
                <tr 
           class="data"
@@ -464,8 +434,7 @@ EOT
                 </span>
               </a></span>
                             (see also <a href="#ACCOUNTTOCCERTOSAILLUS">Table 2</a>)
-                         
-               </td>
+                         </td>
                </tr>
                <tr 
           class="data"
@@ -488,8 +457,7 @@ EOT
                 </span>
               </a></span>
                             (see also <a href="#ACCOUNTTOCAPPENINESILLUS">Table 2</a>)
-                         
-               </td>
+                         </td>
                </tr>
                <tr 
           class="data"
@@ -504,8 +472,7 @@ EOT
                      <span class="placeName-GENOA">Genoa</span>
                      </span>
                            (see also <a href="#ACCOUNTTOCGENOAILLUS">Table 2</a>)
-                         
-               </td>
+                         </td>
                </tr>
                <tr 
           class="data"
@@ -545,8 +512,7 @@ EOT
                 </span>
               </a></span>
                             (see also <a href="#ACCOUNTTOCMARENGOILLUS">Table 2</a>)
-                         
-               </td>
+                         </td>
                </tr>
                <tr 
           class="data"
@@ -569,8 +535,7 @@ EOT
                 </span>
               </a></span>
                             (see also <a href="#ACCOUNTTOCTURINILLUS">Table 2</a>)
-                         
-               </td>
+                         </td>
                </tr>
                <tr 
           class="data"
@@ -589,8 +554,7 @@ EOT
                 </span>
               </a></span>
                              (see also <a href="#ACCOUNTTOCNOVARAILLUS">Table 2</a>)
-                           
-               </td>
+                           </td>
                </tr>
                <tr 
           class="data"
@@ -605,8 +569,7 @@ EOT
                      <span class="geogName-LAKEMAGGIORE">Maggiore</span>
                      </span>
                            (see also <a href="#ACCOUNTTOCMAGGIOREILLUS">Table 2</a>)
-                         
-               </td>
+                         </td>
                </tr>
                <tr 
           class="data"
@@ -629,8 +592,7 @@ EOT
                 </span>
               </a></span>
                             (see also <a href="#ACCOUNTTOCMADONNADELMONTEILLUS">Table 2</a>)
-                         
-               </td>
+                         </td>
                </tr>
                <tr 
           class="data"
@@ -642,7 +604,7 @@ EOT
                
                <td>
                   <span class="title-composite-JRDOMODOSSOLACOMP">
-                     <span class="placeName-DOMODOSSOLA">Domo d&#x02BC;Ossola</span>
+                     <span class="placeName-DOMODOSSOLA">Domo dʼOssola</span>
                      </span>
                   <span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/account_of_a_tour_on_the_continent_toc_glosses_contextual#DOMODOSSOLAGLOSS" target="_blank" class="inactive">
@@ -652,8 +614,7 @@ EOT
                 14
                 </span>
               </a></span> (see also <a href="#ACCOUNTTOCDOMODOSSOLAILLUS">Table 2</a>)
-                         
-               </td>
+                         </td>
                </tr>
                <tr 
           class="data"
@@ -672,8 +633,7 @@ EOT
                 15
                 </span>
               </a></span> (see also <a href="#ACCOUNTTOCFAREWELLTOITALYILLUS">Table 2</a>)
-                         
-               </td>
+                         </td>
                </tr>
                <tr 
           class="data"
@@ -693,8 +653,7 @@ EOT
                 </span>
               </a></span>
                            (see also <a href="#ACCOUNTTOCTHEGLACIERSILLUS">Table 2</a>)
-                         
-               </td>
+                         </td>
                </tr>
                <tr 
           class="data"
@@ -716,8 +675,7 @@ EOT
                 </span>
               </a></span>
                            (see also <a href="#ACCOUNTTOCBRIEGILLUS">Table 2</a>)
-                         
-               </td>
+                         </td>
                </tr>
                <tr 
           class="data"
@@ -740,8 +698,7 @@ EOT
                 </span>
               </a></span>
                             (see also <a href="#ACCOUNTTOCTOURTMANILLUS">Table 2</a>)
-                         
-               </td>
+                         </td>
                </tr>
                <tr 
           class="data"
@@ -763,8 +720,7 @@ EOT
               </a></span>
                      </span>
                            (see also <a href="#ACCOUNTTOCMARTIGNYILLUS">Table 2</a>)
-                         
-               </td>
+                         </td>
                </tr>
                <tr 
           class="data"
@@ -784,8 +740,7 @@ EOT
                 </span>
               </a></span>
                            (see also <a href="#ACCOUNTTOCTHEASCENTILLUS">Table 2</a>)
-                         
-               </td>
+                         </td>
                </tr>
                <tr 
           class="data"
@@ -800,8 +755,7 @@ EOT
                      <span class="geogName-STBERNARD">The Grand st Bernard</span>
                      </span>
                            (see also <a href="#ACCOUNTTOCSTBERNARDILLUS">Table 2</a>)
-                         
-               </td>
+                         </td>
                </tr>
                <tr 
           class="data"
@@ -824,8 +778,7 @@ EOT
                 </span>
               </a></span>
                             (see also <a href="#ACCOUNTTOCSAINTMAURICEILLUS">Table 2</a>)
-                         
-               </td>
+                         </td>
                </tr>
                <tr 
           class="data"
@@ -840,8 +793,7 @@ EOT
                      <span class="geogName-LAKEGENEVA">The lake of Geneva</span>
                      </span>
                            (see also <a href="#ACCOUNTTOCLAKEOFGENEVAILLUS">Table 2</a>)
-                         
-               </td>
+                         </td>
                </tr>
                <tr 
           class="data"
@@ -856,8 +808,7 @@ EOT
                      <span class="placeName-building-CHILLONCASTLE">Chillon</span>
                      </span>
                            (see also <a href="#ACCOUNTTOCCHILLONILLUS">Table 2</a>)
-                         
-               </td>
+                         </td>
                </tr>
                <tr 
           class="data"
@@ -872,8 +823,7 @@ EOT
                      <span class="placeName-LAUSANNE">Lausanne</span>
                      </span>
                            (see also <a href="#ACCOUNTTOCLAUSANNEILLUS">Table 2</a>)
-                         
-               </td>
+                         </td>
                </tr>
                <tr 
           class="data"
@@ -888,8 +838,7 @@ EOT
                      <span class="placeName-FRIBOURG">Fribourg</span>
                      </span>
                            (see also <a href="#ACCOUNTTOCFRIBOURGILLUS">Table 2</a>)
-                         
-               </td>
+                         </td>
                </tr>
                <tr 
           class="data"
@@ -904,8 +853,7 @@ EOT
                      <span class="geogName-BERNE">Berne</span>
                      </span>
                            (see also <a href="#ACCOUNTTOCBERNEILLUS">Table 2</a>)
-                         
-               </td>
+                         </td>
                </tr>
                <tr 
           class="data"
@@ -920,8 +868,7 @@ EOT
                      <span class="placeName-THUN">Thun</span>
                      </span>
                            (see also <a href="#ACCOUNTTOCTHUNILLUS">Table 2</a>)
-                         
-               </td>
+                         </td>
                </tr>
                <tr 
           class="data"
@@ -936,8 +883,7 @@ EOT
                      <span class="placeName-INTERLAKEN">Interlaken</span>
                      </span>
                            (see also <a href="#ACCOUNTTOCINTERLAKENILLUS">Table 2</a>)
-                         
-               </td>
+                         </td>
                </tr>
                <tr 
           class="data"
@@ -952,8 +898,7 @@ EOT
                      <span class="geogName-JUNGFRAU">The Jungfrau</span>
                      </span>
                            (see also <a href="#ACCOUNTTOCJUNGFRAUILLUS">Table 2</a>)
-                         
-               </td>
+                         </td>
                </tr>
                <tr 
           class="data"
@@ -968,8 +913,7 @@ EOT
                      <span class="geogName-GIESSBACHFALLS">The Giesbach</span>
                      </span>
                            (see also <a href="#ACCOUNTTOCGIESBACHILLUS">Table 2</a>)
-                         
-               </td>
+                         </td>
                </tr>
                <tr 
           class="data"
@@ -984,8 +928,7 @@ EOT
                      <span class="placeName-LUCERNE">Lucerne</span>
                      </span>
                            (see also <a href="#ACCOUNTTOCLUCERNEILLUS">Table 2</a>)
-                         
-               </td>
+                         </td>
                </tr>
                <tr 
           class="data"
@@ -1008,8 +951,7 @@ EOT
                 </span>
               </a></span>
                             (see also <a href="#ACCOUNTTOCAARTILLUS">Table 2</a>)
-                         
-               </td>
+                         </td>
                </tr>
                <tr 
           class="data"
@@ -1024,8 +966,7 @@ EOT
                      <span class="geogName-">Rigi</span>
                      </span>
                            (see also <a href="#ACCOUNTTOCRIGIILLUS">Table 2</a>)
-                         
-               </td>
+                         </td>
                </tr>
                <tr 
           class="data"
@@ -1040,8 +981,7 @@ EOT
                      <span class="placeName-GOLDAU">Goldau</span>
                      </span>
                            (see also <a href="#ACCOUNTTOCGOLDAUILLUS">Table 2</a>)
-                         
-               </td>
+                         </td>
                </tr>
                <tr 
           class="data"
@@ -1056,8 +996,7 @@ EOT
                      <span class="placeName-SCHWYZ">Schwytz</span>
                      </span>
                            (see also <a href="#ACCOUNTTOCSCHWYTZILLUS">Table 2</a>)
-                         
-               </td>
+                         </td>
                </tr>
                <tr 
           class="data"
@@ -1072,8 +1011,7 @@ EOT
                      <span class="placeName-">Einsideln</span>
                      </span>
                            (see also <a href="#ACCOUNTTOCEINSIDELNILLUS">Table 2</a>)
-                         
-               </td>
+                         </td>
                </tr>
                <tr 
           class="data"
@@ -1088,8 +1026,7 @@ EOT
                      <span class="geogName-LAKEZURICH">The lake of Zurich</span>
                      </span>
                            (see also <a href="#ACCOUNTTOCLAKEOFZURICHILLUS">Table 2</a>)
-                         
-               </td>
+                         </td>
                </tr>
                <tr 
           class="data"
@@ -1104,8 +1041,7 @@ EOT
                      <span class="placeName-BASLE">Basle</span>
                      </span>
                            (see also <a href="#ACCOUNTTOCBASLEILLUS">Table 2</a>)
-                         
-               </td>
+                         </td>
                </tr>
                <tr 
           class="data"
@@ -1120,8 +1056,7 @@ EOT
                      <span class="geogName-RHINE">The Rhine</span>
                      </span>
                            (see also <a href="#ACCOUNTTOCTHERHINEILLUS">Table 2</a>)
-                         
-               </td>
+                         </td>
                </tr>
                <tr 
           class="data"
@@ -1136,8 +1071,7 @@ EOT
                      <span class="placeName-BALSTHAL">Balstall</span>
                      </span>
                            (see also <a href="#ACCOUNTTOCBALSTALLILLUS">Table 2</a>)
-                         
-               </td>
+                         </td>
                </tr>
                <tr 
           class="data"
@@ -1153,8 +1087,7 @@ EOT
                         <span class="placeName-SOLEURE">Soleure</span>
                         </span>
                      </span>
-                  
-               </td>
+                  </td>
                </tr>
                <tr 
           class="data"
@@ -1169,8 +1102,7 @@ EOT
                      <span class="placeName-NEUFCHATEL">Neufchatel</span>
                      </span>
                            (see also <a href="#ACCOUNTTOCNEUFCHATELILLUS">Table 2</a>)
-                         
-               </td>
+                         </td>
                </tr>
                <tr 
           class="data"
@@ -1185,8 +1117,7 @@ EOT
                      <span class="placeName-GENEVA">Geneva</span>
                      </span>
                            (see also <a href="#ACCOUNTTOCGENEVAILLUS">Table 2</a>)
-                         
-               </td>
+                         </td>
                </tr>
                <tr 
           class="data"
@@ -1201,8 +1132,7 @@ EOT
                      <span class="placeName-CHAMOUNI">Chamouni</span>
                      </span>
                            (see also <a href="#ACCOUNTTOCCHAMOUNIILLUS">Table 2</a>)
-                         
-               </td>
+                         </td>
                </tr>
                <tr 
           class="data"
@@ -1217,8 +1147,7 @@ EOT
                      <span class="geogName-MONTBLANC">The Mont Blanc</span>
                      </span>
                            (see also <a href="#ACCOUNTTOCTHEMONTBLANCILLUS">Table 2</a>)
-                         
-               </td>
+                         </td>
                </tr>
                <tr 
           class="data"
@@ -1233,8 +1162,7 @@ EOT
                      <span class="geogName-ARVERON">The source of the Arveron</span>
                      </span>
                            (see also <a href="#ACCOUNTTOCSOURCEOFTHEARVERONILLUS">Table 2</a>)
-                         
-               </td>
+                         </td>
                </tr>
                <tr 
           class="data"
@@ -1247,8 +1175,7 @@ EOT
                <td>
                   <span class="title-composite-JRTHEMORNINGCOMP">The morning</span>
                            (see also <a href="#ACCOUNTTOCTHEMORNINGILLUS">Table 2</a>)
-                         
-               </td>
+                         </td>
                </tr>
                <tr 
           class="data"
@@ -1263,8 +1190,7 @@ EOT
                      <span class="geogName-MONTANVERT">The Montanvert</span>
                      </span>
                            (see also <a href="#ACCOUNTTOCTHEMONTANVERTILLUS">Table 2</a>)
-                         
-               </td>
+                         </td>
                </tr>
                <tr 
           class="data"
@@ -1279,8 +1205,7 @@ EOT
                      <span class="geogName-MERDEGLACE">The Mer de Glace</span>
                      </span>
                            (see also <a href="#ACCOUNTTOCTHEMERDEGLACEILLUS">Table 2</a>)
-                         
-               </td>
+                         </td>
                </tr>
                <tr 
           class="data"
@@ -1293,8 +1218,7 @@ EOT
                <td>
                   <span class="title-composite-JROURLASTWALKCOMP">Our last walk.</span>
                            (see also <a href="#ACCOUNTTOCOURLASTWALKILLUS">Table 2</a>)
-                         
-               </td>
+                         </td>
                </tr>
                <tr 
           class="data"
@@ -1307,8 +1231,7 @@ EOT
                <td>
                   <span class="title-composite-JRFAREWELLCOMP">Farewell.</span>
                            (see also <a href="#ACCOUNTTOCFAREWELLILLUS">Table 2</a>)
-                         
-               </td>
+                         </td>
                </tr>
                <tr 
           class="data"
@@ -1323,8 +1246,7 @@ EOT
                      <span class="placeName-LYONS">Lyons</span>
                      </span>
                            (see also <a href="#ACCOUNTTOCLYONSILLUS">Table 2</a>)
-                         
-               </td>
+                         </td>
                </tr>
                <tr 
           class="data"
@@ -1339,8 +1261,7 @@ EOT
                      <span class="placeName-DIJON">Dijon</span>
                      </span>
                            (see also <a href="#ACCOUNTTOCDIJONILLUS">Table 2</a>)
-                         
-               </td>
+                         </td>
                </tr>
                <tr 
           class="data"
@@ -1355,8 +1276,7 @@ EOT
                      <span class="placeName-PARIS">Paris</span>
                      </span>
                            (see also <a href="#ACCOUNTTOCPARISILLUS">Table 2</a>)
-                         
-               </td>
+                         </td>
                </tr>
                <tr 
           class="data"
@@ -1371,8 +1291,7 @@ EOT
                      <span class="placeName-PERELACHAISE">Pere la chaise</span>
                      </span>
                            (see also <a href="#ACCOUNTTOCPERELACHAISEILLUS">Table 2</a>)
-                         
-               </td>
+                         </td>
                </tr>
                <tr 
           class="data"
@@ -1385,8 +1304,7 @@ EOT
                <td>
                   <span class="title-composite-JRTHELASTNIGHTINFRANCECOMP">The last night in France</span>
                            (see also <a href="#ACCOUNTTOCTHELASTNIGHTINFRANCEILLUS">Table 2</a>)
-                         
-               </td>
+                         </td>
                </tr>
                <tr 
           class="data"
@@ -1399,8 +1317,7 @@ EOT
                <td>
                   <span class="title-composite-JROLDENGLANDCOMP">Old England.</span>
                            (see also <a href="#ACCOUNTTOCOLDENGLANDILLUS">Table 2</a>)
-                         
-               </td>
+                         </td>
                </tr>
                <tr 
           class="data"
@@ -1412,41 +1329,33 @@ EOT
                
                <td><span class="del-strikethrough">Peace to thee</span></td>
                </tr>
-               
-            </table>
-            
-         </div>
+               </table>
+            </div>
          
          
          
          <div class="tablespace" id="account_toc_msviii_table_2">
-            <span class="head-section">Table 2. List of Proposed Additional Sections and/or Works with Associated Illustrations<br/>(See <a href="/apparatuses/account_of_a_tour_on_the_continent_apparatus#PROPOSEDCONTENTS" target="_self">&#x201C;Account&#x201D; Apparatus: The Plan for Completion of the Work</a>.)</span>
+            <span class="head-section">Table 2. List of Proposed Additional Sections and/or Works with Associated Illustrations<br/>(See <a href="/apparatuses/account_of_a_tour_on_the_continent_apparatus#PROPOSEDCONTENTS" target="_self">“Account” Apparatus: The Plan for Completion of the Work</a>.)</span>
             
             <table>
                
                <tr class="label">
                   
-                  <td>2.<i>a</i>. Ruskin&#x02BC;s Numbering (Items &#x201C;Wanted&#x201D;)
-                  </td>
+                  <td>2.<i>a</i>. Ruskinʼs Numbering (Items “Wanted”)</td>
                   
-                  <td>2.<i>b</i>. Title of Section or Work
-                  </td>
+                  <td>2.<i>b</i>. Title of Section or Work</td>
                   
-                  <td>2.<i>c</i>. Identities and Sources of Illustrations
-                  </td>
+                  <td>2.<i>c</i>. Identities and Sources of Illustrations</td>
                   
-                  <td>2.<i>d</i>. Ruskin&#x02BC;s Numbering (Illustrations Completed?)
-                  </td>
-                  
-               </tr>
+                  <td>2.<i>d</i>. Ruskinʼs Numbering (Illustrations Completed?)</td>
+                  </tr>
                <tr 
           class="data"
           id="ACCOUNTTOCHEIDELBERGILLUS">
                
                <td>0</td>
                
-               <td><span class="title-composite-JRHEIDELBERGCOMP"><span class="placeName-HEIDELBERG">Heidelberg</span></span> (see also <a href="#ACCOUNTTOCHEIDELBERG">Table 1</a>)
-               </td>
+               <td><span class="title-composite-JRHEIDELBERGCOMP"><span class="placeName-HEIDELBERG">Heidelberg</span></span> (see also <a href="#ACCOUNTTOCHEIDELBERG">Table 1</a>)</td>
                
                <td>Begin with <span class="del-strikethrough">mountain.</span> Tournament. Spectre. <span class="del-strikethrough">the</span> Castle by moonlight. <span class="persName-SP">Prout</span> Old House <span class="persName-SP">Prout</span> on the <span class="geogName-RHINE">Rhine</span>. <span class="placeName-BRAUBACH">Braubach</span><span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/account_of_a_tour_on_the_continent_toc_illus_glosses_contextual#HEIDELBERGILLUSGLOSS" target="_blank" class="inactive">
@@ -1470,8 +1379,7 @@ EOT
                      <span class="placeName-STGOAR">St Goar</span> 
                      </span>
                                   (see also <a href="#ACCOUNTTOCSTGOAR">Table 1</a>)
-                                
-               </td>
+                                </td>
                
                <td>Whirlpool. <span class="placeName-GODESBERG">Godesberg</span>. <span class="placeName-RHEINFELS">Rheinfels</span>. <span class="geogName-DRACHENFELS">Drachenfels</span>.<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/account_of_a_tour_on_the_continent_toc_illus_glosses_contextual#STGOARILLUSGLOSS" target="_blank" class="inactive">
@@ -1482,7 +1390,7 @@ EOT
                 </span>
               </a></span></td>
                
-               <td>&#x2014; 0</td>
+               <td>— 0</td>
                </tr>
                <tr 
           class="data"
@@ -1492,8 +1400,7 @@ EOT
                
                <td>
                   <span class="title-composite-JREHRENBREITSTEINCOMP"><span class="placeName-COBLENZ">Coblentz</span></span>
-                                  (see also <a href="#ACCOUNTTOCEHRENBREITSTEIN">Table 1 &#x005B;<span class="title-composite-JREHRENBREITSTEINCOMP"><span class="geogName-EHRENBREISTEIN">Ehrenbreistein</span></span></a>&#x005D;)
-               </td>
+                                  (see also <a href="#ACCOUNTTOCEHRENBREITSTEIN">Table 1 [<span class="title-composite-JREHRENBREITSTEINCOMP"><span class="geogName-EHRENBREISTEIN">Ehrenbreistein</span></span></a>])</td>
                
                <td>Vignette tower, <span class="persName-SP">Prout</span>. <span class="del-strikethrough">Fortress.</span> <span class="del-strikethrough">Fortress my own.</span> <span class="del-strikethrough">Pines.</span><span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/account_of_a_tour_on_the_continent_toc_illus_glosses_contextual#COBLENTZILLUSGLOSS" target="_blank" class="inactive">
@@ -1504,7 +1411,7 @@ EOT
                 </span>
               </a></span></td>
                
-               <td>&#x2014; 0</td>
+               <td>— 0</td>
                </tr>
                <tr 
           class="data"
@@ -1515,10 +1422,9 @@ EOT
                <td>
                   <span class="title-composite-JRSTRASBURGCOMP"><span class="placeName-STRASBOURG">Strasburg</span></span>
                                   (see also <a href="#ACCOUNTTOCSTRASBURG">Table 1</a>)
-                                
-               </td>
+                                </td>
                
-               <td><span class="persName-SP">Prout</span>. The well. &#x007C; The swiss cottages &#x007C; &#x00D7; Un de les; <span class="persName-WCW">William Tell</span> <span class="title-book-CLARKEBOYSOWNBOOK">Boys Own Book</span><span class="gloss-inline">
+               <td><span class="persName-SP">Prout</span>. The well. | The swiss cottages | × Un de les; <span class="persName-WCW">William Tell</span> <span class="title-book-CLARKEBOYSOWNBOOK">Boys Own Book</span><span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/account_of_a_tour_on_the_continent_toc_illus_glosses_contextual#STRASBURGILLUSGLOSS" target="_blank" class="inactive">
           
           
@@ -1527,7 +1433,7 @@ EOT
                 </span>
               </a></span></td>
                
-               <td>&#x2014; 1</td>
+               <td>— 1</td>
                </tr>
                <tr 
           class="data"
@@ -1536,14 +1442,13 @@ EOT
                <td>4</td>
                
                <td>
-                  <span class="title-composite-JRSCHAFFHAUSENCOMP"><span class="placeName-SCHAFFHAUSEN">Schaffhaus</span> &#x005B;i.e., Schaffhausen&#x005D;</span>
+                  <span class="title-composite-JRSCHAFFHAUSENCOMP"><span class="placeName-SCHAFFHAUSEN">Schaffhaus</span> [i.e., Schaffhausen]</span>
                                 (see also <a href="#ACCOUNTTOCSCHAFFHAUSEN">Table 1</a>)
-                                
-               </td>
+                                </td>
                
                <td></td>
                
-               <td>&#x2014; 4</td>
+               <td>— 4</td>
                </tr>
                <tr 
           class="data"
@@ -1554,12 +1459,11 @@ EOT
                <td>
                   <span class="title-composite-JRTHEALPSCOMP"><span class="geogName-ALPS">The Alps</span>.</span>
                                 (see also <a href="#ACCOUNTTOCTHEALPS">Table 1</a>)
-                                
-               </td>
+                                </td>
                
                <td>My own</td>
                
-               <td>&#x2014; 3</td>
+               <td>— 3</td>
                </tr>
                <tr 
           class="data"
@@ -1572,8 +1476,7 @@ EOT
                      <span class="geogName-RHINEFALLS">Fall of the Rhine</span>
                      </span>
                                   (see also <a href="#ACCOUNTTOCFALLOFTHERHINE">Table 1</a>)
-                                
-               </td>
+                                </td>
                
                <td>Turner<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/account_of_a_tour_on_the_continent_toc_illus_glosses_contextual#FALLOFTHERHINEILLUSGLOSS" target="_blank" class="inactive">
@@ -1584,7 +1487,7 @@ EOT
                 </span>
               </a></span></td>
                
-               <td>&#x2014; 3</td>
+               <td>— 3</td>
                </tr>
                <tr 
           class="data"
@@ -1597,8 +1500,7 @@ EOT
                      <span class="placeName-CONSTANCE">Constance</span>
                      </span>
                                   (see also <a href="#ACCOUNTTOCCONSTANCE">Table 1</a>)
-                                
-               </td>
+                                </td>
                
                <td>Recollection<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/account_of_a_tour_on_the_continent_toc_illus_glosses_contextual#CONSTANCEILLUSGLOSS" target="_blank" class="inactive">
@@ -1609,7 +1511,7 @@ EOT
                 </span>
               </a></span></td>
                
-               <td>&#x2014; 3</td>
+               <td>— 3</td>
                </tr>
                <tr 
           class="data"
@@ -1622,10 +1524,9 @@ EOT
                      <span class="placeName-WERDENBERG">Werdenberg</span>
                      </span>
                                   (see also <a href="#ACCOUNTTOCWERDENBERG">Table 1</a>)
-                                
-               </td>
+                                </td>
                
-               <td><span class="del-strikethrough">On the <span class="geogName-RHINE">Rhine</span></span> near <span class="placeName-SARGENS">Sargans</span> with thunder &#x2014; Also &#x2014; Haymakers.<span class="gloss-inline">
+               <td><span class="del-strikethrough">On the <span class="geogName-RHINE">Rhine</span></span> near <span class="placeName-SARGENS">Sargans</span> with thunder — Also — Haymakers.<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/account_of_a_tour_on_the_continent_toc_illus_glosses_contextual#WERDENBERGILLUSGLOSS" target="_blank" class="inactive">
           
           
@@ -1647,10 +1548,9 @@ EOT
                      <span class="placeName-PFAFFERS">Pfaffers</span>
                      </span>
                                   (see also <a href="#ACCOUNTTOCPFAFFERS">Table 1</a>)
-                                
-               </td>
+                                </td>
                
-               <td>Ravine, On the <span class="geogName-RHINE">Rhine</span> near Tusis, <span class="placeName-COIRE">Coire</span> &#x2014; Chateau of Trostberg. Brockedon<span class="gloss-inline">
+               <td>Ravine, On the <span class="geogName-RHINE">Rhine</span> near Tusis, <span class="placeName-COIRE">Coire</span> — Chateau of Trostberg. Brockedon<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/account_of_a_tour_on_the_continent_toc_illus_glosses_contextual#PFAFFERSILLUSGLOSS" target="_blank" class="inactive">
           
           
@@ -1659,7 +1559,7 @@ EOT
                 </span>
               </a></span></td>
                
-               <td>&#x2014; 0</td>
+               <td>— 0</td>
                </tr>
                <tr 
           class="data"
@@ -1670,8 +1570,7 @@ EOT
                <td>
                   <span class="title-composite-JRPASSINGTHEALPSCOMP">Passing <span class="geogName-ALPS">Alps</span></span>
                                   (see also <a href="#ACCOUNTTOCPASSINGTHEALPS">Table 1</a>)
-                                
-               </td>
+                                </td>
                
                <td><span class="persName-HANNIBAL">Hannibal</span> <span class="del-strikethrough">Alps at Daybreak</span><span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/account_of_a_tour_on_the_continent_toc_illus_glosses_contextual#PASSINGTHEALPSILLUSGLOSS" target="_blank" class="inactive">
@@ -1682,7 +1581,7 @@ EOT
                 </span>
               </a></span></td>
                
-               <td>&#x2014;</td>
+               <td>—</td>
                </tr>
                <tr 
           class="data"
@@ -1695,8 +1594,7 @@ EOT
                      <span class="geogName-VIAMALA">Via mala</span>
                      </span>
                                   (see also <a href="#ACCOUNTTOCVIAMALA">Table 1</a>)
-                                
-               </td>
+                                </td>
                
                <td><span class="persName-WBI">Brockedon</span>, goats. Two from coloured plates<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/account_of_a_tour_on_the_continent_toc_illus_glosses_contextual#VIAMALAILLUSGLOSS" target="_blank" class="inactive">
@@ -1720,8 +1618,7 @@ EOT
                      <span class="geogName-SPLUGEN">Splugen</span>
                      </span>
                                   (see also <a href="#ACCOUNTTOCSPLUGEN">Table 1</a>)
-                                
-               </td>
+                                </td>
                
                <td>Covered bridge, <span class="gap" style="padding-left:3.2em"> </span> Galleries coloured, Fountain. <span class="geogName-">Ravine of Rofla</span>.<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/account_of_a_tour_on_the_continent_toc_illus_glosses_contextual#SPLUGENILLUSGLOSS" target="_blank" class="inactive">
@@ -1743,8 +1640,7 @@ EOT
                <td>
                   <span class="title-composite-JRTHESUMMITCOMP">The summit</span>
                                   (see also <a href="#ACCOUNTTOCTHESUMMIT">Table 1</a>)
-                                
-               </td>
+                                </td>
                
                <td>Arch of snow with <span class="gap" style="padding-left:0.8em"> </span> torrent <span class="geogName-HELVELLYN">Helvellyn</span><span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/account_of_a_tour_on_the_continent_toc_illus_glosses_contextual#THESUMMITILLUSGLOSS" target="_blank" class="inactive">
@@ -1755,7 +1651,7 @@ EOT
                 </span>
               </a></span></td>
                
-               <td>&#x2014;</td>
+               <td>—</td>
                </tr>
                <tr 
           class="data"
@@ -1766,8 +1662,7 @@ EOT
                <td>
                   <span class="title-composite-JRTHEDESCENTCOMP">The descent</span>
                                   (see also <a href="#ACCOUNTTOCTHEDESCENT">Table 1</a>)
-                                
-               </td>
+                                </td>
                
                <td><span class="persName-WBI">Brockedon</span>. Passage of Cardinele coloured. Cascade. Vineyards of <span class="placeName-CHIAVENNA">Chiavenna</span>.<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/account_of_a_tour_on_the_continent_toc_illus_glosses_contextual#THEDESCENTILLUSGLOSS" target="_blank" class="inactive">
@@ -1789,8 +1684,7 @@ EOT
                <td>
                   <span class="title-composite-JRLAGODICOMOCOMP"><span class="geogName-LAKECOMO">Como</span>.</span>
                                   (see also <a href="#ACCOUNTTOCLAGODICOMO">Table 1</a>)
-                                
-               </td>
+                                </td>
                
                <td>Sketch on lake of Chiavenna with boat. <span class="placeName-COMO">Como</span> from <span class="persName-CFS">Stanfield</span>, Small part town<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/account_of_a_tour_on_the_continent_toc_illus_glosses_contextual#LAGODICOMOILLUSGLOSS" target="_blank" class="inactive">
@@ -1801,7 +1695,7 @@ EOT
                 </span>
               </a></span></td>
                
-               <td>&#x2014; 1</td>
+               <td>— 1</td>
                </tr>
                <tr 
           class="data"
@@ -1811,11 +1705,10 @@ EOT
                
                <td>
                   <span class="title-composite-JRCADENABBIACOMP">
-                     <span class="placeName-CADENABBIA">Cadenabia &#x005B;i.e., Cadenabbia&#x005D;</span>
+                     <span class="placeName-CADENABBIA">Cadenabia [i.e., Cadenabbia]</span>
                      </span>
                                   (see also <a href="#ACCOUNTTOCCADENABBIA">Table 1</a>)
-                                
-               </td>
+                                </td>
                
                <td><span class="persName-SR">Rogers</span> <span class="placeName-ITALY">Italy</span>. Como from <span class="persName-GGB">Lord Byron</span>, Lecco from <span class="persName-WBI">Brockedon</span>. <span class="persName-JMWT">Turner</span>. beginning of <span class="persName-SR">Rogers</span> memory<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/account_of_a_tour_on_the_continent_toc_illus_glosses_contextual#CADENABBIAILLUSGLOSS" target="_blank" class="inactive">
@@ -1835,10 +1728,9 @@ EOT
                <td>2</td>
                
                <td>
-                  <span class="title-composite-JRVILLAPLINIANACOMP"><span class="placeName-VILLAPLINIANINA">Villa plin</span> &#x005B;i.e., Villa pliniana&#x005D;</span>
+                  <span class="title-composite-JRVILLAPLINIANACOMP"><span class="placeName-VILLAPLINIANINA">Villa plin</span> [i.e., Villa pliniana]</span>
                                   (see also <a href="#ACCOUNTTOCVILLAPLINIANA">Table 1</a>)
-                                
-               </td>
+                                </td>
                
                <td>Villa Poro. <span class="geogName-CASCATADNESSO">Cascata di Nesso</span>. <span class="persName-SP">Prouts</span> port of Como Como from Road to <span class="placeName-ERBA">Erba</span>. <span class="persName-WBI">Brockedon</span><span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/account_of_a_tour_on_the_continent_toc_illus_glosses_contextual#VILLAPLINIANAILLUSGLOSS" target="_blank" class="inactive">
@@ -1862,8 +1754,7 @@ EOT
                      <span class="placeName-MILAN">Milan</span>
                      </span>
                                   (see also <a href="#ACCOUNTTOCMILAN">Table 1</a>)
-                                
-               </td>
+                                </td>
                
                <td><span class="del-strikethrough">the cathed</span><span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/account_of_a_tour_on_the_continent_toc_illus_glosses_contextual#MILANILLUSGLOSS" target="_blank" class="inactive">
@@ -1887,8 +1778,7 @@ EOT
                      <span class="placeName-building-DUOMOMILAN">The duomo</span>
                      </span>
                                   (see also <a href="#ACCOUNTTOCDUOMO">Table 1</a>)
-                                
-               </td>
+                                </td>
                
                <td>2 of the cathedral<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/account_of_a_tour_on_the_continent_toc_illus_glosses_contextual#MILANDUOMOILLUSGLOSS" target="_blank" class="inactive">
@@ -1912,8 +1802,7 @@ EOT
                      <span class="placeName-building-PORTAVENEZIA">The corso</span>
                      </span>
                                   (see also <a href="#ACCOUNTTOCCORSO">Table 1</a>)
-                                
-               </td>
+                                </td>
                
                <td>The town with cathedral recollected<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/account_of_a_tour_on_the_continent_toc_illus_glosses_contextual#MILANCORSOILLUSGLOSS" target="_blank" class="inactive">
@@ -1937,8 +1826,7 @@ EOT
                      <span class="placeName-building-CERTOSA">The certosa</span>
                      </span>
                                   (see also <a href="#ACCOUNTTOCCERTOSA">Table 1</a>)
-                                
-               </td>
+                                </td>
                
                <td></td>
                
@@ -1953,8 +1841,7 @@ EOT
                <td>
                   <span class="title-composite-JRTHEAPPENINESCOMP"><span class="geogName-APPENINES">Appenines</span>.</span>
                                   (see also <a href="#ACCOUNTTOCAPPENINES">Table 1</a>)
-                                
-               </td>
+                                </td>
                
                <td>mediterranean. 3 among the Appenines<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/account_of_a_tour_on_the_continent_toc_illus_glosses_contextual#APPENINESILLUSGLOSS" target="_blank" class="inactive">
@@ -1978,11 +1865,9 @@ EOT
                      <span class="placeName-GENOA">Genoa</span>
                      </span>
                                   (see also <a href="#ACCOUNTTOCGENOA">Table 1</a>)
-                                
-               </td>
+                                </td>
                
-               <td><span class="persName-WBI">Brokedons</span> Martello Tower.
-               </td>
+               <td><span class="persName-WBI">Brokedons</span> Martello Tower.</td>
                
                <td></td>
                </tr>
@@ -1997,11 +1882,9 @@ EOT
                      <span class="placeName-MARENGO">Marengo</span>
                      </span>
                                    (see also <a href="#ACCOUNTTOCMARENGO">Table 1</a>)
-                                
-               </td>
+                                </td>
                
-               <td><span class="persName-SR">Rogers</span>. view of <span class="geogName-THEALPS">the Alps</span> near <span class="placeName-TURIN">Turin</span> ditto of the <span class="geogName-APPENINES">Appenines</span>.
-               </td>
+               <td><span class="persName-SR">Rogers</span>. view of <span class="geogName-THEALPS">the Alps</span> near <span class="placeName-TURIN">Turin</span> ditto of the <span class="geogName-APPENINES">Appenines</span>.</td>
                
                <td></td>
                </tr>
@@ -2016,11 +1899,9 @@ EOT
                      <span class="placeName-TURIN">Turin</span>
                      </span>
                                   (see also <a href="#ACCOUNTTOCTURIN">Table 1</a>)
-                                
-               </td>
+                                </td>
                
-               <td><span class="persName-WBI">Brockedons</span> <span class="placeName-TURIN">Turin</span>. My view.
-               </td>
+               <td><span class="persName-WBI">Brockedons</span> <span class="placeName-TURIN">Turin</span>. My view.</td>
                
                <td></td>
                </tr>
@@ -2035,11 +1916,9 @@ EOT
                      <span class="placeName-NOVARA">Novara</span>
                      </span>
                                   (see also <a href="#ACCOUNTTOCNOVARA">Table 1</a>)
-                                
-               </td>
+                                </td>
                
-               <td><span class="geogName-MONTEROSA">Mont Rosa</span>, From Baths of Vallegio,
-               </td>
+               <td><span class="geogName-MONTEROSA">Mont Rosa</span>, From Baths of Vallegio,</td>
                
                <td></td>
                </tr>
@@ -2054,11 +1933,9 @@ EOT
                      <span class="geogName-LAKEMAGGIORE">Maggiore</span>
                      </span>
                                   (see also <a href="#ACCOUNTTOCMAGGIORE">Table 1</a>)
-                                
-               </td>
+                                </td>
                
-               <td>On <span class="geogName-LAKEMAGGIORE">Lake of Maggiore</span> &#x005B;Illegible&#x005D; my own <span class="persName-WBI">Brockedon</span> with Carlo .<span class="del-strikethrough">???</span> Mary's <span class="placeName-BORROMEANISLANDS">Borromean isles</span>. <span class="geogName-MONTEROSA">Monte Rosa</span> from near Lou??. <span class="persName-WBI">Brockedon</span>.
-               </td>
+               <td>On <span class="geogName-LAKEMAGGIORE">Lake of Maggiore</span> [Illegible] my own <span class="persName-WBI">Brockedon</span> with Carlo .<span class="del-strikethrough">???</span> Mary's <span class="placeName-BORROMEANISLANDS">Borromean isles</span>. <span class="geogName-MONTEROSA">Monte Rosa</span> from near Lou??. <span class="persName-WBI">Brockedon</span>.</td>
                
                <td></td>
                </tr>
@@ -2069,10 +1946,9 @@ EOT
                <td>4</td>
                
                <td>
-                  <span class="title-composite-JRTHEMADONNADELMONTECOMP"><span class="geogName-MADONNADELMONTE">Madonna</span> &#x005B;i.e., Madonna del monte&#x005D;</span>
+                  <span class="title-composite-JRTHEMADONNADELMONTECOMP"><span class="geogName-MADONNADELMONTE">Madonna</span> [i.e., Madonna del monte]</span>
                                   (see also <a href="#ACCOUNTTOCMADONNADELMONTE">Table 1</a>)
-                                
-               </td>
+                                </td>
                
                <td></td>
                
@@ -2086,12 +1962,11 @@ EOT
                
                <td>
                   <span class="title-composite-JRDOMODOSSOLACOMP">
-                     <span class="placeName-DOMODOSSOLA">Domo d&#x02BC;Ossola</span>
+                     <span class="placeName-DOMODOSSOLA">Domo dʼOssola</span>
                      </span> (see also <a href="#ACCOUNTTOCDOMODOSSOLA">Table 1</a>)
-                                
-               </td>
+                                </td>
                
-               <td><span class="placeName-">Isola bella</span>. <span class="persName-SR">Rogers</span>. <span class="placeName-">Domo d&#x02BC;ossola</span>. from <span class="persName-WBI">Brockedon</span> (not from defile of <span class="geogName-SIMPLON">Simplon</span>) My own view with crags<span class="gloss-inline">
+               <td><span class="placeName-">Isola bella</span>. <span class="persName-SR">Rogers</span>. <span class="placeName-">Domo dʼossola</span>. from <span class="persName-WBI">Brockedon</span> (not from defile of <span class="geogName-SIMPLON">Simplon</span>) My own view with crags<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/account_of_a_tour_on_the_continent_toc_illus_glosses_contextual#DOMODOSSOLAILLUSGLOSS" target="_blank" class="inactive">
           
           
@@ -2111,8 +1986,7 @@ EOT
                <td>
                   <span class="title-composite-JRFAREWELLTOITALYCOMP">Farewell</span>
                                   (see also <a href="#ACCOUNTTOCFAREWELLTOITALY">Table 1</a>)
-                                
-               </td>
+                                </td>
                
                <td><span class="persName-WBI">Brockedon</span> from defile with <span class="placeName-DOMODOSSOLA">Domo d'Ossola</span>. Entrance to Gondo Gallery. vignette. my own two.<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/account_of_a_tour_on_the_continent_toc_illus_glosses_contextual#FAREWELLTOITALYILLUSGLOSS" target="_blank" class="inactive">
@@ -2134,8 +2008,7 @@ EOT
                <td>
                   <span class="title-composite-JRTHEGLACIERSCOMP">Glaciers</span>
                                   (see also <a href="#ACCOUNTTOCTHEGLACIERS">Table 1</a>)
-                                
-               </td>
+                                </td>
                
                <td><span class="persName-WBI">Brockedon</span> Defile of Dovedro looking back. <span class="geogName-BERNESEALPS">Bernese Alps</span> from Simplon. An adventure rogers<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/account_of_a_tour_on_the_continent_toc_illus_glosses_contextual#THEGLACIERSILLUSGLOSS" target="_blank" class="inactive">
@@ -2146,7 +2019,7 @@ EOT
                 </span>
               </a></span></td>
                
-               <td>&#x2014;1</td>
+               <td>—1</td>
                </tr>
                <tr 
           class="data"
@@ -2159,10 +2032,9 @@ EOT
                      <span class="placeName-BRIEG">Brieg</span>
                      </span>
                                   (see also <a href="#ACCOUNTTOCBRIEG">Table 1</a>)
-                                
-               </td>
+                                </td>
                
-               <td>My recollection &#x2014; 3. The glaciers of the <span class="geogName-RHONE">Rhone</span>.<span class="gloss-inline">
+               <td>My recollection — 3. The glaciers of the <span class="geogName-RHONE">Rhone</span>.<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/account_of_a_tour_on_the_continent_toc_illus_glosses_contextual#BRIEGILLUSGLOSS" target="_blank" class="inactive">
           
           
@@ -2171,7 +2043,7 @@ EOT
                 </span>
               </a></span></td>
                
-               <td>&#x2014; 2</td>
+               <td>— 2</td>
                </tr>
                <tr 
           class="data"
@@ -2181,8 +2053,7 @@ EOT
                
                <td><span class="title-composite-"><span class="placeName-TURTMANN">Tourtman</span></span>
                                  (see also <a href="#ACCOUNTTOCTOURTMAN">Table 1</a>)
-                                
-               </td>
+                                </td>
                
                <td>Waterfall, my own volcano view<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/account_of_a_tour_on_the_continent_toc_illus_glosses_contextual#TURTMANNILLUSGLOSS" target="_blank" class="inactive">
@@ -2206,8 +2077,7 @@ EOT
                      <span class="placeName-MARTIGNY">Martigny</span>
                      </span>
                                   (see also <a href="#ACCOUNTTOCMARTIGNY">Table 1</a>)
-                                
-               </td>
+                                </td>
                
                <td><span class="persName-SR">Rogers</span>. The <span class="geogName-RHONEVALLEY">valley of Rhône</span> above, <span class="placeName-MARTIGNY">Martigny</span> from <span class="persName-WBI">Brockedon</span><span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/account_of_a_tour_on_the_continent_toc_illus_glosses_contextual#MARTIGNYILLUSGLOSS" target="_blank" class="inactive">
@@ -2229,10 +2099,9 @@ EOT
                <td>
                   <span class="title-composite-JRTHEASCENTCOMP">Ascent</span>
                                   (see also <a href="#ACCOUNTTOCTHEASCENT">Table 1</a>)
-                                
-               </td>
+                                </td>
                
-               <td><span class="persName-WBI">Brockedons</span> &#x005B;Illegible&#x005D; of <span class="placeName-SAINTPIERRE">St. Pierre</span></td>
+               <td><span class="persName-WBI">Brockedons</span> [Illegible] of <span class="placeName-SAINTPIERRE">St. Pierre</span></td>
                
                <td></td>
                </tr>
@@ -2243,10 +2112,9 @@ EOT
                <td>0</td>
                
                <td>
-                  <span class="title-composite-JRGRANDSTBERNARDCOMP"><span class="geogName-STBERNARD">great St B</span> &#x005B;i.e., The Grand St. Bernard&#x005D;</span>
+                  <span class="title-composite-JRGRANDSTBERNARDCOMP"><span class="geogName-STBERNARD">great St B</span> [i.e., The Grand St. Bernard]</span>
                                   (see also <a href="#ACCOUNTTOCSTBERNARD">Table 1</a>)
-                                
-               </td>
+                                </td>
                
                <td></td>
                
@@ -2263,8 +2131,7 @@ EOT
                      <span class="placeName-SAINTMAURICE">St. Maurice</span>
                      </span>
                                   (see also <a href="#ACCOUNTTOCSAINTMAURICE">Table 1</a>)
-                                
-               </td>
+                                </td>
                
                <td></td>
                
@@ -2277,10 +2144,9 @@ EOT
                <td>3</td>
                
                <td>
-                  <span class="title-composite-JRTHELAKEOFGENEVACOMP"><span class="geogName-LAKEGENEVA">lake of Gen</span> &#x005B;i.e., The Lake of Geneva&#x005D;</span>
+                  <span class="title-composite-JRTHELAKEOFGENEVACOMP"><span class="geogName-LAKEGENEVA">lake of Gen</span> [i.e., The Lake of Geneva]</span>
                                   (see also <a href="#ACCOUNTTOCLAKEOFGENEVA">Table 1</a>)
-                                
-               </td>
+                                </td>
                
                <td></td>
                
@@ -2297,8 +2163,7 @@ EOT
                      <span class="placeName-building-CHILLONCASTLE">Chillon</span>
                      </span>
                                   (see also <a href="#ACCOUNTTOCCHILLON">Table 1</a>)
-                                
-               </td>
+                                </td>
                
                <td></td>
                
@@ -2315,8 +2180,7 @@ EOT
                      <span class="placeName-LAUSANNE">Lausanne</span>
                      </span>
                                   (see also <a href="#ACCOUNTTOCLAUSANNE">Table 1</a>)
-                                
-               </td>
+                                </td>
                
                <td></td>
                
@@ -2333,8 +2197,7 @@ EOT
                      <span class="placeName-FRIBOURG">Fribourg</span>
                      </span>
                                   (see also <a href="#ACCOUNTTOCFRIBOURG">Table 1</a>)
-                                
-               </td>
+                                </td>
                
                <td></td>
                
@@ -2351,8 +2214,7 @@ EOT
                      <span class="placeName-BERNE">Berne</span>
                      </span>
                                   (see also <a href="#ACCOUNTTOCBERNE">Table 1</a>)
-                                
-               </td>
+                                </td>
                
                <td></td>
                
@@ -2369,8 +2231,7 @@ EOT
                      <span class="placeName-THUN">Thun</span>
                      </span>
                                   (see also <a href="#ACCOUNTTOCTHUN">Table 1</a>)
-                                
-               </td>
+                                </td>
                
                <td></td>
                
@@ -2387,8 +2248,7 @@ EOT
                      <span class="placeName-INTERLAKEN">Interlaken</span>
                      </span>
                                   (see also <a href="#ACCOUNTTOCINTERLAKEN">Table 1</a>)
-                                
-               </td>
+                                </td>
                
                <td></td>
                
@@ -2405,8 +2265,7 @@ EOT
                      <span class="placeName-JUNGFRAU">Jungfrau</span>
                      </span>
                                   (see also <a href="#ACCOUNTTOCJUNGFRAU">Table 1</a>)
-                                
-               </td>
+                                </td>
                
                <td></td>
                
@@ -2423,8 +2282,7 @@ EOT
                      <span class="geogName-GIESSBACHFALLS">The Giesbach</span>
                      </span>
                                   (see also <a href="#ACCOUNTTOCGIESBACH">Table 1</a>)
-                                
-               </td>
+                                </td>
                
                <td></td>
                
@@ -2441,8 +2299,7 @@ EOT
                      <span class="placeName-LUCERNE">Lucerne</span>
                      </span>
                                   (see also <a href="#ACCOUNTTOCLUCERNE">Table 1</a>)
-                                
-               </td>
+                                </td>
                
                <td></td>
                
@@ -2459,8 +2316,7 @@ EOT
                      <span class="placeName-ARTH">Aart</span>
                      </span>
                                   (see also <a href="#ACCOUNTTOCAART">Table 1</a>)
-                                
-               </td>
+                                </td>
                
                <td></td>
                
@@ -2477,8 +2333,7 @@ EOT
                      <span class="geogName-MONTRIGI">Rigi</span>
                      </span>
                                   (see also <a href="#ACCOUNTTOCRIGI">Table 1</a>)
-                                
-               </td>
+                                </td>
                
                <td></td>
                
@@ -2495,8 +2350,7 @@ EOT
                      <span class="placeName-GOLDAU">Goldau</span>
                      </span>
                                   (see also <a href="#ACCOUNTTOCGOLDAU">Table 1</a>)
-                                
-               </td>
+                                </td>
                
                <td></td>
                
@@ -2513,8 +2367,7 @@ EOT
                      <span class="placeName-SCHWYZ">Schwytz</span>
                      </span>
                                   (see also <a href="#ACCOUNTTOCSCHWYTZ">Table 1</a>)
-                                
-               </td>
+                                </td>
                
                <td></td>
                
@@ -2531,8 +2384,7 @@ EOT
                      <span class="placeName-EINSIEDELN">Einsideln</span>
                      </span>
                                   (see also <a href="#ACCOUNTTOCEINSIDELN">Table 1</a>)
-                                
-               </td>
+                                </td>
                
                <td></td>
                
@@ -2549,8 +2401,7 @@ EOT
                      <span class="geogName-LAKEZURICH">Lake of Zurich</span>
                      </span>
                                   (see also <a href="#ACCOUNTTOCLAKEOFZURICH">Table 1</a>)
-                                
-               </td>
+                                </td>
                
                <td></td>
                
@@ -2567,8 +2418,7 @@ EOT
                      <span class="placeName-BASLE">Basle</span>
                      </span>
                                   (see also <a href="#ACCOUNTTOCBASLE">Table 1</a>)
-                                
-               </td>
+                                </td>
                
                <td></td>
                
@@ -2585,8 +2435,7 @@ EOT
                      <span class="geogName-RHINE">Rhine, The</span>
                      </span>
                                   (see also <a href="#ACCOUNTTOCTHERHINE">Table 1</a>)
-                                
-               </td>
+                                </td>
                
                <td></td>
                
@@ -2603,8 +2452,7 @@ EOT
                      <span class="placeName-BALSTHAL">Balstall</span>
                      </span>
                                   (see also <a href="#ACCOUNTTOCBALSTALL">Table 1</a>)
-                                
-               </td>
+                                </td>
                
                <td></td>
                
@@ -2621,8 +2469,7 @@ EOT
                      <span class="placeName-NEUFCHATEL">Neufchatel</span>
                      </span>
                                   (see also <a href="#ACCOUNTTOCNEUFCHATEL">Table 1</a>)
-                                
-               </td>
+                                </td>
                
                <td></td>
                
@@ -2639,8 +2486,7 @@ EOT
                      <span class="placeName-GENEVA">Geneva</span>
                      </span>
                                   (see also <a href="#ACCOUNTTOCGENEVA">Table 1</a>)
-                                
-               </td>
+                                </td>
                
                <td></td>
                
@@ -2657,8 +2503,7 @@ EOT
                      <span class="placeName-CHAMOUNI">Chamouni</span>
                      </span>
                                   (see also <a href="#ACCOUNTTOCCHAMOUNI">Table 1</a>)
-                                
-               </td>
+                                </td>
                
                <td></td>
                
@@ -2675,8 +2520,7 @@ EOT
                      <span class="geogName-MONTBLANC">Mont Blanc</span>
                      </span>
                                   (see also <a href="#ACCOUNTTOCTHEMONTBLANC">Table 1</a>)
-                                
-               </td>
+                                </td>
                
                <td></td>
                
@@ -2693,8 +2537,7 @@ EOT
                      <span class="geogName-ARVERON">Source of Arveron</span>
                      </span>
                                   (see also <a href="#ACCOUNTTOCSOURCEOFTHEARVERON">Table 1</a>)
-                                
-               </td>
+                                </td>
                
                <td></td>
                
@@ -2709,8 +2552,7 @@ EOT
                <td>
                   <span class="title-composite-JRTHEMORNINGCOMP">The morning</span>
                                   (see also <a href="#ACCOUNTTOCTHEMORNING">Table 1</a>)
-                                
-               </td>
+                                </td>
                
                <td></td>
                
@@ -2727,12 +2569,11 @@ EOT
                      <span class="placeName-MONTANVERT">Montanvert</span>
                      </span>
                                   (see also <a href="#ACCOUNTTOCTHEMONTANVERT">Table 1</a>)
-                                
-               </td>
+                                </td>
                
                <td></td>
                
-               <td>&#x00D7;</td>
+               <td>×</td>
                </tr>
                <tr 
           class="data"
@@ -2745,8 +2586,7 @@ EOT
                      <span class="geogName-MERDEGLACE">Mer de Glace</span>
                      </span>
                                   (see also <a href="#ACCOUNTTOCTHEMERDEGLACE">Table 1</a>)
-                                
-               </td>
+                                </td>
                
                <td></td>
                
@@ -2761,12 +2601,11 @@ EOT
                <td>
                   <span class="title-composite-JROURLASTWALKCOMP">Last walk</span>
                                   (see also <a href="#ACCOUNTTOCOURLASTWALK">Table 1</a>)
-                                
-               </td>
+                                </td>
                
                <td></td>
                
-               <td>&#x2010; 1</td>
+               <td>‐ 1</td>
                </tr>
                <tr 
           class="data"
@@ -2777,8 +2616,7 @@ EOT
                <td>
                   <span class="title-composite-JRFAREWELLCOMP">Farewell</span>
                                   (see also <a href="#ACCOUNTTOCFAREWELL">Table 1</a>)
-                                
-               </td>
+                                </td>
                
                <td></td>
                
@@ -2795,8 +2633,7 @@ EOT
                      <span class="placeName-LYONS">Lyons</span>
                      </span>
                                   (see also <a href="#ACCOUNTTOCLYONS">Table 1</a>)
-                                
-               </td>
+                                </td>
                
                <td></td>
                
@@ -2813,8 +2650,7 @@ EOT
                      <span class="placeName-DIJON">Dijon</span>
                      </span>
                                   (see also <a href="#ACCOUNTTOCDIJON">Table 1</a>)
-                                
-               </td>
+                                </td>
                
                <td></td>
                
@@ -2831,8 +2667,7 @@ EOT
                      <span class="placeName-PARIS">Paris</span>
                      </span>
                                   (see also <a href="#ACCOUNTTOCPARIS">Table 1</a>)
-                                
-               </td>
+                                </td>
                
                <td></td>
                
@@ -2849,8 +2684,7 @@ EOT
                      <span class="placeName-PERELACHAISE">Perelachaise</span>
                      </span>
                                   (see also <a href="#ACCOUNTTOCPERELACHAISE">Table 1</a>)
-                                
-               </td>
+                                </td>
                
                <td></td>
                
@@ -2865,8 +2699,7 @@ EOT
                <td>
                   <span class="title-composite-JRTHELASTNIGHTINFRANCECOMP">Last night</span>
                                   (see also <a href="#ACCOUNTTOCTHELASTNIGHTINFRANCE">Table 1</a>)
-                                
-               </td>
+                                </td>
                
                <td></td>
                
@@ -2881,21 +2714,17 @@ EOT
                <td>
                   <span class="title-composite-JROLDENGLANDCOMP">Old England</span>
                                   (see also <a href="#ACCOUNTTOCOLDENGLAND">Table 1</a>)
-                                
-               </td>
+                                </td>
                
                <td></td>
                
                <td></td>
                </tr>
-               
-            </table>
-            
+               </table>
+            </div>
+         
+         
          </div>
-         
-         
-         
-      </div>
    </div>
    <div id="TOCTABLE2" class="section">
       <span class="head" id="">Table 2</span>
@@ -2917,8 +2746,7 @@ EOT
                <td>136</td>
                
                <td>69</td>
-               
-            </tr>
+               </tr>
             
             <tr class="data">
                
@@ -2931,8 +2759,7 @@ EOT
                <td>1</td>
                
                <td>56</td>
-               
-            </tr>
+               </tr>
             
             <tr class="data">
                
@@ -2945,8 +2772,7 @@ EOT
                <td>1</td>
                
                <td>125</td>
-               
-            </tr>
+               </tr>
             
             <tr class="data">
                
@@ -2957,8 +2783,7 @@ EOT
                <td>2</td>
                
                <td>1</td>
-               
-            </tr>
+               </tr>
             
             <tr class="data">
                
@@ -2969,8 +2794,7 @@ EOT
                <td>1</td>
                
                <td>3</td>
-               
-            </tr>
+               </tr>
             
             <tr class="data">
                
@@ -2981,8 +2805,7 @@ EOT
                <td>1</td>
                
                <td>2</td>
-               
-            </tr>
+               </tr>
             
             <tr class="data">
                
@@ -2993,8 +2816,7 @@ EOT
                <td>2</td>
                
                <td>4</td>
-               
-            </tr>
+               </tr>
             
             <tr class="data">
                
@@ -3005,8 +2827,7 @@ EOT
                <td>4</td>
                
                <td>4</td>
-               
-            </tr>
+               </tr>
             
             <tr class="data">
                
@@ -3017,8 +2838,7 @@ EOT
                <td>4</td>
                
                <td>4</td>
-               
-            </tr>
+               </tr>
             
             <tr class="data">
                
@@ -3029,8 +2849,7 @@ EOT
                <td>1</td>
                
                <td>156</td>
-               
-            </tr>
+               </tr>
             
             <tr class="data">
                
@@ -3041,8 +2860,7 @@ EOT
                <td>3</td>
                
                <td>125</td>
-               
-            </tr>
+               </tr>
             
             <tr class="data">
                
@@ -3053,8 +2871,7 @@ EOT
                <td>3</td>
                
                <td>281</td>
-               
-            </tr>
+               </tr>
             
             <tr class="data">
                
@@ -3063,8 +2880,7 @@ EOT
                <td>2</td>
                
                <td>1</td>
-               
-            </tr>
+               </tr>
             
             <tr class="data">
                
@@ -3073,8 +2889,7 @@ EOT
                <td>2</td>
                
                <td>1</td>
-               
-            </tr>
+               </tr>
             
             <tr class="data">
                
@@ -3083,8 +2898,7 @@ EOT
                <td>3</td>
                
                <td>2</td>
-               
-            </tr>
+               </tr>
             
             <tr class="data">
                
@@ -3093,8 +2907,7 @@ EOT
                <td>4</td>
                
                <td>3</td>
-               
-            </tr>
+               </tr>
             
             <tr class="data">
                
@@ -3103,8 +2916,7 @@ EOT
                <td>3</td>
                
                <td>4</td>
-               
-            </tr>
+               </tr>
             
             <tr class="data">
                
@@ -3113,8 +2925,7 @@ EOT
                <td>1</td>
                
                <td>3</td>
-               
-            </tr>
+               </tr>
             
             <tr class="data">
                
@@ -3123,8 +2934,7 @@ EOT
                <td>2</td>
                
                <td>1</td>
-               
-            </tr>
+               </tr>
             
             <tr class="data">
                
@@ -3133,8 +2943,7 @@ EOT
                <td>96</td>
                
                <td>2</td>
-               
-            </tr>
+               </tr>
             
             <tr class="data">
                
@@ -3143,12 +2952,7 @@ EOT
                <td></td>
                
                <td>136</td>
-               
-            </tr>
-            
-         </table>
-         
-      </div>
-      
-   </div><div id="" class="pb"></div>
-</div><?php require_once(ROOT_PATH."layout_includes/showcase_bottom.inc.php"); ?>
+               </tr>
+            </table>
+         </div>
+      </div><div id="" class="pb"></div></div><?php require_once(ROOT_PATH."layout_includes/showcase_bottom.inc.php"); ?>

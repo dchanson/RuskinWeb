@@ -24,11 +24,9 @@ define("FACS_FILE_NAMES", <<<EOT
 EOT
 );
       ?>
-    <?php require_once(ROOT_PATH."layout_includes/showcase_top.inc.php"); ?><div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-left"><img id="facs_preview" src="" width="100&#x0025;"><img id="facs" src="" width="100&#x0025;" style="display:none"></div>
-<div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-splitter"></div>
-<div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-right">
+    <?php require_once(ROOT_PATH."layout_includes/showcase_top.inc.php"); ?><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-left"><img id="facs_preview" src="" width="100%"><img id="facs" src="" width="100%" style="display:none"></div><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-splitter"></div><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-right">
    <div class="backToApparatusLink"><a href="/apparatuses/apparatuses/account_of_a_tour_on_the_continent_apparatus#account_of_a_tour_on_the_continent_le" target="_self"></a><br/></div>
-   <div class="fileName"><span>&#x201C;Villa Pliniana&#x201D; &#x005B;poem&#x005D;</span></div>
+   <div class="fileName"><span>“Villa Pliniana” [poem]</span></div>
    <div class="witness">
       <div class="poem" id="">
          
@@ -81,7 +79,7 @@ EOT
             <span class="l">Of spirits, whose high deeds long hence</span><br/>
             <span class="l">Shall still be told as now!</span><br/>
             <span class="l">How strange those mighty powers that hurled</span><br/>
-            <span class="l">With change and terror o&#x02BC;er the world</span><br/>
+            <span class="l">With change and terror oʼer the world</span><br/>
             <span class="l">Should pass away, we know not how!
                <div class="s-line-number s-line-number-auto">
                   <div class="tooltip">
@@ -90,7 +88,7 @@ EOT
             <span class="l">That one would wonder how a thing</span><br/>
             <span class="l">So temporary, perishing,</span><br/>
             <span class="l">Should dare such deeds, or work such change</span><br/>
-            <span class="l">I&#x02BC; the texture of the world.</span><br/>
+            <span class="l">Iʼ the texture of the world.</span><br/>
             <span class="l">There have been many mighty,
                <div class="s-line-number s-line-number-auto">
                   <div class="tooltip">
@@ -99,9 +97,6 @@ EOT
             <span class="l">And many more renowned;</span><br/>
             <span class="l">The ignoble and the glorious</span><br/>
             <span class="l">Are underneath the ground.</span><br/>
-            
+            </div>
          </div>
-         
-      </div>
-   </div><div id="" class="pb"></div>
-</div><?php require_once(ROOT_PATH."layout_includes/showcase_bottom.inc.php"); ?>
+   </div><div id="" class="pb"></div></div><?php require_once(ROOT_PATH."layout_includes/showcase_bottom.inc.php"); ?>

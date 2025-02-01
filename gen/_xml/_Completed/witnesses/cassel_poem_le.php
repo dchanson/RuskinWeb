@@ -24,16 +24,14 @@ define("FACS_FILE_NAMES", <<<EOT
 EOT
 );
       ?>
-    <?php require_once(ROOT_PATH."layout_includes/showcase_top.inc.php"); ?><div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-left"><img id="facs_preview" src="" width="100&#x0025;"><img id="facs" src="" width="100&#x0025;" style="display:none"></div>
-<div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-splitter"></div>
-<div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-right">
+    <?php require_once(ROOT_PATH."layout_includes/showcase_top.inc.php"); ?><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-left"><img id="facs_preview" src="" width="100%"><img id="facs" src="" width="100%" style="display:none"></div><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-splitter"></div><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-right">
    <div class="backToApparatusLink"><a href="/apparatuses/apparatuses/account_of_a_tour_on_the_continent_apparatus#account_of_a_tour_on_the_continent_le" target="_self"></a><br/></div>
-   <div class="fileName"><span>&#x201C;Cassel&#x201D; &#x005B;poem&#x005D;</span></div>
+   <div class="fileName"><span>“Cassel” [poem]</span></div>
    <div class="witness">
       <div class="poem" id="">  
          
          <div class="lg-stanza">
-            <span class="l">T<span class="smallcaps">HE</span> way was long, and yet &#x02BC;twas sweet,&#x2014;</span><br/> 
+            <span class="l">T<span class="smallcaps">HE</span> way was long, and yet ʼtwas sweet,—</span><br/> 
             <span class="l">Through many a shady, soft retreat,</span><br/> 
             <span class="l">Where the broad willow semblance gave</span><br/>  
             <span class="l">Of weeping beauty to the wave;</span><br/> 
@@ -42,18 +40,18 @@ EOT
                   <div class="tooltip">
           System generated line number
         </div><a href="#L5" id="L5">5</a></div></span><br/> 
-            <span class="l">And feathery aspen&#x02BC;s quivering crest;</span><br/> 
+            <span class="l">And feathery aspenʼs quivering crest;</span><br/> 
             <span class="l">And many a spiry poplar glade,</span><br/> 
-            <span class="l">And hazel&#x02BC;s rich entangled shade:</span><br/> 
+            <span class="l">And hazelʼs rich entangled shade:</span><br/> 
             <span class="l">While, onward as advancing still</span><br/> 
-            <span class="l">From <span class="placeName-STOMER">Omer</span>&#x02BC;s plain<span class="gloss-inline">
+            <span class="l">From <span class="placeName-STOMER">Omer</span>ʼs plain<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/cassel_glosses_contextual#STOMERSPLAINGLOSS" target="_blank" class="inactive">
           
           
                 <span class="gloss-contextual">
                 1
                 </span>
-              </a></span> to <span class="placeName-CASSEL">Cassel</span>&#x02BC;s hill,<span class="gloss-inline">
+              </a></span> to <span class="placeName-CASSEL">Cassel</span>ʼs hill,<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/cassel_glosses_contextual#CASSELLSHILLGLOSS" target="_blank" class="inactive">
           
           
@@ -64,11 +62,11 @@ EOT
                   <div class="tooltip">
           System generated line number
         </div><a href="#L10" id="L10">10</a></div></span><br/> 
-            <span class="l">Far&#x2014;yet more far the landscape threw</span><br/> 
+            <span class="l">Far—yet more far the landscape threw</span><br/> 
             <span class="l">Its deep, immeasurable blue.</span><br/> 
             <span class="l">Oh, beautiful those plains were showing,</span><br/> 
             <span class="l">Where summer sun was hotly glowing!</span><br/> 
-            <span class="l">Many a battlefield lay spread&#x2014;
+            <span class="l">Many a battlefield lay spread—
                <div class="s-line-number s-line-number-auto">
                   <div class="tooltip">
           System generated line number
@@ -76,7 +74,7 @@ EOT
             <span class="l">Once the dark dwelling of the dead:</span><br/>
             <div id="" class="pb"></div>
             <span class="l">But fruitful now their champaigns wave </span><br/>
-            <span class="l">With bending grain on soldier&#x02BC;s grave.</span><br/>
+            <span class="l">With bending grain on soldierʼs grave.</span><br/>
             <span class="l">While far beneath in long array</span><br/>
             <span class="l">The priestly orders wound their way;
                <div class="s-line-number s-line-number-auto">
@@ -87,7 +85,7 @@ EOT
             <span class="l">Rich wrought with gems, and stiff with gold:</span><br/>
             <span class="l">While, as the cross came borne on high</span><br/>
             <span class="l">Beneath its crimson canopy,</span><br/>
-            <span class="l">Many the haughty head that bowed,&#x2014;
+            <span class="l">Many the haughty head that bowed,—
                <div class="s-line-number s-line-number-auto">
                   <div class="tooltip">
           System generated line number
@@ -101,8 +99,8 @@ EOT
                   <div class="tooltip">
           System generated line number
         </div><a href="#L30" id="L30">30</a></div></span><br/>
-            <span class="l">Many a monkish voice was there,&#x2014;</span><br/>
-            <span class="l">Many a trumpet rent the air,&#x2014;</span><br/>
+            <span class="l">Many a monkish voice was there,—</span><br/>
+            <span class="l">Many a trumpet rent the air,—</span><br/>
             <span class="l">And softer, sweeter, yet the same,</span><br/>
             <span class="l">The sounds in failing cadence came.</span><br/>
             <span class="l">No marvel that the pomp and pride
@@ -110,8 +108,8 @@ EOT
                   <div class="tooltip">
           System generated line number
         </div><a href="#L35" id="L35">35</a></div></span><br/>
-            <span class="l">Of <span class="placeName-ROME">Rome</span>&#x02BC;s religion thus should hide</span><br/>
-            <span class="l">The serpent&#x2010;folds beneath that robe,</span><br/>
+            <span class="l">Of <span class="placeName-ROME">Rome</span>ʼs religion thus should hide</span><br/>
+            <span class="l">The serpent‐folds beneath that robe,</span><br/>
             <span class="l">The poison mantling in the bowl.<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/cassel_glosses_contextual#NOMARVEL" target="_blank" class="inactive">
           
@@ -120,9 +118,6 @@ EOT
                 3
                 </span>
               </a></span></span><br/>
-            
+            </div>
          </div>
-         
-      </div>
-   </div><div id="" class="pb"></div>
-</div><?php require_once(ROOT_PATH."layout_includes/showcase_bottom.inc.php"); ?>
+   </div><div id="" class="pb"></div></div><?php require_once(ROOT_PATH."layout_includes/showcase_bottom.inc.php"); ?>

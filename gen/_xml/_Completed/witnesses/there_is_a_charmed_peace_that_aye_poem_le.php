@@ -24,11 +24,9 @@ define("FACS_FILE_NAMES", <<<EOT
 EOT
 );
       ?>
-    <?php require_once(ROOT_PATH."layout_includes/showcase_top.inc.php"); ?><div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-left"><img id="facs_preview" src="" width="100&#x0025;"><img id="facs" src="" width="100&#x0025;" style="display:none"></div>
-<div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-splitter"></div>
-<div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-right">
+    <?php require_once(ROOT_PATH."layout_includes/showcase_top.inc.php"); ?><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-left"><img id="facs_preview" src="" width="100%"><img id="facs" src="" width="100%" style="display:none"></div><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-splitter"></div><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-right">
    <div class="backToApparatusLink"><a href="/apparatuses/apparatuses/account_of_a_tour_on_the_continent_apparatus#account_of_a_tour_on_the_continent_le" target="_self"></a><br/></div>
-   <div class="fileName"><span>&#x201C;There is a charmed peace that aye&#x201D; &#x005B;&#x201C;The Alps from Schaffhausen&#x201D;&#x005D; &#x005B;poem&#x005D;</span></div>
+   <div class="fileName"><span>“There is a charmed peace that aye” [“The Alps from Schaffhausen”] [poem]</span></div>
    <div class="witness">
       <div class="poem" id="">
          
@@ -55,12 +53,12 @@ EOT
                 1
                 </span>
               </a></span></span><br/>
-            <span class="l">&#x201C;Keep holy the Sabbath day,
+            <span class="l">“Keep holy the Sabbath day,
                <div class="s-line-number s-line-number-auto">
                   <div class="tooltip">
           System generated line number
         </div><a href="#L5" id="L5">5</a></div></span><br/>
-            <span class="l">Sleep it holy ever alway.&#x201D;</span><br/>
+            <span class="l">Sleep it holy ever alway.”</span><br/>
             <span class="l">Sabbath morn was soft and shroudless;</span><br/>
             <span class="l">Sabbath noon was calm and cloudless;<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/there_is_a_charmed_peace_that_aye_poem_glosses_textual#LINES1TO8GLOSS" target="_blank" class="inactive">
@@ -81,13 +79,13 @@ EOT
                 2
                 </span>
               </a></span></span><br/>
-            <span class="l">O&#x02BC;er the blue <span class="geogName-RHINE">Rhine</span>&#x02BC;s sullen flow.
+            <span class="l">Oʼer the blue <span class="geogName-RHINE">Rhine</span>ʼs sullen flow.
                <div class="s-line-number s-line-number-auto">
                   <div class="tooltip">
           System generated line number
         </div><a href="#L10" id="L10">10</a></div></span><br/>
             <span class="l">He has worn a prisoned way</span><br/>
-            <span class="l">&#x02BC;Neath the round hills&#x02BC; bending sway.</span><br/>
+            <span class="l">ʼNeath the round hillsʼ bending sway.</span><br/>
             <span class="l">Far and near their sides you see</span><br/>
             <span class="l">Gay with vivid greenery.</span><br/>
             <span class="l">Many a branch and bough is bending
@@ -95,7 +93,7 @@ EOT
                   <div class="tooltip">
           System generated line number
         </div><a href="#L15" id="L15">15</a></div></span><br/>
-            <span class="l">O&#x02BC;er the grey rocks, grim impending.</span><br/>
+            <span class="l">Oʼer the grey rocks, grim impending.</span><br/>
             <span class="l">Danced the leaves on the bent twigs high,</span><br/>
             <span class="l">Skeleton like on the evening sky.</span><br/>
             <span class="l">And the oaks threw wide their jagged spray</span><br/>
@@ -104,8 +102,8 @@ EOT
                   <div class="tooltip">
           System generated line number
         </div><a href="#L20" id="L20">20</a></div></span><br/>
-            <span class="l">And the foam drove down on the water&#x02BC;s hue</span><br/>
-            <span class="l">Like a wreath of snow on the sapphire&#x02BC;s blue.</span><br/>
+            <span class="l">And the foam drove down on the waterʼs hue</span><br/>
+            <span class="l">Like a wreath of snow on the sapphireʼs blue.</span><br/>
             <span class="l">And a wreath of mist curled faint and far,</span><br/>
             <span class="l">Where the cataract drove his dreadful war.<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/there_is_a_charmed_peace_that_aye_poem_glosses_contextual#CATARACTGLOSS" target="_blank" class="inactive">
@@ -115,13 +113,13 @@ EOT
                 3
                 </span>
               </a></span></span><br/>
-            <span class="l">The <span class="geogName-ALPS">Alps</span>! the <span class="geogName-ALPS">Alps</span>!&#x2014;it is no cloud
+            <span class="l">The <span class="geogName-ALPS">Alps</span>! the <span class="geogName-ALPS">Alps</span>!—it is no cloud
                <div class="s-line-number s-line-number-auto">
                   <div class="tooltip">
           System generated line number
         </div><a href="#L25" id="L25">25</a></div></span><br/>
             <span class="l">Wreathes the plain with its paly shroud!</span><br/>
-            <span class="l">The <span class="geogName-ALPS">Alps</span>! the <span class="geogName-ALPS">Alps</span>!&#x2014;Full far away</span><br/>
+            <span class="l">The <span class="geogName-ALPS">Alps</span>! the <span class="geogName-ALPS">Alps</span>!—Full far away</span><br/>
             <span class="l">The long successive ranges lay.<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/there_is_a_charmed_peace_that_aye_poem_glosses_contextual#THEALPSTHEALPSGLOSS" target="_blank" class="inactive">
           
@@ -137,10 +135,10 @@ EOT
           System generated line number
         </div><a href="#L30" id="L30">30</a></div></span><br/>
             <span class="l">For could that rosy line of light,</span><br/>
-            <span class="l">Of unimaginable height,&#x2014;</span><br/>
+            <span class="l">Of unimaginable height,—</span><br/>
             <span class="l">The moony gleam, so far that threw</span><br/>
             <span class="l">Its fixèd flash above the blue</span><br/>
-            <span class="l">Of the far hills and <span class="geogName-MONTRIGI">Rigi</span>&#x02BC;s crest<span class="gloss-inline">
+            <span class="l">Of the far hills and <span class="geogName-MONTRIGI">Rigi</span>ʼs crest<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/there_is_a_charmed_peace_that_aye_poem_glosses_contextual#RIGISCRESTGLOSS" target="_blank" class="inactive">
           
           
@@ -151,9 +149,9 @@ EOT
                   <div class="tooltip">
           System generated line number
         </div><a href="#L35" id="L35">35</a></div></span><br/>
-            <span class="l">Yet russet from the flamy west,&#x2014;</span><br/>
+            <span class="l">Yet russet from the flamy west,—</span><br/>
             <span class="l">Were they not clouds, whose sudden change</span><br/>
-            <span class="l">Had bound them down, an icy range?&#x2014;</span><br/>
+            <span class="l">Had bound them down, an icy range?—</span><br/>
             <span class="l">Was not the wondrous battlement</span><br/>
             <span class="l">A thing of the domy firmament?
                <div class="s-line-number s-line-number-auto">
@@ -162,16 +160,16 @@ EOT
         </div><a href="#L40" id="L40">40</a></div></span><br/>
             <span class="l">Are they of heaven, are they of air?</span><br/>
             <span class="l">Or can earth bring forth a thing so fair?</span><br/>
-            <span class="l">There&#x02BC;s beauty in the sky&#x2010;bound sea,</span><br/>
+            <span class="l">Thereʼs beauty in the sky‐bound sea,</span><br/>
             <span class="l">With its noble sweep of infinity:</span><br/>
-            <span class="l">There&#x02BC;s beauty in the sun&#x02BC;s last fire,
+            <span class="l">Thereʼs beauty in the sunʼs last fire,
                <div class="s-line-number s-line-number-auto">
                   <div class="tooltip">
           System generated line number
         </div><a href="#L45" id="L45">45</a></div></span><br/>
             <span class="l">When he lighteth up his funeral pyre:</span><br/>
-            <span class="l">There is loveliness in the heaven&#x02BC;s hue,</span><br/>
-            <span class="l">And there&#x02BC;s beauty in the mountain&#x02BC;s blue;</span><br/>
+            <span class="l">There is loveliness in the heavenʼs hue,</span><br/>
+            <span class="l">And thereʼs beauty in the mountainʼs blue;</span><br/>
             <span class="l">But look on the <span class="geogName-ALPS">Alps</span> by the sunset quiver</span><br/>
             <span class="l">And think on the moment thenceforward for ever!<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/there_is_a_charmed_peace_that_aye_poem_glosses_contextual#THENCEFORWARDFOREVER" target="_blank" class="inactive">
@@ -184,9 +182,6 @@ EOT
                   <div class="tooltip">
           System generated line number
         </div><a href="#L50" id="L50">50</a></div></span><br/>
-            
+            </div>
          </div>
-         
-      </div>
-   </div><div id="" class="pb"></div>
-</div><?php require_once(ROOT_PATH."layout_includes/showcase_bottom.inc.php"); ?>
+   </div><div id="" class="pb"></div></div><?php require_once(ROOT_PATH."layout_includes/showcase_bottom.inc.php"); ?>

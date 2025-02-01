@@ -24,20 +24,16 @@ msi/1229143.jpg msi/1229148.jpg msi/1229143.jpg msi/1229143.jpg msi/1229144.jpg 
 EOT
 );
       ?>
-    <?php require_once(ROOT_PATH."layout_includes/showcase_top.inc.php"); ?><div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-left"><img id="facs_preview" src="" width="100&#x0025;"><img id="facs" src="" width="100&#x0025;" style="display:none"></div>
-<div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-splitter"></div>
-<div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-right">
+    <?php require_once(ROOT_PATH."layout_includes/showcase_top.inc.php"); ?><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-left"><img id="facs_preview" src="" width="100%"><img id="facs" src="" width="100%" style="display:none"></div><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-splitter"></div><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-right">
    <div class="backToApparatusLink"></div>
-   <div class="fileName"><span>&#x201C;Poetry&#x201D;</span></div><div id="1229143r" class="pb"></div><div class="pageNum-top-right"><div 
+   <div class="fileName"><span>“Poetry”</span></div><div id="1229143r" class="pb"></div><div class="pageNum-top-right"><div 
           class="subst-del s-subst s-del" ><span class="unclear-CWB">8</span></div><div 
           class="s-subst s-add s-inline">9</div>7</div><br/><br/>
    <div class="title" id="">
       
-      <div class="title"><span class="space" style="padding-left:3.2em"> </span>Poe<span class="overwriting">tr</span>y
-      </div>
-      
-   </div><br/><div id="" class="pb"></div>
-   <div class="fileName"><span>&#x201C;When furious up from mines the water pours&#x201D; &#x005B;&#x201C;The Steam Engine&#x201D;&#x005D;</span></div>
+      <div class="title"><span class="space" style="padding-left:3.2em"> </span>Poe<span class="overwriting">tr</span>y</div>
+      </div><br/><div id="" class="pb"></div>
+   <div class="fileName"><span>“When furious up from mines the water pours” [“The Steam Engine”]</span></div>
    <div class="witness">
       <div class="poem" id="">
          
@@ -55,14 +51,14 @@ EOT
           class="subst-del s-subst s-del" ><span class="space" style="padding-left:0.8em"> </span><span class="gap-illegible" style="padding-left: 2em"></span></div><div 
           class="s-subst s-add s-overwrite s-inline">then may</div> cloud<div 
           class="subst-del s-subst s-del" ><span class="gap" style="padding-left:0.4em"> </span>e<span class="gap-illegible" style="padding-left: 2em"></span></div><div 
-          class="s-subst s-add s-overwrite s-inline">s gather then may</div> thunder<span class="runover" style="left:14.0em"><span class="g-runover">&#x005B;</span>roar</span></span><br/>
+          class="s-subst s-add s-overwrite s-inline">s gather then may</div> thunder<span class="runover" style="left:14.0em"><span class="g-runover">[</span>roar</span></span><br/>
             <span class="l"><div 
           class="subst-del s-subst s-del" ><span class="space" style="padding-left:0.8em"> </span><span class="unclear-CWB">th</span>e</div><div 
           class="s-subst s-add s-overwrite s-inline">then m</div>ay <div 
           class="subst-del s-subst s-del" ><span class="gap" style="padding-left:1.2em"> </span>n<span class="gap" style="padding-left:0.4em"> </span></div><div 
           class="s-subst s-add s-overwrite s-inline">the li</div>ghtnings <div 
           class="subst-del s-subst s-del" ><span class="gap-illegible" style="padding-left: 2em"></span></div><div 
-          class="s-subst s-add s-overwrite s-inline">flash and</div> rain<span class="runover" style="left:4.0em">may pour<span class="space" style="padding-left:6.4em"> </span><span class="g-runover">&#x005B;</span>sig<span class="unclear-CWB">h</span><span class="gloss-inline">
+          class="s-subst s-add s-overwrite s-inline">flash and</div> rain<span class="runover" style="left:4.0em">may pour<span class="space" style="padding-left:6.4em"> </span><span class="g-runover">[</span>sig<span class="unclear-CWB">h</span><span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/the_steam_engine_glosses_contextual#LIGHTNING" target="_blank" class="inactive">
           
           
@@ -87,31 +83,31 @@ EOT
                <div class="s-line-number s-line-number-auto">
                   <div class="tooltip">
           System generated line number
-        </div><a href="#L10" id="L10">10</a></div><span class="runover" style="left:11.2em"><span class="g-runover">&#x005B;</span>waves</span></span><br/>
-            <span class="l">by boile<span class="overwriting">rs</span> bursting but a steamboat<span class="runover" style="left:12.0em"><span class="g-runover">&#x005B;</span>can</span></span><br/>
+        </div><a href="#L10" id="L10">10</a></div><span class="runover" style="left:11.2em"><span class="g-runover">[</span>waves</span></span><br/>
+            <span class="l">by boile<span class="overwriting">rs</span> bursting but a steamboat<span class="runover" style="left:12.0em"><span class="g-runover">[</span>can</span></span><br/>
             <div id="1229144v" class="pb"></div>
             <div class="pageNum-top-left">98</div><br/>
-            <span class="l">be the most useful engine brought<span class="runover" style="left:11.2em"><span class="g-runover">&#x005B;</span>to man</span></span><br/>
+            <span class="l">be the most useful engine brought<span class="runover" style="left:11.2em"><span class="g-runover">[</span>to man</span></span><br/>
             <span class="l">the grinding stones that by its force<span class="runover" style="left:3.6em">are whi<div 
           class="subst-del s-subst s-del" ><span class="unclear-CWB">l</span></div><div 
           class="s-subst s-add s-overwrite s-inline">r</div>led</span></span><br/>
-            <span class="l">and by their force the yellow grains<span class="runover" style="left:10.4em"><span class="g-runover">&#x005B;</span>are twirled</span></span><br/>
+            <span class="l">and by their force the yellow grains<span class="runover" style="left:10.4em"><span class="g-runover">[</span>are twirled</span></span><br/>
             <span class="l"><span class="caps-doubleletter">B</span>ruised ground and thrown away
                <div class="s-line-number s-line-number-auto">
                   <div class="tooltip">
           System generated line number
         </div><a href="#L15" id="L15">15</a></div><span class="runover" style="left:3.2em">in boxes small</span></span><br/>
-            <span class="l"><span class="caps-doubleletter">W</span>hile it doth thunder near the<span class="runover" style="left:8.8em"><span class="g-runover">&#x005B;</span>echoing wall</span></span><br/>
-            <span class="l"><span class="caps-doubleletter">T</span>he whirring wheels arranged in<span class="runover" style="left:10.8em"><span class="g-runover">&#x005B;</span>whirling rows</span></span><br/>
+            <span class="l"><span class="caps-doubleletter">W</span>hile it doth thunder near the<span class="runover" style="left:8.8em"><span class="g-runover">[</span>echoing wall</span></span><br/>
+            <span class="l"><span class="caps-doubleletter">T</span>he whirring wheels arranged in<span class="runover" style="left:10.8em"><span class="g-runover">[</span>whirling rows</span></span><br/>
             <span class="l"><span class="caps-doubleletter">A</span>nd on the wheels the spinner <div 
           class="subst-del s-subst s-del" ><span class="gap-illegible" style="padding-left: 2em"></span>ws</div><div 
-          class="s-subst s-add s-overwrite s-inline">cotton</div><span class="runover" style="left:12.8em"><span class="g-runover">&#x005B;</span><span class="space" style="padding-left:0.4em"> </span>throws</span></span><br/>
+          class="s-subst s-add s-overwrite s-inline">cotton</div><span class="runover" style="left:12.8em"><span class="g-runover">[</span><span class="space" style="padding-left:0.4em"> </span>throws</span></span><br/>
             <span class="l"><span class="caps-doubleletter">N</span>ext moves the noisy beam the<span class="runover" style="left:2.8em">wheels do whirl</span></span><br/>
             <span class="l"><span class="caps-doubleletter">A</span>nd next the wheels the cotton
                <div class="s-line-number s-line-number-auto">
                   <div class="tooltip">
           System generated line number
-        </div><a href="#L20" id="L20">20</a></div><span class="runover" style="left:8.8em"><span class="g-runover">&#x007C;</span>fibres twirl<span class="gloss-inline">
+        </div><a href="#L20" id="L20">20</a></div><span class="runover" style="left:8.8em"><span class="g-runover">|</span>fibres twirl<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/the_steam_engine_glosses_contextual#COTTONFIBRES" target="_blank" class="inactive">
           
           
@@ -119,9 +115,9 @@ EOT
                 2
                 </span>
               </a></span></span></span><br/>
-            <span class="l"><span class="caps-doubleletter">T</span>he moving bellows that are made<span class="runover" style="left:10.8em"><span class="g-runover">&#x007C;</span>to roar</span></span><br/>
+            <span class="l"><span class="caps-doubleletter">T</span>he moving bellows that are made<span class="runover" style="left:10.8em"><span class="g-runover">|</span>to roar</span></span><br/>
             <span class="l"><span class="caps-doubleletter">B</span>y its huge strength that melt<span class="runover" style="left:3.2em">the red hot ore</span></span><br/>
-            <span class="l"><span class="caps-doubleletter">T</span>he copper mines that by it<span class="runover" style="left:8.8em"><span class="g-runover">&#x007C;</span>emptied are</span></span><br/>
+            <span class="l"><span class="caps-doubleletter">T</span>he copper mines that by it<span class="runover" style="left:8.8em"><span class="g-runover">|</span>emptied are</span></span><br/>
             <span class="l">nd their blue metal now is<span class="runover" style="left:2.4em">brought from far</span></span><br/>
             <div id="1229144r" class="pb"></div>
             <div class="pageNum-top-right">99</div><br/>
@@ -170,16 +166,14 @@ EOT
                   <div class="tooltip">
           System generated line number
         </div><a href="#L35" id="L35">35</a></div></span><br/>
-            
+            </div>
          </div>
-         
-      </div>
    </div><div id="" class="pb"></div>
-   <div class="fileName"><span>&#x201C;On Scotland&#x201D;</span></div>
+   <div class="fileName"><span>“On Scotland”</span></div>
    <div class="witness">
       <div class="poem" id="">             
          
-         <div class="title" id="&#x0040;"><span class="space" style="padding-left:2.0em"> </span>poem II<span class="runover" style="left:2.0em">on scotland</div>
+         <div class="title" id="@"><span class="space" style="padding-left:2.0em"> </span>poem II<span class="runover" style="left:2.0em">on scotland</div>
          
          <div class="lg-stanza">
             <span class="l"><span class="space" style="padding-left:0.8em"> </span><span class="doubleletter-fill">O</span> what a change from<span class="runover" style="left:2.4em">pretty <span class="placeName-PERTH">perth</span> so near</span></span><br/>
@@ -223,7 +217,7 @@ EOT
             <span class="l">in short such changes<span class="runover" style="left:2.0em"><span class="placeName-SCOTLAND">scotland</span> does <div 
           class="subst-del s-subst s-del" >m</div><div 
           class="s-subst s-add s-overwrite s-inline">no</div>w take</span></span><br/>
-            <span class="l">that I can&#x02BC;t tell them an<div 
+            <span class="l">that I canʼt tell them an<div 
           class="subst-del s-subst s-del" ><span class="space" style="padding-left:0.4em"> </span>I</div><div 
           class="s-subst s-add s-overwrite s-inline">d<span class="space" style="padding-left:0.4em"> </span>I</div><span class="runover">quickly end<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/on_scotland_glosses_contextual#COLLINGWOODSENDGLOSS" target="_blank" class="inactive">
@@ -233,20 +227,18 @@ EOT
                 5
                 </span>
               </a></span></span></span><br/>
-            
+            </div>
          </div>
-         
-      </div>
    </div><div id="" class="pb"></div>
-   <div class="fileName"><span>&#x201C;The Defiance of War&#x201D;</span></div>
+   <div class="fileName"><span>“The Defiance of War”</span></div>
    <div class="witness">
       <div class="poem" id="">
          
-         <div class="title" id="&#x0040;"><span class="space" style="padding-left:4.0em"> </span>poem III<br/><span class="space" style="padding-left:4.0em"> </span>The defia<span class="del-erasure"><span class="unclear-CWB">t</span><span class="gap-illegible" style="padding-left: 2em"></span><span class="unclear-CWB">ll</span></span><span class="add-overwriting">nce of war</span><span class="del-erasure"><span class="unclear-CWB">woe</span></span></div>
+         <div class="title" id="@"><span class="space" style="padding-left:4.0em"> </span>poem III<br/><span class="space" style="padding-left:4.0em"> </span>The defia<span class="del-erasure"><span class="unclear-CWB">t</span><span class="gap-illegible" style="padding-left: 2em"></span><span class="unclear-CWB">ll</span></span><span class="add-overwriting">nce of war</span><span class="del-erasure"><span class="unclear-CWB">woe</span></span></div>
          <br/>
          
          <div class="lg-stanza">
-            <span class="l"><span class="space" style="padding-left:0.8em"> </span><span class="doubleletter-fill">W</span><span class="smallcaps">ar</span> war thou art beating thy<span class="runover" style="left:12.0em"><span class="g-runover">&#x005B;</span>drum</span></span><br/>
+            <span class="l"><span class="space" style="padding-left:0.8em"> </span><span class="doubleletter-fill">W</span><span class="smallcaps">ar</span> war thou art beating thy<span class="runover" style="left:12.0em"><span class="g-runover">[</span>drum</span></span><br/>
             <span class="l"><span class="space" style="padding-left:0.4em"> </span>but we wish thee not to come</span><br/>
             <span class="l"><span class="space" style="padding-left:0.4em"> </span>we like better our peaceful home
                <div class="s-line-number s-line-number-auto">
@@ -254,7 +246,7 @@ EOT
           System generated line number
         </div><a href="#L50" id="L50">50</a></div></span><br/>
             <span class="l"><span class="space" style="padding-left:0.4em"> </span>you like better than us to come</span><br/>
-            <span class="l"><span class="space" style="padding-left:0.4em"> </span>but we&#x02BC;ll conquer in spite of thee</span><br/>
+            <span class="l"><span class="space" style="padding-left:0.4em"> </span>but weʼll conquer in spite of thee</span><br/>
             <span class="l"><span class="space" style="padding-left:0.4em"> </span>you like better a king to be</span><br/>
             <span class="l"><span class="space" style="padding-left:0.4em"> </span>than us to conquer but shall not he</span><br/>
             <span class="l"><span class="space" style="padding-left:0.4em"> </span>the strongest of us the conqueror be
@@ -278,18 +270,15 @@ EOT
             <span class="l"><span class="space" style="padding-left:0.8em"> </span>else thy army here shall die</span><br/>
             <span class="l"><span class="space" style="padding-left:0.8em"> </span>thy army here shall mercy cry</span><br/>
             <span class="l"><span class="space" style="padding-left:0.8em"> </span>or else they here shall suffering die</span><br/>
-            
+            </div>
          </div>
-         
-      </div>
    </div><div id="" class="pb"></div>
-   <div class="fileName"><span>&#x201C;The Needless Alarm&#x201D;</span></div>
+   <div class="fileName"><span>“The Needless Alarm”</span></div>
    <div class="witness">
       <div class="poem" id="">
          <div class="half"></div>
          
-         <div class="title" id="&#x0040;"><span class="space" style="padding-left:1.6em"> </span><span class="del-erasure">The needless alarm</span><span class="add-overwriting"><span class="space" style="padding-left:0.4em"> </span>poem IIII</span><br/><span class="space" style="padding-left:1.6em"> </span>the needless alarm
-         </div>
+         <div class="title" id="@"><span class="space" style="padding-left:1.6em"> </span><span class="del-erasure">The needless alarm</span><span class="add-overwriting"><span class="space" style="padding-left:0.4em"> </span>poem IIII</span><br/><span class="space" style="padding-left:1.6em"> </span>the needless alarm</div>
          <div class="half"></div>
          <br/>
          
@@ -303,7 +292,7 @@ EOT
           System generated line number
         </div><a href="#L65" id="L65">65</a></div></span><br/>
             <span class="l">made of rushes tall and high</span><br/>
-            <span class="l">that to the skies were heard to<span class="runover" style="left:10.8em"><span class="g-runover">&#x007C;</span>sigh<span class="gloss-inline">
+            <span class="l">that to the skies were heard to<span class="runover" style="left:10.8em"><span class="g-runover">|</span>sigh<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/the_needless_alarm_glosses_textual#RUNOVER" target="_blank" class="inactive">
           
           
@@ -313,7 +302,7 @@ EOT
                 </span>
                 
               </a></span></span></span><br/>
-            <span class="l">while one night while she was<span class="runover" style="left:10.4em"><span class="g-runover">&#x007C;</span>sleeping<span class="gloss-inline">
+            <span class="l">while one night while she was<span class="runover" style="left:10.4em"><span class="g-runover">|</span>sleeping<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/the_needless_alarm_glosses_textual#RUNOVER" target="_blank" class="inactive">
           
           
@@ -344,10 +333,8 @@ EOT
               class="add-above" 
               style="left:10.4em">e</div></span><br/>
             <span class="l">was left in safety with<span class="runover" style="left:2.4em">her house</span></span><br/>
-            
+            </div>
          </div>
-         
-      </div>
    </div><div id="" class="pb"></div>
    <div class="fileName"><span>Margaret Ruskin's Gloss on the Dating of MS I</span></div>
    <div class="witness">
@@ -360,20 +347,17 @@ EOT
             <div class="threequarter"></div>
             
             <div class="p"><span class="space" style="padding-left:0.8em"> </span>This book begun about <span class="date-1826-09-1826-10">Sep<sup>t.</sup> or Oct 1826</span><span class="runover">finished about <span class="date-1827-01">Jan<sup>y</sup> 1827</span></div>
-            
+            </div>
          </div>
-         
-      </div>
    </div><div id="" class="pb"></div>
    <div class="fileName"><span>"On Papa's Leaving Home"</span></div>
    <div class="witness">
       <div class="poem" id="">               
          
-         <h1 class="page-title">poem <span class="del-erasure">IIII</span><span class="add-overwriting">V</span><br/>on papas leave<span class="del">e</span><span class="add-overwriting">i</span>ng home
-         </h1>
+         <h1 class="page-title">poem <span class="del-erasure">IIII</span><span class="add-overwriting">V</span><br/>on papas leave<span class="del">e</span><span class="add-overwriting">i</span>ng home</h1>
          
          <div class="lg-stanza">  
-            <span class="l">Papas leaving home was a moment<span class="runover" style="left:8.4em"><span class="g-runover">&#x005B;</span>of sorrow<span class="gloss-inline">
+            <span class="l">Papas leaving home was a moment<span class="runover" style="left:8.4em"><span class="g-runover">[</span>of sorrow<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/on_papas_leaving_home_glosses_textual#RUNOVER" target="_blank" class="inactive">
           
           
@@ -385,7 +369,7 @@ EOT
               </a></span><br/></span></span><br/>
             <div id="1229147v" class="pb"></div>
             <div class="pageNum-top-left">104</div><br/> 
-            <span class="l"><span class="space" style="padding-left:0.8em"> </span>because he was not to come<span class="runover" style="left:2.8em">back to&#x2010;morrow</span></span><br/>
+            <span class="l"><span class="space" style="padding-left:0.8em"> </span>because he was not to come<span class="runover" style="left:2.8em">back to‐morrow</span></span><br/>
             <span class="l"><span class="space" style="padding-left:0.8em"> </span>but we thought that the w<div 
           class="subst-del s-subst s-del" >o</div><div 
           class="s-subst s-add s-overwrite s-inline">h</div>ole
@@ -415,17 +399,14 @@ EOT
           class="subst-del s-subst s-del" >d</div><div 
           class="s-subst s-add s-overwrite s-inline">p</div>lease him and please<span class="runover" style="left:3.6em">him till all was so well</span></span><br/>
             <span class="l"><span class="space" style="padding-left:0.8em"> </span>that from joy to his sorrow<span class="runover" style="left:1.6em">he never has fell.</span></span><br/>
-            
+            </div>
          </div>
-         
-      </div>
    </div><div id="" class="pb"></div>
    <div class="fileName"><span>"On the Rainbow: In Blank Verse"</span></div>
    <div class="witness">
       <div class="poem" id="">
          
-         <h1 class="page-title"><span class="del-scratchout">poem V</span><br/><span class="space" style="padding-left:4.4em"> </span><span class="del-scratchout">on the ra</span><div id="1229147r" class="pb"></div>poem VI<br/>on the rainbow<br/>in blank verse<div class="g-justification" style="width:4.0em"> </div>
-         </h1>
+         <h1 class="page-title"><span class="del-scratchout">poem V</span><br/><span class="space" style="padding-left:4.4em"> </span><span class="del-scratchout">on the ra</span><div id="1229147r" class="pb"></div>poem VI<br/>on the rainbow<br/>in blank verse<div class="g-justification" style="width:4.0em"> </div></h1>
          <div class="pageNum-top-right">105</div><br/> 
          
          <div class="lg-stanza">
@@ -568,9 +549,6 @@ EOT
                   <div class="tooltip">
           System generated line number
         </div><a href="#L110" id="L110">110</a></div></span><br/>
-            
+            </div>
          </div>
-         
-      </div>
-   </div><div id="" class="pb"></div>
-</div><?php require_once(ROOT_PATH."layout_includes/showcase_bottom.inc.php"); ?>
+   </div><div id="" class="pb"></div></div><?php require_once(ROOT_PATH."layout_includes/showcase_bottom.inc.php"); ?>

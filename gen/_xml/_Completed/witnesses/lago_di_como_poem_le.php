@@ -24,11 +24,9 @@ define("FACS_FILE_NAMES", <<<EOT
 EOT
 );
       ?>
-    <?php require_once(ROOT_PATH."layout_includes/showcase_top.inc.php"); ?><div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-left"><img id="facs_preview" src="" width="100&#x0025;"><img id="facs" src="" width="100&#x0025;" style="display:none"></div>
-<div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-splitter"></div>
-<div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-right">
+    <?php require_once(ROOT_PATH."layout_includes/showcase_top.inc.php"); ?><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-left"><img id="facs_preview" src="" width="100%"><img id="facs" src="" width="100%" style="display:none"></div><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-splitter"></div><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-right">
    <div class="backToApparatusLink"><a href="/apparatuses/apparatuses/account_of_a_tour_on_the_continent_apparatus#account_of_a_tour_on_the_continent_le" target="_self"></a><br/></div>
-   <div class="fileName"><span>&#x201C;Lago di Como&#x201D; &#x005B;poem&#x005D;</span></div>
+   <div class="fileName"><span>“Lago di Como” [poem]</span></div>
    <div class="witness">
       <div class="poem" id="">
          
@@ -59,9 +57,9 @@ EOT
                   <div class="tooltip">
           System generated line number
         </div><a href="#L5" id="L5">5</a></div></span><br/>
-            <span class="l">And the white clouds&#x02BC; careering war,</span><br/>
+            <span class="l">And the white cloudsʼ careering war,</span><br/>
             <span class="l">And the blue sky, and the high hills</span><br/>
-            <span class="l">&#x02BC;Neath the cold waters where they slept</span><br/>
+            <span class="l">ʼNeath the cold waters where they slept</span><br/>
             <span class="l">Seemed fed by thousand mountain rills</span><br/>
             <span class="l">Flowed upward from the crystal depth.
                <div class="s-line-number s-line-number-auto">
@@ -81,12 +79,12 @@ EOT
             <span class="l">A range of little shipping lay,</span><br/>
             <span class="l">With their red flags drooped downward right,</span><br/>
             <span class="l">And sheltered by their awnings white</span><br/>
-            <span class="l">From the high sun&#x02BC;s red, scorching look,
+            <span class="l">From the high sunʼs red, scorching look,
                <div class="s-line-number s-line-number-auto">
                   <div class="tooltip">
           System generated line number
         </div><a href="#L15" id="L15">15</a></div></span><br/>
-            <span class="l">That o&#x02BC;er the living waters shook</span><br/>
+            <span class="l">That oʼer the living waters shook</span><br/>
             <span class="l">A blaze of hot and swarthy glow.</span><br/>
             <span class="l">When we had launchèd from below</span><br/>
             <span class="l">The shade of the tall cliffs, and came</span><br/>
@@ -96,15 +94,15 @@ EOT
           System generated line number
         </div><a href="#L20" id="L20">20</a></div></span><br/>
             <span class="l">Down southward winding far away,</span><br/>
-            <span class="l">The olives&#x02BC; tints of gentle grey</span><br/>
+            <span class="l">The olivesʼ tints of gentle grey</span><br/>
             <span class="l">Stooped to his borders, from between</span><br/>
-            <span class="l">The hills&#x02BC; uncultivated green.</span><br/>
-            <span class="l">And orange&#x2010;groves him girded round,
+            <span class="l">The hillsʼ uncultivated green.</span><br/>
+            <span class="l">And orange‐groves him girded round,
                <div class="s-line-number s-line-number-auto">
                   <div class="tooltip">
           System generated line number
         </div><a href="#L25" id="L25">25</a></div></span><br/>
-            <span class="l">Blossoming o&#x02BC;er him fragrantly;</span><br/>
+            <span class="l">Blossoming oʼer him fragrantly;</span><br/>
             <span class="l">And in the sleep of his profound</span><br/>
             <span class="l">White villages shone silently.<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/lago_di_como_poem_glosses_textual#WHITEVILLAGES" target="_blank" class="inactive">
@@ -116,13 +114,13 @@ EOT
                 </span>
                 
               </a></span></span><br/>
-            <span class="l">And from our prow the ripple&#x02BC;s flash</span><br/>
+            <span class="l">And from our prow the rippleʼs flash</span><br/>
             <span class="l">Threw forth its little sparkles paly;
                <div class="s-line-number s-line-number-auto">
                   <div class="tooltip">
           System generated line number
         </div><a href="#L30" id="L30">30</a></div></span><br/>
-            <span class="l">The light sound of the oars&#x02BC; dash</span><br/>
+            <span class="l">The light sound of the oarsʼ dash</span><br/>
             <span class="l">Came dancing on the waters gaily.</span><br/>
             <span class="l">There was blue above, and blue below,</span><br/>
             <span class="l">And the gleam of the eternal snow.</span><br/>
@@ -131,7 +129,7 @@ EOT
                   <div class="tooltip">
           System generated line number
         </div><a href="#L35" id="L35">35</a></div></span><br/>
-            <span class="l">Of the high <span class="geogName-ALPS">Alps</span>&#x02BC; retiring chain.<span class="gloss-inline">
+            <span class="l">Of the high <span class="geogName-ALPS">Alps</span>ʼ retiring chain.<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/lago_di_como_poem_glosses_textual#FASTNESSES" target="_blank" class="inactive">
           
           
@@ -141,18 +139,15 @@ EOT
                 </span>
                 
               </a></span></span><br/>
-            <span class="l">And all along the shore, where&#x02BC;er</span><br/>
-            <span class="l">The storm&#x2010;winds wont to chafe the wave,</span><br/>
+            <span class="l">And all along the shore, whereʼer</span><br/>
+            <span class="l">The storm‐winds wont to chafe the wave,</span><br/>
             <span class="l">The crucifix is shrined there;</span><br/>
             <span class="l">That <span class="persName-scriptural-JESUSCHRIST">Christ</span> may hear the passioned prayer
                <div class="s-line-number s-line-number-auto">
                   <div class="tooltip">
           System generated line number
         </div><a href="#L40" id="L40">40</a></div></span><br/>
-            <span class="l">&#x2014;May hear, may pity, and may save!</span><br/>
-            
+            <span class="l">—May hear, may pity, and may save!</span><br/>
+            </div>
          </div>
-         
-      </div>
-   </div><div id="" class="pb"></div>
-</div><?php require_once(ROOT_PATH."layout_includes/showcase_bottom.inc.php"); ?>
+   </div><div id="" class="pb"></div></div><?php require_once(ROOT_PATH."layout_includes/showcase_bottom.inc.php"); ?>

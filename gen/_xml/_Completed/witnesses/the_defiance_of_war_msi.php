@@ -24,23 +24,21 @@ msi/1229145.jpg msi/1229146.jpg
 EOT
 );
       ?>
-    <?php require_once(ROOT_PATH."layout_includes/showcase_top.inc.php"); ?><div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-left"><img id="facs_preview" src="" width="100&#x0025;"><img id="facs" src="" width="100&#x0025;" style="display:none"></div>
-<div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-splitter"></div>
-<div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-right">
+    <?php require_once(ROOT_PATH."layout_includes/showcase_top.inc.php"); ?><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-left"><img id="facs_preview" src="" width="100%"><img id="facs" src="" width="100%" style="display:none"></div><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-splitter"></div><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-right">
    <div class="backToApparatusLink"><br/></div>
-   <div class="fileName"><span>&#x201C;The Defiance of War&#x201D;</span></div>
+   <div class="fileName"><span>“The Defiance of War”</span></div>
    <div class="witness">
       <div class="poem" id="">
          
-         <div class="title" id="&#x0040;"><span class="space" style="padding-left:4.0em"> </span>poem III<br/><span class="space" style="padding-left:4.0em"> </span>The defia<span class="del-erasure"><span class="unclear-CWB">t</span><span class="gap-illegible" style="padding-left: 2em"></span><span class="unclear-CWB">ll</span></span><span class="add-overwriting">nce of war</span><span class="del-erasure"><span class="unclear-CWB">woe</span></span></div>
+         <div class="title" id="@"><span class="space" style="padding-left:4.0em"> </span>poem III<br/><span class="space" style="padding-left:4.0em"> </span>The defia<span class="del-erasure"><span class="unclear-CWB">t</span><span class="gap-illegible" style="padding-left: 2em"></span><span class="unclear-CWB">ll</span></span><span class="add-overwriting">nce of war</span><span class="del-erasure"><span class="unclear-CWB">woe</span></span></div>
          <br/>
          
          <div class="lg-stanza">
-            <span class="l"><span class="space" style="padding-left:0.8em"> </span><span class="doubleletter-fill">W</span><span class="smallcaps">ar</span> war thou art beating thy<span class="runover" style="left:12.0em"><span class="g-runover">&#x005B;</span>drum</span></span><br/>
+            <span class="l"><span class="space" style="padding-left:0.8em"> </span><span class="doubleletter-fill">W</span><span class="smallcaps">ar</span> war thou art beating thy<span class="runover" style="left:12.0em"><span class="g-runover">[</span>drum</span></span><br/>
             <span class="l"><span class="space" style="padding-left:0.4em"> </span>but we wish thee not to come</span><br/>
             <span class="l"><span class="space" style="padding-left:0.4em"> </span>we like better our peaceful home</span><br/>
             <span class="l"><span class="space" style="padding-left:0.4em"> </span>you like better than us to come</span><br/>
-            <span class="l"><span class="space" style="padding-left:0.4em"> </span>but we&#x02BC;ll conquer in spite of thee
+            <span class="l"><span class="space" style="padding-left:0.4em"> </span>but weʼll conquer in spite of thee
                <div class="s-line-number s-line-number-auto">
                   <div class="tooltip">
           System generated line number
@@ -68,9 +66,6 @@ EOT
           System generated line number
         </div><a href="#L15" id="L15">15</a></div></span><br/>
             <span class="l"><span class="space" style="padding-left:0.8em"> </span>or else they here shall suffering die</span><br/>
-            
+            </div>
          </div>
-         
-      </div>
-   </div><div id="" class="pb"></div>
-</div><?php require_once(ROOT_PATH."layout_includes/showcase_bottom.inc.php"); ?>
+   </div><div id="" class="pb"></div></div><?php require_once(ROOT_PATH."layout_includes/showcase_bottom.inc.php"); ?>

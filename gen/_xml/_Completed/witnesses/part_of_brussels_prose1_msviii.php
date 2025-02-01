@@ -24,15 +24,13 @@ msviii/MSVIII61v-62r.jpg msviii/MSVIII62v-63r.jpg
 EOT
 );
       ?>
-    <?php require_once(ROOT_PATH."layout_includes/showcase_top.inc.php"); ?><div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-left"><img id="facs_preview" src="" width="100&#x0025;"><img id="facs" src="" width="100&#x0025;" style="display:none"></div>
-<div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-splitter"></div>
-<div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-right">
+    <?php require_once(ROOT_PATH."layout_includes/showcase_top.inc.php"); ?><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-left"><img id="facs_preview" src="" width="100%"><img id="facs" src="" width="100%" style="display:none"></div><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-splitter"></div><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-right">
    <div class="backToApparatusLink"><a href="/apparatuses/apparatuses/account_of_a_tour_on_the_continent_apparatus#account_of_a_tour_on_the_continent_msviii" target="_self"></a><br/></div>
-   <div class="fileName"><span>&#x201C;Part of Brussels&#x201D; &#x005B;essay, part 1&#x005D;</span></div>
+   <div class="fileName"><span>“Part of Brussels” [essay, part 1]</span></div>
    <div class="witness">
       <div class="essay" id="">
          
-         <div class="title" id="&#x0040;"><span class="space" style="padding-left:6.4em"> </span>Part of Brussels</div>
+         <div class="title" id="@"><span class="space" style="padding-left:6.4em"> </span>Part of Brussels</div>
          
          <div class="p"><span class="placeName-BRUSSELS">Brussels</span> is a lovely, a queenlike city from a distance, sweeping<br/>
                     up the flanks of its hill, battlement over battlement swelling up,<br/>
@@ -63,7 +61,7 @@ EOT
                 2
                 </span>
               </a></span> We saw <span class="placeName-BRUSSELS">Brussels</span> at 11 miles distance, its spires rising<br/> 
-                    dark and spearlike out of the horizon&#x2014; It was waxing dark<br/>
+                    dark and spearlike out of the horizon— It was waxing dark<br/>
                     as we entered the city, and the lights began to twinkle in the<br/>
                     few, the very few shop windows. I love to pass through a city<br/> 
             <span class="del-strikethrough">by</span> at night, the hum of the voices rises so softly out of<br/> 
@@ -96,9 +94,6 @@ EOT
                 </span>
               </a></span> Cities are exceedingly picturesque when built<br/> 
                     upon hills, but for exploring, for circumnavigating, for <span class="del-strikethrough">traversing</span>,<br/> 
-            
+            </div>
          </div>
-         
-      </div>
-   </div><div id="" class="pb"></div>
-</div><?php require_once(ROOT_PATH."layout_includes/showcase_bottom.inc.php"); ?>
+   </div><div id="" class="pb"></div></div><?php require_once(ROOT_PATH."layout_includes/showcase_bottom.inc.php"); ?>

@@ -24,11 +24,9 @@ define("FACS_FILE_NAMES", <<<EOT
 EOT
 );
       ?>
-    <?php require_once(ROOT_PATH."layout_includes/showcase_top.inc.php"); ?><div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-left"><img id="facs_preview" src="" width="100&#x0025;"><img id="facs" src="" width="100&#x0025;" style="display:none"></div>
-<div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-splitter"></div>
-<div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-right">
+    <?php require_once(ROOT_PATH."layout_includes/showcase_top.inc.php"); ?><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-left"><img id="facs_preview" src="" width="100%"><img id="facs" src="" width="100%" style="display:none"></div><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-splitter"></div><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-right">
    <div class="backToApparatusLink"><a href="/apparatuses/apparatuses/account_of_a_tour_on_the_continent_apparatus#account_of_a_tour_on_the_continent_poems_1891" target="_self"></a><br/></div>
-   <div class="fileName"><span>&#x201C;The Summit&#x201D; &#x005B;poem&#x005D;</span></div>
+   <div class="fileName"><span>“The Summit” [poem]</span></div>
    <div class="witness">
       <div class="poem" id="">
          
@@ -42,11 +40,11 @@ EOT
               </a></span></h1>
          
          <div class="lg-stanza">
-            <span class="l">O<span class="smallcaps">H</span>, we are on the mountain&#x2010;top!</span><br/>
+            <span class="l">O<span class="smallcaps">H</span>, we are on the mountain‐top!</span><br/>
             <span class="l">The clouds float by in fleecy flock,</span><br/> 
             <span class="l">Heavy, and dank. Around, below,</span><br/>
-            <span class="l">A wilderness of turf and snow,&#x2014;</span><br/>
-            <span class="l">Scanty rock&#x2010;turf, or marble bare,
+            <span class="l">A wilderness of turf and snow,—</span><br/>
+            <span class="l">Scanty rock‐turf, or marble bare,
                <div class="s-line-number s-line-number-auto">
                   <div class="tooltip">
           System generated line number
@@ -55,23 +53,23 @@ EOT
             <span class="l">Not a bird clove the thin, cold air</span><br/>
             <span class="l">With labouring wing: the very goat</span><br/> 
             <span class="l">To such a height ascendeth not;</span><br/> 
-            <span class="l">And if the cloud&#x02BC;s thick drapery
+            <span class="l">And if the cloudʼs thick drapery
                <div class="s-line-number s-line-number-auto">
                   <div class="tooltip">
           System generated line number
         </div><a href="#L10" id="L10">10</a></div></span><br/>
             <span class="l">Clove for a moment, you would see</span><br/>
-            <span class="l">The long, white snow&#x2010;fields on each side</span><br/>
-            <span class="l">Clasping the mountain&#x2010;breast, or heaped</span><br/>
+            <span class="l">The long, white snow‐fields on each side</span><br/>
+            <span class="l">Clasping the mountain‐breast, or heaped</span><br/>
             <span class="l">In high, wreathed hills, whence torrents leaped,</span><br/> 
             <span class="l">And gathering force, as down they well
                <div class="s-line-number s-line-number-auto">
                   <div class="tooltip">
           System generated line number
         </div><a href="#L15" id="L15">15</a></div></span><br/>
-            <span class="l">To aid the swift <span class="geogName-RHINE">Rhine</span>&#x02BC;s headlong swell.</span><br/> 
+            <span class="l">To aid the swift <span class="geogName-RHINE">Rhine</span>ʼs headlong swell.</span><br/> 
             <span class="l">And here and there a mouldering cross</span><br/>
-            <span class="l">Of dark pine, matted o&#x02BC;er with moss,</span><br/> 
+            <span class="l">Of dark pine, matted oʼer with moss,</span><br/> 
             <span class="l">Hung on the precipice,<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/the_summit_poem_glosses_textual#HUNGON" target="_blank" class="inactive">
           
@@ -88,8 +86,8 @@ EOT
                   <div class="tooltip">
           System generated line number
         </div><a href="#L20" id="L20">20</a></div></span><br/> 
-            <span class="l">Or where the avalanche&#x02BC;s leap</span><br/>
-            <span class="l">Hurled down, with its wild thunder&#x2010;sweep,</span><br/> 
+            <span class="l">Or where the avalancheʼs leap</span><br/>
+            <span class="l">Hurled down, with its wild thunder‐sweep,</span><br/> 
             <span class="l">Him unexpecting; and to pray</span><br/>
             <span class="l">The passing traveller to stay,</span><br/> 
             <span class="l">And, looking from the precipice
@@ -109,9 +107,6 @@ EOT
                 </span>
                 
               </a></span></span><br/>
-            
+            </div>
          </div>
-         
-      </div>
-   </div><div id="" class="pb"></div>
-</div><?php require_once(ROOT_PATH."layout_includes/showcase_bottom.inc.php"); ?>
+   </div><div id="" class="pb"></div></div><?php require_once(ROOT_PATH."layout_includes/showcase_bottom.inc.php"); ?>

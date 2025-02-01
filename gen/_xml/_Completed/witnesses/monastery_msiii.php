@@ -24,11 +24,9 @@ define("FACS_FILE_NAMES", <<<EOT
 EOT
 );
       ?>
-    <?php require_once(ROOT_PATH."layout_includes/showcase_top.inc.php"); ?><div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-left"><img id="facs_preview" src="" width="100&#x0025;"><img id="facs" src="" width="100&#x0025;" style="display:none"></div>
-<div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-splitter"></div>
-<div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-right">
+    <?php require_once(ROOT_PATH."layout_includes/showcase_top.inc.php"); ?><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-left"><img id="facs_preview" src="" width="100%"><img id="facs" src="" width="100%" style="display:none"></div><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-splitter"></div><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-right">
    <div class="backToApparatusLink"><br/></div>
-   <div class="fileName"><span>&#x201C;The Monastery&#x201D;</span></div>
+   <div class="fileName"><span>“The Monastery”</span></div>
    <div class="witness">
       <div class="poem" id="">
          
@@ -83,7 +81,7 @@ EOT
           System generated line number
         </div><a href="#L10" id="L10">10</a></div></span><br/>
                <span class="l">that came down the narrow glen.</span><br/>
-               <span class="l">at the bridge there was a warder <span class="unclear-illegible-">&#x007C;</span><span class="gloss-inline">
+               <span class="l">at the bridge there was a warder <span class="unclear-illegible-">|</span><span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/monastery_glosses_textual#UNKNOWNMARKGLOSS" target="_blank" class="inactive">
           
           
@@ -357,7 +355,7 @@ EOT
                      <div class="tooltip">
           System generated line number
         </div><a href="#L85" id="L85">85</a></div></span><br/>
-               <span class="l">and i&#x02BC;ll believe what you do see.</span><br/>
+               <span class="l">and iʼll believe what you do see.</span><br/>
                <span class="l">the monk obeyed and off he rode,</span><br/>
                <span class="l">before again the good cock crowed,</span><br/>
                <div id="" class="pb"></div>
@@ -368,10 +366,9 @@ EOT
                   <div class="s-line-number s-line-number-auto">
                      <div class="tooltip">
           System generated line number
-        </div><a href="#L90" id="L90">90</a></div></span><br/>
-            </div>
+        </div><a href="#L90" id="L90">90</a></div></span><br/></div>
          </div>
-         &#x005B;Diamond&#x2010;shaped ornament&#x005D;
+         [Diamond‐shaped ornament]
          <div class="half"></div>
          
          <div class="book" id="book2">
@@ -387,7 +384,7 @@ EOT
                      <div class="tooltip">
           System generated line number
         </div><a href="#L95" id="L95">95</a></div></span><br/>
-               <span class="l">the scotch fled like the <span class="sic">frigtened &#x005B;sic&#x005D;</span> hare:<span class="gloss-inline">
+               <span class="l">the scotch fled like the <span class="sic">frigtened [sic]</span> hare:<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/monastery_glosses_contextual#BATTLEOFPINKIEGLOSS" target="_blank" class="inactive">
           
           
@@ -403,7 +400,7 @@ EOT
                      <div class="tooltip">
           System generated line number
         </div><a href="#L100" id="L100">100</a></div></span><br/>
-               <span class="l">far from this tow&#x02BC;r there was a barons seat,</span><br/>
+               <span class="l">far from this towʼr there was a barons seat,</span><br/>
                <span class="l">and woods and landscapes at its feet:</span><br/>
                <span class="l">and the name of this baron was great <span class="persName-fictional-WALTERAVENEL">avenel</span>,</span><br/>
                <span class="l">for the good of his country in battle he fell:</span><br/>
@@ -596,7 +593,7 @@ EOT
                <span class="l">why how now said the <span class="persName-fictional-STAWARTHBOLTON">serjeant</span> with some surprise</span><br/>
                <span class="l">whats the reason of this my good blue eyes</span><br/>
                <span class="l">that young rogue there throws it into the stream</span><br/>
-               <span class="l"><span class="add">90</span>and when he&#x02BC;s done so you leap in
+               <span class="l"><span class="add">90</span>and when heʼs done so you leap in
                   <div class="s-line-number s-line-number-auto">
                      <div class="tooltip">
           System generated line number
@@ -637,14 +634,12 @@ EOT
                      <div class="tooltip">
           System generated line number
         </div><a href="#L195" id="L195">195</a></div></span><br/>
-               <span class="l"><span class="add">106</span>oer river bog or ford or fen</span><br/>
-            </div>
+               <span class="l"><span class="add">106</span>oer river bog or ford or fen</span><br/></div>
             
             <div class="half"></div><br/>
             <span class="space" style="padding-left:3.2em"> </span><span class="metamark-insertion">go back to page 52</span><br/>
             <span class="space" style="padding-left:2.0em"> </span><span class="caps">END OF BOOK SECOND</span>
-            <div class="half"></div><br/>
-         </div>
+            <div class="half"></div><br/></div>
          
          <div class="colophon" id="">
             
@@ -696,7 +691,7 @@ EOT
                <span class="l"><span class="add">15</span>but een good <span class="name--SHAGRAMSCOTTMONASTERY">shagram</span> with the lass</span><br/>
                <span class="l">named <span class="persName-fictional-MARYAVENEL">mary avenel</span> and when</span><br/>
                <span class="l">they had come nearer to the <span class="geogName-GLENDEARG">glen</span></span><br/>
-               <span class="l">it was so bad that <span class="sic">their &#x005B;sic&#x005D;</span><span class="gloss-inline">
+               <span class="l">it was so bad that <span class="sic">their [sic]</span><span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/monastery_glosses_textual#THEIRGLOSS" target="_blank" class="inactive">
           
           
@@ -758,7 +753,7 @@ EOT
               </a></span></span><br/>
                <span class="l">And would not go, <span class="doubleletter-fill">E</span>en tak your ain</span><br/>
                <span class="l"><span class="doubleletter-fill">W</span>ay said the shepherd I would fain</span><br/>
-               <span class="l"><span class="doubleletter-fill">G</span>et o&#x02BC;er to t&#x02BC;other side and be
+               <span class="l"><span class="doubleletter-fill">G</span>et oʼer to tʼother side and be
                   <div class="s-line-number s-line-number-auto">
                      <div class="tooltip">
           System generated line number
@@ -872,7 +867,7 @@ EOT
                      <div class="tooltip">
           System generated line number
         </div><a href="#L270" id="L270">270</a></div></span><br/>
-               <span class="l"><span class="add">75</span>Just in the glen and they thought they&#x02BC;d see</span><br/>
+               <span class="l"><span class="add">75</span>Just in the glen and they thought theyʼd see</span><br/>
                <span class="l">A fairy peeping out from moss</span><br/>
                <span class="l">Or perhaps it might peep from a great morass</span><br/>
                <span class="l">All halloween said <span class="persName-fictional-TTACKET">tibby</span> to</span><br/>
@@ -895,8 +890,7 @@ EOT
                <span class="l"><span class="add">85</span>Upon a hill against the sky</span><br/>
                <span class="l">And taking them for his good guide</span><br/>
                <span class="l">And ever keeping by their side</span><br/>
-               <span class="l"><span class="add">88</span>Very soon at the <span class="placeName-fictional-TOWEROFGLENDEARG">tower of glendarg</span> they arrived</span><br/>
-            </div>
+               <span class="l"><span class="add">88</span>Very soon at the <span class="placeName-fictional-TOWEROFGLENDEARG">tower of glendarg</span> they arrived</span><br/></div>
          </div>
          
          <div class="book" id="book4">
@@ -1025,11 +1019,7 @@ EOT
                      <div class="tooltip">
           System generated line number
         </div><a href="#L335" id="L335">335</a></div></span><br/>
-               <span class="l">With the youngest tears their access found.</span><br/>
+               <span class="l">With the youngest tears their access found.</span><br/></div>
             </div>
-            
          </div>
-         
-      </div>
-   </div><div id="" class="pb"></div>
-</div><?php require_once(ROOT_PATH."layout_includes/showcase_bottom.inc.php"); ?>
+   </div><div id="" class="pb"></div></div><?php require_once(ROOT_PATH."layout_includes/showcase_bottom.inc.php"); ?>

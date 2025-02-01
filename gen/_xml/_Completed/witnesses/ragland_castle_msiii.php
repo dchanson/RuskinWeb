@@ -24,15 +24,13 @@ msiii/1229184.jpg
 EOT
 );
       ?>
-    <?php require_once(ROOT_PATH."layout_includes/showcase_top.inc.php"); ?><div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-left"><img id="facs_preview" src="" width="100&#x0025;"><img id="facs" src="" width="100&#x0025;" style="display:none"></div>
-<div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-splitter"></div>
-<div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-right">
+    <?php require_once(ROOT_PATH."layout_includes/showcase_top.inc.php"); ?><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-left"><img id="facs_preview" src="" width="100%"><img id="facs" src="" width="100%" style="display:none"></div><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-splitter"></div><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-right">
    <div class="backToApparatusLink"><br/></div>
-   <div class="fileName"><span>&#x201C;Ragland Castle&#x201D;</span></div>
+   <div class="fileName"><span>“Ragland Castle”</span></div>
    <div class="witness">
       <div class="poem" id="">
          
-         <div class="title" id="&#x0040;"><span class="space" style="padding-left:3.6em"> </span>ragland castle</div>
+         <div class="title" id="@"><span class="space" style="padding-left:3.6em"> </span>ragland castle</div>
          
          <div class="lg-stanza">
             
@@ -47,7 +45,7 @@ EOT
                 
               </a></span> <span class="smallcaps"><span class="placeName-RAGLAN">ragland</span></span> beauty as you <div 
               class="add-above" 
-              style="left:10.0em"><span class="metamark-unknown">&#x00D7;</span></div>ar<span class="overwriting">e</span><span class="gloss-inline">
+              style="left:10.0em"><span class="metamark-unknown">×</span></div>ar<span class="overwriting">e</span><span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/ragland_castle_glosses_contextual#CROSS" target="_blank" class="inactive">
           
           
@@ -69,7 +67,7 @@ EOT
                   <div class="tooltip">
           System generated line number
         </div><a href="#L5" id="L5">5</a></div></span><br/>
-            <span class="l"><span class="space" style="padding-left:0.4em"> </span>your mice&#x2010;house moss and burnt up grass<span class="gloss-inline">
+            <span class="l"><span class="space" style="padding-left:0.4em"> </span>your mice‐house moss and burnt up grass<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/ragland_castle_glosses_contextual#MOSS" target="_blank" class="inactive">
           
           
@@ -101,9 +99,6 @@ EOT
         </div><a href="#L10" id="L10">10</a></div></span><br/>
             <span class="l"><span class="space" style="padding-left:0.4em"> </span>so <span class="placeName-RAGLAN">ragland</span> as I have described you</span><br/>
             <span class="l"><span class="space" style="padding-left:0.4em"> </span>I must take leave of you</span><br/>
-            
+            </div>
          </div>
-         
-      </div>
-   </div><br/><div id="" class="pb"></div>
-</div><?php require_once(ROOT_PATH."layout_includes/showcase_bottom.inc.php"); ?>
+   </div><br/><div id="" class="pb"></div></div><?php require_once(ROOT_PATH."layout_includes/showcase_bottom.inc.php"); ?>

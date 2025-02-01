@@ -24,16 +24,14 @@ define("FACS_FILE_NAMES", <<<EOT
 EOT
 );
       ?>
-    <?php require_once(ROOT_PATH."layout_includes/showcase_top.inc.php"); ?><div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-left"><img id="facs_preview" src="" width="100&#x0025;"><img id="facs" src="" width="100&#x0025;" style="display:none"></div>
-<div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-splitter"></div>
-<div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-right">
+    <?php require_once(ROOT_PATH."layout_includes/showcase_top.inc.php"); ?><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-left"><img id="facs_preview" src="" width="100%"><img id="facs" src="" width="100%" style="display:none"></div><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-splitter"></div><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-right">
    <div class="backToApparatusLink"><a href="/apparatuses/apparatuses/account_of_a_tour_on_the_continent_apparatus#account_of_a_tour_on_the_continent_le" target="_self"></a><br/></div>
-   <div class="fileName"><span>&#x201C;Lille&#x201D; &#x005B;essay&#x005D;</span></div>
+   <div class="fileName"><span>“Lille” [essay]</span></div>
    <div class="witness">
       <div class="essay" id="">
          
-         <div class="p"><i>Passeport, monsieur, s&#x02BC;il vous plait</i>. I hate fortified towns, in general, 
-                    <br/>that is.&#x2014;Their houses are like barracks, their public buildings like prisons, 
+         <div class="p"><i>Passeport, monsieur, sʼil vous plait</i>. I hate fortified towns, in general, 
+                    <br/>that is.—Their houses are like barracks, their public buildings like prisons, 
                     <br/>their population like so many rats in a rat trap; they are arduous to get 
                     <br/>in,<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/lille_prose_glosses_textual#GETIN" target="_blank" class="inactive">
@@ -44,12 +42,12 @@ EOT
                 a
                 </span>
                 
-              </a></span> difficult to get out, and disagreeable to remain in. To all this, how&#x2010;
-                    <br/>ever, <span class="placeName-LILLE">Lille</span> is an exception, except in one circumstance&#x2014;its difficulty of access. 
-                    <br/>We were detained after a long day&#x02BC;s journey under a burning sun, hot, 
+              </a></span> difficult to get out, and disagreeable to remain in. To all this, how‐
+                    <br/>ever, <span class="placeName-LILLE">Lille</span> is an exception, except in one circumstance—its difficulty of access. 
+                    <br/>We were detained after a long dayʼs journey under a burning sun, hot, 
                     <br/>hungry, and stupid, while our passport was examined. Slowly the sentinel 
                     <br/>unfolded the paper, spelled over its contents with tiresome coolness and 
-                    <br/>provoking minuteness, slowly returned it, and then came&#x2014;<i>Passez</i>.<span class="gloss-inline">
+                    <br/>provoking minuteness, slowly returned it, and then came—<i>Passez</i>.<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/lille_glosses_contextual#PASSPORT" target="_blank" class="inactive">
           
           
@@ -58,7 +56,7 @@ EOT
                 </span>
               </a></span> And 
                     <br/>pass we did right gladly. <span class="placeName-LILLE">Lille</span> is a beautiful, a most beautiful town. I 
-                    <br/>have seen none equal to it, for grandeur of effect, for the massive magni&#x2010;
+                    <br/>have seen none equal to it, for grandeur of effect, for the massive magni‐
                     <br/>ficence of its edifices, for the palace like nobility of its streets, except 
                     <br/><span class="placeName-GENOA">Genoa</span>. The day also on which we entered it was almost Italian, the sky 
                     <br/>was of such a deep and unbroken blue, and a stream of rich, glowing, 
@@ -76,7 +74,7 @@ EOT
                 </span>
                 
               </a></span> the many statues 
-                    <br/>of the <span class="persName-VIRGINMARY">Virgin</span>, that stood beneath their Gothic niches, really very respect&#x2010;
+                    <br/>of the <span class="persName-VIRGINMARY">Virgin</span>, that stood beneath their Gothic niches, really very respect‐
                     <br/>ably sculptured, at every angle of the streets.<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/lille_glosses_contextual#SHADE" target="_blank" class="inactive">
           
@@ -85,7 +83,5 @@ EOT
                 2
                 </span>
               </a></span></div>
-         
-      </div>
-   </div><div id="" class="pb"></div>
-</div><?php require_once(ROOT_PATH."layout_includes/showcase_bottom.inc.php"); ?>
+         </div>
+   </div><div id="" class="pb"></div></div><?php require_once(ROOT_PATH."layout_includes/showcase_bottom.inc.php"); ?>

@@ -24,11 +24,9 @@ MWBoWp10.jpg MWBoWp11.jpg MWBoWp12.jpg MWBoWp13.jpg
 EOT
 );
       ?>
-    <?php require_once(ROOT_PATH."layout_includes/showcase_top.inc.php"); ?><div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-left"><img id="facs_preview" src="" width="100&#x0025;"><img id="facs" src="" width="100&#x0025;" style="display:none"></div>
-<div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-splitter"></div>
-<div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-right">
+    <?php require_once(ROOT_PATH."layout_includes/showcase_top.inc.php"); ?><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-left"><img id="facs_preview" src="" width="100%"><img id="facs" src="" width="100%" style="display:none"></div><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-splitter"></div><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-right">
    <div class="backToApparatusLink"><br/></div>
-   <div class="fileName"><span>&#x003E;&#x201C;On Skiddaw and Derwent Water&#x003E;&#x201D;</span></div>
+   <div class="fileName"><span>>“On Skiddaw and Derwent Water>”</span></div>
    <div class="witness">
       <div class="poem" id="">
          
@@ -80,7 +78,7 @@ EOT
                 </span>
                 
               </a></span> But enough</span><br/>
-            <span class="l">I&#x02BC;ve treated of the clouds<span class="gloss-inline">
+            <span class="l">Iʼve treated of the clouds<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/on_skiddaw_and_derwentwater_glosses_textual#PAUSEPERIOD2" target="_blank" class="inactive">
           
           
@@ -122,7 +120,7 @@ EOT
                 
               </a></span></span><br/>
             <span class="l"><span class="geogName-SKIDDAW">Skiddaw</span> majestic giant natures work</span><br/>
-            <span class="l">Lower than <span class="geogName-ALPS">Alps</span> or <span class="geogName-ANDES">Andes</span>. <span class="geogName-PYRENEES">Pyrenee&#x02BC;s</span></span><br/>
+            <span class="l">Lower than <span class="geogName-ALPS">Alps</span> or <span class="geogName-ANDES">Andes</span>. <span class="geogName-PYRENEES">Pyreneeʼs</span></span><br/>
             <span class="l">Are all much higher<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/on_skiddaw_and_derwentwater_glosses_contextual#HIGHERGLOSS" target="_blank" class="inactive">
           
@@ -133,7 +131,7 @@ EOT
               </a></span> But those works of art</span><br/>
             <span class="l">Those giant works of art<div 
               class="add-above" 
-              style="left:8.8em">&#x002A;</div><span class="gloss-inline">
+              style="left:8.8em">*</div><span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/on_skiddaw_and_derwentwater_glosses_contextual#PYRAMIDSGLOSS" target="_blank" class="inactive">
           
           
@@ -203,7 +201,7 @@ EOT
           System generated line number
         </div><a href="#L45" id="L45">45</a></div></span><br/>
             <span class="l">Who labours at the snow to make a man</span><br/>
-            <span class="l">And when he&#x02BC;s made it knocks it down<span class="runover" style="left:4.0em">again<span class="gloss-inline">
+            <span class="l">And when heʼs made it knocks it down<span class="runover" style="left:4.0em">again<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/on_skiddaw_and_derwentwater_glosses_textual#MADEITGLOSS" target="_blank" class="inactive">
           
           
@@ -213,7 +211,7 @@ EOT
                 </span>
                 
               </a></span></span></span><br/>
-            <span class="l">So when thou&#x02BC;st made a picture thou dost<span class="runover" style="left:5.6em">play</span></span><br/>
+            <span class="l">So when thouʼst made a picture thou dost<span class="runover" style="left:5.6em">play</span></span><br/>
             <div id="MWBoWp13" class="pb"></div>
             <div class="pageNum-top-right">13</div><br/>
             <span class="l">At tearing it to pieces Trees do first</span><br/>
@@ -224,7 +222,7 @@ EOT
             <span class="l">Were but an <span class="name--ASPEN">aspen</span> leaf and then as if</span><br/>
             <span class="l">It were a cobweb in the tempests blow</span><br/>
             <span class="l">Thus like <span class="persName-fictional-PENELOPE">Penelope</span> thou weavst a web</span><br/>
-            <span class="l">And then thou dost undo it Thou&#x02BC;rt like her</span><br/>
+            <span class="l">And then thou dost undo it Thouʼrt like her</span><br/>
             <span class="l">Because thourt fair and oft deceiving too<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/on_skiddaw_and_derwentwater_glosses_contextual#PENELOPEGLOSS" target="_blank" class="inactive">
           
@@ -256,7 +254,7 @@ EOT
         </div><a href="#L60" id="L60">60</a></div></span><br/>
             <span class="l">And mingles with the eagles call</span><br/>
             <span class="l">While on <span class="geogName-HELVELLYN">Helvellyn</span> thunder roars</span><br/>
-            <span class="l">Re&#x2010;echoed by all<span class="gloss-inline">
+            <span class="l">Re‐echoed by all<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/on_skiddaw_and_derwentwater_glosses_textual#FROMOLDGLOSS" target="_blank" class="inactive">
           
           
@@ -272,9 +270,6 @@ EOT
                   <div class="tooltip">
           System generated line number
         </div><a href="#L65" id="L65">65</a></div></span><br/>
-            
+            </div>
          </div>
-         
-      </div>
-   </div><div id="" class="pb"></div>
-</div><?php require_once(ROOT_PATH."layout_includes/showcase_bottom.inc.php"); ?>
+   </div><div id="" class="pb"></div></div><?php require_once(ROOT_PATH."layout_includes/showcase_bottom.inc.php"); ?>

@@ -24,15 +24,13 @@ define("FACS_FILE_NAMES", <<<EOT
 EOT
 );
       ?>
-    <?php require_once(ROOT_PATH."layout_includes/showcase_top.inc.php"); ?><div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-left"><img id="facs_preview" src="" width="100&#x0025;"><img id="facs" src="" width="100&#x0025;" style="display:none"></div>
-<div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-splitter"></div>
-<div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-right">
+    <?php require_once(ROOT_PATH."layout_includes/showcase_top.inc.php"); ?><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-left"><img id="facs_preview" src="" width="100%"><img id="facs" src="" width="100%" style="display:none"></div><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-splitter"></div><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-right">
    <div class="backToApparatusLink"><br/></div>
    <div class="fileName"><span>"First Sketch of 'St. Goar'"</span></div>
    <div class="witness">
       <div class="poem" id="">
          
-         <h1 class="page-title">&#x005B;<span class="caps">F</span><span class="smallcaps">IRST</span> <span class="caps">S</span><span class="smallcaps">KETCH OF</span> &#x201C;<span class="caps">S</span><span class="smallcaps">T</span>. <span class="caps">G</span><span class="smallcaps">OAR.&#x201D;</span>&#x005D;<span class="gloss-inline">
+         <h1 class="page-title">[<span class="caps">F</span><span class="smallcaps">IRST</span> <span class="caps">S</span><span class="smallcaps">KETCH OF</span> “<span class="caps">S</span><span class="smallcaps">T</span>. <span class="caps">G</span><span class="smallcaps">OAR.”</span>]<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/st_goar_poem_glosses_textual#STGOARWGCGLOSS" target="_blank" class="inactive">
           
           
@@ -55,7 +53,7 @@ EOT
               </a></span></span><br/>
             <span class="l">And downwards by the <span class="geogName-RHINE">Rhine</span> we bore</span><br/>
             <span class="l">Upon the village of <span class="placeName-STGOAR">St. Goar</span>,</span><br/>
-            <span class="l">That, &#x02BC;mid the hills embosomed, lay
+            <span class="l">That, ʼmid the hills embosomed, lay
                <div class="s-line-number s-line-number-auto">
                   <div class="tooltip">
           System generated line number
@@ -82,7 +80,7 @@ EOT
             <span class="l">Before in fury driving dread,</span><br/>
             <span class="l">Tormented on their rocky bed;</span><br/>
             <span class="l">Or flinging far their scattering spray</span><br/>
-            <span class="l">O&#x02BC;er the peaked rocks, that barred their way,&#x2014;
+            <span class="l">Oʼer the peaked rocks, that barred their way,—
                <div class="s-line-number s-line-number-auto">
                   <div class="tooltip">
           System generated line number
@@ -96,7 +94,7 @@ EOT
                 2
                 </span>
               </a></span></span><br/>
-            <span class="l">And now are undisturbed sleeping,&#x2014;</span><br/>
+            <span class="l">And now are undisturbed sleeping,—</span><br/>
             <span class="l">No more on rocks those billows beating;</span><br/>
             <span class="l">But, lightly laughing, laps the tide,
                <div class="s-line-number s-line-number-auto">
@@ -104,9 +102,6 @@ EOT
           System generated line number
         </div><a href="#L25" id="L25">25</a></div></span><br/>
             <span class="l">Where stoop the vineyards to his side.</span><br/>
-            
+            </div>
          </div>
-         
-      </div>
-   </div><div id="" class="pb"></div>
-</div><?php require_once(ROOT_PATH."layout_includes/showcase_bottom.inc.php"); ?>
+   </div><div id="" class="pb"></div></div><?php require_once(ROOT_PATH."layout_includes/showcase_bottom.inc.php"); ?>

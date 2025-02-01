@@ -24,11 +24,9 @@ image.jpg image.jpg
 EOT
 );
       ?>
-    <?php require_once(ROOT_PATH."layout_includes/showcase_top.inc.php"); ?><div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-left"><img id="facs_preview" src="" width="100&#x0025;"><img id="facs" src="" width="100&#x0025;" style="display:none"></div>
-<div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-splitter"></div>
-<div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-right">
+    <?php require_once(ROOT_PATH."layout_includes/showcase_top.inc.php"); ?><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-left"><img id="facs_preview" src="" width="100%"><img id="facs" src="" width="100%" style="display:none"></div><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-splitter"></div><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-right">
    <div class="backToApparatusLink"><br/></div>
-   <div class="fileName"><span>&#x201C;as I was walking round by Peckham rye&#x201D;</span></div>
+   <div class="fileName"><span>“as I was walking round by Peckham rye”</span></div>
    <div class="witness">
       <div class="poem" id="">
          <div id="MSVIII12r" class="pb"></div>
@@ -46,7 +44,7 @@ EOT
           System generated line number
         </div><a href="#L5" id="L5">5</a></div></span><br/>
             <span class="l">I Unto mine advisor said, says I</span><br/>
-            <span class="l">Would &#x2014; Posh, it does not matter what I said.</span><br/>
+            <span class="l">Would — Posh, it does not matter what I said.</span><br/>
             <span class="l">But coun<div 
           class="subst-del s-subst s-del" >s</div><div 
           class="s-subst s-add s-overwrite s-inline">c</div>el saye I did receive, whereby</span><br/>
@@ -57,8 +55,7 @@ EOT
           System generated line number
         </div><a href="#L10" id="L10">10</a></div></span><br/>
             <span class="l">To glean the ground wherewith that path it scattered</span><br/>
-            
-         </div>
+            </div>
          <div id="MSVIII12r" class="pb"></div>
          
          <div class="lg-stanza">
@@ -81,8 +78,7 @@ EOT
         </div><a href="#L20" id="L20">20</a></div></span><br/>
             <span class="l">To sing of years long past; and years to come</span><br/>
             <span class="l">A moralizing there, much babbled of by some</span><br/>
-            
-         </div>
+            </div>
          
          <div class="lg-stanza">
             <span class="l">3</span><br/>
@@ -109,8 +105,7 @@ EOT
             <div id="MSVIII12v" class="pb"></div>
             <span class="l">By mightier minds, on paths long roved among</span><br/>
             <span class="l">Or lyre to one dull air by thousand finger string,</span><br/>
-            
-         </div>
+            </div>
          
          <div class="lg-stanza">
             <span class="l">4</span><br/>
@@ -130,10 +125,9 @@ EOT
         </div><a href="#L40" id="L40">40</a></div></span><br/>
             <span class="l">There is a dry love subject, one must bare</span><br/>
             <span class="l">Of all good matter. Hard in a very deed</span><br/>
-            <span class="l">To put the life in&#x02BC;t. Would I may succeed</span><br/>
+            <span class="l">To put the life inʼt. Would I may succeed</span><br/>
             <span class="l">All ye who with one well, I pray you wish me speed </span><br/>
-            
-         </div>
+            </div>
          
          <div class="lg-stanza">
             <span class="l">5
@@ -141,7 +135,7 @@ EOT
                   <div class="tooltip">
           System generated line number
         </div><a href="#L45" id="L45">45</a></div></span><br/>
-            <span class="l">But don&#x02BC;t Imagine that I mean to say</span><br/>
+            <span class="l">But donʼt Imagine that I mean to say</span><br/>
             <span class="l">My subject in itself, is despicable</span><br/>
             <span class="l">But hat been handled in so rude a way</span><br/>
             <span class="l">Theres many a one would think himself unable</span><br/>
@@ -159,8 +153,7 @@ EOT
                   <div class="tooltip">
           System generated line number
         </div><a href="#L55" id="L55">55</a></div></span><br/>
-            
-         </div>
+            </div>
          
          <div class="lg-stanza">
             <span class="l">6</span><br/>
@@ -176,8 +169,7 @@ EOT
         </div><a href="#L60" id="L60">60</a></div></span><br/>
             <span class="l">Because the straightened. Most other hacks have <span class="gap" style="padding-left:3.6em"> </span>.</span><br/>
             <span class="l"><span class="del-strikethrough"></span></span><br/>
-            
-         </div>
+            </div>
          <div id="MSVIII13r" class="pb"></div>
          
          <div class="lg-stanza">
@@ -205,8 +197,7 @@ EOT
             <span class="l">The <span class="del-strikethrough">moon lushe,<span class="gap" style="padding-left:1.6em"> </span> shadowy weed dream.</span><div 
               class="add-above" 
               style="left:NaNem">dew drops, that hidedown along the stars rays dim</div></span><br/>
-            
-         </div>
+            </div>
          
          <div class="lg-stanza">
             <span class="l">8
@@ -216,19 +207,18 @@ EOT
         </div><a href="#L75" id="L75">75</a></div></span><br/>
             <span class="l">Methinkes</span><br/>
             <span class="l"><span class="gap-illegible" style="padding-left: 8em"></span></span><br/>
-            <span class="l">Nay, I&#x02BC;m peremptory. Well then at present</span><br/>
+            <span class="l">Nay, Iʼm peremptory. Well then at present</span><br/>
             <span class="l">I bid good morrow to the company.</span><br/>
             <span class="l">And bid them smile and be of excellent cheer.
                <div class="s-line-number s-line-number-auto">
                   <div class="tooltip">
           System generated line number
         </div><a href="#L80" id="L80">80</a></div></span><br/>
-            <span class="l">I won&#x02BC;t be babbling of the midnight sky.</span><br/>
+            <span class="l">I wonʼt be babbling of the midnight sky.</span><br/>
             <span class="l">Nor talk of graves, or such like things of fear,</span><br/>
             <span class="l">Nor bother them about the by gone year</span><br/>
-            <span class="l">Lo let me sing for I&#x02BC;m a stranger in arrsan</span><br/>
-            
-         </div>
+            <span class="l">Lo let me sing for Iʼm a stranger in arrsan</span><br/>
+            </div>
          
          <div class="lg-stanza">
             <span class="l">8
@@ -238,7 +228,7 @@ EOT
         </div><a href="#L85" id="L85">85</a></div></span><br/>
             <span class="l">Now, gentle Master Twelvemonth, good Monsieur.</span><br/>
             <span class="l">Remember how we have rejoiced this day,</span><br/>
-            <span class="l">And held a feast upon&#x02BC;t, and all for you.</span><br/>
+            <span class="l">And held a feast uponʼt, and all for you.</span><br/>
             <span class="l">How glad, to see the old year past away</span><br/>
             <span class="l">How monstrous glad to welcome in the new
                <div class="s-line-number s-line-number-auto">
@@ -255,8 +245,7 @@ EOT
                   <div class="tooltip">
           System generated line number
         </div><a href="#L95" id="L95">95</a></div></span><br/>
-            
-         </div>
+            </div>
          
          <div class="lg-stanza">
             <span class="l">9</span><br/>
@@ -272,16 +261,15 @@ EOT
             <span class="l">I pray thee do not faint them known and here</span><br/>
             <span class="l">Nor pluck them from their boughs, nor make them fly</span><br/>
             <span class="l">Its will of mind that whistle for and mean.</span><br/>
-            
-         </div>
+            </div>
          
          <div class="lg-stanza">
-            <span class="l">But don&#x02BC;t imagine that I mean to say
+            <span class="l">But donʼt imagine that I mean to say
                <div class="s-line-number s-line-number-auto">
                   <div class="tooltip">
           System generated line number
         </div><a href="#L105" id="L105">105</a></div></span><br/>
-            <span class="l">Thou can&#x02BC;t not check thy goings, nor delay</span><br/>
+            <span class="l">Thou canʼt not check thy goings, nor delay</span><br/>
             <span class="l">The survey of earth in her eternal course.</span><br/>
             <span class="l">Go then and bring us back this warning day</span><br/>
             <span class="l">This knot upon the line, that must perform</span><br/>
@@ -290,12 +278,11 @@ EOT
                   <div class="tooltip">
           System generated line number
         </div><a href="#L110" id="L110">110</a></div></span><br/>
-            <span class="l">Slides down the stream of time. Nay, I could be exceeding serious but I won&#x02BC;t betray</span><br/>
+            <span class="l">Slides down the stream of time. Nay, I could be exceeding serious but I wonʼt betray</span><br/>
             <span class="l">My promise, for I always love to see</span><br/>
             <span class="l">Most merry faces, listening to me,</span><br/>
             <span class="l">Round this our table. <span class="persName-JJR">Father</span>, drink your cup of tea.</span><br/>
-            
-         </div>
+            </div>
          
          <div class="lg-stanza">
             <span class="l">11
@@ -303,20 +290,20 @@ EOT
                   <div class="tooltip">
           System generated line number
         </div><a href="#L115" id="L115">115</a></div></span><br/>
-            <span class="l">I hope the water&#x02BC;s boiling. Stir the fere</span><br/>
+            <span class="l">I hope the waterʼs boiling. Stir the fere</span><br/>
             <span class="l">Till the white gas leap blazing from the coals,</span><br/>
             <span class="l">Till high on dusky wing the flames aspire</span><br/>
             <span class="l">Let not the winters cold freeze up our souls:</span><br/>
             <div id="MSVIII14r" class="pb"></div>
-            <span class="l">--&#x007C;-00&#x007C;-00&#x007C;
+            <span class="l">--|-00|-00|
                <div class="s-line-number s-line-number-auto">
                   <div class="tooltip">
           System generated line number
         </div><a href="#L120" id="L120">120</a></div></span><br/>
-            <span class="l">--&#x007C;-00&#x007C;-&#x007C;-00&#x007C;-00</span><br/>
-            <span class="l">I&#x02BC;m in the humour, I&#x02BC;ll myself inspire</span><br/>
+            <span class="l">--|-00|-|-00|-00</span><br/>
+            <span class="l">Iʼm in the humour, Iʼll myself inspire</span><br/>
             <span class="l">Myself with fury most poetical</span><br/>
-            <span class="l">I&#x02BC;ll blaze abroad, and strike a lofty lyre,</span><br/>
+            <span class="l">Iʼll blaze abroad, and strike a lofty lyre,</span><br/>
             <span class="l">With an Apollinean tone withal.
                <div class="s-line-number s-line-number-auto">
                   <div class="tooltip">
@@ -324,8 +311,7 @@ EOT
         </div><a href="#L125" id="L125">125</a></div></span><br/>
             <span class="l">I sing the year. Ye months, come listen all</span><br/>
             <span class="l">That is if ye have any <span class="del-strikethrough">y</span>ears atall</span><br/>
-            
-         </div>
+            </div>
          
          <div class="lg-stanza">
             <span class="l">January</span><br/>
@@ -346,7 +332,7 @@ EOT
         </div><a href="#L135" id="L135">135</a></div></span><br/>
             <span class="l">With a terrible rattle</span><br/>
             <span class="l">When they join in battle</span><br/>
-            <span class="l">Comes striving adorn &#x2014; through the wish of the air</span><br/>
+            <span class="l">Comes striving adorn — through the wish of the air</span><br/>
             <span class="l">While the streams at river frown tell my fury be past</span><br/>
             <span class="l">In blue icicles fair
                <div class="s-line-number s-line-number-auto">
@@ -366,7 +352,7 @@ EOT
             <span class="l">With lustre most rare</span><br/>
             <span class="l">Lovely light sprinkling</span><br/>
             <span class="l">Over the snow,</span><br/>
-            <span class="l">In the hard frosty ground that doth be high &#x0026; low
+            <span class="l">In the hard frosty ground that doth be high & low
                <div class="s-line-number s-line-number-auto">
                   <div class="tooltip">
           System generated line number
@@ -381,7 +367,7 @@ EOT
                   <div class="tooltip">
           System generated line number
         </div><a href="#L155" id="L155">155</a></div></span><br/>
-            <span class="l">But I&#x02BC;ll bid my two daughters</span><br/>
+            <span class="l">But Iʼll bid my two daughters</span><br/>
             <span class="l">The frost and the snow</span><br/>
             <span class="l">Their firm letters until that the torrents may flow</span><br/>
             <span class="l">And the light hearted waters</span><br/>
@@ -399,12 +385,11 @@ EOT
                   <div class="tooltip">
           System generated line number
         </div><a href="#L165" id="L165">165</a></div></span><br/>
-            
-         </div>
+            </div>
          
          <div class="lg-stanza">
             <span class="l">12</span><br/>
-            <span class="l"><span class="del-strikethrough">Come ye cold winds at January&#x02BC;s call</span></span><br/>
+            <span class="l"><span class="del-strikethrough">Come ye cold winds at Januaryʼs call</span></span><br/>
             <span class="l">From your <span class="del-scratchout">cold</span><div 
               class="add-above" 
               style="left:NaNem">high</div> dwellings in the realms of snow.</span><br/>
@@ -427,8 +412,7 @@ EOT
         </div><a href="#L175" id="L175">175</a></div></span><br/>
             <span class="l">But lashed by Marches maddened winds shall roar,</span><br/>
             <span class="l">With voice of ire, and heat the rocks on every third.</span><br/>
-            
-         </div>
+            </div>
          
          <div class="lg-stanza">
             <span class="l">13</span><br/>
@@ -451,8 +435,7 @@ EOT
             <span class="l">Triumphant, and the wan and weary moon</span><br/>
             <span class="l">Mingle her cold beams with the burning lume</span><br/>
             <span class="l">That Sirius shouts through all the dreary midnight gloom.</span><br/>
-            
-         </div>
+            </div>
          
          <div class="lg-stanza">
             <span class="l">14</span><br/>
@@ -474,8 +457,7 @@ EOT
             <span class="l">In rattling showers Novembers misty rain</span><br/>
             <span class="l">From every stormy cloud descends awain.</span><br/>
             <span class="l">Till dark December snows close up the year again.</span><br/>
-            
-         </div>
+            </div>
          
          <div class="lg-stanza">
             <span class="l">15
@@ -487,7 +469,7 @@ EOT
             <span class="l">Hour after hour, successive changes show it</span><br/>
             <span class="l">Why should we care , or should we endeavor (last two letters sideways)</span><br/>
             <span class="l">To stop their motion. Go it, Gemmen, Go it</span><br/>
-            <span class="l">But all I ask is, that you&#x02BC;ll mix together
+            <span class="l">But all I ask is, that youʼll mix together
                <div class="s-line-number s-line-number-auto">
                   <div class="tooltip">
           System generated line number
@@ -501,16 +483,15 @@ EOT
                   <div class="tooltip">
           System generated line number
         </div><a href="#L210" id="L210">210</a></div></span><br/>
-            
-         </div>
+            </div>
          <div id="MSVIII15v" class="pb"></div>
          
          <div class="lg-stanza">                
             <span class="l">16</span><br/>
-            <span class="l">I know not where I&#x02BC;ve gained the information</span><br/>
+            <span class="l">I know not where Iʼve gained the information</span><br/>
             <span class="l">That all the ladies letters always are</span><br/>
             <span class="l">Most influential in their termination</span><br/>
-            <span class="l">But these, my final lines you&#x02BC;ll find by far
+            <span class="l">But these, my final lines youʼll find by far
                <div class="s-line-number s-line-number-auto">
                   <div class="tooltip">
           System generated line number
@@ -526,8 +507,7 @@ EOT
                   <div class="tooltip">
           System generated line number
         </div><a href="#L220" id="L220">220</a></div></span><br/>
-            
-         </div>
+            </div>
          
          <div class="lg-stanza">               
             <span class="l">I (left side) 17 (centered)</span><br/>
@@ -551,9 +531,6 @@ EOT
           System generated line number
         </div><a href="#L230" id="L230">230</a></div></span><br/>
             <span class="l">And hail the Fathers smile, that through his frown (will show written above h)</span><br/>
-            
+            </div>
          </div>
-         
-      </div>
-   </div><div id="" class="pb"></div>
-</div><?php require_once(ROOT_PATH."layout_includes/showcase_bottom.inc.php"); ?>
+   </div><div id="" class="pb"></div></div><?php require_once(ROOT_PATH."layout_includes/showcase_bottom.inc.php"); ?>

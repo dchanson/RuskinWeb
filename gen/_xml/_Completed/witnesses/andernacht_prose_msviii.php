@@ -24,15 +24,13 @@ msviii/MSVIII55v-56r.jpg msviii/MSVIII56v-57r.jpg
 EOT
 );
       ?>
-    <?php require_once(ROOT_PATH."layout_includes/showcase_top.inc.php"); ?><div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-left"><img id="facs_preview" src="" width="100&#x0025;"><img id="facs" src="" width="100&#x0025;" style="display:none"></div>
-<div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-splitter"></div>
-<div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-right">
+    <?php require_once(ROOT_PATH."layout_includes/showcase_top.inc.php"); ?><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-left"><img id="facs_preview" src="" width="100%"><img id="facs" src="" width="100%" style="display:none"></div><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-splitter"></div><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-right">
    <div class="backToApparatusLink"><a href="/apparatuses/apparatuses/account_of_a_tour_on_the_continent_apparatus#account_of_a_tour_on_the_continent_msviii" target="_self"></a><br/></div>
-   <div class="fileName"><span>&#x201C;Andernacht&#x201D; &#x005B;essay&#x005D;</span></div>
+   <div class="fileName"><span>“Andernacht” [essay]</span></div>
    <div class="witness">
       <div class="essay" id="">
          
-         <div class="title" id="&#x0040;"><span class="space" style="padding-left:6.4em"> </span>Andernacht</div>
+         <div class="title" id="@"><span class="space" style="padding-left:6.4em"> </span>Andernacht</div>
          
          <div class="p">What is it that makes the very heart leap within you<br/> 
                     at the sight of a hills blue outline, that so aetheriallizes the<br/> 
@@ -46,7 +44,7 @@ EOT
                     of your own littleness, or that immoveable unchangeable mag<br/>nificence of th<div 
           class="subst-del s-subst s-del" >e</div><div 
           class="s-subst s-add s-overwrite s-inline">at</div> <span class="del-strikethrough"><span class="unclear-DCH">pa</span></span> which has seen the beginning of the world<br/> 
-                    and will see its end, or is it that the thoughts range insens&#x2010;<br/> ibly from the things created to him who created them. I<br/> 
+                    and will see its end, or is it that the thoughts range insens‐<br/> ibly from the things created to him who created them. I<br/> 
                     know not How it thrilled through me when first, far away<br/> 
                     across the lake like swell of the <span class="del-strikethrough">blue</span><div 
               class="add-above" 
@@ -54,7 +52,7 @@ EOT
                     river rose the cloudy outline of the blue mountains Long time<br/> 
                     has past over me since I saw the swell of a blue hill I have<br/> 
                     longed for them, I have yearned for them as an exile yearns<br/> 
-                    for his native land, and I am with them, &#x2014;. We left <span class="placeName-COLOGNE">Co&#x2010;<br/>
+                    for his native land, and I am with them, —. We left <span class="placeName-COLOGNE">Co‐<br/>
                     logne</span> on a misty summer morning, its many turreted spires<br/> 
                     rising colossally but grey and faint amid the wreathing<br/> 
                     columns of mist that smoked upward from the course<br/> 
@@ -67,14 +65,13 @@ EOT
                 <span class="gloss-contextual">
                 1
                 </span>
-              </a></span> show&#x2010;<br/>
+              </a></span> show‐<br/>
                     ing ruinlike beside it There were the red sails and<br/> 
                     mingled masts of the innumerable shipping without<br/> 
                     one sail swelling or a flag bending to the morning breeze<br/>
                     There was that peaceful and lovely lassitude over every<br/> 
                     thing that sleep of the earth and the air and the<br/> 
-                    sky that charms the mind into a corresponding fascina&#x2010;<br/> tion of stillness, the very thoughts seem at rest.
-         </div>
+                    sky that charms the mind into a corresponding fascina‐<br/> tion of stillness, the very thoughts seem at rest.</div>
          
          <div class="p">We went on we past <span class="placeName-BONN">Bonne</span> and <span class="placeName-GODESBERG">Godesberg</span>, and<br/> 
             <span class="geogName-DRACHENFELS">Drachenfels</span><span class="gloss-inline">
@@ -87,7 +84,7 @@ EOT
               </a></span> and sunset was <span class="del-strikethrough">bending</span> <div 
               class="add-above" 
               style="left:11.2em">sorrowing</div> over hill and<br/> 
-                    valley when the gloomy and venerable towrs of <span class="placeName-ANDERNACH">Ander&#x2010;<br/> nacht</span> frowned over us. I love to look upon the crags that<br/> 
+                    valley when the gloomy and venerable towrs of <span class="placeName-ANDERNACH">Ander‐<br/> nacht</span> frowned over us. I love to look upon the crags that<br/> 
             <span class="persName-JULIUSCAESAR">Caesar</span> has scaled, on<span class="del-strikethrough">t</span> the towers that his legions hav<div 
           class="subst-del s-subst s-del" >i</div><div 
           class="s-subst s-add s-overwrite s-inline">e</div><div 
@@ -96,7 +93,7 @@ EOT
                     The one is now as it was then, looking up to the broad blue heaven, the others<br/> 
             <div 
           class="subst-del s-subst s-del" >is</div><div 
-          class="s-subst s-add s-overwrite s-inline">are</div> in ruins.&#x2014;<span class="gloss-inline">
+          class="s-subst s-add s-overwrite s-inline">are</div> in ruins.—<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/andernacht_glosses_contextual#ANDERNACHTTHESEGLOSS" target="_blank" class="inactive">
           
           
@@ -123,10 +120,7 @@ EOT
               </a></span> Other s<div 
           class="s-subst s-add s-overwrite s-inline">n</div><div 
           class="subst-del-strikethrough s-subst s-del s-strikethrough" >h</div>ows have melted and the <span class="geogName-RHINE">Rhine</span> yet flows<br/> 
-                    onward unbroken but those waves are lost in the ocean for ever.&#x2014;<br/>
-            
+                    onward unbroken but those waves are lost in the ocean for ever.—<br/>
+            </div>
          </div>
-         
-      </div>
-   </div><div id="" class="pb"></div>
-</div><?php require_once(ROOT_PATH."layout_includes/showcase_bottom.inc.php"); ?>
+   </div><div id="" class="pb"></div></div><?php require_once(ROOT_PATH."layout_includes/showcase_bottom.inc.php"); ?>

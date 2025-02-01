@@ -24,11 +24,9 @@ msviii/MSVIII62v-63r.jpg msviii/MSVIII63v-64r.jpg
 EOT
 );
       ?>
-    <?php require_once(ROOT_PATH."layout_includes/showcase_top.inc.php"); ?><div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-left"><img id="facs_preview" src="" width="100&#x0025;"><img id="facs" src="" width="100&#x0025;" style="display:none"></div>
-<div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-splitter"></div>
-<div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-right">
+    <?php require_once(ROOT_PATH."layout_includes/showcase_top.inc.php"); ?><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-left"><img id="facs_preview" src="" width="100%"><img id="facs" src="" width="100%" style="display:none"></div><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-splitter"></div><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-right">
    <div class="backToApparatusLink"><a href="/apparatuses/apparatuses/account_of_a_tour_on_the_continent_apparatus#account_of_a_tour_on_the_continent_msviii" target="_self"></a><br/></div>
-   <div class="fileName"><span>&#x201C;Part of Brussels&#x201D; &#x005B;essay, part 2&#x005D;</span></div>
+   <div class="fileName"><span>“Part of Brussels” [essay, part 2]</span></div>
    <div class="witness">
       <div class="essay" id="">
          <div id="MSVIII63r" class="pb"></div>
@@ -36,7 +34,7 @@ EOT
          
          <div class="p">perambulating, Oh woe to the walker,<div 
               class="add-below" 
-              style="left:14.8em">&#x2038;</div> <div 
+              style="left:14.8em">‸</div> <div 
               class="add-above" 
               style="left:15.2em">he</div> who is compelled,<br/>
                         to drag himself up their steeps, those tiresome paved steeps,<br/>
@@ -112,10 +110,10 @@ EOT
           class="subst-del-strikethrough s-subst s-del s-strikethrough" >caught</div> the sides of the swelling<br/> 
                         green <div 
               class="add-below" 
-              style="left:2.0em">&#x2038;</div><div 
+              style="left:2.0em">‸</div><div 
               class="add-above" 
               style="left:2.0em">grassy</div> banks then broken by the intervening hollows then climbing<br/> 
-                        again up the dewy moss and white trunks, It was exceeding beau&#x2010;<br/>
+                        again up the dewy moss and white trunks, It was exceeding beau‐<br/>
                         tiful<u>. I</u> could have fancied the glister<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/brussels_glosses_contextual#GLISTERGLOSS" target="_blank" class="inactive">
           
@@ -125,9 +123,8 @@ EOT
                 </span>
               </a></span> of <span class="del-strikethrough">the</span> bright bayonets changing,<br/>
                         like starlight on a wavy ocean, among the retiring foliage<br/> 
-                        of those ancient trees&#x2014;I forgot how many long years<br/>
-                        had past by since that eventful day.&#x2014;&#x002A; &#x002A; &#x002A;<br/>
-         </div>
+                        of those ancient trees—I forgot how many long years<br/>
+                        had past by since that eventful day.—* * *<br/></div>
          
          
          <div class="p">This is the field of <span class="placeName-WATERLOO">Waterloo</span>.<span class="gloss-inline">
@@ -144,11 +141,11 @@ EOT
                     again, spreading away in rounded masses, till lost in the<br/> 
                     blue of the faint horizon.<div 
               class="add-below" 
-              style="left:10.4em">&#x2038;</div><div 
+              style="left:10.4em">‸</div><div 
               class="add-above" 
               style="left:10.4em">All is peace now</div> English men may feel proud<br/> 
                     upon the field of <span class="placeName-WATERLOO">Waterloo</span>, perhaps I did, But there is something<br/>
-                    mingled with it,&#x2014;&#x2014; Poor Napolean The grass is very green<br/>
+                    mingled with it,—— Poor Napolean The grass is very green<br/>
                     on the field of <span class="placeName-WATERLOO">Waterloo</span>, for it has grown from the dust of<br/> 
                     our bravest, Oh tread on it softly<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/brussels_glosses_contextual#TREADSOFTLYGLOSS" target="_blank" class="inactive">
@@ -157,9 +154,6 @@ EOT
                 <span class="gloss-contextual">
                 9
                 </span>
-              </a></span><br/>
+              </a></span><br/></div>
          </div>
-         
-      </div>
-   </div><div id="" class="pb"></div>
-</div><?php require_once(ROOT_PATH."layout_includes/showcase_bottom.inc.php"); ?>
+   </div><div id="" class="pb"></div></div><?php require_once(ROOT_PATH."layout_includes/showcase_bottom.inc.php"); ?>

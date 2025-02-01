@@ -24,11 +24,9 @@ define("FACS_FILE_NAMES", <<<EOT
 EOT
 );
       ?>
-    <?php require_once(ROOT_PATH."layout_includes/showcase_top.inc.php"); ?><div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-left"><img id="facs_preview" src="" width="100&#x0025;"><img id="facs" src="" width="100&#x0025;" style="display:none"></div>
-<div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-splitter"></div>
-<div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-right">
+    <?php require_once(ROOT_PATH."layout_includes/showcase_top.inc.php"); ?><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-left"><img id="facs_preview" src="" width="100%"><img id="facs" src="" width="100%" style="display:none"></div><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-splitter"></div><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-right">
    <div class="backToApparatusLink"><br/></div>
-   <div class="fileName"><span>&#x201C;It was a wide stetchy sweep&#x201D; &#x005B;essay&#x005D;</span></div>
+   <div class="fileName"><span>“It was a wide stetchy sweep” [essay]</span></div>
    <div class="witness">
       <div class="essay" id="">
          
@@ -66,7 +64,7 @@ EOT
                     a conviction that blue hills were white ones, until our entrance into the narrow 
                     dell above mentioned precluded all farther observations upon the clouds. A 
                     Swiss cottage is a celebrated thing, celebrated far and wide; it has modelled 
-                    the Tivolian villas of&#x2014;<span class="placeName-HIGHTGATE">Highgate</span> and <span class="placeName-HAMPSTEAD">Hampstead</span>,<span class="gloss-inline">
+                    the Tivolian villas of—<span class="placeName-HIGHTGATE">Highgate</span> and <span class="placeName-HAMPSTEAD">Hampstead</span>,<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/it_was_a_wide_and_stretchy_sweep_glosses_contextual#HIGHGATE" target="_blank" class="inactive">
           
           
@@ -94,9 +92,6 @@ EOT
                 </span>
               </a></span> , <span class="geogName-ALPS">Alps</span>, apples, tyrants, 
                     and crossbows came crowding into my brain, jumbled together in most 
-                    admired disorder. I thought of nothing connected the whole day.
+                    admired disorder. I thought of nothing connected the whole day.</div>
          </div>
-         
-      </div>
-   </div><div id="" class="pb"></div>
-</div><?php require_once(ROOT_PATH."layout_includes/showcase_bottom.inc.php"); ?>
+   </div><div id="" class="pb"></div></div><?php require_once(ROOT_PATH."layout_includes/showcase_bottom.inc.php"); ?>

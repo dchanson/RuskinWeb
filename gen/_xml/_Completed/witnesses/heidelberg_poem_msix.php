@@ -24,11 +24,9 @@ msix/MSIX44v-45r.jpg msix/MSIX47v-48r.jpg
 EOT
 );
       ?>
-    <?php require_once(ROOT_PATH."layout_includes/showcase_top.inc.php"); ?><div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-left"><img id="facs_preview" src="" width="100&#x0025;"><img id="facs" src="" width="100&#x0025;" style="display:none"></div>
-<div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-splitter"></div>
-<div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-right">
+    <?php require_once(ROOT_PATH."layout_includes/showcase_top.inc.php"); ?><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-left"><img id="facs_preview" src="" width="100%"><img id="facs" src="" width="100%" style="display:none"></div><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-splitter"></div><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-right">
    <div class="backToApparatusLink"><a href="/apparatuses/apparatuses/account_of_a_tour_on_the_continent_apparatus#account_of_a_tour_on_the_continent_msix" target="_self"></a><br/></div>
-   <div class="fileName"><span>&#x201C;Heidelberg&#x201D; &#x005B;poem&#x005D;</span></div>
+   <div class="fileName"><span>“Heidelberg” [poem]</span></div>
    <div class="witness">
       <div class="poem" id="">
          
@@ -72,7 +70,7 @@ EOT
                 1
                 </span>
               </a></span></span><br/>
-            <span class="l">From behind a thunder&#x2010;cloud,
+            <span class="l">From behind a thunder‐cloud,
                <div class="s-line-number s-line-number-auto">
                   <div class="tooltip">
           System generated line number
@@ -96,7 +94,7 @@ EOT
           System generated line number
         </div><a href="#L20" id="L20">20</a></div></span><br/>
             <span class="l">Like a lovely Oasis.</span><br/>
-            <span class="l">&#x02BC;Mid a desert dark and gloomy.<span class="gloss-inline">
+            <span class="l">ʼMid a desert dark and gloomy.<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/heidelberg_poem_glosses_textual#FROMBEHINDATHUNDERCLOUD" target="_blank" class="inactive">
           
           
@@ -106,9 +104,9 @@ EOT
                 </span>
                 
               </a></span></span><br/>
-            <span class="l">But a moment&#x2014; darkly down,</span><br/>
+            <span class="l">But a moment— darkly down,</span><br/>
             <span class="l">Came the thunder heavens frown,</span><br/>
-            <span class="l">&#x02BC;Mong the trees a fitful shaking,
+            <span class="l">ʼMong the trees a fitful shaking,
                <div class="s-line-number s-line-number-auto">
                   <div class="tooltip">
           System generated line number
@@ -181,7 +179,7 @@ EOT
                   <div class="tooltip">
           System generated line number
         </div><a href="#L45" id="L45">45</a></div></span><br/>
-            <span class="l">All along th&#x02BC; horizon sweeping,</span><br/>
+            <span class="l">All along thʼ horizon sweeping,</span><br/>
             <span class="l">Flinging far its cloudy spray</span><br/>
             <span class="l">Oer the peaceful heaven beating.</span><br/>
             <span class="l">Then around the reddening sun,</span><br/>
@@ -322,9 +320,6 @@ EOT
             <span class="l">Flashed on him like that sun, whose ray</span><br/>
             <span class="l">And all the smile of lightsome day</span><br/>
             <span class="l">He has almost forgotten.</span><br/>
-            
+            </div>
          </div>
-         
-      </div>
-   </div><div id="" class="pb"></div>
-</div><?php require_once(ROOT_PATH."layout_includes/showcase_bottom.inc.php"); ?>
+   </div><div id="" class="pb"></div></div><?php require_once(ROOT_PATH."layout_includes/showcase_bottom.inc.php"); ?>

@@ -24,15 +24,13 @@ msviii/MSVIII64v-65r.jpg msviii/MSVIII65v-66r.jpg
 EOT
 );
       ?>
-    <?php require_once(ROOT_PATH."layout_includes/showcase_top.inc.php"); ?><div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-left"><img id="facs_preview" src="" width="100&#x0025;"><img id="facs" src="" width="100&#x0025;" style="display:none"></div>
-<div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-splitter"></div>
-<div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-right">
+    <?php require_once(ROOT_PATH."layout_includes/showcase_top.inc.php"); ?><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-left"><img id="facs_preview" src="" width="100%"><img id="facs" src="" width="100%" style="display:none"></div><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-splitter"></div><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-right">
    <div class="backToApparatusLink"><a href="/apparatuses/apparatuses/account_of_a_tour_on_the_continent_apparatus#account_of_a_tour_on_the_continent_msviii" target="_self"></a><br/></div>
-   <div class="fileName"><span>&#x201C;Aix la Chapelle&#x201D; &#x005B;essay&#x005D;</span></div>
+   <div class="fileName"><span>“Aix la Chapelle” [essay]</span></div>
    <div class="witness">
       <div class="essay" id="">
          
-         <div class="title" id="&#x0040;"><span class="space" style="padding-left:6.4em"> </span>Aix la Chapelle</div>
+         <div class="title" id="@"><span class="space" style="padding-left:6.4em"> </span>Aix la Chapelle</div>
          
          <div class="p">Hast ever heard of the peace of <span class="placeName-AIXLACHAPELLE">Aix la Chapelle</span>,<br/>
                     reader.<span class="gloss-inline">
@@ -94,13 +92,13 @@ EOT
                     to trot upon the paved centre of the road, but that they<br/>
                     be permitted to draw the carriage, chariot, gig, or other vehicle<br/>
                     afore said, into the beds of sand and dust, denominated<br/>
-                    by the postillion, la terre, even although the carriage, char&#x2010;<br/>
+                    by the postillion, la terre, even although the carriage, char‐<br/>
                     iot gig, or other vehicle, be in imminent danger of being overset<br/>
                     into the ditch which bordereth upon the road. Item, that<br/>
                     postillion be permitted, when upon the backs of his horses,<br/>
                     to indulge himself with a comfortable pipe, and half<br/>
                     hours nap, or so, during which time, his above mentioned<br/>
-                    quadrupeds be surrendered to their own will, and gui&#x2010;<br/>
+                    quadrupeds be surrendered to their own will, and gui‐<br/>
                     dance,<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/aix_la_chapelle_prose_glosses_contextual#POSTILIONAIXLACHAPELLEGLOSS" target="_blank" class="inactive">
           
@@ -115,7 +113,7 @@ EOT
           class="subst-add-above s-subst s-add s-above" 
           style="left:6.0em">six</div> hours ride of 12 miles, I was first<br/>
                     fevered by the burning sun, then smothered by the<br/>
-                    dust, and finally&#x2014;but let that pass for the present.<br/>
+                    dust, and finally—but let that pass for the present.<br/>
                     A <span class="title-AACHENCATHEDRAL">cathedral</span> is a noble, a beautiful, a sublime thing,<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/aix_la_chapelle_prose_glosses_contextual#CATHEDRALGLOSS" target="_blank" class="inactive">
           
@@ -145,15 +143,14 @@ EOT
                     almost think that the dead forms of departed monarchs<br/>
                     have sprung forth from their narrow dwellings beneath that<br/>
                     ancient pavement, and the peers of <span class="persName-CHARLEMAGNE">Charlemagne</span> are rallying<br/>
-                    again around their monarch. Wake&#x2014;<span class="gloss-inline">
+                    again around their monarch. Wake—<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/aix_la_chapelle_prose_glosses_contextual#WAKEGLOSS" target="_blank" class="inactive">
           
           
                 <span class="gloss-contextual">
                 5
                 </span>
-              </a></span><br/>
-         </div>
+              </a></span><br/></div>
          <div id="MSVIII66r" class="pb"></div>
          <div class="pageNum-top-right">66</div><br/>
          
@@ -175,7 +172,7 @@ EOT
                 <span class="gloss-contextual">
                 7
                 </span>
-              </a></span> The revolutionists am&#x2010;<br/>
+              </a></span> The revolutionists am‐<br/>
                     used themselves by depriving the poor stone gentlemen<br/>
                     of their olfactory nerves, alias noses, consequence they<br/>
                     look all terrible flats. <span class="del-strikethrough">Twili</span><span class="gloss-inline">
@@ -189,7 +186,7 @@ EOT
                 
               </a></span> Night coming on. Left<br/>
                     the cathedral just in time to be tantalized by grinning<br/>
-                    at a magnificent picture when it was pitch dark. Last judg&#x2010;<br/>
+                    at a magnificent picture when it was pitch dark. Last judg‐<br/>
                     ment.<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/aix_la_chapelle_prose_glosses_textual#PAUSEPERIOD" target="_blank" class="inactive">
           
@@ -215,12 +212,9 @@ EOT
                 <span class="gloss-contextual">
                 8
                 </span>
-              </a></span> Return&#x02BC;d to<br/>
+              </a></span> Returnʼd to<br/>
                     the inn in very bad humour. Off early next morning for<br/>
             <span class="placeName-COLOGNE">Cologne</span>. Goodnight.<br/>
-            
+            </div>
          </div>
-         
-      </div>
-   </div><div id="" class="pb"></div>
-</div><?php require_once(ROOT_PATH."layout_includes/showcase_bottom.inc.php"); ?>
+   </div><div id="" class="pb"></div></div><?php require_once(ROOT_PATH."layout_includes/showcase_bottom.inc.php"); ?>

@@ -24,11 +24,9 @@ msix/MSIX43v-44r.jpg
 EOT
 );
       ?>
-    <?php require_once(ROOT_PATH."layout_includes/showcase_top.inc.php"); ?><div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-left"><img id="facs_preview" src="" width="100&#x0025;"><img id="facs" src="" width="100&#x0025;" style="display:none"></div>
-<div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-splitter"></div>
-<div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-right">
+    <?php require_once(ROOT_PATH."layout_includes/showcase_top.inc.php"); ?><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-left"><img id="facs_preview" src="" width="100%"><img id="facs" src="" width="100%" style="display:none"></div><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-splitter"></div><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-right">
    <div class="backToApparatusLink"><a href="/apparatuses/apparatuses/account_of_a_tour_on_the_continent_apparatus#account_of_a_tour_on_the_continent_msix" target="_self"></a><br/></div>
-   <div class="fileName"><span>"St. Goar" &#x005B;essay&#x005D;</span></div>
+   <div class="fileName"><span>"St. Goar" [essay]</span></div>
    <div class="witness">
       <div class="essay" id="">
          <span class="space" style="padding-left:3.6em"> </span>
@@ -51,9 +49,9 @@ EOT
                     <br/>far away over its rich sea of champaign, yet
                     <br/>there is nothing like <span class="placeName-STGOAR">St Goar</span>. It has a 
                     <br/>lone hill beauty, the little scene around
-                    <br/>it, is exceeding small, but it has a mod&#x2010;
-                    <br/>est secluded loveliness. You look on <span class="placeName-ANDERNACH">An&#x2010;
-                    <br/>dernacht</span> with veneration, on <span class="placeName-EHRENBREITSTEIN">Ehrenbreit&#x2010;
+                    <br/>it, is exceeding small, but it has a mod‐
+                    <br/>est secluded loveliness. You look on <span class="placeName-ANDERNACH">An‐
+                    <br/>dernacht</span> with veneration, on <span class="placeName-EHRENBREITSTEIN">Ehrenbreit‐
                 <div id="MSIX44r" class="pb"></div>
                <br/>stein</span> with awe, but on <span class="placeName-STGOAR">St. Goar</span> with
                     <br/>love.<span class="gloss-inline">
@@ -89,18 +87,15 @@ EOT
               </a></span> List to the
                     <br/>song of the summer breeze, does it not
                     <br/>tell of the blue heavens, and the white
-                    <br/>clouds, and other climes, and other sea&#x2010;
-                    <br/>sons, and spicy gales and myrtle bow&#x2010;
+                    <br/>clouds, and other climes, and other sea‐
+                    <br/>sons, and spicy gales and myrtle bow‐
                     <br/>ers, and sweet things far away. How
                     <br/>sweetly the <span class="geogName-RHINE">Rhine</span> sings at <span class="placeName-STGOAR">St Goar</span>,
                     <br/>and it tells of the arched grottoes of the
-                    <br/>glacier, and the crags of the far <span class="geogName-ALPS">Alps</span>, &#x0026;
+                    <br/>glacier, and the crags of the far <span class="geogName-ALPS">Alps</span>, &
                     <br/>how it joys to dash against tall rock
                     <br/>once more.
-                
-         </div>
+                </div>
          <span class="space" style="padding-left:1.2em"> </span>
-         
-      </div>
-   </div><div id="" class="pb"></div>
-</div><?php require_once(ROOT_PATH."layout_includes/showcase_bottom.inc.php"); ?>
+         </div>
+   </div><div id="" class="pb"></div></div><?php require_once(ROOT_PATH."layout_includes/showcase_bottom.inc.php"); ?>

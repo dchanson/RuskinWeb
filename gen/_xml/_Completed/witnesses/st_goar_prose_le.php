@@ -24,11 +24,9 @@ define("FACS_FILE_NAMES", <<<EOT
 EOT
 );
       ?>
-    <?php require_once(ROOT_PATH."layout_includes/showcase_top.inc.php"); ?><div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-left"><img id="facs_preview" src="" width="100&#x0025;"><img id="facs" src="" width="100&#x0025;" style="display:none"></div>
-<div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-splitter"></div>
-<div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-right">
+    <?php require_once(ROOT_PATH."layout_includes/showcase_top.inc.php"); ?><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-left"><img id="facs_preview" src="" width="100%"><img id="facs" src="" width="100%" style="display:none"></div><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-splitter"></div><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-right">
    <div class="backToApparatusLink"><a href="/apparatuses/apparatuses/account_of_a_tour_on_the_continent_apparatus#account_of_a_tour_on_the_continent_le" target="_self"></a><br/></div>
-   <div class="fileName"><span>"St. Goar" &#x005B;essay&#x005D;</span></div>
+   <div class="fileName"><span>"St. Goar" [essay]</span></div>
    <div class="witness">
       <div class="essay" id="">
          
@@ -37,7 +35,7 @@ EOT
                 <br/>venerable remains of antiquity, there is <span class="placeName-EHRENBREITSTEIN">Ehrenbreitstein</span> upon whose cliff 
                 <br/>never traitor stood, looking out far away over its rich sea of champaign, 
                 <br/>yet there is nothing like <span class="placeName-STGOAR">St. Goar</span>. It has a lone hill beauty, the little 
-                <br/>scene around it is exceedingly small, but it has a modest secluded loveli&#x2010;
+                <br/>scene around it is exceedingly small, but it has a modest secluded loveli‐
                 <br/>ness. You look on <span class="placeName-ANDERNACH">Andernacht</span> with veneration, on <span class="placeName-EHRENBREITSTEIN">Ehrenbreitstein</span> with 
                 <br/>awe, but on <span class="placeName-STGOAR">St. Goar</span> with love.<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/st_goar_glosses_contextual#STGOARLOVEGLOSS" target="_blank" class="inactive">
@@ -63,9 +61,6 @@ EOT
                 <br/>and myrtle bowers, and sweet things far away? How sweetly the <span class="geogName-RHINE">Rhine</span> 
             <br/>sings at <span class="placeName-STGOAR">St. Goar</span>, and it tells of the arched grottoes of the glacier, and 
                 <br/>the crags of the far <span class="geogName-ALPS">Alps</span>, and how it joys to dash against tall rocks once 
-                <br/>more.
+                <br/>more.</div>
          </div>
-         
-      </div>
-   </div><div id="" class="pb"></div>
-</div><?php require_once(ROOT_PATH."layout_includes/showcase_bottom.inc.php"); ?>
+   </div><div id="" class="pb"></div></div><?php require_once(ROOT_PATH."layout_includes/showcase_bottom.inc.php"); ?>

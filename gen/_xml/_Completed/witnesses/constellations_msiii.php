@@ -24,9 +24,7 @@ define("FACS_FILE_NAMES", <<<EOT
 EOT
 );
       ?>
-    <?php require_once(ROOT_PATH."layout_includes/showcase_top.inc.php"); ?><div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-left"><img id="facs_preview" src="" width="100&#x0025;"><img id="facs" src="" width="100&#x0025;" style="display:none"></div>
-<div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-splitter"></div>
-<div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-right">
+    <?php require_once(ROOT_PATH."layout_includes/showcase_top.inc.php"); ?><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-left"><img id="facs_preview" src="" width="100%"><img id="facs" src="" width="100%" style="display:none"></div><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-splitter"></div><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-right">
    <div class="backToApparatusLink"><br/></div>
    <div class="fileName"><span>"The Constellations"</span></div>
    <div class="witness">
@@ -78,7 +76,7 @@ EOT
                 4
                 </span>
               </a></span> is seen</span><br/>
-            <span class="l"><span class="doubleletter-fill"><span class="caps">T</span></span>hen <span class="name--CHARLESSWAIN">charles&#x02BC;s wain</span> with his bright team<span class="gloss-inline">
+            <span class="l"><span class="doubleletter-fill"><span class="caps">T</span></span>hen <span class="name--CHARLESSWAIN">charlesʼs wain</span> with his bright team<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/constellations_glosses_contextual#CHARLESSWAINGLOSS" target="_blank" class="inactive">
           
           
@@ -139,7 +137,7 @@ EOT
                 </span>
                 
               </a></span></span><br/>
-            <span class="l">Next comes starry <span class="name--CHARLESSHEART">charles</span>&#x02BC;s<span class="space" style="padding-left:1.2em"> </span> heart<span class="gloss-inline">
+            <span class="l">Next comes starry <span class="name--CHARLESSHEART">charles</span>ʼs<span class="space" style="padding-left:1.2em"> </span> heart<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/constellations_glosses_contextual#CHARLESSHEARTGLOSS" target="_blank" class="inactive">
           
           
@@ -218,7 +216,7 @@ EOT
                   <div class="tooltip">
           System generated line number
         </div><a href="#L20" id="L20">20</a></div></span><br/>
-            <span class="l">Then we see great <span class="name--CHARLESSOAK">charles&#x02BC;s oak</span><span class="gloss-inline">
+            <span class="l">Then we see great <span class="name--CHARLESSOAK">charlesʼs oak</span><span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/constellations_glosses_contextual#CHARLESSOAK" target="_blank" class="inactive">
           
           
@@ -226,7 +224,7 @@ EOT
                 18
                 </span>
               </a></span></span><br/>
-            <span class="l">Next I&#x02BC;ll call it <span class="name--CRATER">juno&#x02BC;s cup</span><span class="gloss-inline">
+            <span class="l">Next Iʼll call it <span class="name--CRATER">junoʼs cup</span><span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/constellations_glosses_contextual#CRATERGLOSS" target="_blank" class="inactive">
           
           
@@ -312,7 +310,7 @@ EOT
                 27
                 </span>
               </a></span> next</span><br/>
-            <span class="l"><span class="add">30</span>Then the furious keen&#x2010;eyed <span class="name--LYNX">lynx</span><span class="gloss-inline">
+            <span class="l"><span class="add">30</span>Then the furious keen‐eyed <span class="name--LYNX">lynx</span><span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/constellations_glosses_contextual#LYNXGLOSS" target="_blank" class="inactive">
           
           
@@ -399,7 +397,7 @@ EOT
                 35
                 </span>
               </a></span></span><br/>
-            <span class="l"><span class="name--SCUTUM">Sobieski&#x02BC;s shield</span><span class="gloss-inline">
+            <span class="l"><span class="name--SCUTUM">Sobieskiʼs shield</span><span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/constellations_glosses_contextual#SCUTUMGLOSS" target="_blank" class="inactive">
           
           
@@ -621,7 +619,7 @@ EOT
                 57
                 </span>
               </a></span> doth bear</span><br/>
-            <span class="l"><span class="add">55</span>Shining in golden light he&#x02BC;s drest
+            <span class="l"><span class="add">55</span>Shining in golden light heʼs drest
                <div class="s-line-number s-line-number-auto">
                   <div class="tooltip">
           System generated line number
@@ -755,9 +753,6 @@ EOT
             <span class="l">Virtue I will say you are</span><br/>
             <span class="l">Better than knowledge yes indeed</span><br/>
             <span class="l">Virtue you should have the lead</span><br/>
-            
+            </div>
          </div>
-         
-      </div>
-   </div><div id="" class="pb"></div>
-</div><?php require_once(ROOT_PATH."layout_includes/showcase_bottom.inc.php"); ?>
+   </div><div id="" class="pb"></div></div><?php require_once(ROOT_PATH."layout_includes/showcase_bottom.inc.php"); ?>

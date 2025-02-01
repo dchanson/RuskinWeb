@@ -24,16 +24,13 @@ define("FACS_FILE_NAMES", <<<EOT
 EOT
 );
       ?>
-    <?php require_once(ROOT_PATH."layout_includes/showcase_top.inc.php"); ?><div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-left"><img id="facs_preview" src="" width="100&#x0025;"><img id="facs" src="" width="100&#x0025;" style="display:none"></div>
-<div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-splitter"></div>
-<div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-right">
+    <?php require_once(ROOT_PATH."layout_includes/showcase_top.inc.php"); ?><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-left"><img id="facs_preview" src="" width="100%"><img id="facs" src="" width="100%" style="display:none"></div><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-splitter"></div><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-right">
    <div class="backToApparatusLink"><a href="/apparatuses/apparatuses/account_of_a_tour_on_the_continent_apparatus#account_of_a_tour_on_the_continent_poems_1891" target="_self"></a><br/></div>
-   <div class="fileName"><span>&#x201C;Not such the night whose stormy might&#x201D; &#x005B;&#x201C;Evening at Chamouni&#x201D;&#x005D; &#x005B;poem&#x005D;</span></div>
+   <div class="fileName"><span>“Not such the night whose stormy might” [“Evening at Chamouni”] [poem]</span></div>
    <div class="witness">
       <div class="poem" id="">
          
-         <h1 class="page-title">&#x005B;<span class="caps">EVENING AT CHAMOUNI</span>.&#x005D;
-         </h1>
+         <h1 class="page-title">[<span class="caps">EVENING AT CHAMOUNI</span>.]</h1>
          
          <div class="lg-stanza">
             <span class="l"><span class="caps">N</span><span class="smallcaps">OT</span> such the night whose stormy might</span><br/>
@@ -45,7 +42,7 @@ EOT
                 1
                 </span>
               </a></span> braved,</span><br/>
-            <span class="l">When, darkening on the Goût&#x00E9;&#x02BC;s height,<span class="gloss-inline">
+            <span class="l">When, darkening on the Goûtéʼs height,<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/not_such_the_night_whose_stormy_might_poem_glosses_contextual#GOUTERGLOSS" target="_blank" class="inactive">
           
           
@@ -60,18 +57,18 @@ EOT
           System generated line number
         </div><a href="#L5" id="L5">5</a></div></span><br/>
             <span class="l">He stood alone amid the storm;</span><br/>
-            <span class="l">Watching the last day&#x2010;gleams decay,&#x2014;</span><br/> 
+            <span class="l">Watching the last day‐gleams decay,—</span><br/> 
             <span class="l">Supposing its returning ray</span><br/>
             <span class="l">Should see him lying there asleep,</span><br/>
-            <span class="l">With <span class="geogName-ALPS">Alpine</span> snow for winding&#x2010;sheet.
+            <span class="l">With <span class="geogName-ALPS">Alpine</span> snow for winding‐sheet.
                <div class="s-line-number s-line-number-auto">
                   <div class="tooltip">
           System generated line number
         </div><a href="#L10" id="L10">10</a></div></span><br/> 
             <span class="l">Methinks I see him, as he stood</span><br/>
             <span class="l">Upon the ridge of snow;</span><br/>
-            <span class="l">The battering burst of winds above,&#x2014;</span><br/> 
-            <span class="l">The cloudy precipice below,&#x2014;</span><br/>
+            <span class="l">The battering burst of winds above,—</span><br/> 
+            <span class="l">The cloudy precipice below,—</span><br/>
             <span class="l">Watching the dawn. With proud delight
                <div class="s-line-number s-line-number-auto">
                   <div class="tooltip">
@@ -79,9 +76,9 @@ EOT
         </div><a href="#L15" id="L15">15</a></div></span><br/> 
             <span class="l">He saw that long, tempestuous night</span><br/> 
             <span class="l">Drive to the westward, and unfold</span><br/> 
-            <span class="l">The ocean snow&#x2010;fields, upward rolled,</span><br/> 
-            <span class="l">Bright with the morning&#x02BC;s glance of gold.</span><br/> 
-            <span class="l">It past away,&#x2014;the tossing flood
+            <span class="l">The ocean snow‐fields, upward rolled,</span><br/> 
+            <span class="l">Bright with the morningʼs glance of gold.</span><br/> 
+            <span class="l">It past away,—the tossing flood
                <div class="s-line-number s-line-number-auto">
                   <div class="tooltip">
           System generated line number
@@ -90,9 +87,6 @@ EOT
             <span class="l">Of changing vapour, headlong riding;</span><br/> 
             <span class="l">And lo! the untrodden summit stood</span><br/>
             <span class="l">Accessibly beside him.</span><br/>
-            
+            </div>
          </div>
-         
-      </div>
-   </div><div id="" class="pb"></div>
-</div><?php require_once(ROOT_PATH."layout_includes/showcase_bottom.inc.php"); ?>
+   </div><div id="" class="pb"></div></div><?php require_once(ROOT_PATH."layout_includes/showcase_bottom.inc.php"); ?>

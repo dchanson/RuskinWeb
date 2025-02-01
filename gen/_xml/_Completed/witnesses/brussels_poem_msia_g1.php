@@ -24,11 +24,9 @@ msia/MSIASheet24.jpg
 EOT
 );
       ?>
-    <?php require_once(ROOT_PATH."layout_includes/showcase_top.inc.php"); ?><div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-left"><img id="facs_preview" src="" width="100&#x0025;"><img id="facs" src="" width="100&#x0025;" style="display:none"></div>
-<div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-splitter"></div>
-<div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-right">
+    <?php require_once(ROOT_PATH."layout_includes/showcase_top.inc.php"); ?><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-left"><img id="facs_preview" src="" width="100%"><img id="facs" src="" width="100%" style="display:none"></div><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-splitter"></div><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-right">
    <div class="backToApparatusLink"><a href="/apparatuses/apparatuses/account_of_a_tour_on_the_continent_apparatus#account_of_a_tour_on_the_continent_msia_g1" target="_self"></a><br/></div>
-   <div class="fileName"><span>&#x201C;Brussels&#x201D; &#x005B;poem&#x005D;</span></div>
+   <div class="fileName"><span>“Brussels” [poem]</span></div>
    <div class="witness">
       <div class="poem" id="">
          
@@ -132,7 +130,7 @@ EOT
                   <div class="tooltip">
              Ruskin's line number
           </div><a href="javascript:void(0)">140</a></div></span><br/>
-            <span class="l">That tells of traffic &#x0026; of trade</span><br/>
+            <span class="l">That tells of traffic & of trade</span><br/>
             <span class="l">No, <span class="placeName-BRUSSELS">Brussels</span> time of power <span class="del-strikethrough">is</span><div 
               class="add-above" 
               style="left:10.8em">was</div> sped
@@ -235,9 +233,6 @@ EOT
         </div><a href="#L60" id="L60">60</a></div></span><br/>
             <span class="l">Of dark destruction fierce and fell.</span><br/>
             <div class="half"></div>
-            
+            </div>
          </div>
-         
-      </div>
-   </div><div id="" class="pb"></div>
-</div><?php require_once(ROOT_PATH."layout_includes/showcase_bottom.inc.php"); ?>
+   </div><div id="" class="pb"></div></div><?php require_once(ROOT_PATH."layout_includes/showcase_bottom.inc.php"); ?>

@@ -24,11 +24,9 @@ define("FACS_FILE_NAMES", <<<EOT
 EOT
 );
       ?>
-    <?php require_once(ROOT_PATH."layout_includes/showcase_top.inc.php"); ?><div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-left"><img id="facs_preview" src="" width="100&#x0025;"><img id="facs" src="" width="100&#x0025;" style="display:none"></div>
-<div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-splitter"></div>
-<div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-right">
+    <?php require_once(ROOT_PATH."layout_includes/showcase_top.inc.php"); ?><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-left"><img id="facs_preview" src="" width="100%"><img id="facs" src="" width="100%" style="display:none"></div><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-splitter"></div><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-right">
    <div class="backToApparatusLink"><br/></div>
-   <div class="fileName"><span>&#x201C;Glen of Glenfarg&#x201D; &#x005B;&#x201C;Glen of Glenfarg thy beauteous rill&#x201D;&#x005D;</span></div>
+   <div class="fileName"><span>“Glen of Glenfarg” [“Glen of Glenfarg thy beauteous rill”]</span></div>
    <div class="witness">
       <div class="poem" id="">
          
@@ -40,8 +38,7 @@ EOT
             <span class="l"><span class="space" style="padding-left:0.4em"> </span>Streaming through thy mountains high,</span><br/>
             <span class="l">Onward pressing, onward still,</span><br/>
             <span class="l"><span class="space" style="padding-left:0.4em"> </span>Hardly seeing the blue sky.</span><br/>
-            
-         </div>
+            </div>
          
          <div class="lg-stanza">
             <span class="l">Mountain streams, press on your way,
@@ -50,10 +47,9 @@ EOT
           System generated line number
         </div><a href="#L5" id="L5">5</a></div></span><br/>
             <span class="l"><span class="space" style="padding-left:0.4em"> </span>And run into the stream below:</span><br/>
-            <span class="l">Never stop like idle clay,&#x2014;</span><br/>
+            <span class="l">Never stop like idle clay,—</span><br/>
             <span class="l"><span class="space" style="padding-left:0.4em"> </span>Hear the sheep, and cattle low.</span><br/>
-            
-         </div>
+            </div>
          
          <div class="lg-stanza">
             <span class="l">Stones that in the stream do lie,</span><br/>
@@ -62,10 +58,9 @@ EOT
                   <div class="tooltip">
           System generated line number
         </div><a href="#L10" id="L10">10</a></div></span><br/>
-            <span class="l">&#x2014;Thou shalt never, never die,</span><br/>
-            <span class="l"><span class="space" style="padding-left:0.4em"> </span>&#x2014;Submit unto the Almighty&#x02BC;s will.</span><br/>
-            
-         </div>
+            <span class="l">—Thou shalt never, never die,</span><br/>
+            <span class="l"><span class="space" style="padding-left:0.4em"> </span>—Submit unto the Almightyʼs will.</span><br/>
+            </div>
          
          <div class="lg-stanza">
             <span class="l">Cows that lie upon the grass,</span><br/>
@@ -75,9 +70,8 @@ EOT
                   <div class="tooltip">
           System generated line number
         </div><a href="#L15" id="L15">15</a></div></span><br/>
-            <span class="l"><span class="space" style="padding-left:0.4em"> </span>Like a stone that&#x02BC;s in the rills.</span><br/>
-            
-         </div>
+            <span class="l"><span class="space" style="padding-left:0.4em"> </span>Like a stone thatʼs in the rills.</span><br/>
+            </div>
          
          <div class="lg-stanza">
             <span class="l">Sheep that eat upon the hills,</span><br/>
@@ -88,13 +82,12 @@ EOT
                   <div class="tooltip">
           System generated line number
         </div><a href="#L20" id="L20">20</a></div></span><br/>
-            
-         </div>
+            </div>
          
          <div class="lg-stanza">
             <span class="l">Cottages upon the plain,</span><br/>
             <span class="l"><span class="space" style="padding-left:0.4em"> </span>Placed so near the floury mills;</span><br/>
-            <span class="l">&#x2014;Cottager, look on <span class="name--CHARLESSWAIN">Charles&#x02BC;s Wain</span>,<span class="gloss-inline">
+            <span class="l">—Cottager, look on <span class="name--CHARLESSWAIN">Charlesʼs Wain</span>,<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/glen_of_glenfarg_glosses_contextual#CHARLESSWAINGLOSS" target="_blank" class="inactive">
           
           
@@ -103,17 +96,16 @@ EOT
                 </span>
               </a></span></span><br/>
             <span class="l"><span class="space" style="padding-left:0.4em"> </span>Right above the grassy hills.</span><br/>
-            
-         </div>
+            </div>
          <div id="" class="pb"></div>
          
          <div class="lg-stanza">
-            <span class="l">The pole&#x2010;star guides thee on the way,
+            <span class="l">The pole‐star guides thee on the way,
                <div class="s-line-number s-line-number-auto">
                   <div class="tooltip">
           System generated line number
         </div><a href="#L25" id="L25">25</a></div></span><br/>
-            <span class="l"><span class="space" style="padding-left:0.4em"> </span>When in dark nights thou art &#x005B;lost&#x005D;;<span class="gloss-inline">
+            <span class="l"><span class="space" style="padding-left:0.4em"> </span>When in dark nights thou art [lost];<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/glen_of_glenfarg_glosses_contextual#WORDINBRACKETSGLOSS" target="_blank" class="inactive">
           
           
@@ -123,9 +115,6 @@ EOT
               </a></span></span><br/>
             <span class="l">Therefore look up at the starry day,</span><br/>
             <span class="l"><span class="space" style="padding-left:0.4em"> </span>Look at the stars about thee tost.</span><br/>
-            
+            </div>
          </div>
-         
-      </div>
-   </div><div id="" class="pb"></div>
-</div><?php require_once(ROOT_PATH."layout_includes/showcase_bottom.inc.php"); ?>
+   </div><div id="" class="pb"></div></div><?php require_once(ROOT_PATH."layout_includes/showcase_bottom.inc.php"); ?>

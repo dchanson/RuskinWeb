@@ -24,9 +24,7 @@ define("FACS_FILE_NAMES", <<<EOT
 EOT
 );
       ?>
-    <?php require_once(ROOT_PATH."layout_includes/showcase_top.inc.php"); ?><div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-left"><img id="facs_preview" src="" width="100&#x0025;"><img id="facs" src="" width="100&#x0025;" style="display:none"></div>
-<div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-splitter"></div>
-<div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-right">
+    <?php require_once(ROOT_PATH."layout_includes/showcase_top.inc.php"); ?><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-left"><img id="facs_preview" src="" width="100%"><img id="facs" src="" width="100%" style="display:none"></div><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-splitter"></div><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-right">
    <div class="backToApparatusLink"><br/></div>
    <div class="fileName"><span>"Spring: Blank Verse"</span></div>
    <div class="witness">
@@ -47,8 +45,7 @@ EOT
             <span class="l">waving is cherry blossom though not so graceful</span><br/>
             <span class="l">as the spiry lilac and the hyacinth</span><br/>
             <span class="l">stiff is the pear and nectarine with the peach</span><br/>
-            
-         </div>
+            </div>
          
          <div class="lg-stanza">
             <span class="l">and apricot, all these are stiff but in return</span><br/>
@@ -59,8 +56,7 @@ EOT
         </div><a href="#L10" id="L10">10</a></div></span><br/>
             <span class="l">as well as flowers some are wild and cruel</span><br/>
             <span class="l">such are the tiger, panther, lynx and ounce</span><br/>
-            
-         </div>
+            </div>
          
          <div class="lg-stanza">
             <span class="l">so also in return these animals</span><br/>
@@ -71,21 +67,17 @@ EOT
           System generated line number
         </div><a href="#L15" id="L15">15</a></div></span><br/>
             <span class="l">some good intentions good ideas good thoughts.</span><br/>
-            
-         </div>
+            </div>
          
          <div class="lg-stanza">
-            <span class="l">but spring, there is one tree that thou bring&#x02BC;st forth</span><br/>
-            <span class="l">that is more beautiful than all the others&#x2014;</span><br/>
+            <span class="l">but spring, there is one tree that thou bringʼst forth</span><br/>
+            <span class="l">that is more beautiful than all the others—</span><br/>
             <span class="l">this is the apple blossom o how sweet</span><br/>
             <span class="l">is that fine tree and so I end.
                <div class="s-line-number s-line-number-auto">
                   <div class="tooltip">
           System generated line number
         </div><a href="#L20" id="L20">20</a></div></span><br/>
-            
+            </div>
          </div>
-         
-      </div>
-   </div><div id="" class="pb"></div>
-</div><?php require_once(ROOT_PATH."layout_includes/showcase_bottom.inc.php"); ?>
+   </div><div id="" class="pb"></div></div><?php require_once(ROOT_PATH."layout_includes/showcase_bottom.inc.php"); ?>
