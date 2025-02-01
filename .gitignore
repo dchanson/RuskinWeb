@@ -6,17 +6,24 @@ composer.phar
 node_modules/
 package-lock.json
 scss_cache
+<<<<<<< HEAD
 src/vendor/
 /deploy
 _Resources/images/facsimiles_previews
+=======
+>>>>>>> origin/main
 
-src/config*.php
-!/src/config_template.json.php
+/deploy
+
+
+
+
+
 
 src/phpmyadmin
 /phpmyadmin
-ruskin.xpr
+
 task*
-*.xpr
+
 src/#    proxy_pass   http:::127.0.0.1;
 _etc/Crib Sheets/~$regularization crib sheet MASTER 06-05-23.xlsx
