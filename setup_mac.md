@@ -136,3 +136,7 @@ $ ln -s ../../src/layout_includes .
 > Note: Homepage will not render unless everything is transformed
 
 * Everything must be running now
+
+
+Nginx Location 
+/opt/homebrew/etc/nginx

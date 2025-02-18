@@ -1,9 +1,10 @@
 const express = require('express');
 const path = require('path');
 const fs = require('fs');
+
 const app = express();
 
-// Middleware for logging
+// Middleware for logging requests
 app.use((req, res, next) => {
     console.log(`${new Date().toISOString()} - Request to: ${req.path}`);
     next();
@@ -19,21 +20,26 @@ app.use((req, res, next) => {
         case '.xml':
             res.type('application/xml');
             break;
-        case '.php':
-            res.type('application/x-httpd-php');
-            break;
         case '.css':
-            res.type('text/css'); 
+            res.type('text/css');
             break;
         case '.js':
             res.type('application/javascript');
             break;
-        // Add other types as needed
     }
     next();
 });
 
-//inject css
+// Handle PHP requests - return 404 as they should be handled by Nginx
+app.use((req, res, next) => {
+    if (req.path.endsWith('.php')) {
+        console.log(`PHP file requested, letting Nginx handle it: ${req.path}`);
+        return res.status(404).send('PHP files are handled by Nginx');
+    }
+    next();
+});
+
+// Inject CSS into HTML files
 function injectCSS(req, res, next) {
     if (req.path.endsWith('.html')) {
         const filePath = path.join(__dirname, 'gen', '_xml', '_Completed', req.path);
@@ -56,50 +62,11 @@ function injectCSS(req, res, next) {
 // Apply CSS injection middleware
 app.use(injectCSS);
 
-// Serve static files from the '_Resources' directory
+// Serve static files from '_Resources' and '_Completed' directories
 app.use('/_Resources', express.static(path.join(__dirname, '_Resources')));
-
-// Serve static files from the '_Completed' directory
 app.use(express.static(path.join(__dirname, 'gen', '_xml', '_Completed')));
 
-// Define content types and their corresponding folders
-const contentTypes = ['apparatuses', 'notes', 'glosses', 'corpuses', 'witnesses'];
-
-// Notes route handler with improved error handling and path resolution
-app.get('/notes/:noteName', (req, res) => {
-    const noteName = req.params.noteName.replace('.html', '');
-    const filePath = path.join(__dirname, 'gen', '_xml', '_Completed', 'notes', `${noteName}.html`);
-    
-    // Check if file exists before sending
-    fs.access(filePath, fs.constants.F_OK, (err) => {
-        if (err) {
-            console.error(`Note file not found: ${filePath}`);
-            res.status(404).send('Note not found');
-        } else {
-            res.sendFile(filePath, (err) => {
-                if (err) {
-                    console.error(`Error sending note file ${noteName}:`, err);
-                    res.status(500).send('Error occurred while serving the note');
-                }
-            });
-        }
-    });
-});
-
-// Handle requests for different content types
-contentTypes.forEach(contentType => {
-    app.get(`/${contentType}/:filename`, (req, res, next) => {
-        const filePath = path.join(__dirname, 'gen', '_xml', '_Completed', contentType, `${req.params.filename}.html`);
-        res.sendFile(filePath, (err) => {
-            if (err) {
-                console.error(`Error sending ${contentType} file ${req.params.filename}:`, err);
-                next();
-            }
-        });
-    });
-});
-
-// Serve the homepage for the root path
+// Serve the homepage
 app.get('/', (req, res) => {
     const filePath = path.join(__dirname, 'gen', '_xml', '_Completed', 'webpages', 'homepage.html');
     res.sendFile(filePath, (err) => {
@@ -110,23 +77,39 @@ app.get('/', (req, res) => {
     });
 });
 
-// Catch-all route for other content
-app.get('*', (req, res) => {
-    const filePath = path.join(__dirname, 'gen', '_xml', '_Completed', req.path);
-    
-    // Check if the file exists
+// Catch-all route for serving files
+// Catch-all route for serving files
+app.get('*', (req, res, next) => {
+    let sanitizedPath = req.path.replace(/\/$/, ''); // Remove trailing slash
+    let filePath = path.join(__dirname, 'gen', '_xml', '_Completed', sanitizedPath);
+
+    console.log(`Checking file path: ${filePath}`);
+
     fs.access(filePath, fs.constants.F_OK, (err) => {
-        if (err) {
-            console.error(`File not found: ${filePath}`);
-            res.status(404).send('File not found');
-        } else {
-            res.sendFile(filePath, (err) => {
-                if (err) {
-                    console.error(`Error sending file ${filePath}:`, err);
-                    res.status(500).send('Error occurred while serving the file.');
-                }
-            });
+        if (!err) {
+            return res.sendFile(filePath);
         }
+
+        // Try .html version
+        let htmlFilePath = `${filePath}.html`;
+        fs.access(htmlFilePath, fs.constants.F_OK, (errHtml) => {
+            if (!errHtml) {
+                console.log(`Serving HTML file: ${htmlFilePath}`);
+                return res.sendFile(htmlFilePath);
+            }
+
+            // Try .php version
+            let phpFilePath = `${filePath}.php`;
+            fs.access(phpFilePath, fs.constants.F_OK, (errPhp) => {
+                if (!errPhp) {
+                    console.log(`PHP file exists, returning 404 to let Nginx handle it: ${phpFilePath}`);
+                    return res.status(404).send('PHP files are handled by Nginx');
+                }
+
+                console.error(`File not found: ${req.path}`);
+                res.status(404).send('File not found');
+            });
+        });
     });
 });
 
@@ -136,6 +119,7 @@ app.use((err, req, res, next) => {
     res.status(500).send('Something broke!');
 });
 
+// Start Express server
 const PORT = process.env.PORT || 9001;
 app.listen(PORT, () => {
     console.log(`Server is running on http://localhost:${PORT}`);
