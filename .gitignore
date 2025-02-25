@@ -1,4 +1,4 @@
-.DS_Store
+DS_Store
 .idea
 
 .ssh_password
@@ -6,18 +6,18 @@ composer.phar
 node_modules/
 package-lock.json
 scss_cache
-
+src/vendor/
 /deploy
 
 
-
-
-
+src/config.php
+!/src/config_template.json.php
 
 src/phpmyadmin
 /phpmyadmin
-
-task*
-
+ruskin.xpr
+task
+*.xpr
 src/#    proxy_pass   http:::127.0.0.1;
 _etc/Crib Sheets/~$regularization crib sheet MASTER 06-05-23.xlsx
+_Unknown/xml/editorial_rationale_note.xml
