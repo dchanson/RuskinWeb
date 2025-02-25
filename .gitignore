@@ -8,8 +8,7 @@ package-lock.json
 scss_cache
 src/vendor/
 /deploy
-/gen/_xml/*
-_Resources/images/facsimiles_previews
+
 
 src/config.php
 !/src/config_template.json.php
@@ -21,3 +20,4 @@ task
 *.xpr
 src/#    proxy_pass   http:::127.0.0.1;
 _etc/Crib Sheets/~$regularization crib sheet MASTER 06-05-23.xlsx
+_Unknown/xml/editorial_rationale_note.xml
