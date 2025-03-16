@@ -8,8 +8,7 @@ package-lock.json
 scss_cache
 src/vendor/
 /deploy
-
-
+/gen/_xml/*
 src/config.php
 !/src/config_template.json.php
 

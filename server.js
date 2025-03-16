@@ -30,11 +30,12 @@ app.use((req, res, next) => {
     next();
 });
 
-// Handle PHP requests - return 404 as they should be handled by Nginx
+// Handle PHP requests - redirect to Nginx instead of returning 404
 app.use((req, res, next) => {
     if (req.path.endsWith('.php')) {
-        console.log(`PHP file requested, letting Nginx handle it: ${req.path}`);
-        return res.status(404).send('PHP files are handled by Nginx');
+        console.log(`PHP file requested, redirecting to Nginx: ${req.path}`);
+        // Redirect to the same path but on port 8080 (Nginx)
+        return res.redirect(`http://ruskin.local:8080${req.path}`);
     }
     next();
 });
@@ -78,7 +79,6 @@ app.get('/', (req, res) => {
 });
 
 // Catch-all route for serving files
-// Catch-all route for serving files
 app.get('*', (req, res, next) => {
     let sanitizedPath = req.path.replace(/\/$/, ''); // Remove trailing slash
     let filePath = path.join(__dirname, 'gen', '_xml', '_Completed', sanitizedPath);
@@ -98,12 +98,12 @@ app.get('*', (req, res, next) => {
                 return res.sendFile(htmlFilePath);
             }
 
-            // Try .php version
+            // Try .php version - redirect to Nginx instead of 404
             let phpFilePath = `${filePath}.php`;
             fs.access(phpFilePath, fs.constants.F_OK, (errPhp) => {
                 if (!errPhp) {
-                    console.log(`PHP file exists, returning 404 to let Nginx handle it: ${phpFilePath}`);
-                    return res.status(404).send('PHP files are handled by Nginx');
+                    console.log(`PHP file exists, redirecting to Nginx: ${req.path}.php`);
+                    return res.redirect(`http://ruskin.local:8080${req.path}.php`);
                 }
 
                 console.error(`File not found: ${req.path}`);
