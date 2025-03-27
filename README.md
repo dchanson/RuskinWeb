@@ -506,3 +506,7 @@ open /opt/homebrew/etc/php  # Opens the PHP configuration folder in Finder
   https://medium.com/@aakash.poudel.900/get-familiar-with-nginx-nginx-key-commands-b6dcf99f13e9
   https://medium.com/@aakash.poudel.900/how-to-connect-your-git-to-linux-server-using-ssh-ba9a3f191c0d
 
+  ## Documentation to Follow for Easy Setups
+  setting up mac documentation: https://docs.google.com/document/d/1GKZI8TN6Q9kYZ47mn-RnC5A3dOmvQcf8OejtovxQUng/edit?tab=t.0#heading=h.v07lzcv6ta80
+  Server Access - https://docs.google.com/document/d/1LyoEEQngviermBCQoiO8gOwsCROqdQqyH5bMRxXzyKI/edit?tab=t.0
+
