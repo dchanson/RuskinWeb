@@ -116,7 +116,7 @@ app.get('*', (req, res, next) => {
 // Error handling middleware
 app.use((err, req, res, next) => {
     console.error(`${new Date().toISOString()} - Error:`, err.stack);
-    res.status(500).send('Something broke!');
+    res.status(500).send('The program broke');
 });
 
 // Start Express server
