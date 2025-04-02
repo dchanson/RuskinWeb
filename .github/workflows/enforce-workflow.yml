@@ -1,0 +1,15 @@
+name: Enforce Workflow
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  prevent-direct-push:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Block Direct Push
+        run: |
+          echo "🚫 Direct pushes to main are not allowed. Please create a pull request."
+          exit 1
