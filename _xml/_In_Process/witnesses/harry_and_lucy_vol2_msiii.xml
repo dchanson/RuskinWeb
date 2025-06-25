@@ -83,197 +83,186 @@
     </teiHeader>
     <text>
         <front>
+            <pb facs="1229151v"/>
             <titlePage xml:id="TITLEPAGE">
-                <pb facs="1229151v"/>
                 <docTitle>
-                    <titlePart type="main"><handShift new="#HANDJR1827-28" script="print" medium="pencil"/><space quantity="5" unit="chars"/><hi rend="caps">Har<hi rend="doubleletter">r</hi><hi rend="doubleletter-fill">y a</hi><hi rend="doubleletter">nd</hi> <hi rend="doubleletter-fill">Lucy</hi></hi><lb/>
-                        <lb/><space quantity="9" unit="chars"/><hi rend="smallcaps">Concluded</hi>
+                    <titlePart type="main"><handShift new="#HANDJR1827-28" script="print" medium="pencil"/>2<space quantity="2" unit="chars"/><hi rend="caps">HAR<hi rend="doubleletter">R</hi><hi rend="doubleletter-fill">Y A</hi><hi rend="doubleletter">ND</hi> <hi rend="doubleletter-fill">LUCY</hi></hi><space quantity="2" unit="chars"/>2<ref type="gloss_textual" target="harry_and_lucy_vol2_glosses_textual.php#CARTOUCHEGLOSS"/><lb/>
+                        <lb/><space quantity="8" unit="chars"/><hi rend="smallcaps">CONCLUDED</hi>
                     </titlePart>
-                    <titlePart type="sub"><space quantity="7" unit="chars"/><hi rend="smallcaps">Being the Last</hi>
-                        <lb/><space quantity="10" unit="chars"/><hi rend="smallcaps">Part of</hi><lb/>
+                    <titlePart type="sub"><space quantity="10" unit="chars"/><hi rend="smallcaps">BEING</hi>
+                        <lb/><space quantity="6" unit="chars"/><hi rend="caps">THE LAST PART</hi><lb/>
                         <lb/>
-                        <lb/><space quantity="5" unit="chars"/><hi rend="caps">Early Lessons</hi><add place="below"><space quantity="10" unit="chars"/><figure><figDesc>[diamond-shaped ornament]</figDesc></figure></add>
+                        <lb/><space quantity="9" unit="chars"/><hi rend="smallcaps">OF</hi><lb/>
+                        <lb/>
+                        <lb/><space quantity="6" unit="chars"/><hi rend="caps">EARLY LESSONS</hi>
                     </titlePart>
-                    <titlePart type="desc"><space quantity="10" unit="chars"/>in four volumes<lb/>
-                        <space quantity="12" unit="chars"/>vol I<lb/>
-                        <space quantity="10" unit="chars"/>with copper<add place="below"><milestone unit="undeclared" rend="hr-quarter"/></add><lb/>
-                        <space quantity="11" unit="chars"/>plates<add place="below"><figure><figDesc>[diamond-shaped ornament]</figDesc></figure></add>
-                        <lb/>
-                        <lb/>
+                    <titlePart type="desc"><space quantity="9" unit="chars"/><hi rend="smallcaps">IN</hi><lb/>
+                        <lb/><space quantity="8" unit="chars"/><hi rend="caps">FOUR VOLUMES</hi><lb/>
+                            <space quantity="9" unit="chars"/><hi rend="caps">VOL 2</hi><lb/>
+                                <space quantity="8" unit="chars"/><hi rend="smallcaps">WITH COPPER PLATES</hi><lb/><lb/><add place="below"><milestone unit="undeclared" rend="hr-quarter"/></add><lb/>
                     </titlePart>
                 </docTitle>
-                <docImprint><space quantity="5" unit="chars"/><hi rend="smallcaps">Printed</hi> and composed by a little boy<lb/>
-                    <space quantity="10" unit="chars"/>and also drawn</docImprint>   
+                <docImprint><space quantity="8" unit="chars"/><hi rend="smallcaps">HERN HILL</hi><lb/></docImprint>   
             </titlePage>
-            <titlePage>
-                <pb facs="1229104r"/>
-                <docTitle>
-                    <titlePart type="main"><space quantity="5" unit="chars"/><hi rend="caps">Harry</hi> <hi rend="smallcaps">and</hi> <hi rend="caps">Lucy</hi><lb/>
-                        <space quantity="3" unit="chars"/><hi rend="caps">I</hi><space quantity="11" unit="chars"/>concluded<add place="below"><milestone unit="undeclared" rend="hr-full"/></add></titlePart>
-                </docTitle>
-            </titlePage>
+            <pb facs="1229151r"/>
             <div type="frontispiece" xml:id="FRONTISPIECE">
+                <p>harry <hi rend="doubleletter">g</hi>oing across the sea<lb/> 
+                    <space quantity="5" unit="chars"/>in a steamboat<ref type="gloss_contextual" target="harry_and_lucy_vol2_glosses_contextual.php#STEAMBOATGLOSS"/><ref type="gloss_textual" target="harry_and_lucy_vol2_glosses_textual.php#GOINGGLOSS"/></p>
                 <figure>
-                    <head type="title"><space quantity="7" unit="chars"/><title type="artwork" corresp="#JRFRONTISPIECEMSI">frontispiece</title></head>
-                    <figDesc>[<hi rend="italic">Pencil drawing</hi>.&#x2014;Lined up left to right, a four&#x2010;legged animal (a horse?); a (stone?) house, two stories with symmetrically placed mullioned windows, 
-                        a central entrance set in a roofed porch, and a gable roof with a central dormer and a chimney; a tree; and an arched bridge. 
-                        The sun is shining through clouds, from which slanting rain is still pouring, producing a rainbow (labeled as such).]</figDesc>
+                    <figDesc>[<hi rend="italic">Pencil drawing</hi>.&#x2014;A steam cutter with paddlewheels on the sides, as commonly designed in the <date notBefore="1820" notAfter="1829">1820s</date>. See gloss.]</figDesc>
                 </figure>
             </div>
             </front>
         <body>
             <div type="witness" subtype="lesson">
             <div type="chapter" n="1">
-                <pb facs="1229154v"/><fw type="pageNum" place="top"><space quantity="7" unit="chars"/>page I</fw>
+                <pb facs="1229154v"/><fw type="pageNum" place="top"><handShift new="#HANDJR1827-28" script="print" medium="ink"/><space quantity="7" unit="chars"/>page I</fw>
                 <head type="chapter"><space quantity="6" unit="chars"/>chap I</head>
-                <p><space quantity="1" unit="chars"/><hi rend="doubleletter">T</hi><hi rend="smallcaps">HE REST</hi> of the noon<g type="justification">-</g><ref type="gloss_textual" target="harry_and_lucy_vol2_glosses_textual.php#JUSTIFICATION"/><lb/>
-                        was so foggy that <persName type="fictional" corresp="#HARRY">Harry</persName><g type="justification">-</g><ref type="gloss_textual" target="harry_and_lucy_vol2_glosses_textual.php#JUSTIFICATION"/><lb/>
-                        could not see more than<g type="justification">-</g><ref type="gloss_textual" target="harry_and_lucy_vol2_glosses_textual.php#JUSTIFICATION"/><lb/>
+                <p><space quantity="1" unit="chars"/><hi rend="doubleletter">T</hi><hi rend="smallcaps">HE REST</hi> of the noon<ref type="gloss_contextual" target="harry_and_lucy_vol2_glosses_contextual.php#NOONGLOSS"/> <g type="justification">-</g><ref type="gloss_textual" target="harry_and_lucy_vol2_glosses_textual.php#JUSTIFICATION"/><lb/>
+                        was so foggy that <persName type="fictional" corresp="#HARRY">Harry</persName> <g type="justification">-</g><ref type="gloss_textual" target="harry_and_lucy_vol2_glosses_textual.php#JUSTIFICATION"/><lb/>
+                        could not see more than <g type="justification">-</g><ref type="gloss_textual" target="harry_and_lucy_vol2_glosses_textual.php#JUSTIFICATION"/><lb/>
                         four yards before him. <hi rend="doubleletter-fill">B</hi>ut 
-                        he amused himself with<g type="justification">-</g><ref type="gloss_textual" target="harry_and_lucy_vol2_glosses_textual.php#JUSTIFICATION"/><lb/>
+                        he amused himself with <g type="justification">-</g><ref type="gloss_textual" target="harry_and_lucy_vol2_glosses_textual.php#JUSTIFICATION"/><lb/>
                         drawing the rest of the noon<lb/>
                         and took dinner.</p>
                     <p> 
-                        <hi rend="doubleletter">A</hi>fter dinner <persName type="fictional" corresp="#HARRY">Harry</persName> had <g type="justification">-</g><ref type="gloss_textual" target="harry_and_lucy_vol2_glosses_textual.php#JUSTIFICATION"/> <lb/>
-                        to learn his lessons because <lb/>
+                        <hi rend="doubleletter">A</hi>fter dinner <persName type="fictional" corresp="#HARRY">Harry</persName> had <g type="justification">-</g><ref type="gloss_textual" target="harry_and_lucy_vol2_glosses_textual.php#JUSTIFICATION"/><lb/>
+                        to learn his lessons because<lb/>
                         the electrical phenomenon <g type="justification">-</g><ref type="gloss_textual" target="harry_and_lucy_vol2_glosses_textual.php#JUSTIFICATION"/> <lb/>
-                        had quite driven them out of <lb/>
+                        had quite driven them out of<lb/>
                         his head  <hi rend="doubleletter">B</hi>ut he learned them <g type="justification">-</g><ref type="gloss_textual" target="harry_and_lucy_vol2_glosses_textual.php#JUSTIFICATION"/> <lb/>
                         so quickly that he had from three <g type="justification">-</g><ref type="gloss_textual" target="harry_and_lucy_vol2_glosses_textual.php#JUSTIFICATION"/> <lb/>
-                        to nine to play but he did not play <lb/>
-                        he spent from three to half past <lb/>
-                        it in learning his lessons for to <lb/> 
+                        to nine to play but he did not play<lb/>
+                        he spent from three to half past<lb/>
+                        it in learning his lessons for to<lb/> 
                         morrow and spent the rest in <g type="justification">-</g><ref type="gloss_textual" target="harry_and_lucy_vol2_glosses_textual.php#JUSTIFICATION"/> <lb/>
-                        drawing took tea and went to bed. </p>
+                        drawing took tea and went to bed.</p>
                     <p> 
-                        <hi rend="doubleletter">N</hi>ext morning a strange adven&#x2010; <lb/>
-                        ture befel <persName type="fictional" corresp="#HARRY"><hi rend="doubleletter">H</hi>arry</persName>. <hi rend="doubleletter">A</hi>s he was <lb/>
+                        <hi rend="doubleletter">N</hi>ext morning a strange adven&#x2010;<lb/>
+                        ture befel <persName type="fictional" corresp="#HARRY"><hi rend="doubleletter">H</hi>arry</persName>. <hi rend="doubleletter">A</hi>s he was<lb/>
                         <pb facs="1229154r"/><fw type="pageNum" place="top"><space quantity="12" unit="chars"/>2</fw>
                         walking upon the beach with <lb/>
-                        <persName type="fictional" corresp="#LYUCY"><hi rend="doubleletter">L</hi>ucy</persName> he called out <said who="#HARRY">here&#x02bc;s a fine <lb/>
-                        place of shell&#x02bc;s for you</said> and he <lb/>
-                        heard you you you you you re&#x2010; <lb/>
-                        peated five times and on look <lb/>
-                        ing about found a hollow in <lb/>
-                        the rock and saw that it was <lb/>
-                        an echo<g type="justification">-</g><ref type="gloss_textual" target="harry_and_lucy_vol2_glosses_textual.php#JUSTIFICATION"/>’ </p>
+                        <persName type="fictional" corresp="#LUCY"><hi rend="doubleletter">L</hi>ucy</persName> he called out <said who="#HARRY">here&#x02bc;s a fine<lb/>
+                            place of shells<ref type="gloss_textual" target="harry_and_lucy_vol2_glosses_textual.php#GLYPH"/> for you</said> and he<lb/>
+                        heard you you you you you re&#x2010;<lb/>
+                        peated five times and on look<lb/>
+                        ing about found a hollow in<lb/>
+                        the rock and saw that it was<lb/>
+                        an echo<ref type="gloss_contextual" target="harry_and_lucy_vol2_glosses_contextual.php#ECHOGLOSS"/><g type="double-period">..</g>&#x2019;<ref type="gloss_textual" target="harry_and_lucy_vol2_glosses_textual.php#DOUBLE-PERIOD-QUOTATIONMARK"/></p>
                   <p>   
-                      <hi rend="doubleletter">B</hi>ut on going home he found <lb/>
-                        them packing up for off for <lb/>
-                      they had staid a week in <g type="justification">-</g><ref type="gloss_textual" target="harry_and_lucy_vol2_glosses_textual.php#JUSTIFICATION"/> <lb/>
-                      <placeName corresp="#HASTINGS">Hastings</placeName>&#x201c;  </p>
+                      <hi rend="doubleletter">B</hi>ut on going home he found<lb/>
+                        them packing up for off for<lb/>
+                      they had staid a week in<g type="justification">-</g><ref type="gloss_textual" target="harry_and_lucy_vol2_glosses_textual.php#JUSTIFICATION"/><lb/>
+                      <placeName corresp="#HASTINGS">Hastings</placeName>&#x201c;</p>
                   <p>   
-                      <persName type="fictional" corresp="#HARRY"><hi rend="doubleletter-fill">H</hi>arry</persName> said he was sorry to <lb/>
-                      leave it.&#x2018; <lb/>
-                      <said who="#MAMA">But we must leave it</said> said <g type="justification">-</g><ref type="gloss_textual" target="harry_and_lucy_vol2_glosses_textual.php#JUSTIFICATION"/> <lb/>
-                      his <persName type="fictional" corresp="#MAMMA">mother</persName>&#x2018; <lb/>
-                      <said who="#HARRY"><hi rend="doubleletter-fill">W</hi>hy must <hi rend="doubleletter">w</hi>e <persName type="fictional" corresp="#MAMMA">mother</persName>.</said> <lb/>
+                      <persName type="fictional" corresp="#HARRY"><hi rend="doubleletter-fill">H</hi>arry</persName> said he was sorry to<lb/>
+                      leave it&#x2018;.<lb/>
+                      <said who="#MAMA">But we must leave it</said> said<g type="justification">-</g><ref type="gloss_textual" target="harry_and_lucy_vol2_glosses_textual.php#JUSTIFICATION"/><lb/>
+                      his <persName type="fictional" corresp="#MAMMA">mother</persName>&#x2018;<lb/>
+                      <said who="#HARRY"><hi rend="doubleletter-fill">W</hi>hy must <hi rend="doubleletter">w</hi>e <persName type="fictional" corresp="#MAMMA">mother</persName>.</said><lb/>
                       <said who="#MAMA"><hi rend="doubleletter">B</hi>ecause <hi rend="doubleletter">w</hi>e have not time to <lb/>
-                          stay longer in it</said><g type="justification">-</g><ref type="gloss_textual" target="harry_and_lucy_vol2_glosses_textual.php#JUSTIFICATION"/><lb/>
+                          stay longer in it</said><g type="double-period">..</g><ref type="gloss_textual" target="harry_and_lucy_vol2_glosses_textual.php#DOUBLE-PERIOD"/><lb/>
                       <said who="#HARRY"><hi rend="doubleletter-fill">W</hi>here are we going next <persName type="fictional" corresp="#MAMMA">mother</persName></said> <lb/>
                       <said who="#MAMA">To <placeName corresp="#SCOTLAND">scotland</placeName> <persName type="fictional" corresp="#HARRY">Harry</persName>.</said></p>
                     <pb facs="1229155v"/><fw type="pageNum" place="top"><space quantity="10" unit="chars"/>3</fw>
                     <p>
                         <said who="#HARRY"><hi rend="doubleletter">T</hi>o <placeName corresp="#SCOTLAND">scotland</placeName> what a long travel <g type="justification">-</g><ref type="gloss_textual" target="harry_and_lucy_vol2_glosses_textual.php#JUSTIFICATION"/> <lb/>
-                        but I like it the better.&#x201d;</said> <lb/>
-                        <said who="#MAMA"><hi rend="doubleletter">B</hi>ut I can te<subst><del rend="erasure">e</del><add rend="overwriting">ll</add></subst> you you&#x02bc;ll be <g type="justification">-</g><ref type="gloss_textual" target="harry_and_lucy_vol2_glosses_textual.php#JUSTIFICATION"/> <lb/>
-                        very sleepy and tired by the way</said> <lb/>
+                        but I like it the better.&#x201d;</said><lb/>
+                        <said who="#MAMA"><hi rend="doubleletter">B</hi>ut I can te<subst><del rend="erasure">e</del><add rend="overwriting">ll</add></subst> you you&#x02bc;ll be <g type="justification">-</g><ref type="gloss_textual" target="harry_and_lucy_vol2_glosses_textual.php#JUSTIFICATION"/><lb/>
+                        very sleepy and tired by the way</said><lb/>
                         <said who="#HARRY"><hi rend="doubleletter-fill">I</hi> don&#x02bc;t care for that</said> said <persName type="fictional" corresp="#HARRY">Harry</persName><lb/>
                         <said who="#MAMA"><hi rend="doubleletter-fill">B</hi>ut you&#x02bc;ll see such frightfull<lb/>
-                            precipices</said><g type="justification">-</g><ref type="gloss_textual" target="harry_and_lucy_vol2_glosses_textual.php#JUSTIFICATION"/></p>
-                  <p>   
-                      <said who="#HARRY">So much the better</said> said <persName type="fictional" corresp="#HARRY">Harry</persName><lb/>
-                      <hi rend="doubleletter">B</hi>ut by this time the carriage <lb/>
-                        had got to the door and all getting <lb/>
-                      in drove off<g type="justification">-</g><ref type="gloss_textual" target="harry_and_lucy_vol2_glosses_textual.php#JUSTIFICATION"/>”  </p>
-                    <p> 
-                        <hi rend="doubleletter">F</hi>irst they came to a common pub <lb/>
+                            precipices</said><g type="double-period">..</g><ref type="gloss_textual" target="harry_and_lucy_vol2_glosses_textual.php#DOUBLE-PERIOD"/></p>
+                  <p><said who="#HARRY">So much the better</said> said <persName type="fictional" corresp="#HARRY">Harry</persName><lb/>
+                      <hi rend="doubleletter">B</hi>ut by this time the carriage<lb/>
+                        had got to the door and all getting<lb/>
+                      in drove off<g type="double-period">..</g>&#x2019;&#x007C;<ref type="gloss_textual" target="harry_and_lucy_vol2_glosses_textual.php#DOUBLE-PERIOD-QUOTATIONMARK"/><ref type="gloss_contextual" target="harry_and_lucy_vol2_glosses_contextual.php#CARRIAGE"/></p>
+                    <p><hi rend="doubleletter">F</hi>irst they came to a common pub<lb/>
                         lic road with hedges on each <g type="justification">-</g><ref type="gloss_textual" target="harry_and_lucy_vol2_glosses_textual.php#JUSTIFICATION"/><lb/>
-                        side of it till at last they came <lb/>
-                        to a beautiful road sometimes <lb/>
-                        hedges sometimes none at all <lb/>
-                        sometimes landscapes sometimes <g type="justification">-</g><ref type="gloss_textual" target="harry_and_lucy_vol2_glosses_textual.php#JUSTIFICATION"/> <lb/>
-                        none at all hills hillocks mounts <lb/>
-                        rivulets rivers ponds lakes all <lb/>
-                        in profusion sometimes high <lb/>
-                        on a hill sometime<subst><del rend="scratchout">r</del><add place="above">s</add></subst> low in a <lb/>
+                        side of it till at last they came<lb/>
+                        to a beautiful road sometimes<lb/>
+                        hedges sometimes none at all<lb/>
+                        sometimes landscapes sometimes<g type="justification">-</g><ref type="gloss_textual" target="harry_and_lucy_vol2_glosses_textual.php#JUSTIFICATION"/><lb/>
+                        none at all<ref type="gloss_contextual" target="harry_and_lucy_vol2_glosses_contextual.php#LANDSCAPES"/> hills hillocks mounts<lb/>
+                        rivulets rivers ponds lakes all<lb/>
+                        in profusion sometimes high<lb/>
+                        on a hill sometime<subst><del rend="scratchout">r</del><add place="above">s</add></subst> low in a<lb/>
                         <pb facs="1229155r"/><fw type="pageNum" place="top"><space quantity="12" unit="chars"/>4</fw>
                         valley and all along the same <g type="justification">-</g><ref type="gloss_textual" target="harry_and_lucy_vol2_glosses_textual.php#JUSTIFICATION"/><lb/>
-                        <persName type="fictional" corresp="#HARRY"><hi rend="doubleletter-fill">H</hi>arry</persName> and <persName type="fictional" corresp="#LUCY"><hi rend="doubleletter-fill">L</hi>ucy</persName>s <persName type="fictional" corresp="#MAMMA">mother</persName> had <lb/>
-                        a certain friend living near this <lb/>
-                        place and they went to see him <g type="justification">-</g><ref type="gloss_textual" target="harry_and_lucy_vol2_glosses_textual.php#JUSTIFICATION"/> <lb/>
-                        here they saw many pretty and <lb/>
-                        useful flowers such as the <lb/>
-                        mimosa the papyrus and the <lb/>
-                        coffee tree and after having <lb/>
-                        had a good run they got into <lb/>
-                        the carriage and drove into <lb/>
-                        salt hill<g type="justification">-</g><ref type="gloss_textual" target="harry_and_lucy_vol2_glosses_textual.php#JUSTIFICATION"/> </p>
+                        <persName type="fictional" corresp="#HARRY"><hi rend="doubleletter-fill">H</hi>arry</persName> and <persName type="fictional" corresp="#LUCY"><hi rend="doubleletter-fill">L</hi>ucy</persName>s <persName type="fictional" corresp="#MAMMA">mother</persName> had<lb/>
+                        a certain friend living near this<lb/>
+                        place<ref type="gloss_contextual" target="harry_and_lucy_vol2_glosses_contextual.php#FRIEND"/> and they went to see him<g type="justification">-</g><ref type="gloss_textual" target="harry_and_lucy_vol2_glosses_textual.php#JUSTIFICATION"/> <lb/>
+                        here they saw many pretty and<lb/>
+                        useful flowers such as the<lb/>
+                        mimosa the papyrus and the<lb/>
+                        coffee tree and after having<lb/>
+                        had a good run they got into<lb/>
+                        the carriage and drove into<lb/>
+                        salt hill<ref type="gloss_contextual" target="harry_and_lucy_vol2_glosses_contextual.php#SALTHILL"/><g type="double-period">..</g><ref type="gloss_textual" target="harry_and_lucy_vol2_glosses_textual.php#DOUBLE-PERIOD"/> </p>
                     <p> 
-                        <hi rend="doubleletter-fill">B</hi>ut here they stayed only to <lb/>
-                        dinner or else <persName type="fictional" corresp="#HARRY"><hi rend="doubleletter-fill">H</hi>arry</persName> would <lb/>
-                        have had a fine swing there <lb/>
+                        <hi rend="doubleletter-fill">B</hi>ut here they stayed only to<lb/>
+                        dinner or else <persName type="fictional" corresp="#HARRY"><hi rend="doubleletter-fill">H</hi>arry</persName> would<lb/>
+                        have had a fine swing there<lb/>
                         being a nice one in the ground<lb/>
                         <hi rend="doubleletter-fill">B</hi>ut such little disappointments <g type="justification">-</g><ref type="gloss_textual" target="harry_and_lucy_vol2_glosses_textual.php#JUSTIFICATION"/><lb/>
-                        must be put up with and they <g type="justification">-</g><ref type="gloss_textual" target="harry_and_lucy_vol2_glosses_textual.php#JUSTIFICATION"/> <lb/>
-                        went on.<g type="justification">-</g><ref type="gloss_textual" target="harry_and_lucy_vol2_glosses_textual.php#JUSTIFICATION"/> </p>
+                        must be put up with and they <g type="justification">-</g><ref type="gloss_textual" target="harry_and_lucy_vol2_glosses_textual.php#JUSTIFICATION"/><lb/>
+                        went on.&#x201D;<ref type="gloss_textual" target="harry_and_lucy_vol2_glosses_textual.php#CLOSINGQUOTATIONARK"/></p>
                     <p>    
-                        <hi rend="doubleletter-fill">S</hi>oon after this they came to the <lb/>
-                        [same(?)]1 road again and after rid <lb/>
+                        <hi rend="doubleletter-fill">S</hi>oon after this they came to the<lb/>
+                        seme<ref type="gloss_textual" target="harry_and_lucy_vol2_glosses_textual.php#SEME"/> road again and after rid<lb/>
                         ing on for a very very very<lb/>
                         <pb facs="1229156v"/><fw type="pageNum" place="top"><space quantity="11" unit="chars"/>5</fw>
-                        long time and changing hors &#x2010;<lb/>
-                        es often they reached <placeName corresp="#OXFORD">oxford</placeName><g type="justification">-</g><ref type="gloss_textual" target="harry_and_lucy_vol2_glosses_textual.php#JUSTIFICATION"/> </p>
+                        long time and changing hors&#x2010;<lb/>
+                        es often they reached <placeName corresp="#OXFORD">oxford</placeName><g type="double-period">..</g><ref type="gloss_textual" target="harry_and_lucy_vol2_glosses_textual.php#DOUBLE-PERIOD"/><ref type="gloss_contextual" target="harry_and_lucy_vol2_glosses_contextual.php#OXFORDGLOSS"/></p>
                      <p>   
                          <hi rend="doubleletter-fill">B</hi>ut it was so very late when they<lb/>
-                         arrived at <placeName corresp="#OXFORD">oxford</placeName> that they could <lb/>
-                         not see any thing but they were <lb/>
-                         told that they were to stay all night <lb/>
-                         at the hotel and in the morning <g type="justification">-</g><ref type="gloss_textual" target="harry_and_lucy_vol2_glosses_textual.php#JUSTIFICATION"/><lb/>
-                         went to see the colleges. <hi rend="doubleletter-fill">T</hi>hey might <lb/>
+                         arrived at <placeName corresp="#OXFORD">oxford</placeName> that they could<lb/>
+                         not see any thing<ref type="gloss_contextual" target="harry_and_lucy_vol2_glosses_contextual.php#OXFORDVIEWGLOSS"/> but they were<lb/>
+                         told that they were to stay all night<lb/>
+                         at the hotel<ref type="gloss_contextual" target="harry_and_lucy_vol2_glosses_contextual.php#HOTELGLOSS"/> and in the morning<g type="justification">-</g><ref type="gloss_textual" target="harry_and_lucy_vol2_glosses_textual.php#JUSTIFICATION"/><lb/>
+                         went to see the colleges. <hi rend="doubleletter-fill">T</hi>hey might<lb/>
                          have seen the inside if they had time<lb/>
-                         but they had not so that they only went<lb/>
-                         round<lb/>
-                         them looked at their architecture<lb/>
-                         and went home<g type="justification">-</g><ref type="gloss_textual" target="harry_and_lucy_vol2_glosses_textual.php#JUSTIFICATION"/>” </p>
+                         but they had not. so that they only went<lb/>
+                         <add place="above">round</add>them looked at their architecture<ref type="gloss_contextual" target="harry_and_lucy_vol2_glosses_contextual.php#ARCHITECTUREGLOSS"/><lb/>
+                         and went home<g type="double-period">..</g>&#x201D;<ref type="gloss_textual" target="harry_and_lucy_vol2_glosses_textual.php#DOUBLE-PERIOD-QUOTATIONMARK"/></p>
                      <p>   
-                         <hi rend="doubleletter-fill">T</hi>heir <persName type="fictional" corresp="#PAPA">father</persName> and <persName type="fictional" corresp="#MAMMA">mother</persName> thought <lb/>
-                         very much of it but they had not <lb/>
-                         much time to think about it <g type="justification">-</g><ref type="gloss_textual" target="harry_and_lucy_vol2_glosses_textual.php#JUSTIFICATION"/><lb/>
+                         <hi rend="doubleletter-fill">T</hi>heir <persName type="fictional" corresp="#PAPA">father</persName> and <persName type="fictional" corresp="#MAMMA">mother</persName> thought<lb/>
+                         very much of it but they had not<lb/>
+                         much time to think about it<g type="justification">-</g><ref type="gloss_textual" target="harry_and_lucy_vol2_glosses_textual.php#JUSTIFICATION"/><lb/>
                          for <persName type="fictional" corresp="#HARRY">harry</persName> asked what the dis<lb/>
-                         tance might be from <placeName corresp="#GLOUCESTER">gloster</placeName> which<lb/>
-                         he was told they were going to next <g type="justification">-</g><ref type="gloss_textual" target="harry_and_lucy_vol2_glosses_textual.php#JUSTIFICATION"/><lb/>  
+                         tance might be from <hi rend="italic"><placeName corresp="#GLOUCESTER">gloster</placeName></hi><ref type="gloss_textual" target="harry_and_lucy_vol2_glosses_textual.php#ITALICPRINTING"/> which<lb/>
+                         he was told they were going to next<g type="justification">-</g><ref type="gloss_textual" target="harry_and_lucy_vol2_glosses_textual.php#JUSTIFICATION"/><lb/>  
                          his <persName type="fictional" corresp="#PAPA">father</persName> told him that he did not<lb/> 
-                         know and [now(?)]2 the carriage drove<lb/>
-                         to the door.&#x201d; </p>
+                         know<ref type="gloss_contextual" target="harry_and_lucy_vol2_glosses_contextual.php#GLOSTERGLOSS"/> and new<ref type="gloss_textual" target="harry_and_lucy_vol2_glosses_textual.php#NEWGLOSS"/> the carriage drove<lb/>
+                         to the door.&#x201d;<ref type="gloss_textual" target="harry_and_lucy_vol2_glosses_textual.php#CLOSINGQUOTATIONARK"/></p>
                     <pb facs="1229156r"/><fw type="pageNum" place="top"><space quantity="15" unit="chars"/>6</fw> 
                     <p>   
-                        <hi rend="doubleletter-fill">B</hi>ut just as they were passing a <lb/>
-                        fine elm they saw a large pond<lb/>
-                        perhaps a mile broad going complet{e}ly3<lb/>
-                        across the road without any bridge <lb/>
-                        and the horses plunged into it  <said who="#HARRY">whats<lb/>
+                        <hi rend="doubleletter-fill">B</hi>ut just as they were passing a<lb/>
+                        fine <name type="botanical" corresp="elm">elm</name> they saw a large pond<lb/>
+                        perhaps a mile broad going <hi rend="italic">completly</hi><ref type="gloss_textual" target="harry_and_lucy_vol2_glosses_textual.php#ITALICPRINTING"/><lb/>
+                        across the road without any bridge<lb/>
+                        and the horses plunged into it <said who="#HARRY">whats<lb/>
                             this</said> cried <hi rend="doubleletter-fill">H</hi>arry  <said who="#LUCY"><hi rend="doubleletter-fill">W</hi>here are we going<lb/>
-                        now</said> cried <persName type="fictional" corresp="#LUCY"><hi rend="doubleletter-fill">L</hi>ucy</persName> they went on on <lb/>
-                        deeper and deeper into the <g type="justification">-</g><ref type="gloss_textual" target="harry_and_lucy_vol2_glosses_textual.php#JUSTIFICATION"/><lb/>
-                        water and at length they went com&#x2010; <lb/>
+                        now</said> cried <persName type="fictional" corresp="#LUCY"><hi rend="doubleletter-fill">L</hi>ucy</persName> they went on on<lb/>
+                        deeper and deeper into the<g type="justification">-</g><ref type="gloss_textual" target="harry_and_lucy_vol2_glosses_textual.php#JUSTIFICATION"/><lb/>
+                        water and at length they went com&#x2010;<lb/>
                         pletely through the pond and went forward on their<lb/>
-                        journey<g type="justification">-</g><ref type="gloss_textual" target="harry_and_lucy_vol2_glosses_textual.php#JUSTIFICATION"/>” </p>
+                        journey<g type="double-period">..</g>&#x007C;&#x201D;<ref type="gloss_textual" target="harry_and_lucy_vol2_glosses_textual.php#DOUBLE-PERIOD-QUOTATIONMARK"/></p>
                     <p>    
-                        <hi rend="doubleletter-fill">F</hi>or some time the road was very hilly chalky <g type="justification">-</g><ref type="gloss_textual" target="harry_and_lucy_vol2_glosses_textual.php#JUSTIFICATION"/><lb/>
-                        sandy and watery but soon it grew <g type="justification">-</g><ref type="gloss_textual" target="harry_and_lucy_vol2_glosses_textual.php#JUSTIFICATION"/><lb/>
-                        very dusty and such a fine day that they <g type="justification">-</g><ref type="gloss_textual" target="harry_and_lucy_vol2_glosses_textual.php#JUSTIFICATION"/><lb/>
+                        <hi rend="doubleletter-fill">F</hi>or some time the road was very hilly chalky<g type="justification">-</g><ref type="gloss_textual" target="harry_and_lucy_vol2_glosses_textual.php#JUSTIFICATION"/><lb/>
+                        sandy and watery but soon it grew<g type="justification">-</g><ref type="gloss_textual" target="harry_and_lucy_vol2_glosses_textual.php#JUSTIFICATION"/><lb/>
+                        very dusty and such a fine day that they<g type="justification">-</g><ref type="gloss_textual" target="harry_and_lucy_vol2_glosses_textual.php#JUSTIFICATION"/><lb/>
                         all got out and walked a good way they<lb/>
-                        had intended to walk very quick <lb/>
+                        had intended to walk very quick<lb/>
                         but they did not for they were<lb/>
                         attracted by such a variety of<lb/>
                         objects such as the white major<lb/>
-                        convolvolus in the hedges the black <lb/>
+                        convolvolus<ref type="gloss_contextual" target="harry_and_lucy_vol2_glosses_contextual.php#CONVOLVOLUSGLOSS"/> in the hedges the black<lb/>
                         and white broad beans the butter<lb/>
-                        <pb facs="1229157v"/> <fw type="pageNum" place="top"><space quantity="14" unit="chars"/>7</fw>
-                        fly like pea&#x02bc;s4 the sparkling rivulets<lb/>
+                 here       <pb facs="1229157v"/> <fw type="pageNum" place="top"><space quantity="14" unit="chars"/>7</fw>
+                        fly like pea&#x02bc;s<ref type="gloss_contextual" target="harry_and_lucy_vol2_glosses_contextual.php#BEANSPEASGLOSS"/> the sparkling rivulets<lb/>
                         and winding rivers all combined their forces<lb/>
-                        to make them walk slowly  <hi rend="doubleletter-fill">B</hi>ut on turn<lb/>
+                        to make them walk slowly  <hi rend="doubleletter-fill">B</hi>ut on turni<ref type="gloss_textual" target="harry_and_lucy_vol2_glosses_textual.php#TURNING"/><lb/>
                         ing a corner such a beautiful waterfall pres&#x2010;<lb/>
                         ented <add place="above">itself</add> to their view that they stood for<g type="justification">-</g><ref type="gloss_textual" target="harry_and_lucy_vol2_glosses_textual.php#JUSTIFICATION"/><lb/>
                         above four minutes looking at it and <g type="justification">-</g><ref type="gloss_textual" target="harry_and_lucy_vol2_glosses_textual.php#JUSTIFICATION"/><lb/>
