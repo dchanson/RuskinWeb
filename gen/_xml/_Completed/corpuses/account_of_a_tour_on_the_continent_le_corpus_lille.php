@@ -24,16 +24,13 @@ define("FACS_FILE_NAMES", <<<EOT
 EOT
 );
       ?>
-    <?php require_once(ROOT_PATH."layout_includes/showcase_top.inc.php"); ?><div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-left"><img id="facs_preview" src="" width="100&#x0025;"><img id="facs" src="" width="100&#x0025;" style="display:none"></div>
-<div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-splitter"></div>
-<div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-right">
+    <?php require_once(ROOT_PATH."layout_includes/showcase_top.inc.php"); ?><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-left"><img id="facs_preview" src="" width="100%"><img id="facs" src="" width="100%" style="display:none"></div><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-splitter"></div><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-right">
    <div class="backToApparatusLink"><a href="/apparatuses/apparatuses/account_of_a_tour_on_the_continent_apparatus#account_of_a_tour_on_the_continent_le" target="_self"></a><br/></div>
-   <div class="fileName"><span>&#x201C;Lille&#x201D; &#x005B;section title&#x005D;</span></div>
+   <div class="fileName"><span>“Lille” [section title]</span></div>
    <div class="title" id="">
       <span class="head" id=""><span class="title-composite-JRLILLECOMP"><span class="caps">LILLE</span></span></span> 
-      
-   </div><div id="" class="pb"></div>
-   <div class="fileName"><span>&#x201C;Lille&#x201D; &#x005B;poem&#x005D;</span></div>
+      </div><div id="" class="pb"></div>
+   <div class="fileName"><span>“Lille” [poem]</span></div>
    <div class="witness">
       <div class="poem" id="">
          
@@ -42,12 +39,12 @@ EOT
             <span class="l">And bright the morn on <span class="placeName-CASSEL">Cassel</span> broke;</span><br/>
             <span class="l">Along the green hillside we flew;</span><br/>
             <span class="l">Flashed the clear sunshine in the dew</span><br/>
-            <span class="l">That on the clustering herbage hung,&#x2014;
+            <span class="l">That on the clustering herbage hung,—
                <div class="s-line-number s-line-number-auto">
                   <div class="tooltip">
           System generated line number
         </div><a href="#L5" id="L5">5</a></div></span><br/>
-            <span class="l">That to the tangled copse&#x2010;wood clung,&#x2014;</span><br/>
+            <span class="l">That to the tangled copse‐wood clung,—</span><br/>
             <span class="l">That shot like stars through every shade,</span><br/>
             <span class="l">And glanced on every wildwood glade.</span><br/>
             <span class="l">At length, by many a wind descending</span><br/>
@@ -57,7 +54,7 @@ EOT
           System generated line number
         </div><a href="#L10" id="L10">10</a></div></span><br/>
             <span class="l">Farther, and farther still, we pressed</span><br/>
-            <span class="l">From <span class="placeName-CASSEL">Cassel</span>&#x02BC;s insulated<span class="gloss-inline">
+            <span class="l">From <span class="placeName-CASSEL">Cassel</span>ʼs insulated<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/lille_glosses_contextual#INSULATEDGLOSS" target="_blank" class="inactive">
           
           
@@ -74,21 +71,21 @@ EOT
         </div><a href="#L15" id="L15">15</a></div></span><br/>
             <span class="l">That spoke the coming noontide blaze.</span><br/>
             <span class="l">That noontide blaze delayed not long;</span><br/>
-            <span class="l">On Tournay&#x02BC;s tow&#x02BC;rs<span class="gloss-inline">
+            <span class="l">On Tournayʼs towʼrs<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/lille_glosses_contextual#TOURNAYSTOWERSGLOSS" target="_blank" class="inactive">
           
           
                 <span class="gloss-contextual">
                 2
                 </span>
-              </a></span> &#x02BC;twas fierce and strong,</span><br/> 
+              </a></span> ʼtwas fierce and strong,</span><br/> 
             <span class="l">And, ere we gained the middle way,</span><br/>
             <span class="l">The glow was like an Afric day.
                <div class="s-line-number s-line-number-auto">
                   <div class="tooltip">
           System generated line number
         </div><a href="#L20" id="L20">20</a></div></span><br/>
-            <span class="l">Full upon <span class="placeName-LILLE">Lille</span>&#x02BC;s high ramparts round,<span class="gloss-inline">
+            <span class="l">Full upon <span class="placeName-LILLE">Lille</span>ʼs high ramparts round,<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/lille_glosses_contextual#LILLESHIGHRAMPARTSGLOSS" target="_blank" class="inactive">
           
           
@@ -99,12 +96,12 @@ EOT
             <span class="l">On massive wall and moated mound,</span><br/>
             <span class="l">Shot the fierce sun his glaring ray,</span><br/> 
             <span class="l">As bent we on our burning way:</span><br/>
-            <span class="l">Till past the narrow drawbridge length&#x2014;
+            <span class="l">Till past the narrow drawbridge length—
                <div class="s-line-number s-line-number-auto">
                   <div class="tooltip">
           System generated line number
         </div><a href="#L25" id="L25">25</a></div></span><br/>
-            <span class="l">The massive gates&#x02BC; portcullised strength,</span><br/>
+            <span class="l">The massive gatesʼ portcullised strength,</span><br/>
             <span class="l">And moat, whose waves found steepy shore<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/lille_glosses_contextual#LILLESTEEPYSHORE" target="_blank" class="inactive">
           
@@ -132,7 +129,7 @@ EOT
             <span class="l">And <span class="placeName-LILLE">Lille</span> upon us sudden broke,</span><br/>
             <span class="l">Giving to view another scene,</span><br/>
             <span class="l">So clear, so noble, so serene,</span><br/>
-            <span class="l">&#x02BC;Twould seem enchantment&#x02BC;s varied hue
+            <span class="l">ʼTwould seem enchantmentʼs varied hue
                <div class="s-line-number s-line-number-auto">
                   <div class="tooltip">
           System generated line number
@@ -147,16 +144,16 @@ EOT
           System generated line number
         </div><a href="#L40" id="L40">40</a></div></span><br/>
             <span class="l">The vaulted arch, where sunlight pure</span><br/>
-            <span class="l">Might never pierce the deep obscure,&#x2014;</span><br/>
+            <span class="l">Might never pierce the deep obscure,—</span><br/>
             <span class="l">Where broadly barred, the ancient door</span><br/>
-            <span class="l">Was with such carving imaged o&#x02BC;er,&#x2014;</span><br/>
-            <span class="l">The bending Gothic gable&#x2010;roof
+            <span class="l">Was with such carving imaged oʼer,—</span><br/>
+            <span class="l">The bending Gothic gable‐roof
                <div class="s-line-number s-line-number-auto">
                   <div class="tooltip">
           System generated line number
         </div><a href="#L45" id="L45">45</a></div></span><br/>
             <span class="l">Of past magnificence gave proof;</span><br/>
-            <span class="l">The modern window&#x02BC;s formal square</span><br/>
+            <span class="l">The modern windowʼs formal square</span><br/>
             <span class="l">With Saxon arch was mingled there,</span><br/>
             <span class="l">Whose stern recesses, dark and deep,</span><br/> 
             <span class="l">The figured iron stanchions<span class="gloss-inline">
@@ -171,17 +168,15 @@ EOT
                   <div class="tooltip">
           System generated line number
         </div><a href="#L50" id="L50">50</a></div></span><br/>
-            
+            </div>
          </div>
-         
-      </div>
    </div><div id="" class="pb"></div>
-   <div class="fileName"><span>&#x201C;Lille&#x201D; &#x005B;essay&#x005D;</span></div>
+   <div class="fileName"><span>“Lille” [essay]</span></div>
    <div class="witness">
       <div class="essay" id="">
          
-         <div class="p"><i>Passeport, monsieur, s&#x02BC;il vous plait</i>. I hate fortified towns, in general, 
-                    <br/>that is.&#x2014;Their houses are like barracks, their public buildings like prisons, 
+         <div class="p"><i>Passeport, monsieur, sʼil vous plait</i>. I hate fortified towns, in general, 
+                    <br/>that is.—Their houses are like barracks, their public buildings like prisons, 
                     <br/>their population like so many rats in a rat trap; they are arduous to get 
                     <br/>in,<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/lille_prose_glosses_textual#GETIN" target="_blank" class="inactive">
@@ -192,12 +187,12 @@ EOT
                 a
                 </span>
                 
-              </a></span> difficult to get out, and disagreeable to remain in. To all this, how&#x2010;
-                    <br/>ever, <span class="placeName-LILLE">Lille</span> is an exception, except in one circumstance&#x2014;its difficulty of access. 
-                    <br/>We were detained after a long day&#x02BC;s journey under a burning sun, hot, 
+              </a></span> difficult to get out, and disagreeable to remain in. To all this, how‐
+                    <br/>ever, <span class="placeName-LILLE">Lille</span> is an exception, except in one circumstance—its difficulty of access. 
+                    <br/>We were detained after a long dayʼs journey under a burning sun, hot, 
                     <br/>hungry, and stupid, while our passport was examined. Slowly the sentinel 
                     <br/>unfolded the paper, spelled over its contents with tiresome coolness and 
-                    <br/>provoking minuteness, slowly returned it, and then came&#x2014;<i>Passez</i>.<span class="gloss-inline">
+                    <br/>provoking minuteness, slowly returned it, and then came—<i>Passez</i>.<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/lille_glosses_contextual#PASSPORT" target="_blank" class="inactive">
           
           
@@ -206,7 +201,7 @@ EOT
                 </span>
               </a></span> And 
                     <br/>pass we did right gladly. <span class="placeName-LILLE">Lille</span> is a beautiful, a most beautiful town. I 
-                    <br/>have seen none equal to it, for grandeur of effect, for the massive magni&#x2010;
+                    <br/>have seen none equal to it, for grandeur of effect, for the massive magni‐
                     <br/>ficence of its edifices, for the palace like nobility of its streets, except 
                     <br/><span class="placeName-GENOA">Genoa</span>. The day also on which we entered it was almost Italian, the sky 
                     <br/>was of such a deep and unbroken blue, and a stream of rich, glowing, 
@@ -224,7 +219,7 @@ EOT
                 </span>
                 
               </a></span> the many statues 
-                    <br/>of the <span class="persName-VIRGINMARY">Virgin</span>, that stood beneath their Gothic niches, really very respect&#x2010;
+                    <br/>of the <span class="persName-VIRGINMARY">Virgin</span>, that stood beneath their Gothic niches, really very respect‐
                     <br/>ably sculptured, at every angle of the streets.<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/lille_glosses_contextual#SHADE" target="_blank" class="inactive">
           
@@ -233,7 +228,5 @@ EOT
                 8
                 </span>
               </a></span></div>
-         
-      </div>
-   </div><div id="" class="pb"></div>
-</div><?php require_once(ROOT_PATH."layout_includes/showcase_bottom.inc.php"); ?>
+         </div>
+   </div><div id="" class="pb"></div></div><?php require_once(ROOT_PATH."layout_includes/showcase_bottom.inc.php"); ?>

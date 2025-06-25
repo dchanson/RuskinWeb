@@ -24,16 +24,14 @@ msia/MSIAsheet20.jpg msia/MSIAsheet21.jpg msia/1038179.jpg msia/1038179.jpg msia
 EOT
 );
       ?>
-    <?php require_once(ROOT_PATH."layout_includes/showcase_top.inc.php"); ?><div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-left"><img id="facs_preview" src="" width="100&#x0025;"><img id="facs" src="" width="100&#x0025;" style="display:none"></div>
-<div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-splitter"></div>
-<div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-right">
+    <?php require_once(ROOT_PATH."layout_includes/showcase_top.inc.php"); ?><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-left"><img id="facs_preview" src="" width="100%"><img id="facs" src="" width="100%" style="display:none"></div><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-splitter"></div><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-right">
    <div class="backToApparatusLink"><a href="/apparatuses/apparatuses/account_of_a_tour_on_the_continent_apparatus#account_of_a_tour_on_the_continent_msia_g1" target="_self"></a><br/></div>
-   <div class="fileName"><span>&#x201C;Calais&#x201D; &#x005B;poem&#x005D;</span></div>
+   <div class="fileName"><span>“Calais” [poem]</span></div>
    <div class="witness">
       <div class="poem" id="">
          <div id="MSIAsheet20r" class="pb"></div>
          
-         <div class="title" id="&#x0040;"><span class="space" style="padding-left:6.4em"> </span><i><span class="caps">calais</span></i></div>
+         <div class="title" id="@"><span class="space" style="padding-left:6.4em"> </span><i><span class="caps">calais</span></i></div>
          
          <div class="lg-stanza">
             <span class="l">
@@ -51,7 +49,7 @@ EOT
               </a></span></span><br/>
             <span class="l">Again again forevermore</span><br/>
             <span class="l">Haste the light curlings to the Shore</span><br/>
-            <span class="l"><span class="del-underline">And yet advance &#x0026; yet retreat</span><div 
+            <span class="l"><span class="del-underline">And yet advance & yet retreat</span><div 
               class="add-above" 
               style="left:NaNem">That from the sand the impression sweep</div>
                <div class="s-line-number s-line-number-ruskin linenumber-right-JR">
@@ -103,7 +101,7 @@ EOT
             <span class="l">Strange that a space from shore <span class="runover" style="left:10.0em">to shore</span></span><br/>
             <span class="l">So soon so easily passed oer</span><br/>
             <span class="l">Should yet a wide distinction place</span><br/>
-            <span class="l">Twixt Man &#x0026; Man twixt Race &#x0026; 
+            <span class="l">Twixt Man & Man twixt Race & 
                <div class="s-line-number s-line-number-auto">
                   <div class="tooltip">
           System generated line number
@@ -112,7 +110,7 @@ EOT
                   <div class="tooltip">
              Ruskin's line number
           </div><a href="javascript:void(0)">20</a></div></span></span><br/>
-            <span class="l">Sudden &#x0026; marked the change you find</span><br/>
+            <span class="l">Sudden & marked the change you find</span><br/>
             <span class="l">Religion Language even mind<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/calais_glosses_contextual#CALAISPOEMDISTINCTION" target="_blank" class="inactive">
           
@@ -124,18 +122,16 @@ EOT
             <span class="l">That you might think that oceans <span class="runover" style="left:10.0em">span</span></span><br/>
             <span class="l">Marked the varieties of Man</span><br/>
             
-            
+            </div>
          </div>
-         
-      </div>
    </div><div id="" class="pb"></div>
-   <div class="fileName"><span>&#x201C;Cassel&#x201D; &#x005B;poem&#x005D;</span></div>
+   <div class="fileName"><span>“Cassel” [poem]</span></div>
    <div class="witness">
       <div class="poem" id="">
          <div id="MSIAsheet21" class="pb"></div>
          
          <div class="lg-stanza">
-            <span class="l">The way was long &#x0026; yet twas sweet
+            <span class="l">The way was long & yet twas sweet
                <div class="s-line-number s-line-number-ruskin linenumber-right-JR">
                   <div class="tooltip">
              Ruskin's line number
@@ -254,12 +250,10 @@ EOT
                 6
                 </span>
               </a></span></span><br/>
-            
+            </div>
          </div>
-         
-      </div>
    </div><div id="" class="pb"></div>
-   <div class="fileName"><span>&#x201C;Lille&#x201D; &#x005B;poem&#x005D;</span></div>
+   <div class="fileName"><span>“Lille” [poem]</span></div>
    <div class="witness">
       <div class="poem" id="">
          
@@ -400,7 +394,7 @@ EOT
             <span class="l">On palace street and avenue</span><br/>
             <span class="l"><div 
               class="add-above" 
-              style="left:-0.4em"><span class="metamark-insertion-INSERTION1">&#x002A;-</span><span class="gloss-inline">
+              style="left:-0.4em"><span class="metamark-insertion-INSERTION1">*-</span><span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/lille_poem_glosses_textual#LILLEMETAMARK" target="_blank" class="inactive">
           
           
@@ -456,12 +450,10 @@ EOT
                 12
                 </span>
               </a></span> keep.</span><br/>
-            
+            </div>
          </div>
-         
-      </div>
    </div><div id="" class="pb"></div>
-   <div class="fileName"><span>&#x201C;Brussels&#x201D; &#x005B;poem&#x005D;</span></div>
+   <div class="fileName"><span>“Brussels” [poem]</span></div>
    <div class="witness">
       <div class="poem" id="">
          
@@ -568,7 +560,7 @@ EOT
                   <div class="tooltip">
           System generated line number
         </div><a href="#L140" id="L140">140</a></div></span><br/>
-            <span class="l">That tells of traffic &#x0026; of trade</span><br/>
+            <span class="l">That tells of traffic & of trade</span><br/>
             <span class="l">No, <span class="placeName-BRUSSELS">Brussels</span> time of power <span class="del-strikethrough">is</span><div 
               class="add-above" 
               style="left:10.8em">was</div> sped</span><br/>
@@ -667,12 +659,10 @@ EOT
             <span class="l">Leaving such marks as long shall tell</span><br/>
             <span class="l">Of dark destruction fierce and fell.</span><br/>
             <div class="half"></div>
-            
+            </div>
          </div>
-         
-      </div>
    </div><div id="" class="pb"></div>
-   <div class="fileName"><span>&#x201C;The Meuse&#x201D; &#x005B;poem&#x005D;</span></div>
+   <div class="fileName"><span>“The Meuse” [poem]</span></div>
    <div class="witness">
       <div class="poem" id="">
          
@@ -721,7 +711,7 @@ EOT
                 </span>
               </a></span></span><br/>
             <span class="l">For changing still and still as fair</span><br/>
-            <span class="l">Rock&#x2038;<div 
+            <span class="l">Rock‸<div 
               class="add-above" 
               style="left:2.0em">wave</div>and wood were mingled there
                <div class="s-line-number s-line-number-ruskin linenumber-right-JR">
@@ -831,9 +821,6 @@ EOT
             <span class="l">To undulating hills gave place</span><br/>
             <span class="l">And vineyards clothe the bending brow</span><br/>
             <span class="l">Stead of the clinging copsewood now</span><br/>
-            
+            </div>
          </div>
-         
-      </div>
-   </div><div id="" class="pb"></div>
-</div><?php require_once(ROOT_PATH."layout_includes/showcase_bottom.inc.php"); ?>
+   </div><div id="" class="pb"></div></div><?php require_once(ROOT_PATH."layout_includes/showcase_bottom.inc.php"); ?>

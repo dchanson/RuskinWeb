@@ -578,11 +578,24 @@ EOT
           class="s-subst s-add s-overwrite s-inline">eo</div><div 
           class="s-subst s-add s-inline">us</div><div 
               class="add-above" 
-              style="left:12.0em"><span class="g-runover">[</span>rill</div></span><br/>
+              style="left:12.0em"><span class="g-runover">[</span>rill</div><span class="gloss-inline">
+          <a href="https://erm.selu.edu/glosses/glen_of_glenfarg_glosses_contextual#BEAUTEOUSRILLGLOSS" target="_blank" class="inactive">
+          
+          
+                <span class="gloss-contextual">
+                23
+                </span>
+              </a></span></span><br/>
             <span class="l"><span class="space" style="padding-left:1.2em"> </span>Streaming through thy <span class="geogName-OCHILS">mountains</span><span class="runover" style="left:6.0em">high</span></span><br/>
             <span class="l"><span class="space" style="padding-left:1.2em"> </span>onward pressing onward still</span><br/>
-            <span class="l"><span class="space" style="padding-left:1.2em"> </span>hardly seeing the blue sky
-               <div class="s-line-number s-line-number-auto">
+            <span class="l"><span class="space" style="padding-left:1.2em"> </span>hardly seeing the blue sky<span class="gloss-inline">
+          <a href="https://erm.selu.edu/glosses/glen_of_glenfarg_glosses_contextual#BLUESKYGLOSS" target="_blank" class="inactive">
+          
+          
+                <span class="gloss-contextual">
+                24
+                </span>
+              </a></span><div class="s-line-number s-line-number-auto">
                   <div class="tooltip">
           System generated line number
         </div><a href="#L135" id="L135">135</a></div></span><br/>
@@ -636,13 +649,20 @@ EOT
          
          <div class="lg-stanza">
             <span class="l">Cottages upon the <span class="geogName-GLENFARG">plain</span></span><br/>
-            <span class="l">placed so near the floury mills</span><br/>
+            <span class="l">placed so near the floury mills<span class="gloss-inline">
+          <a href="https://erm.selu.edu/glosses/glen_of_glenfarg_glosses_contextual#FLOURYMILLSGLOSS" target="_blank" class="inactive">
+          
+          
+                <span class="gloss-contextual">
+                25
+                </span>
+              </a></span></span><br/>
             <span class="l">cottager look on <span class="name--CHARLESSWAIN">charlesʼs wain</span><span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/glen_of_glenfarg_glosses_contextual#CHARLESSWAINGLOSS" target="_blank" class="inactive">
           
           
                 <span class="gloss-contextual">
-                23
+                26
                 </span>
               </a></span></span><br/>
             <span class="l">right above the grassy hills
@@ -657,7 +677,7 @@ EOT
           
           
                 <span class="gloss-contextual">
-                24
+                27
                 </span>
               </a></span></span>
          <div id="1229188v" class="pb"></div>
@@ -665,7 +685,14 @@ EOT
          
          <div class="lg-stanza">
             <span class="l">The <span class="placeName-NORTHSTAR">pole star</span> guides thee<span class="runover" style="left:3.2em">on thy way</span></span><br/>
-            <span class="l">when in dark nights thou art</span><br/>
+            <span class="l">when in dark nights thou art<span class="gloss-inline">
+          <a href="https://erm.selu.edu/glosses/glen_of_glenfarg_glosses_contextual#WORDINBRACKETSGLOSS" target="_blank" class="inactive">
+          
+          
+                <span class="gloss-contextual">
+                28
+                </span>
+              </a></span></span><br/>
             <span class="l">therefore look up at the starry<span class="runover" style="left:10.4em">day</span></span><br/>
             <span class="l">look at the stars about thee<span class="runover" style="left:10.4em">tost</span></span><br/>
             </div>
@@ -688,21 +715,21 @@ EOT
           
           
                 <span class="gloss-contextual">
-                25
+                29
                 </span>
               </a></span> smack<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/the_sea_glosses_contextual#SMACKGLOSS" target="_blank" class="inactive">
           
           
                 <span class="gloss-contextual">
-                26
+                30
                 </span>
               </a></span> or sloop<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/the_sea_glosses_contextual#SLOOPGLOSS" target="_blank" class="inactive">
           
           
                 <span class="gloss-contextual">
-                27
+                31
                 </span>
               </a></span> all the different<span class="runover" style="left:18.8em">sorts</span></span><br/>
             <span class="l">do not throw them on rocks do not send them on<span class="runover" style="left:18.4em">high</span></span><br/>

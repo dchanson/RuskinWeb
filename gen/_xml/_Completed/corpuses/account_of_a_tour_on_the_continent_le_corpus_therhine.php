@@ -24,11 +24,9 @@ define("FACS_FILE_NAMES", <<<EOT
 EOT
 );
       ?>
-    <?php require_once(ROOT_PATH."layout_includes/showcase_top.inc.php"); ?><div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-left"><img id="facs_preview" src="" width="100&#x0025;"><img id="facs" src="" width="100&#x0025;" style="display:none"></div>
-<div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-splitter"></div>
-<div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-right">
+    <?php require_once(ROOT_PATH."layout_includes/showcase_top.inc.php"); ?><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-left"><img id="facs_preview" src="" width="100%"><img id="facs" src="" width="100%" style="display:none"></div><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-splitter"></div><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-right">
    <div class="backToApparatusLink"><a href="/apparatuses/apparatuses/account_of_a_tour_on_the_continent_apparatus#account_of_a_tour_on_the_continent_le" target="_self"></a><br/></div>
-   <div class="fileName"><span>&#x201C;The Rhine&#x201D; &#x005B;section title&#x005D;</span></div>
+   <div class="fileName"><span>“The Rhine” [section title]</span></div>
    <div class="title" id="">
       <span class="head" id=""><span class="title-composite-JRTHERHINECOMP"><span class="caps">THE RHINE</span></span><span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/the_rhine_glosses_contextual#THERHINETITLE" target="_blank" class="inactive">
@@ -38,9 +36,8 @@ EOT
                 1
                 </span>
               </a></span></span> 
-      
-   </div><div id="" class="pb"></div>
-   <div class="fileName"><span>&#x005B;"The Rhine"&#x005D; &#x005B;essay&#x005D;</span></div>
+      </div><div id="" class="pb"></div>
+   <div class="fileName"><span>["The Rhine"] [essay]</span></div>
    <div class="witness">
       <div class="essay" id="">
          
@@ -65,8 +62,8 @@ EOT
                 <span class="gloss-contextual">
                 3
                 </span>
-              </a></span> would be considered, by many persons possess&#x02BC;d of considerable 
-                    <br/>strength of nerve in the day&#x2010;time and in places not haunted, as a very 
+              </a></span> would be considered, by many persons possessʼd of considerable 
+                    <br/>strength of nerve in the day‐time and in places not haunted, as a very 
                     <br/>disagreeable, if not positively dangerous affair. Marvel not, therefore, 
                     <br/>reader, if I inform you that I considered myself upon suspicious, if not 
                     <br/>enchanted, or even haunted ground, as soon as we came in sight of the 
@@ -78,7 +75,7 @@ EOT
                 4
                 </span>
               </a></span>, and that my thirst for ancient rhyme or story 
-                    <br/>became considerably augmented as we advanced farther into that wilder&#x2010;
+                    <br/>became considerably augmented as we advanced farther into that wilder‐
                     <br/>ness of rock and fortress, which must be traversed by the voyageur who 
                     <br/>passes between <span class="placeName-EHRENBREITSTEIN">Ehrenbreitstein</span> and <span class="placeName-STGOAR">St. Goar</span>.<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/the_rhine_glosses_contextual#TRADITIONS" target="_blank" class="inactive">
@@ -109,7 +106,7 @@ EOT
                 <span class="gloss-contextual">
                 6
                 </span>
-              </a></span> and I was therefore not particu&#x2010;
+              </a></span> and I was therefore not particu‐
                     <br/>larly tempted to interrogate any of them upon the subject before alluded 
                     <br/>to, until at length Fortune threw an individual in my way who appeared 
                     <br/>likely to be able to answer any inquiries which I might make, entirely to 
@@ -121,10 +118,9 @@ EOT
                 7
                 </span>
               </a></span></div>
-         
-      </div>
+         </div>
    </div><div id="" class="pb"></div>
-   <div class="fileName"><span>&#x201C;The Rhine&#x201D; &#x005B;poem&#x005D;</span></div>
+   <div class="fileName"><span>“The Rhine” [poem]</span></div>
    <div class="witness">
       <div class="poem" id="">
          
@@ -139,13 +135,13 @@ EOT
                 </span>
               </a></span></span><br/>
             <span class="l">We saw it where its ripples ride</span><br/>
-            <span class="l">&#x02BC;Neath <span class="geogName-EHRENBREITSTEIN">Ehrenbreitstein</span>&#x02BC;s beetling pride;</span><br/>
+            <span class="l">ʼNeath <span class="geogName-EHRENBREITSTEIN">Ehrenbreitstein</span>ʼs beetling pride;</span><br/>
             <span class="l">We saw it where its whirlpools roar
                <div class="s-line-number s-line-number-auto">
                   <div class="tooltip">
           System generated line number
         </div><a href="#L5" id="L5">5</a></div></span><br/>
-            <span class="l">Among the rocks of gaunt <span class="placeName-STGOAR">St. Goar</span>&#x2014;</span><br/> 
+            <span class="l">Among the rocks of gaunt <span class="placeName-STGOAR">St. Goar</span>—</span><br/> 
             <span class="l">In all its aspect is as fair!</span><br/>
             <span class="l">That aspect changes everywhere.</span><br/>
             <span class="l">From <span class="geogName-RHAETIANALPS">Rhætian</span> and Dinaric crest,<span class="gloss-inline">
@@ -169,7 +165,7 @@ EOT
                   <div class="tooltip">
           System generated line number
         </div><a href="#L10" id="L10">10</a></div></span><br/>
-            <span class="l">From fearful <span class="placeName-SPLUGEN">Splügen</span>&#x02BC;s glaciered head,</span><br/> 
+            <span class="l">From fearful <span class="placeName-SPLUGEN">Splügen</span>ʼs glaciered head,</span><br/> 
             <span class="l">The mighty torrent dashes, dread;</span><br/><div id="" class="pb"></div>
             <span class="l">And, swelled by every Alpine snow,</span><br/>
             <span class="l">Now see it chase these clffs below,</span><br/>
@@ -181,9 +177,6 @@ EOT
             <span class="l">Rise many a fortress battlement,</span><br/>
             <span class="l">Seeming the lords of rock and hill,</span><br/> 
             <span class="l">And mighty in their ruin still.</span><br/>
-            
+            </div>
          </div>
-         
-      </div>
-   </div><div id="" class="pb"></div>
-</div><?php require_once(ROOT_PATH."layout_includes/showcase_bottom.inc.php"); ?>
+   </div><div id="" class="pb"></div></div><?php require_once(ROOT_PATH."layout_includes/showcase_bottom.inc.php"); ?>

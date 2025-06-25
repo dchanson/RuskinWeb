@@ -353,8 +353,7 @@
             <file name="common/ruskin.xsl"/>
         </folder>
         <folder path="."/>
-        <folder path="_xml/_Completed/witnesses/"/>
-        <file name="_xml/_Completed/witnesses/account_of_a_tour_on_the_continent_fo_title.xml"/>
-        <file name="../../../Downloads/commonfolderjdruskin/ruskin.rnc"/>
+        <file name="_xml/_Completed/witnesses/andernacht_prose_le.xml"/>
+        <file name="_xml/_Completed/witnesses/calais_prose_msix.xml"/>
     </projectTree>
 </project>

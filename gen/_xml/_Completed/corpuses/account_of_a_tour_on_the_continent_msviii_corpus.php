@@ -24,11 +24,9 @@ msviii/MSVIIIp52-53.jpg msviii/MSVIIIp54-55.jpg msviii/MSVIIIp54-55.jpg msviii/M
 EOT
 );
       ?>
-    <?php require_once(ROOT_PATH."layout_includes/showcase_top.inc.php"); ?><div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-left"><img id="facs_preview" src="" width="100&#x0025;"><img id="facs" src="" width="100&#x0025;" style="display:none"></div>
-<div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-splitter"></div>
-<div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-right">
+    <?php require_once(ROOT_PATH."layout_includes/showcase_top.inc.php"); ?><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-left"><img id="facs_preview" src="" width="100%"><img id="facs" src="" width="100%" style="display:none"></div><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-splitter"></div><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-right">
    <div class="backToApparatusLink"><a href="/apparatuses/apparatuses/account_of_a_tour_on_the_continent_apparatus#account_of_a_tour_on_the_continent_msviii" target="_self"></a><br/></div>
-   <div class="fileName"><span>"Oh are there spirits, can there be" &#x005B;poem&#x005D;</span></div>
+   <div class="fileName"><span>"Oh are there spirits, can there be" [poem]</span></div>
    <div class="witness">
       <div class="poem" id="">     
          <div class="half"></div>
@@ -71,17 +69,15 @@ EOT
                 1
                 </span>
               </a></span></span><br/>
-            
+            </div>
          </div>
-         
-      </div>
    </div><div id="" class="pb"></div>
-   <div class="fileName"><span>&#x201C;Source of the Arveron&#x201D; &#x005B;essay&#x005D;</span></div>
+   <div class="fileName"><span>“Source of the Arveron” [essay]</span></div>
    <div class="witness">
       <div class="essay" id="">
          <div id="MSVIIIp54" class="pb"></div>
          
-         <div class="title" id="&#x0040;"><span class="space" style="padding-left:6.4em"> </span><span class="title-essay-JRSOURCEOFTHEARVERON">Source of the Arveron</span><span class="gloss-inline">
+         <div class="title" id="@"><span class="space" style="padding-left:6.4em"> </span><span class="title-essay-JRSOURCEOFTHEARVERON">Source of the Arveron</span><span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/source_of_the_arveron_prose_glosses_textual#SOURCEOFTHEARVERONTITLE" target="_blank" class="inactive">
           
           
@@ -157,12 +153,10 @@ EOT
                     of the passing away tempest the last murmers of the storm<br/>
                     spirit as he yielded up his reign, it past away and the<br/>
                     blue rigidness of the transparent <span class="del-strikethrough">grotto</span> cavern of the glacier<br/>
-                    woke rosily to the kiss of the departing sun
+                    woke rosily to the kiss of the departing sun</div>
          </div>
-         
-      </div>
    </div><div id="" class="pb"></div>
-   <div class="fileName"><span>&#x201C;I woke to hear the lullaby&#x201D; &#x005B;&#x201C;The Arve at Chamouni&#x201D;&#x005D; &#x005B;poem&#x005D;</span></div>
+   <div class="fileName"><span>“I woke to hear the lullaby” [“The Arve at Chamouni”] [poem]</span></div>
    <div class="witness">
       <div class="poem" id="">
          
@@ -295,16 +289,14 @@ EOT
             <span class="l">And drank the dew from flower and blade</span><br/>
             <span class="l">Melting the heavy drops to air</span><br/>
             <span class="l">That so dragged down the gossamer</span><br/>
-            
+            </div>
          </div>
-         
-      </div>
    </div><div id="" class="pb"></div>
-   <div class="fileName"><span>&#x201C;Andernacht&#x201D; &#x005B;essay&#x005D;</span></div>
+   <div class="fileName"><span>“Andernacht” [essay]</span></div>
    <div class="witness">
       <div class="essay" id="">
          
-         <div class="title" id="&#x0040;"><span class="space" style="padding-left:6.4em"> </span>Andernacht</div>
+         <div class="title" id="@"><span class="space" style="padding-left:6.4em"> </span>Andernacht</div>
          
          <div class="p">What is it that makes the very heart leap within you<br/> 
                     at the sight of a hills blue outline, that so aetheriallizes the<br/> 
@@ -318,7 +310,7 @@ EOT
                     of your own littleness, or that immoveable unchangeable mag<br/>nificence of th<div 
           class="subst-del s-subst s-del" >e</div><div 
           class="s-subst s-add s-overwrite s-inline">at</div> <span class="del-strikethrough"><span class="unclear-DCH">pa</span></span> which has seen the beginning of the world<br/> 
-                    and will see its end, or is it that the thoughts range insens&#x2010;<br/> ibly from the things created to him who created them. I<br/> 
+                    and will see its end, or is it that the thoughts range insens‐<br/> ibly from the things created to him who created them. I<br/> 
                     know not How it thrilled through me when first, far away<br/> 
                     across the lake like swell of the <span class="del-strikethrough">blue</span><div 
               class="add-above" 
@@ -326,7 +318,7 @@ EOT
                     river rose the cloudy outline of the blue mountains Long time<br/> 
                     has past over me since I saw the swell of a blue hill I have<br/> 
                     longed for them, I have yearned for them as an exile yearns<br/> 
-                    for his native land, and I am with them, &#x2014;. We left <span class="placeName-COLOGNE">Co&#x2010;<br/>
+                    for his native land, and I am with them, —. We left <span class="placeName-COLOGNE">Co‐<br/>
                     logne</span> on a misty summer morning, its many turreted spires<br/> 
                     rising colossally but grey and faint amid the wreathing<br/> 
                     columns of mist that smoked upward from the course<br/> 
@@ -339,14 +331,13 @@ EOT
                 <span class="gloss-contextual">
                 5
                 </span>
-              </a></span> show&#x2010;<br/>
+              </a></span> show‐<br/>
                     ing ruinlike beside it There were the red sails and<br/> 
                     mingled masts of the innumerable shipping without<br/> 
                     one sail swelling or a flag bending to the morning breeze<br/>
                     There was that peaceful and lovely lassitude over every<br/> 
                     thing that sleep of the earth and the air and the<br/> 
-                    sky that charms the mind into a corresponding fascina&#x2010;<br/> tion of stillness, the very thoughts seem at rest.
-         </div>
+                    sky that charms the mind into a corresponding fascina‐<br/> tion of stillness, the very thoughts seem at rest.</div>
          
          <div class="p">We went on we past <span class="placeName-BONN">Bonne</span> and <span class="placeName-GODESBERG">Godesberg</span>, and<br/> 
             <span class="geogName-DRACHENFELS">Drachenfels</span><span class="gloss-inline">
@@ -359,7 +350,7 @@ EOT
               </a></span> and sunset was <span class="del-strikethrough">bending</span> <div 
               class="add-above" 
               style="left:11.2em">sorrowing</div> over hill and<br/> 
-                    valley when the gloomy and venerable towrs of <span class="placeName-ANDERNACH">Ander&#x2010;<br/> nacht</span> frowned over us. I love to look upon the crags that<br/> 
+                    valley when the gloomy and venerable towrs of <span class="placeName-ANDERNACH">Ander‐<br/> nacht</span> frowned over us. I love to look upon the crags that<br/> 
             <span class="persName-JULIUSCAESAR">Caesar</span> has scaled, on<span class="del-strikethrough">t</span> the towers that his legions hav<div 
           class="subst-del s-subst s-del" >i</div><div 
           class="s-subst s-add s-overwrite s-inline">e</div><div 
@@ -368,7 +359,7 @@ EOT
                     The one is now as it was then, looking up to the broad blue heaven, the others<br/> 
             <div 
           class="subst-del s-subst s-del" >is</div><div 
-          class="s-subst s-add s-overwrite s-inline">are</div> in ruins.&#x2014;<span class="gloss-inline">
+          class="s-subst s-add s-overwrite s-inline">are</div> in ruins.—<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/andernacht_glosses_contextual#ANDERNACHTTHESEGLOSS" target="_blank" class="inactive">
           
           
@@ -395,13 +386,11 @@ EOT
               </a></span> Other s<div 
           class="s-subst s-add s-overwrite s-inline">n</div><div 
           class="subst-del-strikethrough s-subst s-del s-strikethrough" >h</div>ows have melted and the <span class="geogName-RHINE">Rhine</span> yet flows<br/> 
-                    onward unbroken but those waves are lost in the ocean for ever.&#x2014;<br/>
-            
+                    onward unbroken but those waves are lost in the ocean for ever.—<br/>
+            </div>
          </div>
-         
-      </div>
    </div><div id="" class="pb"></div>
-   <div class="fileName"><span>"St. Goar" &#x005B;essay&#x005D;</span></div>
+   <div class="fileName"><span>"St. Goar" [essay]</span></div>
    <div class="witness">
       <div class="poem" id="">
          
@@ -441,7 +430,7 @@ EOT
                 
               </a></span><div 
               class="add-above" 
-              style="left:18.4em">List to the rave of the mad sea</div> Speaks it not eloquent&#x2010;<br/> 
+              style="left:18.4em">List to the rave of the mad sea</div> Speaks it not eloquent‐<br/> 
                     ly, does it not tell of its green weedy caverns and its coral towers<br/> 
             <span class="del-strikethrough">A</span> and the high hills and shelly vallies far far beneath its cold<br/> 
                     blue, and the skulls of the drowned men that grin from<br/> 
@@ -458,12 +447,10 @@ EOT
                     and spicy gales and myrtle bowers and sweet things far away<br/> 
                     How softly the <span class="geogName-RHINE">Rhine</span> sings at <span class="placeName-STGOAR">St Goar</span>, and it tells of the cold<br/> 
                     arched grottoes of the glacier and the crags of the far <span class="geogName-ALPS">Alps</span>, and<br/> 
-            <span class="del-strikethrough">it</span> how it joys to dash against grey rocks once more.
+            <span class="del-strikethrough">it</span> how it joys to dash against grey rocks once more.</div>
          </div>
-         
-      </div>
    </div><div id="" class="pb"></div>
-   <div class="fileName"><span>&#x201C;There is a charmed peace that aye&#x201D; &#x005B;&#x201C;The Alps from Schaffhausen&#x201D;&#x005D; &#x005B;poem&#x005D;</span></div>
+   <div class="fileName"><span>“There is a charmed peace that aye” [“The Alps from Schaffhausen”] [poem]</span></div>
    <div class="witness">
       <div class="poem" id="">
          
@@ -582,7 +569,7 @@ EOT
                   <div class="tooltip">
           System generated line number
         </div><a href="#L85" id="L85">85</a></div></span><br/>
-            <span class="l">The <span class="geogName-ALPS">Alps</span> the <span class="geogName-ALPS">Alps</span>,&#x2014;Full far away</span><br/>
+            <span class="l">The <span class="geogName-ALPS">Alps</span> the <span class="geogName-ALPS">Alps</span>,—Full far away</span><br/>
             <span class="l">The long successive ranges lay<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/there_is_a_charmed_peace_that_aye_poem_glosses_contextual#THEALPSTHEALPSGLOSS" target="_blank" class="inactive">
           
@@ -667,16 +654,14 @@ EOT
                 15
                 </span>
               </a></span></span><br/>
-            
+            </div>
          </div>
-         
-      </div>
    </div><div id="" class="pb"></div>
-   <div class="fileName"><span>&#x201C;Via Mala&#x201D; &#x005B;poem&#x005D;</span></div>
+   <div class="fileName"><span>“Via Mala” [poem]</span></div>
    <div class="witness">
       <div class="poem" id="">
          
-         <div class="title" id="&#x0040;"><span class="space" style="padding-left:6.4em"> </span><span class="placeName-VIAMALA">Viamala</span><span class="gloss-inline">
+         <div class="title" id="@"><span class="space" style="padding-left:6.4em"> </span><span class="placeName-VIAMALA">Viamala</span><span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/via_mala_poem_glosses_contextual#VIAMALAPASSINGTHEALPSCLUSTER" target="_blank" class="inactive">
           
           
@@ -792,16 +777,14 @@ EOT
              Ruskin's line number
           </div><a href="javascript:void(0)">645</a></div></span><br/>
             <span class="l">Of the Abyssy gulph below</span><br/>
-            
+            </div>
          </div>
-         
-      </div>
    </div><div id="" class="pb"></div>
-   <div class="fileName"><span>&#x201C;Splugen&#x201D; &#x005B;poem&#x005D;</span></div>
+   <div class="fileName"><span>“Splugen” [poem]</span></div>
    <div class="witness">
       <div class="poem" id="">
          
-         <div class="title" id="&#x0040;"><span class="space" style="padding-left:6.4em"> </span><span class="placeName-SPLUGENVILLAGE">Splugen</span><span class="gloss-inline">
+         <div class="title" id="@"><span class="space" style="padding-left:6.4em"> </span><span class="placeName-SPLUGENVILLAGE">Splugen</span><span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/splugen_poem_glosses_contextual#SPLUGENPASSINGTHEALPSCLUSTER" target="_blank" class="inactive">
           
           
@@ -970,16 +953,14 @@ EOT
                   <div class="tooltip">
              Ruskin's line number
           </div><a href="javascript:void(0)">695</a></div></span><br/>
-            
+            </div>
          </div>
-         
-      </div>
    </div><div id="" class="pb"></div>
-   <div class="fileName"><span>&#x201C;The Summit&#x201D; &#x005B;poem&#x005D;</span></div>
+   <div class="fileName"><span>“The Summit” [poem]</span></div>
    <div class="witness">
       <div class="poem" id="">
          
-         <div class="title" id="&#x0040;"><span class="space" style="padding-left:6.4em"> </span>The <span class="del-strikethrough">descent</span> Summit<span class="gloss-inline">
+         <div class="title" id="@"><span class="space" style="padding-left:6.4em"> </span>The <span class="del-strikethrough">descent</span> Summit<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/the_summit_poem_glosses_contextual#THESUMMITPASSINGTHEALPSCLUSTER" target="_blank" class="inactive">
           
           
@@ -1169,7 +1150,7 @@ EOT
                   <div class="tooltip">
              Ruskin's line number
           </div><a href="javascript:void(0)">745</a></div></span><br/>
-            <span class="l">None &#x2038;<div 
+            <span class="l">None ‸<div 
               class="add-above" 
               style="left:2.4em">heard</div> his sorrowing call for aid</span><br/>
             <span class="l">Yet still beside the corse he staid</span><br/>
@@ -1195,16 +1176,14 @@ EOT
                 </span>
                 
               </a></span></span><br/>
-            
+            </div>
          </div>
-         
-      </div>
    </div><div id="" class="pb"></div>
-   <div class="fileName"><span>&#x201C;The Descent&#x201D; &#x005B;poem&#x005D;</span></div>
+   <div class="fileName"><span>“The Descent” [poem]</span></div>
    <div class="witness">
       <div class="poem" id="">
          
-         <div class="title" id="&#x0040;"><span class="space" style="padding-left:6.4em"> </span>The descent<span class="gloss-inline">
+         <div class="title" id="@"><span class="space" style="padding-left:6.4em"> </span>The descent<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/the_descent_poem_glosses_textual#THEDESCENTGLOSS" target="_blank" class="inactive">
           
           
@@ -1313,17 +1292,15 @@ EOT
                   <div class="tooltip">
           System generated line number
         </div><a href="#L275" id="L275">275</a></div></span><br/>
-            
+            </div>
          </div>
-         
-      </div>
    </div><div id="" class="pb"></div>
-   <div class="fileName"><span>&#x201C;The Meuse&#x201D; &#x005B;essay&#x005D;</span></div>
+   <div class="fileName"><span>“The Meuse” [essay]</span></div>
    <div class="witness">
       <div class="essay" id="">
          <div id="MSVIII60v" class="pb"></div>
          
-         <div class="title" id="&#x0040;"><span class="space" style="padding-left:6.4em"> </span>The <span class="geogName-MEUSE">Meuse</span></div>
+         <div class="title" id="@"><span class="space" style="padding-left:6.4em"> </span>The <span class="geogName-MEUSE">Meuse</span></div>
          
          <div class="p">How <span class="del-strikethrough">be</span> lightly the waves of the broad <span class="geogName-MEUSE">Meuse</span>, crisped<br/> 
                         with the first breath of the morning, as we swept over<br/>
@@ -1337,7 +1314,7 @@ EOT
                 31
                 </span>
               </a></span> as it began to smile to the<br/> 
-                        first glance <span class="del-strikethrough">th</span> of the joyous sun, that was drink&#x2010;<br/> 
+                        first glance <span class="del-strikethrough">th</span> of the joyous sun, that was drink‐<br/> 
                         ing up the delicate mists, which clung to the hills and<br/> 
                         rested <div 
           class="subst-del s-subst s-del" >i</div><div 
@@ -1352,9 +1329,9 @@ EOT
                         cases preferable to either) to any thing which I ever<br/> 
                         afterwards saw on the shores of the farfamed <span class="geogName-RHINE">Rhine</span>.<br/> 
                         There was, to me, a great sameness throughout the whole<br/> 
-                        of the &#x2038; <div 
+                        of the ‸ <div 
               class="add-above" 
-              style="left:2.8em">course of the</div> latter river, and &#x2038; <div 
+              style="left:2.8em">course of the</div> latter river, and ‸ <div 
               class="add-above" 
               style="left:10.0em">as</div> to its fortresses, it is positively too<br/> 
                         much of a good thing, a tiresome repitition of ruins,<br/> 
@@ -1378,7 +1355,7 @@ EOT
             every successive change as you feel that it ought to be seen, and<br/> 
                         finally, the tantalizing rate at which you dash away (capital<br/> 
                         road) from that which you could feast upon, and look upon<br/> 
-                        and dwell upon, for&#x2014;ages I was going to say, months, I<br/> 
+                        and dwell upon, for—ages I was going to say, months, I<br/> 
                         will say, are enough to enchant you with anything.  If you<br/> 
                         wish to see rock scenery in perfection, go to the <span class="geogName-MEUSE">Meuse</span>,<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/the_meuse_glosses_contextual#GOTOTHEMEUSEGLOSS" target="_blank" class="inactive">
@@ -1389,8 +1366,8 @@ EOT
                 </span>
               </a></span> for<br/> 
                         never were rocks more beautifully disposed, more richly and<br/> 
-                        delicately wooded or more finely contrasted with the amaz&#x2010;<br/>
-                        ing luxuriance of&#x2038; <div 
+                        delicately wooded or more finely contrasted with the amaz‐<br/>
+                        ing luxuriance of‸ <div 
               class="add-above" 
               style="left:7.6em">the</div> surrounding scenery. But alas. it was<br/> 
                         but a forenoon ride, and the eve saw us quit the magnificent<br/>
@@ -1402,18 +1379,15 @@ EOT
                 <span class="gloss-contextual">
                 33
                 </span>
-              </a></span><br/>
+              </a></span><br/></div>
+         
          </div>
-         
-         
-      </div>
    </div><div id="" class="pb"></div>
-   <div class="fileName"><span>&#x201C;Cologne&#x201D; &#x005B;essay&#x005D;</span></div>
+   <div class="fileName"><span>“Cologne” [essay]</span></div>
    <div class="witness">
       <div class="essay" id="">
          
-         <div class="title" id="&#x0040;"><span class="space" style="padding-left:6.4em"> </span><span class="placeName-">Cologne</span>.
-         </div>
+         <div class="title" id="@"><span class="space" style="padding-left:6.4em"> </span><span class="placeName-">Cologne</span>.</div>
          
          <div class="p">And this is the birth place of <span class="persName-PPR">Rubens</span>. Sink these<br/> 
                     french bad roads<span class="g-terminal_comma">,</span><span class="gloss-inline">
@@ -1431,16 +1405,14 @@ EOT
           class="s-subst s-add s-overwrite s-inline">S</div>un, together with a perambulation<br/> 
                     on a damp evening at <span class="persName-">Aix la Chapelle</span>, so knocked<br/> 
                     me up, that I was forced to diet it, and quiet it<br/> 
-                    And could not stir out to see <span class="del-strikethrough">the</span> <span class="persName-PPR">Rubens</span>&#x02BC; last picture<br/> 
+                    And could not stir out to see <span class="del-strikethrough">the</span> <span class="persName-PPR">Rubens</span>ʼ last picture<br/> 
                     the masterpiece of the master, the <span class="title-artwork-RUBENSCRUCIFIXIONSTPETER">crucifixion of <span class="persName-STPETER">St<br/> 
                     Peter</span></span>, bequeathed by him at his death to his native<br/> 
-                    city, and, yet more, his birthchamber, &#x2014; fragment,<br/>
-            
+                    city, and, yet more, his birthchamber, — fragment,<br/>
+            </div>
          </div>
-         
-      </div>
    </div><div id="" class="pb"></div>
-   <div class="fileName"><span>"Oh, the morn looked bright on hill and dale" &#x005B;"The Black Forest"&#x005D; &#x005B;poem&#x005D;</span></div>
+   <div class="fileName"><span>"Oh, the morn looked bright on hill and dale" ["The Black Forest"] [poem]</span></div>
    <div class="witness">
       <div class="poem" id="">
          
@@ -1510,7 +1482,7 @@ EOT
                   <div class="tooltip">
           System generated line number
         </div><a href="#L290" id="L290">290</a></div></span><br/>
-            <span class="l">To run its sweet course oer again,&#x2014;</span><br/>
+            <span class="l">To run its sweet course oer again,—</span><br/>
             <span class="l">Flowed a small tributary stream</span><br/>
             <span class="l">That the <span class="geogName-RHINE">Rhine</span> levied all between<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/oh_the_morn_looked_bright_on_hill_and_dale_poem_glosses_contextual#KINZIGRIVER" target="_blank" class="inactive">
@@ -1598,12 +1570,10 @@ EOT
                 </span>
                 
               </a></span></span><br/>
-            
+            </div>
          </div>
-         
-      </div>
    </div><div id="" class="pb"></div>
-   <div class="fileName"><span>&#x201C;It was a wide stretchy sweep&#x201D; &#x005B;essay&#x005D;</span></div>
+   <div class="fileName"><span>“It was a wide stretchy sweep” [essay]</span></div>
    <div class="witness">
       <div class="essay" id="">
          <div id="MSVIII62r" class="pb"></div>
@@ -1620,7 +1590,7 @@ EOT
                 
               </a></span> richly<br/>
                    cultivated, and beautifully wooded, and bounded by magnificent<br/>
-                   mountain ranges, here fading away, faint and blue &#x0026; cloudlike<br/>
+                   mountain ranges, here fading away, faint and blue & cloudlike<br/>
                    toward the south,<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/it_was_a_wide_and_stretchy_sweep_glosses_contextual#SOUTH" target="_blank" class="inactive">
           
@@ -1631,7 +1601,7 @@ EOT
               </a></span> there distinct and near and lofty, with the<br/>
                    green cultivation climbing up their broad flanks. I had read, that<br/>
                    the snowy summit of the <span class="geogName-MONTTITLIS">Mont Titlis</span>, was visible from <span class="placeName-STRASBOURG">Strasburg</span>,<br/>
-                   the consequence of which marvellous information was, that I metamor&#x2010;<br/>
+                   the consequence of which marvellous information was, that I metamor‐<br/>
                    phosed every cloud I saw into a mountain, strained my eyes<br/>
                    with looking for that which was out of sight,<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/it_was_a_wide_and_stretchy_sweep_glosses_contextual#TITLIS" target="_blank" class="inactive">
@@ -1643,11 +1613,10 @@ EOT
               </a></span> and <span class="unclear-smudged-">had</span> at last,<br/>
                    very nearly argued myself into a conviction, that blue hills<br/>
                    were white <span class="unclear-smudges-">ones</span> until our entrance into the narrow dell above<br/>
-                   mentioned, precluded all farther observations upon the clouds.&#x2014;<br/>
-         </div>
+                   mentioned, precluded all farther observations upon the clouds.—<br/></div>
          
-         <div class="p">A swiss Cottage is a celebrated thing, celebrated far and wide&#x2014;<br/>
-                   it has modelled the Tivolian villas of&#x2014;<span class="placeName-HIGHTGATE">Highgate</span> and <span class="placeName-HAMPSTEAD">Hamp<br/>
+         <div class="p">A swiss Cottage is a celebrated thing, celebrated far and wide—<br/>
+                   it has modelled the Tivolian villas of—<span class="placeName-HIGHTGATE">Highgate</span> and <span class="placeName-HAMPSTEAD">Hamp<br/>
                        stead</span>,<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/it_was_a_wide_and_stretchy_sweep_glosses_contextual#HIGHGATE" target="_blank" class="inactive">
           
@@ -1665,7 +1634,7 @@ EOT
               </a></span><br/>
                    have extended its fame, and much it delighted me when first<br/>
                    the wide projecting wooden roof and carved galleries and external<br/>
-                   stairs looked out to greet us from among the dark pines&#x2014; What<br/>
+                   stairs looked out to greet us from among the dark pines— What<br/>
                    a host of associations and recollections tumbled in upon me.<br/>
                    Mountains avalanches, glaciers, cottages, <span class="persName-HANNIBAL">Hannibal</span>, vinegar,<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/it_was_a_wide_and_stretchy_sweep_glosses_contextual#VINEGAR" target="_blank" class="inactive">
@@ -1677,16 +1646,14 @@ EOT
               </a></span> <span class="persName-fictional_person-WT">Tell</span>, <span class="geogName-ALPS">Alps</span><br/>
                    apples, tyrants and crossbows, came crowding into my brain jumbled<br/>
                    together in most admired disorder, I thought of nothing connected<br/>
-                   the whole day
-         </div>  
-         
-      </div>
+                   the whole day</div>  
+         </div>
    </div><div id="" class="pb"></div>
-   <div class="fileName"><span>&#x201C;Part of Brussels&#x201D; &#x005B;essay, part 1&#x005D;</span></div>
+   <div class="fileName"><span>“Part of Brussels” [essay, part 1]</span></div>
    <div class="witness">
       <div class="essay" id="">
          
-         <div class="title" id="&#x0040;"><span class="space" style="padding-left:6.4em"> </span>Part of Brussels</div>
+         <div class="title" id="@"><span class="space" style="padding-left:6.4em"> </span>Part of Brussels</div>
          
          <div class="p"><span class="placeName-BRUSSELS">Brussels</span> is a lovely, a queenlike city from a distance, sweeping<br/>
                     up the flanks of its hill, battlement over battlement swelling up,<br/>
@@ -1717,7 +1684,7 @@ EOT
                 44
                 </span>
               </a></span> We saw <span class="placeName-BRUSSELS">Brussels</span> at 11 miles distance, its spires rising<br/> 
-                    dark and spearlike out of the horizon&#x2014; It was waxing dark<br/>
+                    dark and spearlike out of the horizon— It was waxing dark<br/>
                     as we entered the city, and the lights began to twinkle in the<br/>
                     few, the very few shop windows. I love to pass through a city<br/> 
             <span class="del-strikethrough">by</span> at night, the hum of the voices rises so softly out of<br/> 
@@ -1750,12 +1717,10 @@ EOT
                 </span>
               </a></span> Cities are exceedingly picturesque when built<br/> 
                     upon hills, but for exploring, for circumnavigating, for <span class="del-strikethrough">traversing</span>,<br/> 
-            
+            </div>
          </div>
-         
-      </div>
    </div><div id="" class="pb"></div>
-   <div class="fileName"><span>&#x201C;Oh softly blew the morning breeze&#x201D; &#x005B;&#x201C;Chiavenna&#x201D;&#x005D; &#x005B;poem&#x005D;</span></div>
+   <div class="fileName"><span>“Oh softly blew the morning breeze” [“Chiavenna”] [poem]</span></div>
    <div class="witness">
       <div class="poem" id="">
          
@@ -1794,7 +1759,7 @@ EOT
         </div><a href="#L315" id="L315">315</a></div></span><br/>
             <span class="l">That rose in many a rounded head</span><br/>
             <span class="l">Beneath the <span class="geogName-ALPS">Alpine</span> rocks of red</span><br/>
-            <span class="l">And the fresh snow had fall&#x02BC;n that night
+            <span class="l">And the fresh snow had fallʼn that night
                <div class="s-line-number s-line-number-ruskin linenumber-right-JR">
                   <div class="tooltip">
              Ruskin's line number
@@ -1813,7 +1778,7 @@ EOT
              Ruskin's line number
           </div><a href="javascript:void(0)">820</a></div></span><br/>
             <span class="l">And the white clouds seemed to immerse,</span><br/>
-            <span class="l">Another ruin&#x02BC;d universe.<span class="gloss-inline">
+            <span class="l">Another ruinʼd universe.<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/oh_softly_blew_the_morning_breeze_poem_glosses_contextual#MOUNTAINAMPHITHEATRE" target="_blank" class="inactive">
           
           
@@ -1824,12 +1789,10 @@ EOT
                   <div class="tooltip">
           System generated line number
         </div><a href="#L325" id="L325">325</a></div></span><br/>
-            
+            </div>
          </div>
-         
-      </div>
    </div><div id="" class="pb"></div>
-   <div class="fileName"><span>&#x201C;Part of Brussels&#x201D; &#x005B;essay, part 2&#x005D;</span></div>
+   <div class="fileName"><span>“Part of Brussels” [essay, part 2]</span></div>
    <div class="witness">
       <div class="essay" id="">
          <div id="MSVIII63r" class="pb"></div>
@@ -1837,7 +1800,7 @@ EOT
          
          <div class="p">perambulating, Oh woe to the walker,<div 
               class="add-below" 
-              style="left:14.8em">&#x2038;</div> <div 
+              style="left:14.8em">‸</div> <div 
               class="add-above" 
               style="left:15.2em">he</div> who is compelled,<br/>
                         to drag himself up their steeps, those tiresome paved steeps,<br/>
@@ -1913,10 +1876,10 @@ EOT
           class="subst-del-strikethrough s-subst s-del s-strikethrough" >caught</div> the sides of the swelling<br/> 
                         green <div 
               class="add-below" 
-              style="left:2.0em">&#x2038;</div><div 
+              style="left:2.0em">‸</div><div 
               class="add-above" 
               style="left:2.0em">grassy</div> banks then broken by the intervening hollows then climbing<br/> 
-                        again up the dewy moss and white trunks, It was exceeding beau&#x2010;<br/>
+                        again up the dewy moss and white trunks, It was exceeding beau‐<br/>
                         tiful<u>. I</u> could have fancied the glister<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/brussels_glosses_contextual#GLISTERGLOSS" target="_blank" class="inactive">
           
@@ -1926,9 +1889,8 @@ EOT
                 </span>
               </a></span> of <span class="del-strikethrough">the</span> bright bayonets changing,<br/>
                         like starlight on a wavy ocean, among the retiring foliage<br/> 
-                        of those ancient trees&#x2014;I forgot how many long years<br/>
-                        had past by since that eventful day.&#x2014;&#x002A; &#x002A; &#x002A;<br/>
-         </div>
+                        of those ancient trees—I forgot how many long years<br/>
+                        had past by since that eventful day.—* * *<br/></div>
          
          
          <div class="p">This is the field of <span class="placeName-WATERLOO">Waterloo</span>.<span class="gloss-inline">
@@ -1945,11 +1907,11 @@ EOT
                     again, spreading away in rounded masses, till lost in the<br/> 
                     blue of the faint horizon.<div 
               class="add-below" 
-              style="left:10.4em">&#x2038;</div><div 
+              style="left:10.4em">‸</div><div 
               class="add-above" 
               style="left:10.4em">All is peace now</div> English men may feel proud<br/> 
                     upon the field of <span class="placeName-WATERLOO">Waterloo</span>, perhaps I did, But there is something<br/>
-                    mingled with it,&#x2014;&#x2014; Poor Napolean The grass is very green<br/>
+                    mingled with it,—— Poor Napolean The grass is very green<br/>
                     on the field of <span class="placeName-WATERLOO">Waterloo</span>, for it has grown from the dust of<br/> 
                     our bravest, Oh tread on it softly<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/brussels_glosses_contextual#TREADSOFTLYGLOSS" target="_blank" class="inactive">
@@ -1958,12 +1920,10 @@ EOT
                 <span class="gloss-contextual">
                 55
                 </span>
-              </a></span><br/>
+              </a></span><br/></div>
          </div>
-         
-      </div>
    </div><div id="" class="pb"></div>
-   <div class="fileName"><span>&#x201C;Lago di Como&#x201D; &#x005B;poem&#x005D;</span></div>
+   <div class="fileName"><span>“Lago di Como” [poem]</span></div>
    <div class="witness">
       <div class="poem" id=""> 
          <div id="MSVII63v" class="pb"></div>
@@ -2124,13 +2084,11 @@ EOT
             <span class="l">May hear, may <span class="del-strikethrough">listen</span><div 
               class="add-below" 
               style="left:6.4em">pity</div>, and may save</span><br/>
-            
-         </div>
+            </div>
          <div class="threequarter"></div>
-         
-      </div>
+         </div>
    </div><div id="" class="pb"></div>
-   <div class="fileName"><span>&#x201C;Of various trees a vista green&#x201D; &#x005B;poem, incorporated into &#x201C;Genoa&#x201D;&#x005D;</span></div>
+   <div class="fileName"><span>“Of various trees a vista green” [poem, incorporated into “Genoa”]</span></div>
    <div class="witness">
       <div class="poem" id="">
          
@@ -2175,7 +2133,7 @@ EOT
              Ruskin's line number
           </div><a href="javascript:void(0)">870</a></div></span><br/>
             <span class="l">That natural arched avenue</span><br/>               
-            <span class="l">There showed a rich and mighty plain<div class="add-bottom-right">&#x00D7;</div>
+            <span class="l">There showed a rich and mighty plain<div class="add-bottom-right">×</div>
                <div class="s-line-number s-line-number-auto">
                   <div class="tooltip">
           System generated line number
@@ -2258,12 +2216,10 @@ EOT
                 61
                 </span>
               </a></span> </span><br/>
-            
+            </div>
          </div>
-         
-      </div>
    </div><div id="" class="pb"></div>
-   <div class="fileName"><span>"It was an eve of summer, mild" &#x005B;"Lago Maggiore"&#x005D; &#x005B;poem&#x005D;</span></div>
+   <div class="fileName"><span>"It was an eve of summer, mild" ["Lago Maggiore"] [poem]</span></div>
    <div class="witness">
       <div class="poem" id="">
          <div id="MSVIII64v" class="pb"></div>
@@ -2409,16 +2365,14 @@ EOT
                   <div class="tooltip">
              Ruskin's line number
           </div><a href="javascript:void(0)">920</a></div></span><br/>
-            
+            </div>
          </div>
-         
-      </div>
    </div><div id="" class="pb"></div>
-   <div class="fileName"><span>&#x201C;Aix la Chapelle&#x201D; &#x005B;essay&#x005D;</span></div>
+   <div class="fileName"><span>“Aix la Chapelle” [essay]</span></div>
    <div class="witness">
       <div class="essay" id="">
          
-         <div class="title" id="&#x0040;"><span class="space" style="padding-left:6.4em"> </span>Aix la Chapelle</div>
+         <div class="title" id="@"><span class="space" style="padding-left:6.4em"> </span>Aix la Chapelle</div>
          
          <div class="p">Hast ever heard of the peace of <span class="placeName-AIXLACHAPELLE">Aix la Chapelle</span>,<br/>
                     reader.<span class="gloss-inline">
@@ -2480,13 +2434,13 @@ EOT
                     to trot upon the paved centre of the road, but that they<br/>
                     be permitted to draw the carriage, chariot, gig, or other vehicle<br/>
                     afore said, into the beds of sand and dust, denominated<br/>
-                    by the postillion, la terre, even although the carriage, char&#x2010;<br/>
+                    by the postillion, la terre, even although the carriage, char‐<br/>
                     iot gig, or other vehicle, be in imminent danger of being overset<br/>
                     into the ditch which bordereth upon the road. Item, that<br/>
                     postillion be permitted, when upon the backs of his horses,<br/>
                     to indulge himself with a comfortable pipe, and half<br/>
                     hours nap, or so, during which time, his above mentioned<br/>
-                    quadrupeds be surrendered to their own will, and gui&#x2010;<br/>
+                    quadrupeds be surrendered to their own will, and gui‐<br/>
                     dance,<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/aix_la_chapelle_prose_glosses_contextual#POSTILIONAIXLACHAPELLEGLOSS" target="_blank" class="inactive">
           
@@ -2501,7 +2455,7 @@ EOT
           class="subst-add-above s-subst s-add s-above" 
           style="left:6.0em">six</div> hours ride of 12 miles, I was first<br/>
                     fevered by the burning sun, then smothered by the<br/>
-                    dust, and finally&#x2014;but let that pass for the present.<br/>
+                    dust, and finally—but let that pass for the present.<br/>
                     A <span class="title-AACHENCATHEDRAL">cathedral</span> is a noble, a beautiful, a sublime thing,<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/aix_la_chapelle_prose_glosses_contextual#CATHEDRALGLOSS" target="_blank" class="inactive">
           
@@ -2531,15 +2485,14 @@ EOT
                     almost think that the dead forms of departed monarchs<br/>
                     have sprung forth from their narrow dwellings beneath that<br/>
                     ancient pavement, and the peers of <span class="persName-CHARLEMAGNE">Charlemagne</span> are rallying<br/>
-                    again around their monarch. Wake&#x2014;<span class="gloss-inline">
+                    again around their monarch. Wake—<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/aix_la_chapelle_prose_glosses_contextual#WAKEGLOSS" target="_blank" class="inactive">
           
           
                 <span class="gloss-contextual">
                 69
                 </span>
-              </a></span><br/>
-         </div>
+              </a></span><br/></div>
          <div id="MSVIII66r" class="pb"></div>
          <div class="pageNum-top-right">66</div><br/>
          
@@ -2561,7 +2514,7 @@ EOT
                 <span class="gloss-contextual">
                 71
                 </span>
-              </a></span> The revolutionists am&#x2010;<br/>
+              </a></span> The revolutionists am‐<br/>
                     used themselves by depriving the poor stone gentlemen<br/>
                     of their olfactory nerves, alias noses, consequence they<br/>
                     look all terrible flats. <span class="del-strikethrough">Twili</span><span class="gloss-inline">
@@ -2575,7 +2528,7 @@ EOT
                 
               </a></span> Night coming on. Left<br/>
                     the cathedral just in time to be tantalized by grinning<br/>
-                    at a magnificent picture when it was pitch dark. Last judg&#x2010;<br/>
+                    at a magnificent picture when it was pitch dark. Last judg‐<br/>
                     ment.<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/aix_la_chapelle_prose_glosses_textual#PAUSEPERIOD" target="_blank" class="inactive">
           
@@ -2601,45 +2554,40 @@ EOT
                 <span class="gloss-contextual">
                 72
                 </span>
-              </a></span> Return&#x02BC;d to<br/>
+              </a></span> Returnʼd to<br/>
                     the inn in very bad humour. Off early next morning for<br/>
             <span class="placeName-COLOGNE">Cologne</span>. Goodnight.<br/>
-            
+            </div>
          </div>
-         
-      </div>
    </div><div id="" class="pb"></div>
-   <div class="fileName"><span>Mountain Sketch &#x005B;drawing&#x005D;</span></div>
+   <div class="fileName"><span>Mountain Sketch [drawing]</span></div>
    <div class="figure">
       <div class="drawing" id="">
          
          <h1 class="page-title"><span class="title-artwork-JRMOUNTAINMSVIII">Mountain Sketch</span></h1>
-         Pen and ink, approx. ? &#x00D7; ? cm (image only). A slight sketch of a mountain scene. The peak in the foreground may be intended for a volcano.
+         Pen and ink, approx. ? × ? cm (image only). A slight sketch of a mountain scene. The peak in the foreground may be intended for a volcano.
                     
          
-         
-      </div>
+         </div>
    </div><div id="" class="pb"></div>
-   <div class="fileName"><span>MS VIII &#x005B;drawing&#x005D;&#x2014;Buildings on Water with Boats</span></div>
+   <div class="fileName"><span>MS VIII [drawing]—Buildings on Water with Boats</span></div>
    <div class="figure">
       <div class="drawing" id="">
          
          
          <h1 class="page-title"><span class="title-artwork-JRBUILDINGSONWATERMSVIII">Sketch of Buildings on Water with Boats</span></h1>
-         Pen and ink, approx. ? &#x00D7; ? cm (image only), placed immediately beneath the drawing, <span class="title-artwork-JRMOUNTAINMSVIII">Mountain Sketch</span>.
+         Pen and ink, approx. ? × ? cm (image only), placed immediately beneath the drawing, <span class="title-artwork-JRMOUNTAINMSVIII">Mountain Sketch</span>.
          
          <div class="p">The drawing is a slight sketch of buildings with steps leading directly to water, with boats moored near the steps. 
                         The location is unknown, but the calm water and heavy window awnings shading from the sun suggest <span class="placeName-ITALY">Italy</span>. 
                         The drawing was made over top of a previous drawing of mountain outlines, and also over top of marginal numbers 925, 930, and 935, intended for reception 
-                        of ongoing verse composition, the last poem composed being <span class="title-poem-JRLAGOMAGGIORE">&#x201C;It was an eve of summer mild&#x201D; &#x005B;&#x201C;Lago Maggiore&#x201D;&#x005D;</span> 
+                        of ongoing verse composition, the last poem composed being <span class="title-poem-JRLAGOMAGGIORE">“It was an eve of summer mild” [“Lago Maggiore”]</span> 
                         ending on a line numbered 920 (65r). Between this poem and the two drawings, <span class="persName-JR">Ruskin</span> drafted the prose essay, 
-                        <span class="title-essay-JRAIXLACHAPELLE">&#x201C;Aix La Chapelle&#x201D;</span> (65r&#x2013;66r).
+                        <span class="title-essay-JRAIXLACHAPELLE">“Aix La Chapelle”</span> (65r–66r).</div>
+         
          </div>
-         
-         
-      </div>
    </div><div id="" class="pb"></div>
-   <div class="fileName"><span>&#x201C;Smiling from those bright rays kiss&#x201D; &#x005B;&#x201C;Heidelberg&#x201D;&#x005D; &#x005B;poem, part 1&#x005D;</span></div>
+   <div class="fileName"><span>“Smiling from those bright rays kiss” [“Heidelberg”] [poem, part 1]</span></div>
    <div class="witness">
       <div class="poem" id="">
          
@@ -2678,7 +2626,7 @@ EOT
                 </span>
                 
               </a></span></span><br/>
-            <span class="l">But a moment&#x2014; darkly down</span><br/>
+            <span class="l">But a moment— darkly down</span><br/>
             <span class="l">Came the cloudy heavens frown</span><br/>
             <span class="l">Mong the leaves a fitful shaking.
                <div class="s-line-number s-line-number-ruskin linenumber-right-JR">
@@ -2735,7 +2683,7 @@ EOT
                 <span class="gloss-contextual">
                 74
                 </span>
-              </a></span> &#x002A;</span><br/>
+              </a></span> *</span><br/>
             <span class="l">Many a distant mountain chain</span><br/>
             <span class="l">Girded round the mighty plain.
                <div class="s-line-number s-line-number-ruskin linenumber-right-JR">
@@ -2764,13 +2712,11 @@ EOT
             <div class="pageNum-top-right">67</div><br/>
             <span class="l">Flinging far its cloudy spray</span><br/>
             <span class="l">Oer the peaceful heaven beating</span><br/>
-            
-         </div>
+            </div>
          <div class="half"></div>
-         
-      </div>
+         </div>
    </div><div id="" class="pb"></div>
-   <div class="fileName"><span>&#x201C;The Rhine&#x201D; &#x005B;essay&#x005D;</span></div>
+   <div class="fileName"><span>“The Rhine” [essay]</span></div>
    <div class="witness">
       <div class="essay" id="">
          
@@ -2804,7 +2750,7 @@ EOT
                 77
                 </span>
               </a></span> would be considered, by many persons<br/>
-                    possess&#x02BC;d of considerable strength of nerve in the daytime &#x0026;<br/>
+                    possessʼd of considerable strength of nerve in the daytime &<br/>
                     in places not haunted, as a very disagreeable, if not pos<br/>
                     itively dangerous affair,<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/the_rhine_prose_glosses_textual#TERMINALCOMMA" target="_blank" class="inactive">
@@ -2878,10 +2824,9 @@ EOT
                 </span>
               </a></span></div>
          <div class="half"></div>
-         
-      </div>
+         </div>
    </div><div id="" class="pb"></div>
-   <div class="fileName"><span>&#x201C;Oh warmly down the sunbeams fell&#x201D; &#x005B;&#x201C;Ehrenbreitstein&#x201D;&#x005D; &#x005B;poem&#x005D;</span></div>
+   <div class="fileName"><span>“Oh warmly down the sunbeams fell” [“Ehrenbreitstein”] [poem]</span></div>
    <div class="witness">
       <div class="poem" id="">
          
@@ -3057,7 +3002,7 @@ EOT
           </div><a href="javascript:void(0)">1015</a></div></span><br/>
             <span class="l">Till oer them far for many a rood,</span><br/>
             <span class="l">The red sun scattered tinge of blood,</span><br/>
-            <span class="l"><span class="del-strikethrough">Till</span> &#x2038; <div 
+            <span class="l"><span class="del-strikethrough">Till</span> ‸ <div 
               class="add-above" 
               style="left:2.0em">Then</div> broadening into brighter day</span><br/>
             <span class="l">On the rich plain the lustre lay
@@ -3261,16 +3206,14 @@ EOT
              Ruskin's line number
           </div><a href="javascript:void(0)">1080</a></div></span><br/>
             <span class="l">Upon the boundless sea.</span><br/>
-            
+            </div>
          </div>
-         
-      </div>
    </div><div id="" class="pb"></div>
-   <div class="fileName"><span>&#x201C;Continuation Heidelberg&#x201D; &#x005B;poem&#x005D;</span></div>
+   <div class="fileName"><span>“Continuation Heidelberg” [poem]</span></div>
    <div class="witness">
       <div class="poem" id="">
          
-         <div class="title" id="&#x0040;"><span class="space" style="padding-left:6.4em"> </span>Continuation Heidelberg</div>
+         <div class="title" id="@"><span class="space" style="padding-left:6.4em"> </span>Continuation Heidelberg</div>
          
          <div class="lg-stanza">
             <span class="delSpan--delend01"></span>
@@ -3486,17 +3429,15 @@ EOT
         </div><a href="#L635" id="L635">635</a></div></span><br/>
             <span class="l">And all the smile of lightsome day,</span><br/>
             <span class="l">He has almost forgotten.</span><br/>
-            
+            </div>
          </div>
-         
-      </div>
    </div><div id="" class="pb"></div>
-   <div class="fileName"><span>&#x201C;Schaffhausen&#x201D; &#x005B;poem&#x005D;</span></div>
+   <div class="fileName"><span>“Schaffhausen” [poem]</span></div>
    <div class="witness">
       <div class="poem" id="">
          <div id="MSVIII70v" class="pb"></div>
          
-         <div class="title" id="&#x0040;"><span class="space" style="padding-left:6.4em"> </span><span class="placeName-">Schaffhausen</span><span class="gloss-inline">
+         <div class="title" id="@"><span class="space" style="padding-left:6.4em"> </span><span class="placeName-">Schaffhausen</span><span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/there_is_a_charmed_peace_that_aye_poem_glosses_textual#SCHAFFHAUSENTITLEGLOSS" target="_blank" class="inactive">
           
           
@@ -3577,12 +3518,10 @@ EOT
                 </span>
                 
               </a></span> was leaping,</span><br/>
-            
+            </div>
          </div>
-         
-      </div>
    </div><div id="" class="pb"></div>
-   <div class="fileName"><span>&#x201C;The lake smiled sweetly and the boy&#x201D; &#x005B;poem&#x005D;</span></div>
+   <div class="fileName"><span>“The lake smiled sweetly and the boy” [poem]</span></div>
    <div class="witness">
       <div class="poem" id="">
          <div id="MSVIII70v" class="pb"></div>
@@ -3616,7 +3555,7 @@ EOT
             <span class="l">(The vision floats before him)</span><br/>
             <span class="l">High oer his head the waters leap</span><br/>
             <span class="l">And voices murmured from the deep.</span><br/>
-            <span class="l">&#x201C;I snatch the sleeper into sleep)<span class="gloss-inline">
+            <span class="l">“I snatch the sleeper into sleep)<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/the_lake_smiled_sweetlly_and_the_boy_poem_glosses_textual#PARENGLOSS" target="_blank" class="inactive">
           
           
@@ -3630,12 +3569,10 @@ EOT
           System generated line number
         </div><a href="#L660" id="L660">660</a></div></span><br/>
             <span class="l">And whirl my white waves oer him.</span><br/>
-            
+            </div>
          </div>
-         
-      </div>
    </div><div id="" class="pb"></div>
-   <div class="fileName"><span>&#x201C;Not such the night whose stormy might&#x201D; &#x005B;&#x201C;Evening at Chamouni&#x201D;&#x005D; &#x005B;poem&#x005D;</span></div>
+   <div class="fileName"><span>“Not such the night whose stormy might” [“Evening at Chamouni”] [poem]</span></div>
    <div class="witness">
       <div class="poem" id="">          
          
@@ -3715,12 +3652,10 @@ EOT
           </div><a href="javascript:void(0)">1180</a></div></span><br/>
             <span class="l">And lo, the untrodden summit stood,</span><br/>
             <span class="l">Accessibly beside him,</span><br/>
-            
+            </div>
          </div>
-         
-      </div>
    </div><div id="" class="pb"></div>
-   <div class="fileName"><span>&#x201C;It is said that French will carry you over all Europe&#x201D; &#x005B;&#x201C;Ehrenbreitstein&#x201D;&#x005D; &#x005B;essay&#x005D;</span></div>
+   <div class="fileName"><span>“It is said that French will carry you over all Europe” [“Ehrenbreitstein”] [essay]</span></div>
    <div class="witness">
       <div class="essay" id="">
          <div id="MSVIII71v" class="pb"></div>
@@ -3800,10 +3735,9 @@ EOT
                 93
                 </span>
               </a></span></div>
-         
-      </div>
+         </div>
    </div><div id="" class="pb"></div>
-   <div class="fileName"><span>&#x201C;Most beautiful are the paths&#x201D; &#x005B;&#x201C;Heidelberg&#x201D;&#x005D; &#x005B;essay, part 1&#x005D;</span></div>
+   <div class="fileName"><span>“Most beautiful are the paths” [“Heidelberg”] [essay, part 1]</span></div>
    <div class="witness">
       <div class="essay" id="">
          
@@ -3825,7 +3759,7 @@ EOT
                 <span class="gloss-contextual">
                 95
                 </span>
-              </a></span> and grass and flowr, that con&#x2010;<br/>
+              </a></span> and grass and flowr, that con‐<br/>
                     cealed the mass of that ancient <span class="name--GRANITE">granite</span>, sometimes<br/>
                             supporting a fragment of the remains of the old walls,<br/>
                             with here and there an arrowslit choked up with ivy,<br/>
@@ -3847,12 +3781,10 @@ EOT
                             most lovely of all lights, the first glow of sunshine,<br/> 
                             after a spring shower. <span class="del-scratchout"><span class="unclear-DCH"></span></span> 18<br/>
             
-            
-         </div>         
-         
-      </div>
+            </div>         
+         </div>
    </div><div id="" class="pb"></div>
-   <div class="fileName"><span>&#x201C;The foam globes round come riding fast&#x201D; &#x005B;&#x201C;The Source of the Arveron&#x201D;&#x005D; &#x005B;poem&#x005D;</span></div>
+   <div class="fileName"><span>“The foam globes round come riding fast” [“The Source of the Arveron”] [poem]</span></div>
    <div class="witness">
       <div class="poem" id="">
          
@@ -3869,7 +3801,7 @@ EOT
           System generated line number
         </div><a href="#L685" id="L685">685</a></div></span><br/>
             <span class="l">Like snow upon the eddies cast</span><br/>
-            <span class="l">Forth from his cold &#x0026; silent tomb</span><br/>
+            <span class="l">Forth from his cold & silent tomb</span><br/>
             <span class="l">Forth flies the river from the gloom<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/the_foam_globes_round_come_riding_fast_poem_glosses_contextual#RIVERFROMTHEGLOOM" target="_blank" class="inactive">
           
@@ -3895,8 +3827,8 @@ EOT
                   <div class="tooltip">
           System generated line number
         </div><a href="#L695" id="L695">695</a></div></span><br/>
-            <span class="l">Yawneth a chasm high &#x0026; wide</span><br/>
-            <span class="l">And from the portal arched &#x0026; strong</span><br/>
+            <span class="l">Yawneth a chasm high & wide</span><br/>
+            <span class="l">And from the portal arched & strong</span><br/>
             <span class="l"><span class="del-strikethrough"><span class="unclear-DCH">Leap</span></span> Springs gladsome forth the <span class="geogName-ARVERON">Arveron</span></span><br/>
             <span class="l">Seems it an ancient forteresse<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/the_foam_globes_round_come_riding_fast_poem_glosses_textual#FORTERESSE" target="_blank" class="inactive">
@@ -3913,7 +3845,7 @@ EOT
                   <div class="tooltip">
           System generated line number
         </div><a href="#L700" id="L700">700</a></div></span><br/>
-            <span class="l">The higher towers all rent &#x0026; riven</span><br/>
+            <span class="l">The higher towers all rent & riven</span><br/>
             <span class="l">The battlements all downward driven<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/the_foam_globes_round_come_riding_fast_poem_glosses_textual#BATTLEMENTSALL" target="_blank" class="inactive">
           
@@ -3935,7 +3867,7 @@ EOT
                 </span>
                 
               </a></span></span><br/>
-            <span class="l">And that its portal vast &#x0026; old
+            <span class="l">And that its portal vast & old
                <div class="s-line-number s-line-number-auto">
                   <div class="tooltip">
           System generated line number
@@ -3953,16 +3885,14 @@ EOT
             <span class="l">The ghostlights of the crystal blue.</span><br/>
             
             
-            
+            </div>
          </div>
-         
-      </div>
    </div><div id="" class="pb"></div>
-   <div class="fileName"><span>"Cont. Heidelberg" &#x005B;essay, part 2&#x005D;</span></div>
+   <div class="fileName"><span>"Cont. Heidelberg" [essay, part 2]</span></div>
    <div class="witness">
       <div class="essay" id="">
          
-         <div class="title" id="&#x0040;"><span class="space" style="padding-left:6.4em"> </span>Cont. Heidelberg</div>
+         <div class="title" id="@"><span class="space" style="padding-left:6.4em"> </span>Cont. Heidelberg</div>
          
          <div class="p">The <span class="placeName-building-HEIDELBERGCASTLE">castle of Heidelberg</span> is exceeding desolate.  Armies<br/>
                     have razed its foundations, the thunder hath riven its<br/>
@@ -3978,7 +3908,7 @@ EOT
                             on the floor of the hall of the banquet, and the wild<br/>
                             birds build their nests in the watchtowers, and they<br/>
                             dwell in the dwellings of man, for they are forsaken<br/> 
-                            and left and there is no voice there &#x2014; there is no<br/>
+                            and left and there is no voice there — there is no<br/>
                             complaining in the dungeon, and where is the voice of<br/> 
                             gladness in the hall.  It is a ruin, a ruin, a<br/>
                             desolate ruin, the husbandman sees it on the height of<br/>
@@ -3987,12 +3917,10 @@ EOT
                             bers the power of his ancient princes, and knows not<br/>
                             if he should grieve that there power is past away.<br/>
             I know not how it is, but all nations in all ages<br/>
-                            seem to have respected the juice of the fruit of the vine<br/>
-         </div>            
-         
-      </div>
+                            seem to have respected the juice of the fruit of the vine<br/></div>            
+         </div>
    </div><div id="" class="pb"></div>
-   <div class="fileName"><span>&#x201C;So broadly stretched in sapphire sheet&#x201D; &#x005B;poem&#x005D;</span></div>
+   <div class="fileName"><span>“So broadly stretched in sapphire sheet” [poem]</span></div>
    <div class="witness">
       <div class="poem" id="">
          
@@ -4034,12 +3962,10 @@ EOT
                   <div class="tooltip">
           System generated line number
         </div><a href="#L720" id="L720">720</a></div></span><br/>          
-            
+            </div>
          </div>
-         
-      </div>
    </div><div id="" class="pb"></div>
-   <div class="fileName"><span>&#x201C;All has yielded to it from time immemorial&#x201D; &#x005B;"Heidelberg," essay, part 3&#x005D;</span></div>
+   <div class="fileName"><span>“All has yielded to it from time immemorial” ["Heidelberg," essay, part 3]</span></div>
    <div class="witness">
       <div class="essay" id="">
          <div id="MSVIII78v" class="pb"></div>
@@ -4067,7 +3993,7 @@ EOT
               style="left:7.6em">were</div> were blown up, the battlements <span class="del-strikethrough">were</span> knocked<br/>
                     down, the towers snapt like so many sticks of barley sugar,<br/>
                     the statues decapitated, the carving crashed, the ditches filled,<br/>
-                    the castle ruined.  but the cellars&#x2014; Walk into them sir,<br/>
+                    the castle ruined.  but the cellars— Walk into them sir,<br/>
                     walk into them.  there is not a rat dispossessed or in any manner<br/>
                     disturbed,<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/heidelberg_prose_glosses_textual#TERMINALCOMMA" target="_blank" class="inactive">
@@ -4093,7 +4019,7 @@ EOT
               class="add-above" 
               style="left:12.0em">newfangled</div><div 
               class="add-below" 
-              style="left:12.0em">&#x2038;</div> fashionable cask, (which, following<br/>
+              style="left:12.0em">‸</div> fashionable cask, (which, following<br/>
                     the example of the ladies now adays has gone without hoops) are<br/>
                     not a whit disturbed, but sit there in peaceful placidity, clasping<br/>
                     each other in brotherly affection: but dry very dry unconscionably dry<br/>
@@ -4116,17 +4042,15 @@ EOT
             <div id="MSVIII79r" class="pb"></div>
             <div class="pageNum-top-right">79</div><br/>
             of the timbers. Oh <span class="placeName-fictional-BACCHUS">Bacchus</span>, <span class="placeName-fictional-BACCHUS">Bacchus</span>, come not into the cellars<br/>
-                    of <span class="placeName-HEIDELBERG">Heidelberg</span>, lest thou shouldst die of thirst<br/>
-         </div>           
-         
-      </div>
+                    of <span class="placeName-HEIDELBERG">Heidelberg</span>, lest thou shouldst die of thirst<br/></div>           
+         </div>
    </div><div id="" class="pb"></div>
-   <div class="fileName"><span>&#x201C;Genoa&#x201D; &#x005B;poem&#x005D;</span></div>
+   <div class="fileName"><span>“Genoa” [poem]</span></div>
    <div class="witness">
       <div class="poem" id="">
          <div id="MSVIII77r" class="pb"></div>
          
-         <div class="title" id="&#x0040;"><span class="space" style="padding-left:6.4em"> </span><span class="placeName-GENOA">Genoa</span></div>
+         <div class="title" id="@"><span class="space" style="padding-left:6.4em"> </span><span class="placeName-GENOA">Genoa</span></div>
          
          <div class="lg-stanza">
             <span class="l">Now rouse thee ho. For <span class="placeName-GENOA">Genoa</span> straight</span><br/>
@@ -4200,7 +4124,7 @@ EOT
                 </span>
               </a></span></span><br/>
             <span class="l">While beside our path was seen</span><br/>
-            <span class="l">Of various trees a vista green, <span class="metamark-insertion">&#x0026;c.</span><span class="gloss-inline">
+            <span class="l">Of various trees a vista green, <span class="metamark-insertion">&c.</span><span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/genoa_poem_glosses_textual#OFVARIOUSTREESGLOSS" target="_blank" class="inactive">
           
           
@@ -4219,7 +4143,7 @@ EOT
                   <div class="tooltip">
           System generated line number
         </div><a href="#L740" id="L740">740</a></div></span><br/>
-            <span class="l">Whose living crystal shot between <span class="metamark-insertion">&#x0026;.</span> 
+            <span class="l">Whose living crystal shot between <span class="metamark-insertion">&.</span> 
                <div class="s-line-number s-line-number-ruskin linenumber-right-JR">
                   <div class="tooltip">
              Ruskin's line number
@@ -4229,13 +4153,13 @@ EOT
               style="left:NaNem"></div> little space of time</span></span><br/>
             <span class="l"><span class="del-strikethrough">And think how wide the world must be</span></span><br/>
             <span class="l"><span class="del-strikethrough">Across from pole to pole</span></span><br/>
-            <span class="l"><span class="del-strikethrough">When &#x2038;<div 
+            <span class="l"><span class="del-strikethrough">When ‸<div 
               class="add-above" 
               style="left:2.4em">all</div> that there you look upon</span> 
                <div class="s-line-number s-line-number-ruskin linenumber-right-JR">
                   <div class="tooltip">
              Ruskin's line number
-          </div><a href="javascript:void(0)">&#x00D7; 80</a></div>
+          </div><a href="javascript:void(0)">× 80</a></div>
                <div class="s-line-number s-line-number-auto">
                   <div class="tooltip">
           System generated line number
@@ -4289,7 +4213,7 @@ EOT
               </a></span></span><br/>
             <span class="l"><div 
           class="s-subst s-add s-overwrite s-inline">W</div><div 
-          class="subst-del s-subst s-del" >T</div>hoe&#x02BC;r thou art, who hast not felt</span><br/>
+          class="subst-del s-subst s-del" >T</div>hoeʼr thou art, who hast not felt</span><br/>
             <span class="l">Thou lovedst to be where seabirds dwelt</span><br/>
             <span class="l">To wander on the weary beach 
                <div class="s-line-number s-line-number-ruskin linenumber-right-JR">
@@ -4321,7 +4245,7 @@ EOT
             <span class="l"><div 
           class="s-subst s-add s-overwrite s-inline">Nor</div><div 
           class="subst-del s-subst s-del" >And</div> converse with the wind</span><br/>
-            <span class="l">When broad black waves before it roll &#x2014; 
+            <span class="l">When broad black waves before it roll — 
                <div class="s-line-number s-line-number-ruskin linenumber-right-JR">
                   <div class="tooltip">
              Ruskin's line number
@@ -4331,17 +4255,15 @@ EOT
           System generated line number
         </div><a href="#L765" id="L765">765</a></div></span><br/>
             <span class="l">I would not think thou hadst a soul.</span><br/>
-            
+            </div>
          </div>
-         
-      </div>
    </div><div id="" class="pb"></div>
-   <div class="fileName"><span>&#x201C;Cadenabbia&#x201D; &#x005B;poem&#x005D;</span></div>
+   <div class="fileName"><span>“Cadenabbia” [poem]</span></div>
    <div class="witness">
       <div class="poem" id="">
          <div id="MSVII79v" class="pb"></div>
          
-         <div class="title" id="&#x0040;"><span class="space" style="padding-left:6.4em"> </span><span class="placeName-CADENABBIA">Cadenabbia</span></div>
+         <div class="title" id="@"><span class="space" style="padding-left:6.4em"> </span><span class="placeName-CADENABBIA">Cadenabbia</span></div>
          
          <div class="lg-stanza">
             <span class="l">Oh <span class="del-strikethrough">love</span> coolly came on <span class="geogName-LAKECOMO">Comos lake</span></span><br/>
@@ -4495,9 +4417,9 @@ EOT
             <span class="l">High oer the boat the awning spread,</span><br/>
             <span class="l">And quick as sun<div 
               class="add-below" 
-              style="left:6.8em">&#x2038;</div><div 
+              style="left:6.8em">‸</div><div 
               class="add-above" 
-              style="left:6.8em">&#x2010;red </div>waves<span class="gloss-inline">
+              style="left:6.8em">‐red </div>waves<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/cadenabbia_poem_glosses_textual#SUNREDWAVESGLOSS" target="_blank" class="inactive">
           
           
@@ -4516,17 +4438,15 @@ EOT
           System generated line number
         </div><a href="#L810" id="L810">810</a></div></span><br/>
             <span class="l">Toward the southward fled.</span><br/>
-            
+            </div>
          </div>
-         
-      </div>
    </div><div id="" class="pb"></div>
-   <div class="fileName"><span>&#x201C;Villa Pliniana&#x201D; &#x005B;poem&#x005D;</span></div>
+   <div class="fileName"><span>“Villa Pliniana” [poem]</span></div>
    <div class="witness">
       <div class="poem" id="">
          <div id="MSVIII80v" class="pb"></div>
          
-         <div class="title" id="&#x0040;"><span class="space" style="padding-left:6.4em"> </span><span class="placeName-building-VILLAPLINIANA">Villa Pliniana</span><span class="gloss-inline">
+         <div class="title" id="@"><span class="space" style="padding-left:6.4em"> </span><span class="placeName-building-VILLAPLINIANA">Villa Pliniana</span><span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/villa_pliniana_poem_glosses_textual#PUBLICATIONGLOSS" target="_blank" class="inactive">
           
           
@@ -4612,7 +4532,7 @@ EOT
             <span class="l">That one would wonder how a thing</span><br/>
             <span class="l">So temporary, perishing</span><br/>
             <span class="l">Should dare such deeds, or work such change</span><br/>
-            <span class="l">I&#x02BC; the texture of the world.
+            <span class="l">Iʼ the texture of the world.
                <div class="s-line-number s-line-number-ruskin linenumber-right-JR">
                   <div class="tooltip">
              Ruskin's line number
@@ -4625,12 +4545,10 @@ EOT
             <span class="l">And many more renowned,</span><br/>
             <span class="l">The ignoble and the glorious,</span><br/>
             <span class="l">Are underneath the ground</span><br/>
-            
+            </div>
          </div>
-         
-      </div>
    </div><div id="" class="pb"></div>
-   <div class="fileName"><span>&#x201C;There were sweet sounds mingled with my dreaming&#x201D; &#x005B;essay&#x005D;</span></div>
+   <div class="fileName"><span>“There were sweet sounds mingled with my dreaming” [essay]</span></div>
    <div class="witness">
       <div class="essay" id="">
          
@@ -4642,7 +4560,7 @@ EOT
             and I started, and looked up. It was cold, very cold<br/>
                     and the crisp ice of the July morning shot its long<br/>
                     fleecy crystals over the narrow window <span class="space" style="padding-left:1.2em"> </span>Break the veil<br/>
-                    away, and look out. There was no sunshine, the Augus&#x2010;<br/>
+                    away, and look out. There was no sunshine, the Augus‐<br/>
                     tines <span class="del-strikethrough">of</span> have not a perfectly clear day twelve times in<br/>
                     the year, yet the landscape was dazzling white with<br/>
                     broad sheets of pure summer snow that clung to the<br/>
@@ -4650,9 +4568,6 @@ EOT
                     deeper and whiter as it climbed up into the cloud, <span class="del-strikethrough">and</span><br/>
             <span class="del-strikethrough">th</span> through which it shone like a flood of sunlight<br/>
                     while the tall steep <span class="del-strikethrough">g</span> crags that rose forth of it, past<br/>
-                    away into the grey mist.<br/>
+                    away into the grey mist.<br/></div>
          </div>
-         
-      </div>
-   </div><div id="" class="pb"></div>
-</div><?php require_once(ROOT_PATH."layout_includes/showcase_bottom.inc.php"); ?>
+   </div><div id="" class="pb"></div></div><?php require_once(ROOT_PATH."layout_includes/showcase_bottom.inc.php"); ?>

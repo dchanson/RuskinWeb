@@ -419,7 +419,7 @@ EOT
             
             <div class="p"><span class="doubleletter-fill">A</span>nd eleven in all sai<div 
           class="subst-del s-subst s-del" ><span class="unclear-CWB">i</span></div><div 
-          class="s-subst s-add s-inline">d</div> her <span class="persName-fictional-MAMMA">mother</span><div class="g-justification" style="width:NaNem"> </div><span class="gloss-inline">
+          class="s-subst s-add s-overwrite s-inline">d</div> her <span class="persName-fictional-MAMMA">mother</span><div class="g-justification" style="width:NaNem"> </div><span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/harry_and_lucy_vol1_glosses_textual#JUSTIFICATION" target="_blank" class="inactive">
           
           

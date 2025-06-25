@@ -24,53 +24,46 @@ msix/MSIX37v-38r.jpg msix/MSIX37v-38r.jpg msix/MSIX37v-38r.jpg msix/MSIX40v-41r.
 EOT
 );
       ?>
-    <?php require_once(ROOT_PATH."layout_includes/showcase_top.inc.php"); ?><div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-left"><img id="facs_preview" src="" width="100&#x0025;"><img id="facs" src="" width="100&#x0025;" style="display:none"></div>
-<div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-splitter"></div>
-<div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-right">
+    <?php require_once(ROOT_PATH."layout_includes/showcase_top.inc.php"); ?><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-left"><img id="facs_preview" src="" width="100%"><img id="facs" src="" width="100%" style="display:none"></div><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-splitter"></div><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-right">
    <div class="backToApparatusLink"><a href="/apparatuses/apparatuses/account_of_a_tour_on_the_continent_apparatus#account_of_a_tour_on_the_continent_msix" target="_self"></a><br/></div>
-   <div class="fileName"><span>&#x201C;Ehrenbreitstein&#x201D; Drawing 1 of 2</span></div>
+   <div class="fileName"><span>“Ehrenbreitstein” Drawing 1 of 2</span></div>
    <div class="figure">
       <div class="drawing" id="">
          
          
          <h1 class="page-title"><span class="title-artwork-JREHRENBREITSTEINFORTRESSMSIX">Vignette, Ehrenbreitstein Hill and Fortress at Confluence of Rhine and Moselle</span></h1>
-         Pen and ink, approx. ? &#x00D7; ? cm (image only).
+         Pen and ink, approx. ? × ? cm (image only).
          
          <div class="p">The editors of the <a href="/notes/library_edition_note" target="_self">Library Edition</a> 
-                        describe the image as a &#x201C;sketch of the <span class="geogName-RHINE">Rhine</span> with the fortress high on the hill, and the town below&#x201D; 
-                        (<a href="/notes/bibliography#JRWORKSLE" target="_self">Ruskin, <i>Works</i></a>, 2:355; a facsimile of the page of MS IX containing this drawing and the opening portion of verse is bound opposite p. 355).
-         </div>
+                        describe the image as a “sketch of the <span class="geogName-RHINE">Rhine</span> with the fortress high on the hill, and the town below” 
+                        (<a href="/notes/bibliography#JRWORKSLE" target="_self">Ruskin, <i>Works</i></a>, 2:355; a facsimile of the page of MS IX containing this drawing and the opening portion of verse is bound opposite p. 355).</div>
          
          <div class="p"><span class="persName-JR">Ruskin</span> based his vignette on an engraving, <span class="title-artwork-JMWTEHRENBREITSTEIN1833"><i>Ehrenbreitstein</i></span> by <span class="persName-RW">Robert Wallis</span> after <span class="persName-JMWT">J. M. W. Turner</span>, 
                         published in the <a href="/notes/bibliography#KEEPSAKE1833" target="_self"><span class="title-annual-KEEPSAKE"><i>Keepsake for MDCCCXXXIII</i></span></a> (p. 84 opp.) 
-                        (see <a href="/notes/bibliography#WGRENGRAVEDTURNER" target="_self"><span class="persName-WGR">Rawlinson</span>, <span class="title-catalogue-WGRENGRAVEDTURNER"><i>Engraved Work of J. M. W. Turner</i></span></a>, 1:225 &#x005B;no. 328&#x005D;; and 
-                        <a href="/notes/bibliography#HEWISONETALRUSKINTURNERPRB" target="_self"><span class="persName-RHEWISON">Hewison</span>, <span class="persName-IWARRELL">Warrell</span>, and <span class="persName-SWILDMAN">Wildman</span>, <i>Ruskin, Turner, and the Pre&#x2010;Raphaelites</i></a>, 45). 
-                        <span class="persName-JMWT">Turner</span>&#x02BC;s engraving is not a vignette, but a full&#x2010;page, broadside rectangle. In order to reframe the image as a vignette, 
-                        <span class="persName-JR">Ruskin</span> may have looked for models to <span class="persName-JMWT">Turner</span>&#x02BC;s own vignettes in the 1830 edition of 
-                        <span class="persName-SR">Rogers</span>&#x02BC;s <span class="title-poem-ROGERSITALY1830"><i>Italy</i></span> (the vignette heading the poem 
-                        <span class="title-poem-ROGERSCOMO">&#x201C;Como&#x201D;</span> most resembles the subject). Another possible model is a vignette engraving after <span class="persName-DRP">David Roberts</span>, 
+                        (see <a href="/notes/bibliography#WGRENGRAVEDTURNER" target="_self"><span class="persName-WGR">Rawlinson</span>, <span class="title-catalogue-WGRENGRAVEDTURNER"><i>Engraved Work of J. M. W. Turner</i></span></a>, 1:225 [no. 328]; and 
+                        <a href="/notes/bibliography#HEWISONETALRUSKINTURNERPRB" target="_self"><span class="persName-RHEWISON">Hewison</span>, <span class="persName-IWARRELL">Warrell</span>, and <span class="persName-SWILDMAN">Wildman</span>, <i>Ruskin, Turner, and the Pre‐Raphaelites</i></a>, 45). 
+                        <span class="persName-JMWT">Turner</span>ʼs engraving is not a vignette, but a full‐page, broadside rectangle. In order to reframe the image as a vignette, 
+                        <span class="persName-JR">Ruskin</span> may have looked for models to <span class="persName-JMWT">Turner</span>ʼs own vignettes in the 1830 edition of 
+                        <span class="persName-SR">Rogers</span>ʼs <span class="title-poem-ROGERSITALY1830"><i>Italy</i></span> (the vignette heading the poem 
+                        <span class="title-poem-ROGERSCOMO">“Como”</span> most resembles the subject). Another possible model is a vignette engraving after <span class="persName-DRP">David Roberts</span>, 
                         <span class="title-artwork-ROBERTSDRACHENFELS"><i><span class="geogName-DRACHENFELS">Drachenfels</span></i></span>, published in <a href="/notes/bibliography#BULWERLYTTONPILGRIMS" target="_self"><span class="title-book-BULWERLYTTONPILGRIMS"><i>The Pilgrims of the Rhine</i></span></a> (<span class="date-1834">1834</span>) 
-                        by <span class="persName-EBL">Edward Bulwer&#x2010;Lytton</span> (p. 100). <span class="persName-DRP">Roberts</span>&#x02BC;s <span class="geogName-RHINE">Rhine</span> view 
-                        is suggestive of <span class="persName-JMWT">Turner</span>&#x02BC;s <span class="geogName-EHRENBREITSTEIN">Ehrenbreitstein</span> scene, but contained in an oval vignette. 
+                        by <span class="persName-EBL">Edward Bulwer‐Lytton</span> (p. 100). <span class="persName-DRP">Roberts</span>ʼs <span class="geogName-RHINE">Rhine</span> view 
+                        is suggestive of <span class="persName-JMWT">Turner</span>ʼs <span class="geogName-EHRENBREITSTEIN">Ehrenbreitstein</span> scene, but contained in an oval vignette. 
                         <span class="persName-JJR">John James Ruskin</span> acquired <span class="title-book-BULWERLYTTONPILGRIMS"><i>The Pilgrims of the Rhine</i></span> in <span class="date-1834-06">June 1834</span> 
-                        (<a href="/notes/bibliography#RFMS28" target="_self"><span class="persName-JJR">John James Ruskin</span>, Account Book &#x005B;1827&#x2013;45&#x005D;</a>, 34v).
-                    
-         </div>
+                        (<a href="/notes/bibliography#RFMS28" target="_self"><span class="persName-JJR">John James Ruskin</span>, Account Book [1827–45]</a>, 34v).
+                    </div>
          
          <div class="p">For another <span class="persName-JMWT">Turner</span> engraving from this volume of the <span class="title-annual-KEEPSAKE"><i>Keepsake</i></span> 
-                        that <span class="persName-JR">Ruskin</span> proposed to adapt as a vignette for the &#x201C;Account&#x201D;, but probably never executed, see 
-                        <a href="<?php echo r_build_url("witnesses/account_of_a_tour_on_the_continent_toc_msviii.php#FALLOFTHERHINEILLUSGLOSS");?>" target="_self">&#x201C;Fall of the Rhine&#x201D; in <span class="title-bibliography_text-JRPROPOSEDTABLEOFCONTENTS">List of Proposed Additional Contents for the &#x201C;Account&#x201D;</span></a>.
+                        that <span class="persName-JR">Ruskin</span> proposed to adapt as a vignette for the “Account”, but probably never executed, see 
+                        <a href="<?php echo r_build_url("witnesses/account_of_a_tour_on_the_continent_toc_msviii.php#FALLOFTHERHINEILLUSGLOSS");?>" target="_self">“Fall of the Rhine” in <span class="title-bibliography_text-JRPROPOSEDTABLEOFCONTENTS">List of Proposed Additional Contents for the “Account”</span></a>.</div>
+         
          </div>
-         
-         
-      </div>
    </div><div id="" class="pb"></div>
-   <div class="fileName"><span>&#x201C;Ehrenbreitstein&#x201D; &#x005B;section title&#x005D;</span></div><div id="MSIX35R" class="pb"></div>
+   <div class="fileName"><span>“Ehrenbreitstein” [section title]</span></div><div id="MSIX35R" class="pb"></div>
    <div class="title" id="">
       <span class="head-section"><span class="space" style="padding-left:2.8em"> </span><span class="title-composite-JREHRENBREITSTEINCOMP"><span class="smallcaps">EHRENBREITSTEIN</span></span></span> 
-      
-   </div><div id="" class="pb"></div>
-   <div class="fileName"><span>&#x201C;Ehrenbreitstein&#x201D; &#x005B;poem&#x005D;</span></div>
+      </div><div id="" class="pb"></div>
+   <div class="fileName"><span>“Ehrenbreitstein” [poem]</span></div>
    <div class="witness">
       <div class="poem" id="">
          <div id="MSIX38r" class="pb"></div>
@@ -280,7 +273,7 @@ EOT
         </div><a href="#L90" id="L90">90</a></div></span><br/>
             <span class="l">The long straight trunks are bald and bare.</span><br/>
             <span class="l">The peasant on some <span class="geogName-ALPS">Alpine</span> brow,</span><br/>
-            <span class="l">Hath cut the root and lop&#x02BC;t the bough,</span><br/>
+            <span class="l">Hath cut the root and lopʼt the bough,</span><br/>
             <div id="MSIX40v" class="pb"></div>
             <span class="l">The eagle heard the echoing fall,</span><br/>
             <span class="l">And soared away to his high eyrie,
@@ -316,7 +309,7 @@ EOT
             <span class="l">Toward the ocean rapidly,</span><br/>
             <span class="l">There firmly bound by builders care,</span><br/>
             <span class="l">The rage of wave and wind to dare,</span><br/>
-            <span class="l">Or burst of battle&#x2010;shock to bear.<span class="gloss-inline">
+            <span class="l">Or burst of battle‐shock to bear.<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/ehrenbreitstein_poem_glosses_textual#EHRENBREITSTEINPAUSEPERIODGLOSS" target="_blank" class="inactive">
           
           
@@ -331,35 +324,30 @@ EOT
                   <div class="tooltip">
           System generated line number
         </div><a href="#L110" id="L110">110</a></div></span><br/>
-            
+            </div>
          </div>
-         
-      </div>
    </div><div id="" class="pb"></div>
-   <div class="fileName"><span>&#x201C;Ehrenbreitstein&#x201D; Drawing 2 of 2</span></div>
+   <div class="fileName"><span>“Ehrenbreitstein” Drawing 2 of 2</span></div>
    <div class="figure">
       <div class="drawing" id="">
          
          
          <h1 class="page-title"><span class="title-artwork-JREHRENBREITSTEINRIVERMSIX">Vignette, Pines on Bank of the Rhine</span></h1>
-         Pen and ink, approx. ? &#x00D7; ? cm (image only).
+         Pen and ink, approx. ? × ? cm (image only).
          
          <div class="p">The editors of the <a href="/" target="_self">Library Edition</a> 
-                        describe the image as a &#x201C;sketch of a river, swollen and rushing between the hills&#x201D; 
+                        describe the image as a “sketch of a river, swollen and rushing between the hills” 
                         (<a href="/" target="_self">Ruskin, <i>Works</i></a>, 2:358). 
                         A tiny figure clings to the tree growing from the foreground rocks. The sun is rising or setting over the turbulent water. 
-                        <span class="persName-JR">Ruskin</span> probably meant the vignette to illustrate the &#x201C;impetuous <span class="geogName-RHINE">Rhine</span>&#x201D; 
-                        and &#x201C;<span class="geogName-BLACKFOREST"></span>Schwartzwald pine&#x201D; described toward the end of the poem preceding this vignette.
-                    
+                        <span class="persName-JR">Ruskin</span> probably meant the vignette to illustrate the “impetuous <span class="geogName-RHINE">Rhine</span>” 
+                        and “<span class="geogName-BLACKFOREST"></span>Schwartzwald pine” described toward the end of the poem preceding this vignette.
+                    </div>
+         
+         <div class="p">This drawing is listed as “Pines” in the <a href="<?php echo r_build_url("witnesses/account_of_a_tour_on_the_continent_toc_msviii.php#ACCOUNTTOCEHRENBREITSTEIN");?>" target="_self"><span class="title-bibliography_text-JRPROPOSEDTABLEOFCONTENTS">List of Proposed Additional Contents for the “Account”</span> (“Coblentz”)</a>.</div>
+         
          </div>
-         
-         <div class="p">This drawing is listed as &#x201C;Pines&#x201D; in the <a href="<?php echo r_build_url("witnesses/account_of_a_tour_on_the_continent_toc_msviii.php#ACCOUNTTOCEHRENBREITSTEIN");?>" target="_self"><span class="title-bibliography_text-JRPROPOSEDTABLEOFCONTENTS">List of Proposed Additional Contents for the &#x201C;Account&#x201D;</span> (&#x201C;Coblentz&#x201D;)</a>.
-         </div>
-         
-         
-      </div>
    </div><div id="" class="pb"></div>
-   <div class="fileName"><span>&#x201C;Ehrenbreitstein&#x201D; &#x005B;essay&#x005D;</span></div>
+   <div class="fileName"><span>“Ehrenbreitstein” [essay]</span></div>
    <div class="witness">
       <div class="essay" id="">
          <div id="MSIX41r" class="pb"></div>
@@ -379,8 +367,8 @@ EOT
                     <br/>it will not carry you over <span class="placeName-GERMANY">Germany</span>.
                     <div id="MSIX41v" class="pb"></div>
             <br/>You might manage with the Grand Turk, 
-                    <br/>but you will not manage with the Ger&#x2010;
-                    <br/><span class="g-word_division">&#x003D;</span>mans.<span class="gloss-inline">
+                    <br/>but you will not manage with the Ger‐
+                    <br/><span class="g-word_division">=</span>mans.<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/ehrenbreitstein_prose_glosses_textual#WORDDIVISION" target="_blank" class="inactive">
           
           
@@ -394,14 +382,13 @@ EOT
                     <br/>guide, and coming to a place where two 
                     <br/>roads met, considered him to be going
                     <br/>the wrong way. Here was a poser, how 
-                    <br/>could we stop him. &#x201C;Nein, nein,&#x2014;&#x201D; we 
-                    <br/>called after him. &#x201C;Ya,&#x201D; quoth he; &#x201C;Nein,
-                    <br/>So he went the way we chose.
-         </div> 
+                    <br/>could we stop him. “Nein, nein,—” we 
+                    <br/>called after him. “Ya,” quoth he; “Nein,
+                    <br/>So he went the way we chose.</div> 
          
          
-         <div class="p">After a very hard pull up an abom&#x2010;
-                    <br/><span class="g-word_division">&#x003D;</span>inably<span class="gloss-inline">
+         <div class="p">After a very hard pull up an abom‐
+                    <br/><span class="g-word_division">=</span>inably<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/ehrenbreitstein_prose_glosses_textual#WORDDIVISION" target="_blank" class="inactive">
           
           
@@ -418,7 +405,7 @@ EOT
                 6
                 </span>
               </a></span> hill, we beheld the top of 
-                    <br/>the flagstaff. &#x201C;Here we are, all right.&#x201D; No, 
+                    <br/>the flagstaff. “Here we are, all right.” No, 
                     <br/>There was the fortress, certainly, but between 
                     <br/>us and it, a ravine nearly a hundred
                     <br/>feet deep, walled up the sides so as to form 
@@ -435,7 +422,7 @@ EOT
                 
               </a></span> 
             <br/>Well, there was nothing for it, so we went 
-                    <br/>back, and took the other path.&#x2014;<span class="gloss-inline">
+                    <br/>back, and took the other path.—<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/ehrenbreitstein_glosses_contextual#EHRENBREITSTEINPATHGLOSS" target="_blank" class="inactive">
           
           
@@ -446,8 +433,8 @@ EOT
          <div id="MSIX42r" class="pb"></div>
          
          <div class="p">This time all went right, and we got into 
-                    <br/>the fortress, first however prudently step&#x2010;
-         <br/><span class="g-word_division">&#x003D;</span>ping<span class="gloss-inline">
+                    <br/>the fortress, first however prudently step‐
+         <br/><span class="g-word_division">=</span>ping<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/ehrenbreitstein_prose_glosses_textual#WORDDIVISION" target="_blank" class="inactive">
           
           
@@ -457,12 +444,12 @@ EOT
                 </span>
                 
               </a></span> up to a sentinel, to ask permission; 
-                    <br/>and he brought an officer upon us. &#x201C;Do 
-                    <br/>you speak English, sir.&#x201D; (A stare.) &#x201C;Francais,&#x201D; 
+                    <br/>and he brought an officer upon us. “Do 
+                    <br/>you speak English, sir.” (A stare.) “Francais,” 
                     <br/>(a vibratory motion of the head, and a, 
-                    <br/>&#x201C;Nein&#x201D;) &#x201C;Deutsch.&#x201D; &#x201C;Ya.&#x201D; and there we 
-                    <br/>stuck. Well, we pulled out our pass&#x2010;
-         <br/><span class="g-word_division">&#x003D;</span>port,<span class="gloss-inline">
+                    <br/>“Nein”) “Deutsch.” “Ya.” and there we 
+                    <br/>stuck. Well, we pulled out our pass‐
+         <br/><span class="g-word_division">=</span>port,<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/ehrenbreitstein_prose_glosses_textual#WORDDIVISION" target="_blank" class="inactive">
           
           
@@ -471,8 +458,8 @@ EOT
                 h
                 </span>
                 
-              </a></span> but it was in French, and the offi&#x2010;
-         <br/><span class="g-word_division">&#x003D;</span>cer<span class="gloss-inline">
+              </a></span> but it was in French, and the offi‐
+         <br/><span class="g-word_division">=</span>cer<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/ehrenbreitstein_prose_glosses_textual#WORDDIVISION" target="_blank" class="inactive">
           
           
@@ -488,8 +475,8 @@ EOT
                     <br/>looked over the battlements, and trotted 
                     <br/>down again, having a very high opinion 
                     <br/>of the height of German hills, the strength 
-                    <br/>of German walls, the size of German can&#x2010;
-         <br/><span class="g-word_division">&#x003D;</span>non,<span class="gloss-inline">
+                    <br/>of German walls, the size of German can‐
+         <br/><span class="g-word_division">=</span>non,<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/ehrenbreitstein_prose_glosses_textual#WORDDIVISION" target="_blank" class="inactive">
           
           
@@ -507,7 +494,5 @@ EOT
                 8
                 </span>
               </a></span></div>
-         
-      </div>
-   </div><div id="" class="pb"></div>
-</div><?php require_once(ROOT_PATH."layout_includes/showcase_bottom.inc.php"); ?>
+         </div>
+   </div><div id="" class="pb"></div></div><?php require_once(ROOT_PATH."layout_includes/showcase_bottom.inc.php"); ?>

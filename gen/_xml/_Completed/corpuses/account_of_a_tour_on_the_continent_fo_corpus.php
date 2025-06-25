@@ -24,16 +24,13 @@ fo/fragments_1.jpg fo/fragments_1.jpg fo/fragments_2.jpg fo/fragments_2.jpg
 EOT
 );
       ?>
-    <?php require_once(ROOT_PATH."layout_includes/showcase_top.inc.php"); ?><div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-left"><img id="facs_preview" src="" width="100&#x0025;"><img id="facs" src="" width="100&#x0025;" style="display:none"></div>
-<div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-splitter"></div>
-<div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-right">
+    <?php require_once(ROOT_PATH."layout_includes/showcase_top.inc.php"); ?><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-left"><img id="facs_preview" src="" width="100%"><img id="facs" src="" width="100%" style="display:none"></div><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-splitter"></div><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-right">
    <div class="backToApparatusLink"><a href="/apparatuses/apparatuses/account_of_a_tour_on_the_continent_apparatus#account_of_a_tour_on_the_continent_fo" target="_self"></a><br/></div>
-   <div class="fileName"><span>&#x201C;Fragments from a Metrical Journal&#x201D; &#x005B;title&#x005D;</span></div>
+   <div class="fileName"><span>“Fragments from a Metrical Journal” [title]</span></div>
    <div class="title" id="">
       <span class="head" id=""><span class="title-poem-JRFRAGMENTS"><span class="caps">FRAGMENTS</span> <span class="smallcaps">FROM A METRICAL JOURNAL</span></span></span>
-      
-   </div><div id="" class="pb"></div>
-   <div class="fileName"><span>&#x201C;Fragments from a Metrical Journal: Andernacht&#x201D; &#x005B;poem&#x005D;</span></div>
+      </div><div id="" class="pb"></div>
+   <div class="fileName"><span>“Fragments from a Metrical Journal: Andernacht” [poem]</span></div>
    <div class="witness">
       <div class="poem" id="">
          
@@ -49,9 +46,9 @@ EOT
               </a></span></h1>
          
          <div class="lg-stanza">
-            <span class="l"><span class="caps">T</span><span class="smallcaps">WILIGHT</span>&#x02BC;s mists are gathering grey</span><br/>
+            <span class="l"><span class="caps">T</span><span class="smallcaps">WILIGHT</span>ʼs mists are gathering grey</span><br/>
             <span class="l">Round us on our winding way;</span><br/>
-            <span class="l">Yet the mountain&#x02BC;s purple crest</span><br/>
+            <span class="l">Yet the mountainʼs purple crest</span><br/>
             <span class="l">Reflects the glories of the west.</span><br/>
             <span class="l">Rushing on with giant force,
                <div class="s-line-number s-line-number-auto">
@@ -60,9 +57,9 @@ EOT
         </div><a href="#L5" id="L5">5</a></div></span><br/>
             <span class="l">Rolls the <span class="geogName-RHINE">Rhine</span> his glorious course;</span><br/>
             <span class="l">Flashing, now, with flamy red,</span><br/>
-            <span class="l">O&#x02BC;er his jagg&#x02BC;d <span class="name--BASALT">basaltic</span> bed;</span><br/>
+            <span class="l">Oʼer his jaggʼd <span class="name--BASALT">basaltic</span> bed;</span><br/>
             <span class="l">Now, with current calm and wide,</span><br/>
-            <span class="l">Sweeping round the mountain&#x02BC;s side;
+            <span class="l">Sweeping round the mountainʼs side;
                <div class="s-line-number s-line-number-auto">
                   <div class="tooltip">
           System generated line number
@@ -70,7 +67,7 @@ EOT
             <span class="l">Ever noble, proud, and free,</span><br/> 
             <span class="l">Flowing in his majesty.</span><br/>
             <span class="l">Soon, upon the evening skies</span><br/>
-            <span class="l"><span class="placeName-ANDERNACH">Andernacht</span>&#x02BC;s grim ruins rise;<span class="gloss-inline">
+            <span class="l"><span class="placeName-ANDERNACH">Andernacht</span>ʼs grim ruins rise;<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/andernacht_glosses_contextual#ANDERNACHTSGREYRUINSGLOSS" target="_blank" class="inactive">
           
           
@@ -91,7 +88,7 @@ EOT
                 2
                 </span>
               </a></span></span><br/>
-            <span class="l">Monuments of Cæsar&#x02BC;s sway,</span><br/>
+            <span class="l">Monuments of Cæsarʼs sway,</span><br/>
             <span class="l">Piecemeal mouldering away.</span><br/>
             <div id="" class="pb"></div>
             <span class="l">Lo, together loosely thrown,</span><br/>
@@ -100,7 +97,7 @@ EOT
                   <div class="tooltip">
           System generated line number
         </div><a href="#L20" id="L20">20</a></div></span><br/>
-            <span class="l">Guardless now the arch&#x2010;way steep<span class="gloss-inline">
+            <span class="l">Guardless now the arch‐way steep<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/andernacht_poem_glosses_textual#ANDERNACHTSTEEPGLOSS" target="_blank" class="inactive">
           
           
@@ -112,19 +109,17 @@ EOT
               </a></span></span><br/>
             <span class="l">To rampart huge and frowning keep;</span><br/>
             <span class="l">The empty moat is gay with flowers,</span><br/>
-            <span class="l">The night&#x2010;wind whistles through the towers,</span><br/>
+            <span class="l">The night‐wind whistles through the towers,</span><br/>
             <span class="l">And, flapping in the silent air,
                <div class="s-line-number s-line-number-auto">
                   <div class="tooltip">
           System generated line number
         </div><a href="#L25" id="L25">25</a></div></span><br/>
             <span class="l">The owl and bat are tenants there.</span><br/>
-            
+            </div>
          </div>
-         
-      </div>
    </div><div id="" class="pb"></div>
-   <div class="fileName"><span>&#x201C;Fragments from a Metrical Journal: St. Goar&#x201D; &#x005B;poem&#x005D;</span></div>
+   <div class="fileName"><span>“Fragments from a Metrical Journal: St. Goar” [poem]</span></div>
    <div class="witness">
       <div class="poem" id="">
          
@@ -141,7 +136,7 @@ EOT
          
          <div class="lg-stanza">
             <span class="l">Past a rock with frowning front,</span><br/>
-            <span class="l">Wrinkled by the tempest&#x02BC;s brunt,<span class="gloss-inline">
+            <span class="l">Wrinkled by the tempestʼs brunt,<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/st_goar_glosses_contextual#STGOARLORELEIGLOSS" target="_blank" class="inactive">
           
           
@@ -164,7 +159,7 @@ EOT
                   <div class="tooltip">
           System generated line number
         </div><a href="#L35" id="L35">35</a></div></span><br/>
-            <span class="l">For a live&#x2010;long summer day.</span><br/>
+            <span class="l">For a live‐long summer day.</span><br/>
             <span class="l">Grim the crags through whose dark cleft,</span><br/>
             <span class="l">Behind, he hath a passage reft;</span><br/>
             <span class="l">While, gaunt as gorge of hunted boar,</span><br/>
@@ -189,9 +184,9 @@ EOT
                   <div class="tooltip">
           System generated line number
         </div><a href="#L45" id="L45">45</a></div></span><br/>
-            <span class="l">O&#x02BC;er the peaked rocks that bar his way.</span><br/>
+            <span class="l">Oʼer the peaked rocks that bar his way.</span><br/>
             <div id="" class="pb"></div>
-            <span class="l">&#x2014;No marvel that the spell&#x2010;bound <span class="geogName-RHINE">Rhine</span>,</span><br/>
+            <span class="l">—No marvel that the spell‐bound <span class="geogName-RHINE">Rhine</span>,</span><br/>
             <span class="l">Like giant overcome with wine,</span><br/>
             <span class="l">Should <i>here</i> relax his angry frown,</span><br/>
             <span class="l">And, soothed to slumber, lay him down
@@ -199,11 +194,8 @@ EOT
                   <div class="tooltip">
           System generated line number
         </div><a href="#L50" id="L50">50</a></div></span><br/>
-            <span class="l">Amid the vine&#x2010;clad banks, that lave</span><br/> 
+            <span class="l">Amid the vine‐clad banks, that lave</span><br/> 
             <span class="l">Their tresses in his placid wave.</span><br/>
-            
+            </div>
          </div>
-         
-      </div>
-   </div><div id="" class="pb"></div>
-</div><?php require_once(ROOT_PATH."layout_includes/showcase_bottom.inc.php"); ?>
+   </div><div id="" class="pb"></div></div><?php require_once(ROOT_PATH."layout_includes/showcase_bottom.inc.php"); ?>

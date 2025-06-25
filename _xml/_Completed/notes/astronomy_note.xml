@@ -1,0 +1,501 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../../../common/ruskin.rnc" type="compact"?>
+<?xml-stylesheet type="text/xsl" href="../../../common/ruskin.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader type="note">
+        <fileDesc xml:id="astronomy_note">
+            <titleStmt>
+                <title type="main">Astronomical Education</title>
+                <title type="sub">Note</title>
+                <author>
+                    <persName corresp="#DCH">David C. Hanson</persName>
+                </author>
+                <editor>
+                    <persName corresp="#DCH">David C. Hanson</persName>
+                </editor>
+                <principal>
+                    <persName corresp="#DCH">David C. Hanson</persName>
+                </principal>
+                <respStmt>
+                    <!--For corresp, enter your first, middle, and last intials.-->
+                    <persName corresp="#YNH">Your Name Here</persName>
+                    <resp>contributing transcription/encoding/review</resp>
+                </respStmt>
+                <sponsor>Southeastern Louisiana University</sponsor>
+                <funder>American Philosophical Society, Beinecke Library, Bibliographical Society of America,
+                    Blossman Foundation, Huntington Library, Louisiana Board of Regents, National Endowment for
+                    the Humanities, NINES, Pierpont Morgan Library, South Central Modern Language Association,
+                    and Southeastern Louisiana University</funder>
+            </titleStmt>
+            <editionStmt>
+                <edition n="1.0">
+                    <!--DATE WHEN should reflect the date that this electronic text was finalized for publication to the Web.-->
+                    <date when="2012-09-04">September 4, 2011</date>
+                    <!--The notes version for all first passes is 1.0.-->
+                    <title>Notes Version 1.0</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <distributor><name type="institution">Southeastern Louisiana University Department of English</name></distributor>
+                <address>
+                    <addrLine>Department of English</addrLine>
+                    <addrLine>Southeastern Louisiana University</addrLine>
+                    <addrLine>SLU 10861</addrLine>
+                    <addrLine>Hammond LA 70402</addrLine>
+                    <addrLine>ruskinproject@selu.edu</addrLine>
+                </address>
+                <availability status="restricted">
+                    <p>Copyright David C. Hanson.</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Born digitally, prepared by David C. Hanson.</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="note" subtype="contextual">
+                <head type="title">Astronomical Education</head>
+                <p>Between <date notBefore="1826" notAfter="1828">1826 and 1828</date>, astronomy featured prominently in <persName corresp="#JR">Ruskin</persName>&#x02BC;s poetry and prose, 
+                    from his first mention of the typical beginner&#x02BC;s constellation for British children, <name type="astronomical" corresp="#CHARLESSWAIN">Charles&#x02BC;s Wain</name>, 
+                    in the <date notBefore="1826" notAfter="1827">1826/27</date> poem, 
+                    <ref type="apparatus" target="glen_of_glenfarg_apparatus.php"><title type="poem" corresp="#GLENOFGLENFARG">&#x201C;Glen of Glenfarg&#x201D; [&#x201C;Glen of Glenfarg thy beauteous rill&#x201D;]</title></ref>; 
+                    to his cataloguing of constellation names from all around the celestial globe in the <date notBefore="1827" notAfter="1828">1827/28</date> poem, 
+                    <ref type="apparatus" target="constellations_apparatus.php"><title type="poem" corresp="#JRTHECONSTELLATIONS">&#x201C;The Constellations&#x201D;</title></ref>; 
+                    to the task of memorizing constellation names and their respective numbers of stars, which is assigned to his character <persName corresp="#LUCY">Lucy</persName> in the <date notBefore="1828" notAfter="1829">1828/29</date> dialogue, 
+                    <ref type="apparatus" target="harry_and_lucy_apparatus.php"><title type="lesson" corresp="#JRHARRYANDLUCYVOL3">&#x201C;Harry and Lucy . . . Vol III&#x201D;</title></ref>;
+                    to his Miltonic hymn of praise to the sun in the <ref type="note" subtype="contextual" target="new_years_poems_note.php">New Year&#x02BC;s poem</ref> for <date when="1828-01-01">January 1828</date>, 
+                    <ref type="apparatus" target="the_sun_apparatus.php"><title type="poem" corresp="#JRTHESUN">&#x201C;The Sun&#x201D;</title></ref>. 
+                    <persName corresp="#JR">Ruskin</persName> composed these works in context of rising popular education in astronomy for adults and children 
+                    in the <date notBefore="1800" notAfter="1839">first three decades of the nineteenth century</date> in <placeName corresp="#BRITAIN">Britain</placeName>. 
+                    On the evidence of <persName corresp="#JR">Ruskin</persName>&#x02BC;s writing about astronomy, he was engaged more by the poetic sublimity of the subject than by the science, 
+                    although the works contain hints that he gained at least a basic conceptual understanding of the apparent rotations of the solar system and the fixed stars.</p>
+                
+                <div type="section" xml:id="PRINTSOURCES">
+                    <head type="section">Print Sources of Astronomical Education</head>
+                    
+                    <div type="subsection" xml:id="PRINTSOURCES-ATLASES">
+                        <head type="subsection">Star Atlases</head>
+                        <p>In <ref type="apparatus" target="harry_and_lucy_apparatus.php"><title type="lesson" corresp="#JRHARRYANDLUCYVOL3">&#x201C;Harry and Lucy . . . Vol III&#x201D;</title></ref>, 
+                            <persName corresp="#JR">Ruskin</persName>&#x02BC;s <persName type="fictional" corresp="#HARRY">&#x201C;Harry&#x201D;</persName> &#x201C;took one of his lesson books and made <persName type="fictional" corresp="#LUCY">Lucy</persName> learn the following constellations with the number of stars&#x201D; (2); 
+                            and there follow lists of constellation names paired with their respective numbers of stars. The identity of <persName corresp="#JR">Ruskin</persName>&#x02BC;s &#x201C;lesson book&#x201D; has so far eluded detection 
+                            since <persName type="fictional" corresp="#HARRY">Harry</persName>&#x02BC;s totals of stars fail to match the numbers given in British astronomy texts commonly available in the <date notBefore="1820" notAfter="1829">1820s</date>. 
+                            The counts of observable stars within the constellation boundaries changed over time, and the constellations themselves 
+                            changed as new ones were added and others consigned to obsolescence, so it is not necessarily surprising that <persName corresp="#JR">Ruskin</persName>&#x02BC;s source remains unidentified. 
+                            It is also possible that he devised his own method of counting stars, such as numbering only stars of a certain magnitude that he found on a celestial globe or star chart. 
+                            Whatever the case, the kind of text normally associated with this exacting information was a <hi rend="italic">star atlas</hi>.</p>
+                        
+                        <p>For British amateur astronomers in the <date notBefore="1820" notAfter="1829">1820s</date>, the star atlas that was designed most specifically to their own region&#x02BC;s sky overhead was 
+                            <ref type="bibliography" target="bibliography.php#JAMIESONCELESTIALATLAS"><title type="lesson" corresp="#JAMIESONCELESTIALATLAS"><hi rend="italic">A Celestial Atlas Comprising a Systematic Display of the Heavens in a Series of Thirty Maps Illustrated by Scientific Descriptions of Their Contents, and Accompanied by Catalogues of the Stars and Astronomical Exercises</hi></title></ref> 
+                            by <persName corresp="#AJ">Alexander Jamieson</persName> (<date notBefore="1782" notAfter="1850">1782&#x2013;1850</date>). Published in <date when="1822">1822</date>, followed by a reprint circa <date notBefore="1823" notAfter="1824">1823&#x2013;24</date>, 
+                            the <ref type="bibliography" target="bibliography.php#JAMIESONCELESTIALATLAS"><title type="lesson" corresp="#JAMIESONCELESTIALATLAS"><hi rend="italic">Celestial Atlas</hi></title></ref> was an advanced and up&#x2010;to&#x2010;date work by a Scottish&#x2010; and English&#x2010;educated schoolmaster, 
+                            which included lessons and exercises aimed at &#x201C;beginners, rather than . . . adepts in the science&#x201D;, and which was 
+                            &#x201C;composed in a popular language, without any regard to the learned phraseology of Astronomers&#x201D; (<title type="essay" corresp="#JAMIESONCELESTIALATLAS-PREFACE">preface</title>, ii). 
+                            Embellished with plates elegantly rendering the mythical figures representing the constellations, <persName corresp="#AJ">Jamieson</persName>&#x02BC;s <ref type="bibliography" target="bibliography.php#JAMIESONCELESTIALATLAS"><title type="lesson" corresp="#JAMIESONCELESTIALATLAS"><hi rend="italic">Celestial Atlas</hi></title></ref> provided 
+                            the public with an updated star atlas almost a century after the last major British achievement, 
+                            <!-- start 03-01-24 -->the <title type="book" corresp="#FLAMSTEEDATLASCOELESTIS"><hi rend="italic">Atlas Coelestis</hi></title> (<date when="1729">1729</date>) by <persName corresp="#JFLAMSTEED">John Flamsteed</persName> (<date notBefore="1646" notAfter="1719">1646&#x2013;1719</date>). 
+                            <persName corresp="#AJ">Jamieson</persName>&#x02BC;s atlas boasted a dedication to the king, <persName corresp="KG4">George IV</persName>, and it could compete credibly with the French and German atlases then in common use. 
+                            (For its publication history along with biographical information on <persName corresp="#AJ">Jamieson</persName>, 
+                            see <ref type="bibliography" target="bibliography.php#RIDPATHCELESTIALATLAS"><persName corresp="IRIDPATH">Ridpath</persName>, <title type="website" corresp="RIDPATHCELESTIALATLAS">&#x201C;<hi rend="italic">Celestial Atlas</hi> by <persName corresp="#AJ">Alexander Jamieson</persName>&#x201D;</title></ref>.)</p>
+                        
+                        <p>Notwithstanding <persName corresp="#AJ">Jamieson</persName>&#x02BC;s target audience of &#x201C;beginners, rather than . . . adepts&#x201D;, 
+                            any star atlas would have posed a daunting text for <persName corresp="#JR">Ruskin</persName> at ages seven to nine. In <date when="1835">1835</date>, 
+                            when he was sixteen, the Ruskins may have acquired a different textbook by <persName corresp="#AJ">Jamieson</persName>, 
+                            <title type="lesson" corresp="#JAMIESONGRAMMAROFLOGIC"><hi rend="italic">A Grammar of Logic and Intellectual Philosophy on Didactic Principles</hi></title> (<date when="1819">1819</date>). 
+                            This text is identified in the family library by <persName corresp="JSD">Dearden</persName>, predicated on an entry, &#x201C;<persName corresp="#AJ">Jamieson</persName> 6/6&#x201D;, dated <date when="1835-05-14">14 May 1835</date> 
+                            in <persName corresp="#JJR">John James Ruskin</persName>&#x02BC;s <ref type="bibliography" target="bibliography.php#RFMS28"><title type="manuscript" corresp="#RFMS28">Account Book</title></ref> (39v), an entry that, 
+                            as <persName corresp="VAB">Van Akin Burd</persName> admits, could apply, not just to various works by <persName corresp="#AJ">Alexander Jamieson</persName> 
+                            but also to works by the geologist <persName corresp="RJAMIESON">Robert Jamieson</persName> (<date notBefore="1774" notAfter="1854">1774&#x2013;1854</date>) 
+                            (<ref type="bibliography" target="bibliography.php#DEARDENRUSKINLIBRARY"><persName corresp="JSD">Dearden</persName>, <title type="book" corresp="DEARDENRUSKINLIBRARY"><hi rend="italic">Library of <persName corresp="#JR">John Ruskin</persName></hi></title></ref>, 183 [no. 1405]; 
+                            <ref type="bibliography" target="bibliography.php#RFL"><title type="book" corresp="RFL"><hi rend="italic">Ruskin Family Letters</hi></title>, ed. <persName corresp="VAB">Burd</persName></ref>, 300&#x2013;301 n. 12). 
+                            Identification of this item recorded in <persName corresp="#JJR">John James</persName>&#x02BC;s accounts as a textbook by <persName corresp="#AJ">Alexander Jamieson</persName> is therefore problematic, 
+                            although <persName corresp="JSD">Dearden</persName> correlates this item with a gift to the <orgName corresp="WORKINGMENSCOLLEGE">Working Men&#x02BC;s College</orgName> in <date when="1858">1858</date>.</p>
+                        
+                        <p>While it is not impossible that the Ruskin family would have acquired <persName corresp="#AJ">Jamieson</persName>&#x02BC;s star atlas&#x2014;priced at 1&#x00A3; 5<hi rend="italic">s</hi> for plain, 
+                            and 1&#x00A3; 11<hi rend="italic">s</hi> 6<hi rend="italic">d</hi> for hand&#x2010;colored, the <title type="book" corresp="#JAMIESONCELESTIALATLAS"><hi rend="italic">Celestial Atlas</hi></title> was intended as a popular alternative 
+                            to the grand atlases produced for specialists and collectors (<ref type="bibliography" target="bibliography.php#RIDPATHALEXANDERJAMIESON"><persName corresp="#IRIDPATH">Ridpath</persName>, <title type="essay" corresp="#RIDPATHALEXANDERJAMIESON">&#x201C;Alexander Jamieson&#x201D;</title></ref>)&#x2014;it is questionable, 
+                            albeit not impossible, that <persName corresp="#JR">Ruskin</persName> was equal to employing such a text to compile his lists of constellations with star numberings 
+                            in <date notBefore="1828" notAfter="1829">1828/29</date>. Whether or not he might have consulted the <title type="book" corresp="#JAMIESONCELESTIALATLAS"><hi rend="italic">Celestial Atlas</hi></title> or another star atlas directly, however, 
+                            <persName corresp="#AJ">Jamieson</persName>&#x02BC;s textbook informed other, introductory&#x2010;level texts of the <date notBefore="1820" notAfter="1829">1820s</date>, and its plates and text were readily plagiarized 
+                            by creators of British astronomy primers and instructional devices of the period. As advised by an author of astronomy primer for children, 
+                            <persName corresp="#MMS">Mrs. Sherwood</persName>: &#x201C;A teacher, when hearing the class, should use globes, or plates, 
+                            such as may be found in most elementary books of astronomy, to assist the children in understanding what they learn&#x201D; 
+                            (<ref type="bibliography" target="bibliography.php#SHERWOODASTRONOMY"><title type="book" corresp="#SHERWOODASTRONOMY"><hi rend="italic">Introduction to Astronomy Intended for Little Children</hi></title></ref>, vii; 
+                            and see <ref type="internal" target="#PRINTSOURCES-PRIMERS">Astronomical Primers for Children</ref>).</p>
+                        
+                        <p>By whatever means <persName corresp="#JR">Ruskin</persName> collected his astronomical informtion, his identification of certain modern constellations suggest 
+                            that his source was informed by no earlier star atlas than <title type="book" corresp="#BODEURANOGRAPHIA"><hi rend="italic">Uranographia</hi></title> (<date when="1801">1801</date>) by the German astronomer, 
+                            <persName corresp="#JBODE">Johann Elert Bode</persName> (<date notBefore="1747" notAfter="1826">1747&#x2013;1826</date>). In the poem, see the contextual glosses for the constellations <name type="astronomical" corresp="#MUSCA">Musca (the Fly)</name> and <name type="astronomical" corresp="#MUSCAAUSTRALIS">Apis (the Bee)</name>, 
+                            explaining how <persName corresp="#JR">Ruskin</persName>&#x02BC;s names for these constellations are consistent with <persName corresp="#JBODE">Bode</persName>&#x02BC;s influence. See also the glosses for <name type="astronomical" corresp="#MONSMAENALUS">Mons M&#x00E6;nalus (Mount Maenalus)</name>, 
+                            <name type="astronomical" corresp="#TELESCOPIUM-HERSCHELII">Telescopium Herschelii (<persName corresp="#WHERSCHEL">Herschel</persName>&#x02BC;s Telescope)</name>, and <name type="astronomical" corresp="#TAURUSPONIATOWSKI">Taurus Poniatowski (the Bull of <persName corresp="#SAP">Poniatowski</persName>)</name>, 
+                            which became established constellations in the first half of the nineteenth century (albeit now obsolete) primarily through their inclusion in <persName corresp="#JBODE">Bode</persName>&#x02BC;s widely distributed star atlas. See also the contextual gloss for 
+                            <name type="astronomical" corresp="#ANTLIA">Antlia Pneumatica (the Air Pump)</name>, 
+                            a French Enlightenment&#x2010;era constellation which, only in <persName corresp="#JBODE">Bode</persName>&#x02BC;s atlas and its descendants, 
+                            stood alongside of&#x2014;rather than displacing&#x2014;<name type="astronomical" corresp="#CHARLESSOAK">Robur Carolinum (Charles&#x02BC;s Oak)</name>, a seventeenth&#x2010;century tribute to <persName corresp="#KC2">King Charles II of England</persName>, 
+                            which the French inventor of <name type="astronomical" corresp="#ANTLIA">Antlia</name> was determined to eradicate from the southern sky.
+                            There is also slight evidence pointing away from <persName corresp="#JBODE">Bode</persName>&#x02BC;s atlas as an ancestor of <persName corresp="#JR">Ruskin</persName>&#x02BC;s source, which is admitted in the contextual gloss for the constellation <name type="astronomical" corresp="#CERBERUSCONSTELLATION">Cerberus</name>, 
+                            but this counter&#x2010;evidence is far from absolute.</p>
+                        
+                        <p>Whether under the influence of a British star atlas like <persName corresp="#AJ">Jamieson</persName>&#x02BC;s or led by his own patriotism, 
+                            <persName corresp="#JR">Ruskin</persName> favored constellations with British associations, such as 
+                            <name type="astronomical" corresp="CORCAROLISTAR">Cor Caroli (Charles&#x02BC;s Heart)</name>, 
+                            <name type="astronomical" corresp="ROBURCAROLINUM">Robur Caroli (Charles&#x02BC;s Oak)</name>, 
+                            and <name type="astronomical" corresp="#TELESCOPIUM">Telescopium Herschelii (Herschell&#x02BC;s Telescope)</name>.</p>
+                    </div>
+                    <div type="subsection" xml:id="PRINTSOURCES-DIALOGUES">
+                        <head type="subsection">Instructional Dialogues on Astronomy</head>
+                        <p><persName corresp="#JR">Ruskin</persName>&#x02BC;s foundational reading in astronomy was probably in the form of educational dialogues, 
+                            of which his earliest was likely <persName corresp="#JAIKIN">John Aikin</persName> and <persName corresp="#ALB">Letitia Barbauld</persName>&#x02BC;s <title type="lesson" corresp="#AIKINBARBAULDEVENINGS"><hi rend="italic">Evenings at Home</hi></title> 
+                            (<ref type="note" subtype="bibliographical" target="boyhood_books_note.php#EVENINGS">Books Used by Ruskin in His Youth: Physical Descriptions&#x2014;<hi rend="italic">Beinecke</hi></ref>; 
+                            <ref type="bibliography" target="bibliography.php#HANSONMATERIALITY"><persName corresp="#DCH">Hanson</persName>, <title type="essay" corresp="#HANSONMATERIALITY">&#x201C;Materiality in John Ruskin&#x02BC;s Early Letters and Dialogues&#x201D;</title></ref>, 29&#x2013;30). 
+                            Then from <date notBefore="1827" notAfter="1828">1827&#x2013;28</date>, direct evidence survives of reading in more advanced educational dialogues on astronomy.</p>
+                        
+                        <div type="sub-subsection" xml:id="DIALOGUES-EVENINGS">
+                            <head type="sub-subsection"><persName corresp="#JAIKIN">Aikin</persName> and <persName corresp="#ALB">Barbauld</persName>, <title type="lesson" corresp="#AIKINBARBAULDEVENINGS"><hi rend="italic">Evenings at Home</hi></title></head>
+                            <p>In <title type="lesson" corresp="#AIKINBARBAULDEVENINGS"><hi rend="italic">Evenings at Home</hi></title>, the conversations on astronomy are widely interspersed among other topics, 
+                                thereby playing out difficult and abstract concepts gradually, which build on one another. On the fourteenth evening, a dialogue between 
+                                <persName type="fictional" corresp="#PAPAALB">Papa</persName> and <persName type="fictional" corresp="#LUCYALB">Lucy</persName>, 
+                                <title type="lesson" corresp="#AIKINBARBAULDAPPLE">&#x201C;Why an Apple Falls&#x201D;</title>, investigates the force of gravitation on small objects 
+                                and then scales up to the forces commanding the earth as a &#x201C;vast ball . . . continually spinning around&#x201D;, 
+                                which &#x201C;is the cause why the sun and stars seem to rise and set&#x201D;. The dialogue ends by asking 
+                                &#x201C;why the earth does not fall into the sun&#x201D;. Apropos, preceding the dialogue, the topic of falling celestial objects is comically anticipated by a ballad, 
+                                <title type="poem" corresp="#AIKINBARBAULDPHAETONJUNIOR">&#x201C;Phaeton Junior; or, The Gig Demolished&#x201D;</title>, 
+                                a homely version of the myth of <persName type="fictional" corresp="#PHAETON">Phaeton</persName> who begged his father, 
+                                <persName type="fictional" corresp="#APOLLO">Apollo</persName>, to allow him to drive the chariot of the sun, nearly resulting in universal disaster 
+                                (<ref type="bibliography" target="bibliography.php#AIKINBARBAULDEVENINGS"><persName corresp="#JAIKIN">Aikin</persName> and <persName corresp="#ALB">Barbauld</persName>, <title type="lesson" corresp="#AIKINBARBAULDEVENINGS"><hi rend="italic">Evenings at Home</hi></title></ref>, 3:127&#x2013;28, 129, 115&#x2013;21).</p>
+                            
+                            <p>The question of how the earth maintains its orbit is revived on the nineteenth evening in 
+                                <title type="lesson" corresp="#AIKINBARBAULDEARTH">&#x201C;Why the Earth Moves Round the Sun&#x201D;</title>, 
+                                which, after describing centrifugal and centripetal forces using illustrations drawn everyday experiences, 
+                                praises &#x201C;the wonderful skill of the <persName type="scriptural" corresp="#CREATOR">Creator</persName> [whereby] these two forces were made 
+                                exactly to counterbalance each other; so that just as much as the earth . . . tends to fly forwards, just so much the sun draws it to the centre&#x201D;. 
+                                Finally, on the thirtieth evening, in <title type="lesson" corresp="#AIKINBARBAULDGLOBE">&#x201C;A Globe Lecture&#x201D;</title>, 
+                                <persName type="fictional" corresp="#PAPAALB">Papa</persName> and <persName type="fictional" corresp="#LUCYALB">Lucy</persName> 
+                                resume the topic of the planets&#x02BC; movements in the solar system, but <persName type="fictional" corresp="#PAPAALB">Papa</persName> 
+                                delays this topic in favor of lesson in using a globe to understand the world&#x02BC;s differences in climate and the influence on vegetation, animals, and human cultures. 
+                                An explanation of the planets&#x02BC; orbits is deferred to another day when he will &#x201C;take you to the lecture of an ingenious philosopher 
+                                who has contrived a machine that will give you a better notion&#x201D; of the planetary movements&#x2014;that is, an orrery  
+                                (<ref type="bibliography" target="bibliography.php#AIKINBARBAULDEVENINGS"><persName corresp="#JAIKIN">Aikin</persName> and <persName corresp="#ALB">Barbauld</persName>, <title type="lesson" corresp="#AIKINBARBAULDEVENINGS"><hi rend="italic">Evenings at Home</hi></title></ref>, 4:117&#x2013;18; 6:123).</p>
+                           <!-- START 01-24 --> 
+                            <p>Deference to visual aids such a celestial globe or the theatrical productions known as <ref type="internal" target="#LECTURES">Lenten Lectures on Astronomy</ref> 
+                                is a typical feature of educational dialogues as well as <ref type="internal" target="#PRINTSOURCES-PRIMERS">children&#x02BC;s primers on astronomy</ref>. 
+                                See also <ref type="internal" target="#DIALOGUES-SCIENTIFICDIALOGUES-SANDFORDMERTON"><persName corresp="#JJ">Joyce</persName>, <title type="book" corresp="#JOYCESCIENTIFICDIALOGUES"><hi rend="italic">Scientific Dialogues</hi></title> and <persName corresp="#TD">Day</persName>, <title type="book" corresp="#DAYSANDFORDANDMERTON"><hi rend="italic">The History of Sandford and Merton</hi></title></ref> and 
+                                <ref type="internal" target="#DIALOGUES-FRANK"><persName corresp="#ME">Maria Edgeworth</persName>, <title type="lesson" corresp="#EDGEWORTHFRANKSEQUEL"><hi rend="italic">Frank: A Sequel</hi></title></ref>.</p>
+                        </div>
+                        
+                        <div type="sub-subsection" xml:id="DIALOGUES-SCIENTIFICDIALOGUES-SANDFORDMERTON">
+                            <head type="sub-subsection"><persName corresp="#JJ">Joyce</persName>, <title type="book" corresp="#JOYCESCIENTIFICDIALOGUES"><hi rend="italic">Scientific Dialogues</hi></title> and <persName corresp="#TD">Day</persName>, <title type="book" corresp="#DAYSANDFORDANDMERTON"><hi rend="italic">The History of Sandford and Merton</hi></title></head>
+                            
+                            <p>While <persName corresp="#JR">Ruskin</persName> can be presumed to have gained an introduction to astronomy in <persName corresp="#JAIKIN">Aikin</persName> and <persName corresp="#ALB">Barbauld</persName>&#x02BC;s <title type="lesson" corresp="#AIKINBARBAULDEVENINGS"><hi rend="italic">Evenings at Home</hi></title>, 
+                                which he knew well, <persName corresp="#JR">Ruskin</persName> himself gives direct evidence of his engagement with scientific dialogues on astronomy by <persName corresp="#JJ">Jeremiah Joyce</persName> and <persName corresp="#TD">Thomas Day</persName>. 
+                                In his own astronomical works of <date notBefore="1827" notAfter="1828">1827&#x2013;28</date>, 
+                                <persName corresp="#JR">Ruskin</persName> focused primarily on the constellations, a topic beyond the scope of the three conversations on astronomy in 
+                                <title type="lesson" corresp="#AIKINBARBAULDEVENINGS"><hi rend="italic">Evenings at Home</hi></title>. 
+                                In <ref type="apparatus" target="harry_and_lucy_apparatus.php"><title type="lesson" corresp="#JRHARRYANDLUCYVOL2">&#x201C;Harry and Lucy . . . Vol 2&#x201D;</title></ref>, 
+                                <persName corresp="#JR">Ruskin</persName>&#x02BC;s <persName type="fictional" corresp="#HARRY">Harry</persName> offers to &#x201C;give . . . [<persName type="fictional" corresp="#LUCY">Lucy</persName>] 
+                                a drawing of [the constellation] <name type="astronomical" corresp="#CHARLESSWAIN">charles&#x02bc;s wain</name> as an introduction to astronomy&#x201D; (7). 
+                                The diagram, which <persName corresp="#JR">Ruskin</persName> illustrates with his own drawing in the text, reproduces a figure in volume 2, 
+                                &#x201C;Of Astronomy&#x201D;, of <persName corresp="#JJ">Jeremiah Joyce</persName>&#x02BC;s <title type="book" corresp="#JOYCESCIENTIFICDIALOGUES"><hi rend="italic">Scientific Dialogues</hi></title>; 
+                                and the conceptual lesson of schematizing observations of the stars on paper is a topic in both <persName corresp="#JJ">Joyce</persName>&#x02BC;s <title type="book" corresp="#JOYCESCIENTIFICDIALOGUES">dialogues</title> and in 
+                                <persName corresp="#TD">Day</persName>&#x02BC;s <title type="book" corresp="#DAYSANDFORDANDMERTON"><hi rend="italic">Sandford and Merton</hi></title>. In <ref type="internal" target="#DIALOGUES-SCIENTIFICDIALOGUES-SANDFORDMERTON"><!-- name --><persName corresp="#TD">Thomas Day</persName>&#x02BC;s <!-- title, NO biblio --><title type="book" corresp="#DAYSANDFORDANDMERTON"><hi rend="italic">History of Sandford and Merton</hi></title></ref>, 
+                                the boys ask their tutor to procure a paper globe so they can draw their own observations of the constellations in the sky on the corresponding segment of the globe 
+                                <!-- biblio -->(<ref type="bibliography" target="bibliography.php#DAYSANDFORDANDMERTON"><persName corresp="#TD">Day</persName>, <title type="book" corresp="#DAYSANDFORDANDMERTON"><hi rend="italic">History of Sandford and Merton</hi></title></ref>, 165, 187). <persName corresp="#ME">Edgeworth</persName>&#x02BC;s <persName type="fictional" corresp="#FRANKME">Frank</persName> and <persName corresp="#MARYME">Mary</persName> attempt to cover a stone ball with paper in order to plot lines of longitude and latitude of the earth, 
+                                but they encounter practical difficulties (<ref type="bibliography" target="bibliography.php#EDGEWORTHFRANKSEQUEL"><persName corresp="#ME">Edgeworth</persName>, <title type="lesson" corresp="#EDGEWORTHFRANKSEQUEL"><hi rend="italic">Frank: A Sequel</hi></title></ref>, 156, 165&#x2013;67).</p> 
+                            
+                            <p>In <persName corresp="#JJ">Joyce</persName>&#x02BC;s dialogue, <title type="lesson" corresp="#JOYCESCIENTIFICDIALOGUESFIXEDSTARS">&#x201C;Of the Fixed Stars&#x201D;</title>, 
+                                the diagram that <persName corresp="#JR">Ruskin</persName> reproduces as <persName type="fictional" corresp="#HARRY">Harry</persName>&#x02BC;s presentation to <persName type="fictional" corresp="#LUCY">Lucy</persName> 
+                                is likewise presented by <persName corresp="#JJ">Joyce</persName>&#x02BC;s <persName type="fictional" corresp="#TUTORJJ">Tutor</persName> to his pupils, 
+                                <persName type="fictional" corresp="#CHARLESJJ">Charles</persName> and <persName type="fictional" corresp="#JAMESJJ">James</persName>; 
+                                and just so, in <persName corresp="#JJ">Joyce</persName>&#x02BC;s dialogue, the drawing serves as a first step in astronomy, teaching the boys &#x201C;&#x2018;how to distinguish the stars, and . . . call them by their proper names&#x2019;&#x201D;. 
+                                The <persName type="fictional" corresp="#TUTORJJ">Tutor</persName> points out <name type="astronomical" corresp="#CHARLESSWAIN">Charles&#x02BC; Wain</name> in the night sky, 
+                                and then describes the formation using the diagram&#x2014;four stars forming a wagon, and three stars making the horses 
+                                (<ref type="bibliography" target="bibliography.php#JOYCESCIENTIFICDIALOGUES"><persName corresp="#JJ">Joyce</persName>, <title type="book" corresp="#JOYCESCIENTIFICDIALOGUES"><hi rend="italic">Scientific Dialogues</hi></title></ref>, vol. 2, &#x201C;Of Astronomy&#x201D;, Coversation 2, <title type="lesson" corresp="#JOYCESCIENTIFICDIALOGUESFIXEDSTARS">&#x201C;Of the Fixed Stars&#x201D;</title>, 12, 15&#x2013;16, 250 opp. [pl. 1, fig. 1]). 
+                                Basic as it is, this seven&#x2010;starred constellation is not officially recognized in the star atlases, being subsumed within <name type="astronomical" corresp="#URSAMAJOR">Ursa Major (the Great Bear)</name>; 
+                                as characterized in <persName corresp="#AJ">Jamieson</persName>, it is &#x201C;the country people&#x201D; who know <name type="astronomical" corresp="#URSAMAJOR">Ursa Major</name> &#x201C;by the title of <name type="astronomical" corresp="#CHARLESSWAIN">Charles&#x02BC;s Wain</name>: in some places it is called the <name type="astronomical" corresp="#PLOUGH">Plough</name>, 
+                                an agricultural machine, which it certainly resembles&#x201D; (<ref type="bibliography" target="bibliography.php#JAMIESONCELESTIALATLAS"><title type="book" corresp="#JAMIESONCELESTIALATLAS"><hi rend="italic">Celestial Atlas</hi></title></ref>, 24). Nevertheless, whether by its common or &#x201C;proper name&#x201D;, <name type="astronomical" corresp="#CHARLESSWAIN">Charles&#x02BC;s Wain</name> 
+                                is used repeatedly in educational dialogues as an introduction to the practical uses of astronomy as well as to the science.</p>
+                            
+                            <p>As <persName corresp="#JJ">Joyce</persName>&#x02BC;s <persName type="fictional" corresp="#TUTORJJ">Tutor</persName> explains, <name type="astronomcial" corresp="#CHARLESSWAIN">Charles&#x02BC;s Wain</name> can serve as a compass for finding one&#x02BC;s bearings at night, 
+                                when the sun&#x02BC;s position is unavailable to define east and west. As a northern, circumpolar constellation, 
+                                <name type="astronomical" corresp="#URSAMAJOR">Ursa Major</name> or <name type="astronomical" corresp="#CHARLESSWAIN">Charles&#x02BC; Wain</name> is always visible on a clear night; 
+                                and as the <persName type="fictional" corresp="#TUTORJJ">Tutor</persName>&#x02BC;s diagram shows, the constellation points to <name type="astronomical" corresp="#POLARIS">Polaris (the North Star)</name> 
+                                if one traces a line upward through the two stars forming the rear end of the wagon. From this first point of reference, 
+                                the <persName type="fictional" corresp="#TUTORJJ">Tutor</persName> proceeds to instruct 
+                                <persName type="fictional" corresp="#CHARLESJJ">Charles</persName> and <persName type="fictional" corresp="#JAMESJJ">James</persName> 
+                                in the names and locations of other stars, constellations, and planets 
+                                (<ref type="bibliography" target="bibliography.php#JOYCESCIENTIFICDIALOGUES"><persName corresp="#JJ">Joyce</persName>, <title type="book" corresp="#JOYCESCIENTIFICDIALOGUES"><hi rend="italic">Scientific Dialogues</hi></title></ref>, vol. 2, &#x201C;Of Astronomy&#x201D;, Coversation 2, <title type="lesson" corresp="#JOYCESCIENTIFICDIALOGUESFIXEDSTARS">&#x201C;Of the Fixed Stars&#x201D;</title>, 16&#x2013;18).</p>
+                            
+                            <p>The practical use of plotting the stars is explained in <!--<persName corresp="#JR">Ruskin</persName>&#x02BC;s <persName corresp="#HARRY">Harry</persName> says, an &#x201C;introduction to astronomy&#x201D; in -->
+                                what <persName corresp="#JR">Ruskin</persName> identifies in <!-- APPARATUS --><ref type="apparatus" target="harry_and_lucy_apparatus.php"><title type="lesson" corresp="#JRHARRYANDLUCYVOL2">&#x201C;Harry and Lucy . . . Vol 2&#x201D;</title></ref> as his 
+                                &#x201C;favourite&#x201D; book, the &#x201C;<title type="book" corresp="#DAYSANDFORDANDMERTON">history of sandford and merton</title>&#x201D; (20). 
+                                In <persName corresp="#TD">Thomas Day</persName>&#x02BC;s <title type="book" corresp="#DAYSANDFORDANDMERTON"><hi rend="italic">Sandford and Merton</hi></title>, the tutor, 
+                                <persName type="fictional" corresp="#BARLOWTD">Mr. Barlow</persName>, prompts the farmer&#x02BC;s boy, <persName type="fictional" corresp="#HARRYTD">Harry Sandford</persName>, to relate the story of how 
+                                knowledge of the stars results in self&#x2010;preservation. <persName type="fictional" corresp="#HARRYTD">Harry</persName> tells <persName type="fictional" corresp="#TOMMYTD">Tommy</persName>, the gentleman&#x02BC;s son, 
+                                how he found his way home, when lost on the moor between his uncle&#x02BC;s and father&#x02BC;s house, by using <name type="astronomical" corresp="#CHARLESSWAIN">Charles&#x02BC;s Wain</name> to find the <name type="astronomical" corresp="#POLARIS">North Star</name> and thereby orient himself in the right direction 
+                                (<ref type="bibliography" target="bibliography.php#DAYSANDFORDANDMERTON"><persName corresp="#TD">Day</persName>, <title type="book" corresp="#DAYSANDFORDANDMERTON"><hi rend="italic">The History of Sandford and Merton</hi></title></ref>, 165&#x2013;69).</p>
+                            
+                            <p>While <persName type="fictional" corresp="#HARRYTD">Harry</persName>&#x02BC;s story places emphasis on the practical uses of astronomy, <persName type="fictional" corresp="#BARLOWTD">Mr. Barlow</persName> also encourages study of astronomy as an appreciation of natural beauty:</p>
+                            <floatingText>
+                                <body>
+                                    <div type="essay">
+                                        <p><persName type="fictional" corresp="#BARLOWTD"><hi rend="italic">Mr. Barlow</hi></persName>. Were there no other use, 
+                                            I should think there would be a very great pleasure in observing such a number of glorious, glittering bodies as are now above us. 
+                                            We sometimes run to see a procession of coaches, or a few people in fine clothes strutting about; we admire a large room that is painted, 
+                                            and ornamented, and gilded: but what is there in all these things to be compared with the sight of these luminous bodies that adorn every part of the sky?<lb/><lb/>
+                                            
+                                            (<ref type="bibliography" target="bibliography.php#DAYSANDFORDANDMERTON"><persName corresp="#TD">Day</persName>, <title type="book" corresp="#DAYSANDFORDANDMERTON"><hi rend="italic">The History of Sandford and Merton</hi></title></ref>, 165).</p>
+                                    </div>
+                                </body>
+                            </floatingText>
+                            <p>In <persName corresp="#JR">Ruskin</persName>&#x02BC;s poem, <ref type="apparatus" target="glen_of_glenfarg_apparatus.php"><title type="poem" corresp="#GLENOFGLENFARG">&#x201C;Glen of Glenfarg&#x201D; [&#x201C;Glen of Glenfarg thy beauteous rill&#x201D;]</title></ref>, 
+                                the lesson of the stars is practical (and sociological) as the &#x201C;cottager&#x201D; is exhorted to 
+                                &#x201C;look on <name type="astronomical" corresp="#CHARLESSWAIN">charles&#x02BC;s wain</name> / right above the grassy hills&#x201D; 
+                                where the &#x201C;<name type="astronomical" corresp="#POLARIS">pole star</name> guides thee on thy way / 
+                                when in dark nights thou art&#x201D;. The cottager (and the reader) is also taught beauty and wonder, however, 
+                                when told to &#x201C;look at the stars about thee tost&#x201D;. In <persName corresp="#JR">Ruskin</persName>&#x02BC;s catalog poem, <!-- title and apparatus --><ref type="apparatus" target="constellations_apparatus.php"><title type="poem" corresp="#JRTHECONSTELLATIONS">&#x201C;The Constellations&#x201D;</title></ref>, 
+                                aesthetic appreciation is the primary purpose of his poetic epithets, which he adds to animate each of the constellation names.</p>
+                            
+                            <p>Science is always near to beauty throughout <persName corresp="#JJ">Joyce</persName>&#x02BC;s dialogues, as well, the <persName corresp="#TUTORJJ">Tutor</persName> frequently quoting poetry to dwell, for instance, on the beauty of the moon 
+                                (&#x201C;The Forty&#x2010;third Chapter of Ecclesiasticus: A Paraphrase&#x201D;, lines 28&#x2013;45, by <persName corresp="#WBROOME">William Broome</persName>, lines which also recited by <persName corresp="#ME">Edgeworth</persName>&#x02BC;s <persName type="fictional" corresp="#FRANKME">Frank</persName> and <persName type="fictional" corresp="#MARYME">Mary</persName><!--?-->); 
+                                to express wonderment at the power of the sun&#x02BC;s gravitation over the orbiting planets (&#x201C;Summer&#x201D;, lines 93&#x2013;105, from <title type="poem" corresp="#THOMSONSEASONS"><hi rend="italic">The Seasons</hi></title>, by <persName corresp="#JTHOMSON">James Thomson</persName>; 
+                                and <title type="poem" corresp="#CHATTERTONCOPERNICANSYSTEM">&#x201C;The Copernican System&#x201D;</title> by <persName corresp="#TCPOET">Thomas Chatterton</persName><!--not in bibliography-->); and 
+                                to rhapsodize about the vast number of visible stars in the dome of the night sky 
+                                (&#x201C;Night IX, The Consolation&#x201D;, lines 727&#x2013;48, from The Complaint; or Night&#x2010;Thoughts on Life, Death, and Immortality by <persName corresp="#EY">Edward Young</persName><!--not in bibliography-->) 
+                                (<ref type="bibliography" target="bibliography.php#JOYCESCIENTIFICDIALOGUES"><persName corresp="#JJ">Joyce</persName>, <title type="book"><hi rend="italic">Scientific Dialogues</hi></title></ref>, 2:42&#x2013;43, 54, 58, 91, 246; <ref type="bibliography" target="bibliography.php#JOYCESCIENTIFICDIALOGUES"><persName corresp="#ME">Edgeworth</persName>, <title type="lesson" corresp="#EDGEWORTHFRANKSEQUEL"><hi rend="italic">Frank: A Sequel</hi></title></ref>, 2:258&#x2013;59). 
+                                While often emphasizing the aesthetic side of astronomy, <persName corresp="#JR">Ruskin</persName> does not often rise to a rhapsodic mode. 
+                                When he approaches that strain, as in <ref type="apparatus" target="the_sun_apparatus.php"><title type="poem" corresp="#JRTHESUN">&#x201C;The Sun&#x201D;</title></ref>, 
+                                a favorite model is the hymn to the morning in book 5 of <persName corresp="#JMILTON">Milton</persName>&#x02BC;s <title type="poem" corresp="#MILTONPARADISE"><hi rend="italic">Paradise Lost</hi></title> (lines 153&#x2013;208). 
+                                <persName corresp="#JJ">Joyce</persName> likewise draws most frequently on <title type="poem" corresp="#MILTONPARADISE"><hi rend="italic">Paradise Lost</hi></title> in the astronomy dialogues, 
+                                followed by quotations from <title type="poem" corresp="#THOMSONSEASONS"><hi rend="italic">The Seasons</hi></title> by <persName corresp="#JTHOMSON">Thomson</persName>, and 
+                                <title type="poem" corresp="#MALLETEXCURSION"><hi rend="italic">The Excursion</hi></title> by <persName corresp="#DM">David Mallet</persName>. Other sources include <date notBefore="1700" notAfter="1799">eighteenth&#x2010;century</date> scientific poems such as 
+                                <title type="poem" corresp="#DARWINBOTANICGARDEN"><hi rend="italic">The Botanical Garden</hi></title> by <persName corresp="#ED">Erasmus Darwin</persName>, 
+                                and <title type="poem" corresp="#LOFFTEUDOSIA"><hi rend="italic">Eudosia</hi></title> by <persName corresp="#CL">Capel Lofft</persName>&#x2014;works that <persName corresp="#JR">Ruskin</persName> also imitated 
+                                (<ref type="bibliography" target="bibliography.php#JOYCESCIENTIFICDIALOGUES"><persName corresp="#JJ">Joyce</persName>, <title type="book" corresp="#JOYCESCIENTIFICDIALOGUES"><hi rend="italic">Scientific Dialogues</hi></title></ref>, e.g., 2:103&#x2013;4, 149, 152, 167, 198 (<persName corresp="#JMILTON">Milton</persName>); 190, 230&#x2013;31, 235&#x2013;36, 237&#x2013;38, 250 (<persName corresp="#JTHOMSON">Thomson</persName>); 
+                                196, 202, 217, 219, 224, 239 (<persName corresp="#DM">Mallet</persName>); 129, 145 (<persName corresp="#ED">Darwin</persName>); 183 (<persName corresp="#CL">Lofft</persName>).</p>
+                        </div>
+                            
+                            <div type="sub-subsection" xml:id="DIALOGUES-FRANK">
+                                <head type="sub-subsection"><persName corresp="#ME">Edgeworth</persName>, <title type="book" corresp="#EDGEWORTHFRANKSEQUEL"><hi rend="italic">Frank: A Sequel to Frank in Early Lessons</hi></title></head>
+                                <p>In <title type="lesson" corresp="#EDGEWORTHFRANKSEQUEL"><hi rend="italic">Frank: A Sequel</hi></title>, 
+                                    a late addition (1822) to <persName corresp="#ME">Maria Edgeworth</persName>&#x02BC;s <title type="series" corresp="#EDGEWORTHEARLYLESSONS"><hi rend="italic">Early Lessons</hi></title> series, 
+                                    and a tale that in <persName corresp="#JR">Ruskin</persName>&#x02BC;s copy was well worn from the years when <persName corresp="#JR">Ruskin</persName> was engaged with astronomy (circa <date notBefore="1827" notAfter="1828">1827&#x2013;28</date>; see 
+                                    <ref type="note" subtype="bibliographical" target="boyhood_books_note.php#FRANK">Books Used by Ruskin in His Youth: Physical Descriptions&#x2014;<hi rend="italic">Beinecke</hi></ref>), 
+                                    the dialogues that compose the tale are aimed less at information about astronomy per se than at an ethical framework for learning. 
+                                    The purpose of the tale, according to <persName corresp="#ME">Edgeworth</persName>&#x02BC;s preface, is to instill the 
+                                    &#x201C;habit of self&#x2010;control . . . by inspiring [a boy] in his own mind the wish to control himself&#x201D;. 
+                                    By this means, when a youth leaves home for school, parents can rely on their son&#x02BC;s self&#x2010;discipline to guard against temptations to dissipation 
+                                    (<ref type="bibliography" target="bibliography.php#EDGEWORTHFRANKSEQUEL"><persName corresp="#ME">Edgeworth</persName>, <title type="lesson" corresp="#EDGEWORTHFRANKSEQUEL"><hi rend="italic">Frank: A Sequel</hi></title></ref>, 1:xi).</p>
+                                
+                                <p>Thus, in volume 2 of <title type="lesson" corresp="#EDGEWORTHFRANKSEQUEL"><hi rend="italic">Frank: A Sequel</hi></title>, the progress of the hero&#x02BC;s self&#x2010;control is traced in how <persName type="fictional" corresp="#FRANKME">Frank</persName> engages with astronomical learning, 
+                                    citing texts with which Ruskin was either already familiar or becoming so. <persName type="fictional" corresp="#FRANKME">Frank</persName>&#x02BC;s vanity gets the better of him as he holds forth with his knowledge, 
+                                    embarrassing his family:</p>
+                                    <floatingText>
+                                        <body>
+                                            <div>
+                                                <p>[F]or <persName type="fictional" corresp="#FRANKME">Frank</persName> had read <title type="book" corresp="#DAYSANDFORDANDMERTON"><!--no italic-->Sandford and Merton</title>, 
+                                                    and had learned at least as much as <persName corresp="#TOMMYTD">Tommy Merton</persName>. 
+                                                    He knew the [constellations] <name type="astronomical" corresp="#URSAMAJOR">Greater Bear</name> and the <name type="astronomical" corresp="#URSAMINOR">Lesser</name>, and the <name type="astronomical" corresp="#POLARIS">Pole&#x2010;star</name>, 
+                                                    and <name type="astronomical" corresp="#ORION">Orion</name>, and <name type="astronomical" corresp="#LYRA">Lyra</name>; and, not aware how much more there is to be known, 
+                                                    imagined that he was very near being a great astronomer.</p><lb/><lb/>
+                                                <p>(<ref type="bibliography" target="bibliography.php#EDGEWORTHFRANKSEQUEL"><persName corresp="#ME">Edgeworth</persName>, <title type="lesson" corresp="#EDGEWORTHFRANKSEQUEL"><hi rend="italic">Frank: A Sequel</hi></title></ref>, 2:137)</p>
+                                            </div>
+                                        </body>
+                                    </floatingText>
+                                <p>Always candid, if vain, <persName type="fictional" corresp="#FRANKME">Frank</persName> admits to knowing less than he boasts, 
+                                    so an acquaintance of his parents, the <persName type="fictional" corresp="#ENGINEERME">Engineer</persName>, 
+                                    assigns him passages on astronomy in another text known to <persName corresp="#JR">Ruskin</persName>, <persName corresp="#JJ">Joyce</persName>&#x02BC;s <title type="book" corresp="#JOYCESCIENTIFICDIALOGUES"><hi rend="italic">Scientific Dialogues</hi></title>. 
+                                    The point of the challenge, of course, is less to improve <persName type="fictional" corresp="#FRANKME">Frank</persName>&#x02BC;s understanding of the stars than to test his self&#x2010;command.</p>
+                                <floatingText>
+                                    <body>
+                                        <div>
+                                            <p><said who="#MARYME">&#x201C;This is a great deal to learn&#x201D;</said>, said [<persName type="fictional" corresp="#FRANKME">Frank</persName>&#x02BC;s cousin] <persName type="fictional" corresp="#MARYME">Mary</persName>: 
+                                                <said who="#MARYME">&#x201C;will <persName type="fictional" corresp="#FRANKME">Frank</persName> indeed be able to learn all this?&#x201D;</said></p>
+                                            <p><said who="#ENGINEERME">&#x201C;Yes, I think he will&#x201D;</said>, [replies the <persName type="fictional" corresp="#ENGINEERME">Engineer</persName>,] 
+                                                <said who="#ENGINEERME">&#x201C;if he goes on little by little, and steadily; and if he reads with his kind mother, 
+                                                    who is ready to assist him in all difficulties, and who will not let him go on too fast&#x201D;</said>.</p>
+                                            <p><said who="#FRANKME">&#x201C;I will begin&#x201D;</said>, said <persName type="fictional" corresp="#FRANKME">Frank</persName>, <said who="#FRANKME">&#x201C;tomorrow, sir, as you shall see&#x201D;</said>.</p><lb/><lb/>
+                                            
+                                            <p>(<ref type="bibliography" target="bibliography.php#EDGEWORTHFRANKSEQUEL"><persName corresp="#ME">Edgeworth</persName>, <title type="lesson" corresp="#EDGEWORTHFRANKSEQUEL"><hi rend="italic">Frank: A Sequel</hi></title></ref>, 2:142)</p>
+                                        </div>
+                                    </body>
+                                </floatingText>
+                                <p><persName type="fictional" corresp="#FRANKME">Frank</persName> soon neglects this moderated and supervised assignment, however, distracted by reading the life of &#x201C;a <hi rend="italic">self&#x2010;taught</hi> genius&#x201D;, 
+                                    <persName corresp="#JFERGUSON">James Ferguson</persName> (<date notBefore="1710" notAfter="1776">1710&#x2013;76</date>), who from boyhood devised his own means to chart the constellations on paper 
+                                    (perhaps the inspiration of the exercise devised by <persName corresp="#TD">Day</persName>&#x02BC;s <persName type="fictional" corresp="#TUTORTD">Tutor</persName>) and invented and constructed astronomical and other instruments, although some of his inventions already existed. 
+                                    Admiration of this biography deranges <persName corresp="#FRANKME">Frank</persName>&#x02BC;s more modest and systematic lessons with his mother, who warns him that 
+                                    &#x201C;not . . . one in ten of these self&#x2010;taught persons ever distinguish themselves in the world, or excite that wonder, or obtain that glory, of which you are so desirous&#x201D;. 
+                                    Nonetheless, <persName type="fictional" corresp="#FRANKME">Frank</persName> is ambitious to imitate <persName corresp="#JFERGUSON">Ferguson</persName>&#x02BC;s &#x201C;projects&#x201D;, first attempting and failing with <persName type="fictional" corresp="#MARYME">Mary</persName> to make their own paper&#x2010;covered globe. 
+                                    &#x201C;But still as one scheme failed, another rose in <persName type="fictional" corresp="#FRANKME">Frank</persName>&#x02BC;s imagination; and he went on from one to another, 
+                                    pleased always with the last new idea, yet finishing few; for some he found impossible, some not sufficiently surprising, 
+                                    and almost all were too tiresome, he said, to be worth completing&#x201D;. Finally, enchanted by an engraving of an orrery in <persName corresp="#JFERGUSON">Ferguson</persName>&#x02BC;s book&#x2014;a 
+                                    mechanical model of the solar system, which <persName corresp="#JFERGUSON">Ferguson</persName> had also devised on his own system, without investigating the mechanisms of existing orreries&#x2014;<persName type="fictional" corresp="#FRANKME">Frank</persName> 
+                                    himself ventures on this &#x201C;&#x2018;very ingenious thing, exceedingly ingenious&#x2019;&#x201D;. Although he sets forth without learning even &#x201C;half . . . [of the planets&#x02BC;] motions&#x201D;, 
+                                    having neglected the <persName type="fictional" corresp="#ENGINEERME">Engineer</persName>&#x02BC;s assignment of readings in <persName corresp="#JJ">Joyce</persName>&#x02BC;s <title type="book" corresp="JOYCESCIENTIFICDIALOGUES">Scientific Dialogues</title><!--italic?-->, he believes he could teach himself, like <persName corresp="#JFERGUSON">Ferguson</persName>, &#x201C;as he went on with his work&#x201D;; 
+                                    and his mother, unaware of the extent of <persName type="fictional" corresp="#FRANKME">Frank</persName>&#x02BC;s ambitions, allows him to proceed, so that he &#x201C;will soon find out, by your own experience, what you can, and what you cannot do&#x201D;. 
+                                    While he at least sticks to a single project, the complexity of the orrery soon exceeds <persName type="fictional" corresp="#FRANKME">Frank</persName>&#x02BC;s abilities, and he nearly disgraces himself in reciting his appointed studies. 
+                                    His father counsels him: &#x201C;&#x2018;I would rather, . . . as your father and friend, . . that you had the power of keeping to your resolutions, 
+                                    than that you made the most ingenious thing that ever was thought of by a boy of your age&#x2019;&#x201D; 
+                                    (<ref type="bibliography" target="bibliography.php#EDGEWORTHFRANKSEQUEL"><persName corresp="#ME">Edgeworth</persName>, <title type="lesson" corresp="#EDGEWORTHFRANKSEQUEL"><hi rend="italic">Frank: A Sequel</hi></title></ref>, 2:162, 163, 174, 168&#x2013;69, 180&#x2013;81; and see 
+                                    <ref type="bibliography" target="bibliography.php#FERGUSONDNB"><persName corresp="#PROTHMAN">Rothman</persName>, <title type="dictionary_entry" corresp="#FERGUSONDNB">&#x201C;Ferguson, James [<date notBefore="1710" notAfter="1776">1710&#x2013;1776</date>]&#x201D;</title></ref>; and 
+                                    <ref type="bibliography" target="bibliography.php#FERGUSONLIFEOFTHEAUTHOR"><persName corresp="#JFERGUSON">Ferguson</persName>, <title type="essay" corresp="#FERGUSONLIFEOFTHEAUTHOR">&#x201C;A Short Account of the Life of the Author&#x201D;</title></ref>).</p>
+                                
+                                <p>The dialogue recognizes that learning complex sciences calls on abilites and virtues that can conflict with one another&#x2014;ingenuity and resolution, enthusiasm and steadiness. 
+                                    As <persName type="fictional" corresp="#MAMMAME">Mamma</persName> admits to <persName type="fictional" corresp="#MARYME">Mary</persName>: &#x201C;&#x2018;It is rather hard, I allow, . . . to reproach poor <persName type="fictional" corresp="#FRANKME">Frank</persName> at the same moment with two seemingly opposite faults, 
+                                    with his not finishing any thing, and with his being too eager to finish one thing&#x2019;&#x201D;. In the tale&#x02BC;s primary mission to instruct a child&#x02BC;s self&#x2010;command, however, 
+                                    the point of an episode of conflict is less to resolve competing virtues philosophically than for the child to internalize regulation of feeling. 
+                                    As <persName type="fictional" corresp="#FRANKME">Frank</persName> promises in future to portion his time judiciously between fundamental lessons and ingenious projects, 
+                                    his stirred &#x201C;feelings of this moment would have inclined him to do too much, and to fix upon too many hours for <hi rend="italic">useful</hi> studies; 
+                                    but his mother advised him to attempt little, and engage but for few, that he might be more likely to keep to his intentions&#x201D;. 
+                                    Because the aim is self&#x2010;regulation of feeling, <persName type="fictional" corresp="#FRANKME">Frank</persName>&#x02BC;s mother considers but one virtue to be paramount in the jostling of abilities: 
+                                    candour, the want of which she expects &#x201C;&#x2018;never [to] reproach him&#x2019;&#x201D;, since a misleading expression of feeling deranges the aim. 
+                                    The contrary example of frank expresion in the tale is the dishonest boy, <persName type="fictional" corresp="#TOMME">Tom</persName>, whose lying vies with his spontaneous emotion, 
+                                    and his silly mother, whose vanity and flightiness prevents her reading her child&#x02BC;s expression insightfully 
+                                    (<ref type="bibliography" target="bibliography.php#EDGEWORTHFRANKSEQUEL"><persName corresp="#ME">Edgeworth</persName>, <title type="lesson" corresp="#EDGEWORTHFRANKSEQUEL"><hi rend="italic">Frank: A Sequel</hi></title></ref>, 2:183, 193&#x2013;94, 183).</p>
+                                            
+                                <!-- and see <ref type="bibliography" target="bibliography.php#HANSONMATERIALITY"><persName corresp="#DCH">Hanson</persName>, <title type="essay" corresp="#HANSONMATERIALITY">&#x201C;Materiality in John Ruskin&#x02BC;s Early Letters and Dialogues&#x201D;</title></ref>, 31&#x2013;32, 
+                                 for how <persName type="fictional" corresp="#FRANKME">Frank</persName>&#x02BC;s <persName type="fictional" corresp="#PHAETON">Phaeton</persName>&#x2010;like ambition to build his own orrery became a Ruskin family emblem of <persName corresp="#JR">John</persName>&#x02BC;s own excessive ambitions--> 
+                            </div>
+                        </div>
+                        
+                        <div type="subsection" xml:id="PRINTSOURCES-PRIMERS">
+                        <head type="subsection">Astronomical Primers for Children</head>
+                            <p><ref type="bibliography" target="bibliography.php#SHERWOODASTRONOMY"><title type="book" corresp="#SHERWOODASTRONOMY"><hi rend="italic">An Introduction to Astronomy Intended for Little Children</hi></title> (<date when="1817">1817</date>)</ref> 
+                                by <persName corresp="#MMS">Mrs. Sherwood</persName> (<date notBefore="1775" notAfter="1851">1775&#x2013;1851</date>) 
+                                consists of &#x201C;astronomical lessons&#x201D; omitting &#x201C;every thing difficult and abstuse&#x201D; and divided into brief and easily digestible topics. 
+                                As a suggestion for the child&#x02BC;s engagement with these topics, <persName corresp="#MMS">Mrs. Sherwood</persName> devises a game resembling 
+                                the <!-- orgName fictional -->fictional <orgName type="fictional" corresp="#FAIRBORNECHILDRENAB">Fairborne children</orgName>&#x02BC;s serendipity of &#x201C;rummag[ing] the budget&#x201D; 
+                                in <persName corresp="#ALB">Mrs. Barbauld</persName>&#x02BC;s and <persName corresp="#JAIKIN">John Aikin</persName>&#x02BC;s <title type="lesson" corresp="#AIKINBARBAULDEVENINGS"><hi rend="italic">Evenings at Home</hi></title>, 
+                                only with more bracing consequences:</p>
+                            <floatingText>
+                                <body>
+                                    <div type="essay">
+                                        <p>[T]he head of each section, with the beginning of the accompanying <title type="scripture" corresp="#KJV">[Bible]</title> verse, should be written on a card, and put into a bag, and drawn out indiscriminately for repetition; 
+                                            two or more children passing the bag round in turns, from one to another. Those who are not able to repeat the section, the head of which is written upon the card, 
+                                            are to lose their places, and go to the bottom of the class.</p>
+                                    </div>
+                                </body>
+                            </floatingText>
+                            <p>And so on, with additional regimens and penalties, along with a specimen of the memorization card divided into a heading &#x201C;Astronomy&#x201D; and a heading &#x201C;And <persName type="scriptural" corresp="#CREATOR">God</persName> said&#x201D; 
+                                (<ref type="bibliography" target="bibliography.php#SHERWOODASTRONOMY"><persName corresp="#MMS">Sherwood</persName>, <title type="book" corresp="#SHERWOODASTRONOMY"><hi rend="italic">Introduction to Astronomy</hi></title></ref>, v&#x2013;vii; 
+                                and see <ref type="bibliography" target="bibliography.php#AIKINBARBAULDEVENINGS"><persName corresp="#JAIKIN">Aikin</persName> and <persName corresp="#ALB">Barbauld</persName>, <title type="lesson" corresp="#AIKINBARBAULDEVENINGS"><hi rend="italic">Evenings at Home</hi></title></ref>, 2&#x2013;3).</p>
+                            
+                            <p><persName corresp="#MMS">Mrs. Sherwood</persName>&#x02BC;s lists of constellation names omit any information that is classified under each constellation name in a star atlas, 
+                                whether legendary including the origins and differences among legends, or technical including each constellation&#x02BC;s location, boundaries, and stellar makeup. 
+                                As exercises in memorization, the scripture quotations that annotate the lists are at least as important as the constellation names. 
+                                Following the lists, <persName corresp="#MMS">Sherwood</persName>&#x02BC;s text does explain rudimentary concepts, such as the <hi rend="italic">ecliptic</hi> and celestial <hi rend="italic">equator</hi>, 
+                                which are necessary to understanding the principles governing how the lists of constellations are subdivided into northern, southern, and zodiac groups.</p>
+                           
+                            <p>Another primer available to <persName corresp="#JR">Ruskin</persName> in the <date notBefore="1820" notAfter="1829">1820s</date> was 
+                                <ref type="bibliography" target="bibliography.php#ASPINASTRONOMY"><title type="book" corresp="#ASPINASTRONOMY"><hi rend="italic">A Familiar Treatise on Astronomy</hi></title></ref> (<date when="1824">1824</date>; 2d ed., <date when="1825">1825</date>), written by <persName corresp="#JASPIN">Jehoshaphat Aspin</persName> 
+                                to accompany <title type="toy" corresp="#URANIASMIRROR"><hi rend="italic">Urania&#x02BC;s Mirror; or A View of the Heavens</hi></title>. The latter was a set of thirty&#x2010;two 8 &#x00D7; 5.5&#x2013;inch cards, 
+                                each card depicting the mythological representation of one or more constellations. The cards were perforated at the positions of the stars 
+                                forming the constellation so that, when held up to a light, the cards mimicked a &#x201C;view&#x201D; of the respective constellations in the &#x201C;heavens&#x201D; with the colorful mythical figures superimposed. 
+                                The cards were engraved by <persName corresp="#SHALL">Sidney Hall</persName> (<date notBefore="1788" notAfter="1831">1788/89[?]&#x2013;1831</date>), the first map maker to engrave on steel, 
+                                but the invention is credited in the &#x201C;advertisement to the first edition&#x201D; of <persName corresp="#JASPIN">Aspin</persName>&#x02BC;s book to &#x201C;the ingenuity of a young Lady&#x201D;. 
+                                This person&#x02BC;s identity has been traced to the <persName corresp="#RBLOXAM">Reverend Richard Rouse Bloxam</persName> (ca. <date notBefore="1765" notAfter="1840">1765&#x2013;1840</date>), 
+                                an assistant master of <orgName corresp="#RUGBY">Rugby School</orgName>; and it has also been suggested that <persName corresp="#RBLOXAM">Bloxam</persName>&#x02BC;s spouse, <persName corresp="#ABLOXAM">Anna&#x2014;n&#x00E9;e Ann Lawrence</persName> (<date notBefore="1766" notAfter="1835">1766&#x2013;1835</date>), 
+                                the sister of the artist <persName corresp="#STL">Sir Thomas Lawrence</persName> (<date notBefore="1769" notAfter="1830">1769&#x2013;1830</date>)&#x2014;deserves some part of the credit 
+                                (<ref type="bibliography" target="bibliography.php#HALLDNB"><persName corresp="#LWORMS">Worms</persName>, <title type="dictionary_entry" corresp="#HALLDNB">&#x201C;Hall, Sidney [1788/9?&#x2013;1831]&#x201D;</title></ref>; 
+                                <ref type="bibliography" target="bibliography.php#ASPINASTRONOMY"><persName corresp="#JASPIN">Aspin</persName>, <title type="book" corresp="#ASPINASTRONOMY"><hi rend="italic">Familiar Treatise on Astronomy</hi></title></ref>, iii; 
+                                <ref type="bibliography" target="bibliography.php#HINGLEYURANIASMIRROR"><persName corresp="#PDHINGLEY">Hingley</persName>, <title type="essay" corresp="#HINGLEYURANIASMIRROR">&#x201C;<hi rend="italic">Urania&#x02BC;s Mirror</hi>&#x201D;</title></ref>; 
+                                <ref type="bibliography" target="bibliography.php#RIDPATHURANIASMIRROR"><persName corresp="#IRIDPATH">Ridpath</persName>, <title type="essay" corresp="#RIDPATHURANIASMIRROR">&#x201C;<hi rend="italic">Urania&#x02BC;s Mirror</hi>&#x201D;</title></ref>). 
+                                The identity of <persName corresp="#JASPIN">Jehoshaphat Aspin</persName> is also obscure, an author of a number of works for young readers, which were published in the <date notBefore="1820" notAfter="1829">1820s</date> by the firm of <orgName corresp="#JOHNHARRISPUB">John Harris</orgName>, such as  
+                                <title type="book" corresp="#ASPINCOSMORAMA"><hi rend="italic">Cosmorama: A View of the Costumes and Peculiarities of All Nations</hi></title>, 
+                                <title type="book" corresp="#ASPINPICTURE"><hi rend="italic">A Picture of the Manners, Customs, Sports, and Pastimes of the Inhabitants of England</hi></title>, 
+                                and other works on geography and history.</p>
+                            
+                            <p>While the purpose of <title type="book" corresp="#ASPINASTRONOMY"><hi rend="italic">A Familiar Treatise on Astronomy</hi></title> does not, like <persName corresp="#MMS">Mrs. Sherwood</persName>&#x02BC;s book, subordinate the science of astronomy to religious admiration, 
+                                the introduction gestures at the &#x201C;sublime idea&#x201D; of &#x201C;worlds . . . peopled with myriads of intelligent beings, 
+                                formed for endless progression towards perfection and felicity&#x201D; as governed by the &#x201C;<hi rend="smallcaps">INFINITE MIND</hi>&#x201D;; 
+                                the chapter &#x201C;History of Astronomy&#x201D; begins with star&#x2010;gazing as recorded in the <title type="scripture" corresp="#GENESIS">Genesis</title> narrative; 
+                                and the chapter &#x201C;Fixed Stars&#x201D; impresses on the reader that &#x201C;[t]he immense distance of the fixed stars from our earth, 
+                                and from each other, is of all considerations the most proper for raising our ideas of the wonderful works of God&#x201D;
+                                (<ref type="bibliography" target="bibliography.php#ASPINASTRONOMY"><persName corresp="#JASPIN">Aspin</persName>, <title type="book" corresp="#ASPINASTRONOMY"><hi rend="italic">Familiar Treatise on Astronomy</hi></title></ref>, 2, 3, 100). 
+                                Otherwise, the approach of the <title type="book" corresp="#ASPINASTRONOMY"><hi rend="italic">Familiar Treatise</hi></title> is nearer to the conceptual understanding sought by the instructional dialogues than to memorization exercises.</p>
+                            
+                            <p>To create the constellation cards for <title type="toy" corresp="#URANIASMIRROR"><hi rend="italic">Urania&#x02BC;s Mirror</hi></title>, the engraver or the artist plagiarized the representations 
+                                of the mythical figures drawn for <persName corresp="#AJ">Jamieson</persName>&#x02BC;s <title type="book" corresp="#JAMIESONCELESTIALATLAS"><hi rend="italic">Celestial Atlas</hi></title>, 
+                                as <persName corresp="#IRIDPATH">Ridpath</persName> has remarked (<ref type="bibliography" target="bibliography.php#RIDPATHURANIASMIRROR">&#x201C;<hi rend="italic">Urania&#x02BC;s Mirror</hi>&#x201D;</ref>). 
+                                Likewise, to compile the accompanying primer, <persName corresp="#JASPIN">Aspin</persName> and the publisher appear to have drawn heavily on <persName corresp="#AJ">Jamieson</persName>&#x02BC;s atlas, while also moderating its forbiddingly technical demands 
+                                for the common reader, including (it claims) younger readers. Just as the <title type="book" corresp="#JAMIESONCELESTIALATLAS"><hi rend="italic">Celestial Atlas</hi></title> begins with &#x201C;Definitions&#x201D;, the <title type="book" corresp="#ASPINASTRONOMY"><hi rend="italic">Familiar Treatise</hi></title> presents &#x201C;Terms Used in Astronomy&#x201D;; however, 
+                                whereas <persName corresp="#AJ">Jamieson</persName> follows with &#x201C;Of the Manner of Using the Maps&#x201D;, presented as a series of technical &#x201C;problems&#x201D; requiring mathematical skills, 
+                                the <title type="book" corresp="#ASPINASTRONOMY"><hi rend="italic">Familiar Treatise</hi></title> eases the reader into a series of brief essays beginning broadly with &#x201C;Of the Celestial Bodies Generally&#x201D;. 
+                                From there, the <title type="book" corresp="#ASPINASTRONOMY"><hi rend="italic">Familiar Treatise</hi></title> surveys topics familiar to young readers of the dialogues&#x2014;gravitation, the structure and movements of the solar system, the bodies forming the solar system&#x2014;but 
+                                explained in greater detail and illustrated with diagrams. Only after this extensive preparation is the reader introduced to the constellations&#x2014;the topic used by the astronomical dialogues 
+                                and even by <persName corresp="#MMS">Mrs. Sherwood</persName>&#x02BC;s primer to snare the young reader&#x02BC;s initial interest in astronomy. The best is saved for last, however, 
+                                as this section is keyed to the kit&#x02BC;s accompanying constellation cards. Following an introductory chapter on the fixed stars, the constellations are described in the order and in the groups 
+                                depicted on the cards, again borrowing from <persName corresp="#AJ">Jamieson</persName>&#x02BC;s text (in reduced form), by first summarizing each contellation&#x02BC;s boundaries, chief stars and their magnitudes, and other identifying features; 
+                                and then by relating, in short form, its legendary &#x201C;fable&#x201D;. This plan was in turn copied 
+                                by the American academic, <persName corresp="#JGREEN">Jacob Green</persName>, in <title type="book" corresp="#GREEN ASTRONOMICALRECREATIONS"><hi rend="italic">Astronomical Recreations</hi></title>, and with a similar audience in mind (although the dates of his and <persName corresp="#JASPIN">Aspin</persName>&#x02BC;s 
+                                publications are so close that it is unclear who copied whom).</p>
+                            
+                            <p><!-- 01-26-24 -->As a primer for study specifically of the constellations, <persName corresp="#JASPIN">Aspin</persName>&#x02BC;s <title type="book" corresp="#ASPINASTRONOMY"><hi rend="italic">A Familiar Treatise</hi></title> 
+                                differs from star atlases and even from other primers by limiting its scope to constellations viewable from <placeName corresp="#BRITAIN">Britain</placeName>&#x2014;a feature 
+                                rendering the book less likely to have served as <persName corresp="#JR">Ruskin</persName>&#x02BC;s source for <!-- apparatus and title --><ref type="apparatus" target="constellations_apparatus.php"><title type="poem" corresp="#JRTHECONSTELLATIONS">&#x201C;The Constellations&#x201D;</title></ref>, 
+                                albeit opening a window onto the uniquely British amateur astronomer in the <date notBefore="1800" notAfter="1899">nineteenth century</date>. For example, the section on the constellations supplies two fold&#x2010;out maps, 
+                                one a planar representation of the &#x201C;Northern Hemisphere&#x201D; (cribbed from <persName corresp="#AJ">Jamieson</persName>&#x02BC;s chart in the <title type="book" corresp="#JAMIESONCELESTIALATLAS"><hi rend="italic">Celestial Atlas</hi></title>), 
+                                piecing together all the sectional views with outlines of the mythical figures, as rendered on the cards making up <name type="toy" corresp="#URANIASMIRROR">&#x201C;Urania&#x02BC;s Mirror&#x201D;</name>; 
+                                and the second a &#x201C;Chart of the Heavens from the Latitude of <placeName corresp="#LONDON">London</placeName>&#x201D;, divided into the boundaries of the visible constellations, 
+                                each of which is tinted with a distinct color for clarity and mapped with the constellation&#x02BC;s chief stars. 
+                                The book presents no fold&#x2010;out chart of the southern hemisphere, however; and while providing a list of the southern constellations, 
+                                the detailed descriptions of each constellation, like the cards constituting <name type="toy" corresp="#URANIASMIRROR">Urania&#x02BC;s Mirror</name>, 
+                                include only those southern constellations that are partially visible at the latitude of <placeName corresp="#LONDON">London</placeName>. 
+                                In <persName corresp="#JR">Ruskin</persName>&#x02BC;s <title type="poem" corresp="#JRTHECONSTELLATIONS">&#x201C;The Constellations&#x201D;</title>, the first two southern constellations that are listed in the poem (in its original version), 
+                                the <name type="astronomical" corresp="#CRUX">Southern Cross</name> and <name type="astronomical" corresp="#CHARLESSOAK">Charles&#x02BC;s Oak</name>, are never visible from <placeName corresp="#LONDON">London</placeName> and therefore omitted from representation or discussion 
+                                in <title type="book" corresp="#ASPINASTRONOMY"><hi rend="italic">A Familiar Treatise</hi></title> and <name type="toy" corresp="#URANIASMIRROR">Urania&#x02BC;s Mirror</name> except for their names in the plenary list of southern constellations.
+                            </p>
+                            
+                            <p>In his poetic representations of celestial bodies and in his imitations of astronomy lessons in his <title type="lesson" corresp="#JRHARRYANDLUCY">&#x201C;Harry and Lucy&#x201D;</title> narratives, 
+                                <persName corresp="#JR">Ruskin</persName> seems to waver between memorization tasks in the style of <persName corresp="#MMS">Sherwood</persName>&#x02BC;s primer and the wonder and discovery encouraged by <persName corresp="#TD">Day</persName>&#x02BC;s, <persName corresp="#ALB">Barbauld</persName>&#x02BC;s, and <persName corresp="#JJ">Joyce</persName>&#x02BC;s dialogues, 
+                                and between the religious emphasis in <persName corresp="#MMS">Sherwood</persName>&#x02BC;s and <persName corresp="#JASPIN">Aspin</persName>&#x02BC;s references to Scripture and the resolutely secular and scientific program of observation in <persName corresp="#TD">Day</persName>&#x02BC;s and <persName corresp="#JJ">Joyce</persName>&#x02BC;s tutelage. 
+                           here     In <ref type="apparatus" target="harry_and_lucy_apparatus.php"><title type="lesson" corresp="#JRHARRYANDLUCYVOL3">&#x201C;Harry and Lucy . . . Vol III&#x201D;</title></ref>, 
+                                <persName type="fictional" corresp="#HARRY">Harry</persName> takes &#x201C;one of his lesson books&#x201D; and assigns <persName type="fictional" corresp="#LUCY">Lucy</persName> 
+                                a memorization drill, which lists constellation names like <persName corresp="#MMS">Mrs. Sherwood</persName>&#x02BC;s exercise, but which is thoroughly secular, with no <title type="scripture" corresp="#KJV">Bible</title> verses attached. 
+                                The drill also suggests, however, that he consulted either a star atlas or a primer like <persName corresp="#JASPIN">Aspin</persName>&#x02BC;s derived from an atlas, since <persName type="fictional" corresp="#LUCY">Lucy</persName> is ordered 
+                                to &#x201C;learn the following constellations with the number of stars&#x201D; belonging to each formation. 
+                                There follow at intervals in the narrative columns of ten to twelve constellation names in English with their respective total number of stars, 
+                                which <persName type="fictional" corresp="#LUCY">Lucy</persName> memorizes each morning 
+                                <!--might have played such an instructional game with his cousin, <persName corresp="#MRC">Mary Richardson</persName>, who now lived with the Ruskins, and who may have originated the role of astronomy student as depicted in  -->
+                                (<ref type="apparatus" target="harry_and_lucy_apparatus.php"><title type="lesson" corresp="#JRHARRYANDLUCYVOL3">&#x201C;Harry and Lucy . . . Vol III&#x201D;</title></ref>, 2&#x2013;7). 
+                                The numbers of stars do not correspond to those given in any astronomy &#x201C;lesson book&#x201D; discovered so far, but Ruskin clearly was aware that 
+                                tables with that information feature in atlases and advanced primers.</p>
+                        </div>
+                </div>
+                        
+                        <div>
+                        
+                        
+                        <p>
+                            In <date when="1828">1828</date>, if they had acquired <persName corresp="#AJ">Jamieson</persName>&#x02BC;s <title type="lesson" corresp="#JAMIESONCELESTIALATLAS"><hi rend="italic">Celestial Atlas</hi></title>, its exercises would surely have demanded too much of <persName corresp="#JR">Ruskin</persName>&#x02BC;s abilities. As 
+                            remarked previously, the random order in which he names constellations in his poem suggests that he failed to master even the most basic astronomical concepts,  
+                            as presented in <persName corresp="#MMS">Mrs. Sherwood</persName>&#x02BC;s elementary primer. Nonetheless, the atlas would have appealed not only in its visual depictions and prose summaries of myths; 
+                            it would also have bolstered <persName corresp="#JR">Ruskin</persName>&#x02BC;s pride in British achievements in astronomical discovery and science. A consistent theme in <persName corresp="#JR">Ruskin</persName>&#x02BC;s poem is his observance of constellations with British associations, such as 
+                            <name type="astronomical" corresp="CORCAROLISTAR">Cor Caroli (Charles&#x02BC;s Heart)</name>, <name type="astronomical" corresp="ROBURCAROLINUM">Robur Caroli (Charles&#x02BC;s Oak)</name>, and <name type="astronomical" corresp="#TELESCOPIUM">Telescopium Herschelii (Herschell&#x02BC;s Telescope)</name>.</p>
+                        
+                        
+                        <p><persName corresp="#MMS">Mrs. Sherwood</persName> advises: &#x201C;A teacher, when hearing the class, should use globes, or plates, 
+                            such as may be found in most elementary books of astronomy, to assist the children in understanding what they learn&#x201D; 
+                            (<ref type="bibliography" target="bibliography.php#SHERWOODASTRONOMY"><title type="book" corresp="#SHERWOODASTRONOMY"><hi rend="italic">Introduction to Astronomy</hi></title></ref>, vii). 
+                            Plates and globes depicted the mythical figures for which the constellations were named; and plates were found in star atlases, 
+                            which among other information related the stories associated with the stars and constellations, 
+                            such as the myth of the <name type="astronomical" corresp="#MILKYWAY">Milky Way (Via Lactea)</name> that <persName corresp="#JR">Ruskin</persName> uses to frame his conclusion to the second fair copy (<title type="manuscript" corresp="#MSIII">MS III</title>): 
+                            &#x201C;the ancients thought&#x201D; it &#x201C;the road / Which all their best and bravest trod / Unto great <persName type="fictional" corresp="#JUPITERGOD">Jupiters</persName> blest abode&#x201D;.</p>
+                        
+                        
+                        
+                        <p>Still, a confirmed source of <persName corresp="#JR">Ruskin</persName>&#x02BC;s exposure to the mythology of the constellations remains elusive, as does a measure of his knowledge of those stories. 
+                            The contextual glosses identify the constellations named in <persName corresp="#JR">Ruskin</persName>&#x02BC;s poem and summarize their stories, 
+                            drawing on two sources published in the <date notBefore="1820" notAfter="1829">1820s</date>: <persName corresp="#AJ">Jamieson</persName>&#x02BC;s <title type="lesson" corresp="#JAMIESONCELESTIALATLAS"><hi rend="italic">Celestial Atlas</hi></title> and an American work (partly dependent on <persName corresp="#AJ">Jamieson</persName>&#x02BC;s), 
+                            <title type="book" corresp="GREENASTRONOMICALRECREATIONS">Astronomical Recreations</title> (<date when="1824">1824</date>) by <persName corresp="JGREEN">Jacob Green</persName> (<date notBefore="1790" notAfter="1841">1790&#x2010;1841</date>). 
+                            How familiar this information would have been to <persName corresp="#JR">Ruskin</persName> himself in this period is unknown.</p>
+                        <!-- END NEW MARKUP JULY 23 -->
+                    </div>
+                    
+                
+                
+            
+            </div>
+        </body>
+    </text>
+</TEI>

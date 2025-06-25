@@ -38,10 +38,24 @@ EOT
           class="s-subst s-add s-overwrite s-inline">eo</div><div 
           class="s-subst s-add s-inline">us</div><div 
               class="add-above" 
-              style="left:12.0em"><span class="g-runover">[</span>rill</div></span><br/>
+              style="left:12.0em"><span class="g-runover">[</span>rill</div><span class="gloss-inline">
+          <a href="https://erm.selu.edu/glosses/glen_of_glenfarg_glosses_contextual#BEAUTEOUSRILLGLOSS" target="_blank" class="inactive">
+          
+          
+                <span class="gloss-contextual">
+                1
+                </span>
+              </a></span></span><br/>
             <span class="l"><span class="space" style="padding-left:1.2em"> </span>Streaming through thy <span class="geogName-OCHILS">mountains</span><span class="runover" style="left:6.0em">high</span></span><br/>
             <span class="l"><span class="space" style="padding-left:1.2em"> </span>onward pressing onward still</span><br/>
-            <span class="l"><span class="space" style="padding-left:1.2em"> </span>hardly seeing the blue sky</span><br/>
+            <span class="l"><span class="space" style="padding-left:1.2em"> </span>hardly seeing the blue sky<span class="gloss-inline">
+          <a href="https://erm.selu.edu/glosses/glen_of_glenfarg_glosses_contextual#BLUESKYGLOSS" target="_blank" class="inactive">
+          
+          
+                <span class="gloss-contextual">
+                2
+                </span>
+              </a></span></span><br/>
             </div>
          <div class="quarter"></div>
          
@@ -97,13 +111,20 @@ EOT
          
          <div class="lg-stanza">
             <span class="l">Cottages upon the <span class="geogName-GLENFARG">plain</span></span><br/>
-            <span class="l">placed so near the floury mills</span><br/>
+            <span class="l">placed so near the floury mills<span class="gloss-inline">
+          <a href="https://erm.selu.edu/glosses/glen_of_glenfarg_glosses_contextual#FLOURYMILLSGLOSS" target="_blank" class="inactive">
+          
+          
+                <span class="gloss-contextual">
+                3
+                </span>
+              </a></span></span><br/>
             <span class="l">cottager look on <span class="name--CHARLESSWAIN">charlesʼs wain</span><span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/glen_of_glenfarg_glosses_contextual#CHARLESSWAINGLOSS" target="_blank" class="inactive">
           
           
                 <span class="gloss-contextual">
-                1
+                4
                 </span>
               </a></span></span><br/>
             <span class="l">right above the grassy hills</span><br/>
@@ -114,7 +135,7 @@ EOT
           
           
                 <span class="gloss-contextual">
-                2
+                5
                 </span>
               </a></span></span>
          <div id="1229188v" class="pb"></div>
@@ -126,7 +147,14 @@ EOT
                   <div class="tooltip">
           System generated line number
         </div><a href="#L25" id="L25">25</a></div><span class="runover" style="left:3.2em">on thy way</span></span><br/>
-            <span class="l">when in dark nights thou art</span><br/>
+            <span class="l">when in dark nights thou art<span class="gloss-inline">
+          <a href="https://erm.selu.edu/glosses/glen_of_glenfarg_glosses_contextual#WORDINBRACKETSGLOSS" target="_blank" class="inactive">
+          
+          
+                <span class="gloss-contextual">
+                6
+                </span>
+              </a></span></span><br/>
             <span class="l">therefore look up at the starry<span class="runover" style="left:10.4em">day</span></span><br/>
             <span class="l">look at the stars about thee<span class="runover" style="left:10.4em">tost</span></span><br/>
             </div>

@@ -24,40 +24,34 @@ msix/MSIX18v-19r.jpg msix/MSIX18v-19r.jpg msix/MSIX18v-19r.jpg msix/MSIX19v-20r.
 EOT
 );
       ?>
-    <?php require_once(ROOT_PATH."layout_includes/showcase_top.inc.php"); ?><div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-left"><img id="facs_preview" src="" width="100&#x0025;"><img id="facs" src="" width="100&#x0025;" style="display:none"></div>
-<div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-splitter"></div>
-<div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-right">
+    <?php require_once(ROOT_PATH."layout_includes/showcase_top.inc.php"); ?><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-left"><img id="facs_preview" src="" width="100%"><img id="facs" src="" width="100%" style="display:none"></div><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-splitter"></div><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-right">
    <div class="backToApparatusLink"><a href="/apparatuses/apparatuses/account_of_a_tour_on_the_continent_apparatus#account_of_a_tour_on_the_continent_msix" target="_self"></a><br/></div>
-   <div class="fileName"><span>&#x201C;Lille&#x201D; Drawing 1 of 2</span></div>
+   <div class="fileName"><span>“Lille” Drawing 1 of 2</span></div>
    <div class="figure">
       <div class="drawing" id="">
          
          
          <h1 class="page-title"><span class="title-artwork-JRLILLESTREETMSIX">Vignette, Lille Street with Wagon</span></h1>
-         Pen and ink, approx. ? &#x00D7; ? cm (image only).
+         Pen and ink, approx. ? × ? cm (image only).
          
          <div class="p">The editors of the <a href="/notes/library_edition_note" target="_self">Library Edition</a> 
-                        describe the image as a &#x201C;sketch of a street, with waggon and horses in the foreground&#x201D; 
+                        describe the image as a “sketch of a street, with waggon and horses in the foreground” 
                         (<a href="/notes/bibliography#JRWORKSLE" target="_self">Ruskin, <i>Works</i></a>, 2:344 n. 2). 
-                        The vignette is drawn in the manner of <a href="/notes/prout_samuel_note" target="_self">Samuel Prout (<span class="date-1783">1783</span>&#x2013;<span class="date-1852">1852</span>)</a>, 
-                        suggesting without specifically copying <span class="title-artwork-PROUTGHENT">&#x201C;Ghent&#x201D;</span> 
+                        The vignette is drawn in the manner of <a href="/notes/prout_samuel_note" target="_self">Samuel Prout (<span class="date-1783">1783</span>–<span class="date-1852">1852</span>)</a>, 
+                        suggesting without specifically copying <span class="title-artwork-PROUTGHENT">“Ghent”</span> 
                         in <a href="/notes/bibliography#PROUTSKETCHES" target="_self"><span class="title-artwork-PROUTSKETCHES"><i>Facsimiles of Sketches Made in Flanders and Germany</i></span> (<span class="date-1833">1833</span>)</a>, 
-                        but at a considerably reduced scale.
-         </div>
+                        but at a considerably reduced scale.</div>
          
          <div class="p"><span class="persName-JR">Ruskin</span> is believed to have made a tour sketch of a subject in <span class="placeName-LILLE">Lille</span>, 
-                        but the location of the sketch is unknown; see <a href="/notes/drawings_1833_note" target="_self">Drawings from the <span class="date-1833-05-14-1833-08-19">Tour of 1833</span></a>.
+                        but the location of the sketch is unknown; see <a href="/notes/drawings_1833_note" target="_self">Drawings from the <span class="date-1833-05-14-1833-08-19">Tour of 1833</span></a>.</div>
+         
          </div>
-         
-         
-      </div>
    </div><div id="" class="pb"></div>
-   <div class="fileName"><span>&#x201C;Lille&#x201D; &#x005B;section title&#x005D;</span></div><div id="MSIX18v" class="pb"></div>
+   <div class="fileName"><span>“Lille” [section title]</span></div><div id="MSIX18v" class="pb"></div>
    <div class="title" id="">
       <span class="head-section"><span class="space" style="padding-left:5.6em"> </span><span class="title-composite-JRLILLECOMP"><span class="smallcaps">LILLE</span></span></span> 
-      
-   </div><div id="" class="pb"></div>
-   <div class="fileName"><span>&#x201C;Lille&#x201D; &#x005B;poem&#x005D;</span></div>
+      </div><div id="" class="pb"></div>
+   <div class="fileName"><span>“Lille” [poem]</span></div>
    <div class="witness">
       <div class="poem" id="">
          <div id="MSIX18v" class="pb"></div>
@@ -72,7 +66,7 @@ EOT
                   <div class="tooltip">
           System generated line number
         </div><a href="#L5" id="L5">5</a></div></span><br/>
-            <span class="l">That to the tangled copse&#x2010;wood clung</span><br/>
+            <span class="l">That to the tangled copse‐wood clung</span><br/>
             <span class="l">That shot like stars through every shade</span><br/>
             <span class="l">And glanced on every wildwood glade.</span><br/>
             <span class="l">At length by many a wind descending</span><br/>
@@ -100,7 +94,7 @@ EOT
         </div><a href="#L15" id="L15">15</a></div></span><br/>
             <span class="l">That spoke the coming noontide blaze.</span><br/>
             <span class="l">That noontide blaze delayed not long</span><br/>
-            <span class="l">On Tournays tow&#x02BC;rs<span class="gloss-inline">
+            <span class="l">On Tournays towʼrs<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/lille_glosses_contextual#TOURNAYSTOWERSGLOSS" target="_blank" class="inactive">
           
           
@@ -206,39 +200,34 @@ EOT
           System generated line number
         </div><a href="#L50" id="L50">50</a></div></span><br/>
             <span class="space" style="padding-left:2.0em"> </span>
-            
+            </div>
          </div>
-         
-      </div>
    </div><div id="" class="pb"></div>
-   <div class="fileName"><span>&#x201C;Lille&#x201D; Drawing 2 of 2</span></div>
+   <div class="fileName"><span>“Lille” Drawing 2 of 2</span></div>
    <div class="figure">
       <div class="drawing" id="">
          
          
          <h1 class="page-title"><span class="title-artwork-JRLILLEBATTLEMENTMSIX">Vignette, Lille Battlement</span></h1>
-         Pen and ink, approx. ?? &#x00D7; ?? cm (image only).
+         Pen and ink, approx. ?? × ?? cm (image only).
          
          <div class="p">The editors of the <a href="/notes/library_edition_note" target="_self">Library Edition</a> 
-                        describe the image as a &#x201C;sketch from inside the walls of a fortified town, with cannon&#x201D; 
+                        describe the image as a “sketch from inside the walls of a fortified town, with cannon” 
                         (<a href="/notes/bibliography#JRWORKSLE" target="_self">Ruskin, <i>Works</i></a>, 2:345 n. 2). 
-                        The cannon is viewed from the rear, and it points through a battlement overlooking a plain.
-         </div>
+                        The cannon is viewed from the rear, and it points through a battlement overlooking a plain.</div>
          
          <div class="p"><span class="persName-JR">Ruskin</span> is believed to have made a tour sketch of a subject in <span class="placeName-LILLE">Lille</span>, 
-                        but the location of the sketch is unknown; see <a href="/notes/drawings_1833_note" target="_self">Drawings from the Tour of 1833</a>.
+                        but the location of the sketch is unknown; see <a href="/notes/drawings_1833_note" target="_self">Drawings from the Tour of 1833</a>.</div>
+         
          </div>
-         
-         
-      </div>
    </div><div id="" class="pb"></div>
-   <div class="fileName"><span>&#x201C;Lille&#x201D; &#x005B;essay&#x005D;</span></div>
+   <div class="fileName"><span>“Lille” [essay]</span></div>
    <div class="witness">
       <div class="essay" id="">
          <div id="MSIX20r" class="pb"></div>       
          
-         <div class="p">Passeport, Monsieur, s&#x02BC;il vous plait&#x2014;. I hate
-                    <br/>fortified towns, in general, that is.&#x2014; Their<div class="g-justification" style="width:NaNem"> </div><span class="gloss-inline">
+         <div class="p">Passeport, Monsieur, sʼil vous plait—. I hate
+                    <br/>fortified towns, in general, that is.— Their<div class="g-justification" style="width:NaNem"> </div><span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/lille_prose_glosses_textual#JUSTIFICATION" target="_blank" class="inactive">
           
           
@@ -259,10 +248,10 @@ EOT
                 c
                 </span>
                 
-              </a></span> dif&#x2010;
+              </a></span> dif‐
                     <br/>ficult to get out, and disagreeable to remain in.
                     <br/>To all this however, <span class="placeName-LILLE">Lille</span> is an exception, except in
-                    <br/>one circumstance, its difficulty of access.&#x2014; We were
+                    <br/>one circumstance, its difficulty of access.— We were
                     <br/>detained after a long days journey, under a bur<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/lille_prose_glosses_textual#WORDDIVISIONBURNING" target="_blank" class="inactive">
           
@@ -286,7 +275,7 @@ EOT
               </a></span>
             <br/>unfolded the paper, spelled over its contents with
                     <br/>tiresome coolness, and provoking minuteness
-                    <br/>slowly returned it, and then came&#x2014; Passez.<span class="gloss-inline">
+                    <br/>slowly returned it, and then came— Passez.<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/lille_glosses_contextual#PASSPORT" target="_blank" class="inactive">
           
           
@@ -294,19 +283,19 @@ EOT
                 7
                 </span>
               </a></span>
-            <br/>And pass we did, right gladly.&#x2014; <span class="placeName-LILLE">Lille</span> is a 
+            <br/>And pass we did, right gladly.— <span class="placeName-LILLE">Lille</span> is a 
             <div id="MSIX20v" class="pb"></div>
-            <br/>beautiful, a most beautiful town,&#x2014; I have seen
+            <br/>beautiful, a most beautiful town,— I have seen
                     <br/>none equal to it, for grandeur of effect, for the
-                    <br/>massive magnificence, of its edifices, for the pal&#x2010;
-                    <br/>ace like nobility of its streets, except <span class="placeName-GENOA">Genoa</span>.&#x2014; The
+                    <br/>massive magnificence, of its edifices, for the pal‐
+                    <br/>ace like nobility of its streets, except <span class="placeName-GENOA">Genoa</span>.— The
                     <br/>day also on which we entered it was almost
-                    <br/>Italian, the sky was of such a deep and unbro&#x2010;
+                    <br/>Italian, the sky was of such a deep and unbro‐
                     <br/>ken blue, and a stream of rich, glowing, tawny
-                    <br/>light shot upon the full fretwork, &#x0026; elaborate
-                    <br/>carving, of the upper parts of the houses &#x2014; but
+                    <br/>light shot upon the full fretwork, & elaborate
+                    <br/>carving, of the upper parts of the houses — but
                     <br/>their bases, owing to the narrowness of the streets
-                    <br/>and the enormous height of the opposing build&#x2010;
+                    <br/>and the enormous height of the opposing build‐
                     <br/>ings, were wrapt in shade, deep, gloomily deep
                     <br/>when contrasted with the flood of sunshine, that
                     <br/>glanced on the gable roofs, and almost gave to
@@ -320,7 +309,7 @@ EOT
                 </span>
                 
               </a></span> the many statues of the <span class="persName-VIRGINMARY">virgin</span>, that stood
-                    <br/>beneath their Gothic niches, really very respec&#x2010;
+                    <br/>beneath their Gothic niches, really very respec‐
                     <br/>tably sculptured, at every angle of the streets.<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/lille_glosses_contextual#SHADE" target="_blank" class="inactive">
           
@@ -331,7 +320,5 @@ EOT
               </a></span></div>
          <span class="space" style="padding-left:1.6em"> </span>   
          
-         
-      </div>
-   </div><div id="" class="pb"></div>
-</div><?php require_once(ROOT_PATH."layout_includes/showcase_bottom.inc.php"); ?>
+         </div>
+   </div><div id="" class="pb"></div></div><?php require_once(ROOT_PATH."layout_includes/showcase_bottom.inc.php"); ?>

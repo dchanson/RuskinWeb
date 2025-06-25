@@ -24,11 +24,9 @@ msviii/MSVIII77v-78r.jpg msviii/MSVIIIp54-55.jpg
 EOT
 );
       ?>
-    <?php require_once(ROOT_PATH."layout_includes/showcase_top.inc.php"); ?><div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-left"><img id="facs_preview" src="" width="100&#x0025;"><img id="facs" src="" width="100&#x0025;" style="display:none"></div>
-<div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-splitter"></div>
-<div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-right">
+    <?php require_once(ROOT_PATH."layout_includes/showcase_top.inc.php"); ?><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-left"><img id="facs_preview" src="" width="100%"><img id="facs" src="" width="100%" style="display:none"></div><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-splitter"></div><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-right">
    <div class="backToApparatusLink"><a href="/apparatuses/apparatuses/account_of_a_tour_on_the_continent_apparatus#account_of_a_tour_on_the_continent_msviii" target="_self"></a><br/></div>
-   <div class="fileName"><span>&#x201C;The foam globes round come riding fast&#x201D; &#x005B;&#x201C;The Source of the Arveron&#x201D;&#x005D; &#x005B;poem&#x005D;</span></div>
+   <div class="fileName"><span>“The foam globes round come riding fast” [“The Source of the Arveron”] [poem]</span></div>
    <div class="witness">
       <div class="poem" id="">
          
@@ -42,7 +40,7 @@ EOT
                 </span>
               </a></span></span><br/>
             <span class="l">Like snow upon the eddies cast</span><br/>
-            <span class="l">Forth from his cold &#x0026; silent tomb</span><br/>
+            <span class="l">Forth from his cold & silent tomb</span><br/>
             <span class="l">Forth flies the river from the gloom<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/the_foam_globes_round_come_riding_fast_poem_glosses_contextual#RIVERFROMTHEGLOOM" target="_blank" class="inactive">
           
@@ -68,8 +66,8 @@ EOT
             <div id="MSVIII78r" class="pb"></div>
             <div class="pageNum-top-right">78</div><br/>
             <span class="l">Right in his cliffy shivered side</span><br/>
-            <span class="l">Yawneth a chasm high &#x0026; wide</span><br/>
-            <span class="l">And from the portal arched &#x0026; strong</span><br/>
+            <span class="l">Yawneth a chasm high & wide</span><br/>
+            <span class="l">And from the portal arched & strong</span><br/>
             <span class="l"><span class="del-strikethrough"><span class="unclear-DCH">Leap</span></span> Springs gladsome forth the <span class="geogName-ARVERON">Arveron</span></span><br/>
             <span class="l">Seems it an ancient forteresse<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/the_foam_globes_round_come_riding_fast_poem_glosses_textual#FORTERESSE" target="_blank" class="inactive">
@@ -85,7 +83,7 @@ EOT
           System generated line number
         </div><a href="#L15" id="L15">15</a></div></span><br/>
             <span class="l">All shattered in its mightiness</span><br/>
-            <span class="l">The higher towers all rent &#x0026; riven</span><br/>
+            <span class="l">The higher towers all rent & riven</span><br/>
             <span class="l">The battlements all downward driven<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/the_foam_globes_round_come_riding_fast_poem_glosses_textual#BATTLEMENTSALL" target="_blank" class="inactive">
           
@@ -110,7 +108,7 @@ EOT
                   <div class="tooltip">
           System generated line number
         </div><a href="#L20" id="L20">20</a></div></span><br/>
-            <span class="l">And that its portal vast &#x0026; old</span><br/>
+            <span class="l">And that its portal vast & old</span><br/>
             <span class="l">All arched by the crisp ice cold.</span><br/>
             <span class="l">And through whose chasms of paly green</span><br/>
             <span class="l">The shivery sunshine shot between</span><br/>
@@ -124,17 +122,15 @@ EOT
             <span class="l">The ghostlights of the crystal blue.</span><br/>
             
             
-            
+            </div>
          </div>
-         
-      </div>
    </div><div id="" class="pb"></div>
-   <div class="fileName"><span>&#x201C;Source of the Arveron&#x201D; &#x005B;essay&#x005D;</span></div>
+   <div class="fileName"><span>“Source of the Arveron” [essay]</span></div>
    <div class="witness">
       <div class="essay" id="">
          <div id="MSVIIIp54" class="pb"></div>
          
-         <div class="title" id="&#x0040;"><span class="space" style="padding-left:6.4em"> </span><span class="title-essay-JRSOURCEOFTHEARVERON">Source of the Arveron</span><span class="gloss-inline">
+         <div class="title" id="@"><span class="space" style="padding-left:6.4em"> </span><span class="title-essay-JRSOURCEOFTHEARVERON">Source of the Arveron</span><span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/source_of_the_arveron_prose_glosses_textual#SOURCEOFTHEARVERONTITLE" target="_blank" class="inactive">
           
           
@@ -210,9 +206,6 @@ EOT
                     of the passing away tempest the last murmers of the storm<br/>
                     spirit as he yielded up his reign, it past away and the<br/>
                     blue rigidness of the transparent <span class="del-strikethrough">grotto</span> cavern of the glacier<br/>
-                    woke rosily to the kiss of the departing sun
+                    woke rosily to the kiss of the departing sun</div>
          </div>
-         
-      </div>
-   </div><div id="" class="pb"></div>
-</div><?php require_once(ROOT_PATH."layout_includes/showcase_bottom.inc.php"); ?>
+   </div><div id="" class="pb"></div></div><?php require_once(ROOT_PATH."layout_includes/showcase_bottom.inc.php"); ?>

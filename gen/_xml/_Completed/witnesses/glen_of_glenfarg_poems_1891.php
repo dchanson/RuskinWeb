@@ -34,7 +34,14 @@ EOT
          <br/>
          
          <div class="lg-stanza">
-            <span class="l">Glen of Glenfarg, thy beauteous rill,</span><br/>
+            <span class="l">Glen of Glenfarg, thy beauteous rill,<span class="gloss-inline">
+          <a href="https://erm.selu.edu/glosses/glen_of_glenfarg_glosses_contextual#BEAUTEOUSRILLGLOSS" target="_blank" class="inactive">
+          
+          
+                <span class="gloss-contextual">
+                1
+                </span>
+              </a></span></span><br/>
             <span class="l"><span class="space" style="padding-left:0.4em"> </span>Streaming through thy mountains high,</span><br/>
             <span class="l">Onward pressing, onward still,</span><br/>
             <span class="l"><span class="space" style="padding-left:0.4em"> </span>Hardly seeing the blue sky.</span><br/>
@@ -92,7 +99,7 @@ EOT
           
           
                 <span class="gloss-contextual">
-                1
+                2
                 </span>
               </a></span></span><br/>
             <span class="l"><span class="space" style="padding-left:0.4em"> </span>Right above the grassy hills.</span><br/>
@@ -105,12 +112,12 @@ EOT
                   <div class="tooltip">
           System generated line number
         </div><a href="#L25" id="L25">25</a></div></span><br/>
-            <span class="l"><span class="space" style="padding-left:0.4em"> </span>When in dark nights thou art [lost];<span class="gloss-inline">
+            <span class="l"><span class="space" style="padding-left:0.4em"> </span>When in dark nights thou art <span class="supplied-">[lost]</span>;<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/glen_of_glenfarg_glosses_contextual#WORDINBRACKETSGLOSS" target="_blank" class="inactive">
           
           
                 <span class="gloss-contextual">
-                2
+                3
                 </span>
               </a></span></span><br/>
             <span class="l">Therefore look up at the starry day,</span><br/>

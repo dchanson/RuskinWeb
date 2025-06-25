@@ -24,29 +24,23 @@ msix/MSIX19v-20r.jpg
 EOT
 );
       ?>
-    <?php require_once(ROOT_PATH."layout_includes/showcase_top.inc.php"); ?><div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-left"><img id="facs_preview" src="" width="100&#x0025;"><img id="facs" src="" width="100&#x0025;" style="display:none"></div>
-<div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-splitter"></div>
-<div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-right">
+    <?php require_once(ROOT_PATH."layout_includes/showcase_top.inc.php"); ?><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-left"><img id="facs_preview" src="" width="100%"><img id="facs" src="" width="100%" style="display:none"></div><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-splitter"></div><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-right">
    <div class="backToApparatusLink"><a href="/apparatuses/apparatuses/account_of_a_tour_on_the_continent_apparatus#account_of_a_tour_on_the_continent_msix" target="_self"></a><br/></div>
-   <div class="fileName"><span>&#x201C;Lille&#x201D; Drawing 2 of 2</span></div>
+   <div class="fileName"><span>“Lille” Drawing 2 of 2</span></div>
    <div class="figure">
       <div class="drawing" id="">
          
          
          <h1 class="page-title"><span class="title-artwork-JRLILLEBATTLEMENTMSIX">Vignette, Lille Battlement</span></h1>
-         Pen and ink, approx. ?? &#x00D7; ?? cm (image only).
+         Pen and ink, approx. ?? × ?? cm (image only).
          
          <div class="p">The editors of the <a href="/notes/library_edition_note" target="_self">Library Edition</a> 
-                        describe the image as a &#x201C;sketch from inside the walls of a fortified town, with cannon&#x201D; 
+                        describe the image as a “sketch from inside the walls of a fortified town, with cannon” 
                         (<a href="/notes/bibliography#JRWORKSLE" target="_self">Ruskin, <i>Works</i></a>, 2:345 n. 2). 
-                        The cannon is viewed from the rear, and it points through a battlement overlooking a plain.
-         </div>
+                        The cannon is viewed from the rear, and it points through a battlement overlooking a plain.</div>
          
          <div class="p"><span class="persName-JR">Ruskin</span> is believed to have made a tour sketch of a subject in <span class="placeName-LILLE">Lille</span>, 
-                        but the location of the sketch is unknown; see <a href="/notes/drawings_1833_note" target="_self">Drawings from the Tour of 1833</a>.
+                        but the location of the sketch is unknown; see <a href="/notes/drawings_1833_note" target="_self">Drawings from the Tour of 1833</a>.</div>
+         
          </div>
-         
-         
-      </div>
-   </div><div id="" class="pb"></div>
-</div><?php require_once(ROOT_PATH."layout_includes/showcase_bottom.inc.php"); ?>
+   </div><div id="" class="pb"></div></div><?php require_once(ROOT_PATH."layout_includes/showcase_bottom.inc.php"); ?>

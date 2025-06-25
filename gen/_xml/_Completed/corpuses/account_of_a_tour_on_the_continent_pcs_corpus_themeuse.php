@@ -24,11 +24,9 @@ msix/MSIX25v-26r.jpg msix/MSIX25v-26r.jpg msix/MSIX26v-27r.jpg msix/MSIX26v-27r.
 EOT
 );
       ?>
-    <?php require_once(ROOT_PATH."layout_includes/showcase_top.inc.php"); ?><div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-left"><img id="facs_preview" src="" width="100&#x0025;"><img id="facs" src="" width="100&#x0025;" style="display:none"></div>
-<div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-splitter"></div>
-<div xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:custom="http://whatever" id="content-right">
+    <?php require_once(ROOT_PATH."layout_includes/showcase_top.inc.php"); ?><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-left"><img id="facs_preview" src="" width="100%"><img id="facs" src="" width="100%" style="display:none"></div><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-splitter"></div><div xmlns:custom="http://whatever" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" id="content-right">
    <div class="backToApparatusLink"><a href="/apparatuses/apparatuses/account_of_a_tour_on_the_continent_apparatus#account_of_a_tour_on_the_continent_msix" target="_self"></a><br/></div>
-   <div class="fileName"><span>&#x201C;The Meuse&#x201D; &#x005B;section title&#x005D;</span></div><div id="MSIX25v" class="pb"></div>
+   <div class="fileName"><span>“The Meuse” [section title]</span></div><div id="MSIX25v" class="pb"></div>
    <div class="title" id="">
       <span class="head-section"><span class="space" style="padding-left:4.8em"> </span><span class="title-composite-JRTHEMEUSECOMP"><span class="smallcaps">THE MEUSE</span></span><span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/the_meuse_poem_glosses_textual#MEUSEBLANK" target="_blank" class="inactive">
@@ -38,9 +36,8 @@ EOT
                 1
                 </span>
               </a></span></span> 
-      
-   </div><div id="" class="pb"></div>
-   <div class="fileName"><span>&#x201C;The Meuse&#x201D; &#x005B;poem&#x005D;</span></div>
+      </div><div id="" class="pb"></div>
+   <div class="fileName"><span>“The Meuse” [poem]</span></div>
    <div class="witness">
       <div class="poem" id="">
          <div id="MSIX25v" class="pb"></div>
@@ -51,7 +48,7 @@ EOT
             <span class="l">In promise of a cloudless day</span><br/>
             <span class="l">Fresh flew the breeze, with whose light wing</span><br/>
             <span class="l">Aspen and oak were quivering</span><br/>
-            <span class="l">From flow&#x02BC;ret dank it dashed the dew
+            <span class="l">From flowʼret dank it dashed the dew
                <div class="s-line-number s-line-number-auto">
                   <div class="tooltip">
           System generated line number
@@ -148,41 +145,36 @@ EOT
                   <div class="tooltip">
           System generated line number
         </div><a href="#L35" id="L35">35</a></div></span><br/>
-            <span class="l">&#x02BC;Stead of the clinging copsewood now</span><br/>
-            
+            <span class="l">ʼStead of the clinging copsewood now</span><br/>
+            </div>
          </div>
-         
-      </div>
    </div><div id="" class="pb"></div>
-   <div class="fileName"><span>&#x201C;The Meuse&#x201D; Drawing 1 of 2</span></div>
+   <div class="fileName"><span>“The Meuse” Drawing 1 of 2</span></div>
    <div class="figure">
       <div class="drawing" id="">
          
          
          <h1 class="page-title"><span class="title-artwork-JRTHEMEUSERIVERMSIX">Vignette, the Meuse River and Cliffs</span></h1>
-         Pen and ink, approx. ? &#x00D7; ? cm (image only).
+         Pen and ink, approx. ? × ? cm (image only).
          
          <div class="p">The editors of the <a href="/notes/library_edition_note" target="_self">Library Edition</a> 
-                        describe the image as a &#x201C;a sketch of a calm, broad river: on one side, a rocky road; on the other, crags&#x201D; 
+                        describe the image as a “a sketch of a calm, broad river: on one side, a rocky road; on the other, crags” 
                         (<a href="/notes/bibliography#JRWORKSLE" target="_self">Ruskin, <i>Works</i></a>, 2:349 n. 1). 
-                        A solitary rider on horseback follows the road, moving away from the viewer.
+                        A solitary rider on horseback follows the road, moving away from the viewer.</div>
+         
+         <div class="p">See, in the poem <a href="<?php echo r_build_url("witnesses/the_meuse_poem_msix.php");?>" target="_self"><span class="title-poem-JRTHEMEUSE">“The sky was clear, the morn way gay” [“The Meuse”]</span></a>, 
+                        the lines “Peak over peak, fantastic ever / The lofty crags deep chasms sever. / And grey and gaunt their lichened head / 
+                        Rose sheerly from the rivers bed“ along with accompanying gloss.</div>
+         
          </div>
-         
-         <div class="p">See, in the poem <a href="<?php echo r_build_url("witnesses/the_meuse_poem_msix.php");?>" target="_self"><span class="title-poem-JRTHEMEUSE">&#x201C;The sky was clear, the morn way gay&#x201D; &#x005B;&#x201C;The Meuse&#x201D;&#x005D;</span></a>, 
-                        the lines &#x201C;Peak over peak, fantastic ever / The lofty crags deep chasms sever. / And grey and gaunt their lichened head / 
-                        Rose sheerly from the rivers bed&#x201C; along with accompanying gloss.
-         </div>
-         
-         
-      </div>
    </div><div id="" class="pb"></div>
-   <div class="fileName"><span>&#x201C;The Meuse&#x201D; &#x005B;essay&#x005D;</span></div>
+   <div class="fileName"><span>“The Meuse” [essay]</span></div>
    <div class="witness">
       <div class="essay" id="">
          <div id="MSIX26v" class="pb"></div>
          
          <div class="p">How lightly the waves of the broad <span class="geogName-MEUSE">Meuse</span>
-            <br/>crisped with the first breath of the mor&#x2010;
+            <br/>crisped with the first breath of the mor‐
                 <br/>ning as we swept over the long bridge
                 <br/>that crosses the river from <span class="placeName-NAMUR">Namur</span>, and
                 <br/>looked back on the rich dome of its small<div class="g-justification" style="width:NaNem"> </div><span class="gloss-inline">
@@ -217,7 +209,7 @@ EOT
                 </span>
                 
               </a></span>
-            <br/>so peacefully &#x2014; and then we dashed along
+            <br/>so peacefully — and then we dashed along
                 <br/>the valley of the <span class="geogName-MEUSE">Meuse</span>. I know not, if it<div class="g-justification" style="width:NaNem"> </div><span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/the_meuse_prose_glosses_textual#JUSTIFICATION" target="_blank" class="inactive">
           
@@ -297,7 +289,7 @@ EOT
                 
               </a></span>
             <br/>with my idea of what ruins ought to be.
-                <br/>But for the <span class="geogName-MEUSE">Meuse</span>, the infinite variety of scene&#x2013;
+                <br/>But for the <span class="geogName-MEUSE">Meuse</span>, the infinite variety of scene–
                 <br/>ry.<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/the_meuse_prose_glosses_textual#PAUSEPERIOD" target="_blank" class="inactive">
           
@@ -309,7 +301,7 @@ EOT
                 
               </a></span> the impossibility of seeing every successive
             <div id="MSIX27v" class="pb"></div>
-            <br/>change as you feel that it ought to be seen &#x2014;, and,
+            <br/>change as you feel that it ought to be seen —, and,
                 <br/>finally, the tantalizing rate at which you dash<div class="g-justification" style="width:NaNem"> </div><span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/the_meuse_prose_glosses_textual#JUSTIFICATION" target="_blank" class="inactive">
           
@@ -330,9 +322,9 @@ EOT
                 </span>
                 
               </a></span>
-            <br/>look upon, and dwell upon, for &#x2014; ages I was going
+            <br/>look upon, and dwell upon, for — ages I was going
                 <br/>to say, months, I will say, are enough to enchant
-                <br/>you with anything. If you wish to see rock scen&#x2010;
+                <br/>you with anything. If you wish to see rock scen‐
                 <br/>ery in perfection, go to the <span class="geogName-MEUSE">Meuse</span>,<span class="gloss-inline">
           <a href="https://erm.selu.edu/glosses/the_meuse_glosses_contextual#GOTOTHEMEUSEGLOSS" target="_blank" class="inactive">
           
@@ -401,52 +393,45 @@ EOT
                 </span>
               </a></span><br/>
             <span class="space" style="padding-left:2.8em"> </span>
-            
+            </div>
          </div>
-         
-      </div>
    </div><div id="" class="pb"></div>
-   <div class="fileName"><span>&#x201C;The Meuse&#x201D; Drawing 2 of 2</span></div>
+   <div class="fileName"><span>“The Meuse” Drawing 2 of 2</span></div>
    <div class="figure">
       <div class="drawing" id="">
          
          
          <h1 class="page-title"><span class="title-artwork-JRTHEMEUSELIEGESIX">Liège</span></h1>
-         Pen and ink, approx. ? &#x00D7; ? cm (image only).
+         Pen and ink, approx. ? × ? cm (image only).
          
          <div class="p">The editors of the <a href="/notes/library_edition_note" target="_self">Library Edition</a> 
-                        describe the image as a &#x201C;a full&#x2010;page illustration of a courtyard, with a pillared corridor, steps etc.&#x201D; 
-                        (<a href="/notes/bibliography#JRWORKSLE" target="_self">Ruskin, <i>Works</i></a>, 2:350 n. 2).
-         </div>
+                        describe the image as a “a full‐page illustration of a courtyard, with a pillared corridor, steps etc.” 
+                        (<a href="/notes/bibliography#JRWORKSLE" target="_self">Ruskin, <i>Works</i></a>, 2:350 n. 2).</div>
          
          
          <div class="p">The drawing is a copy of <span class="title-artwork-PROUTPALAISPRINCELIEGE"><i>Palais du Prince, Liège</i></span>, by 
-                        <a href="/notes/prout_samuel_note" target="_self"><span class="persName-SP">Samuel Prout</span> (<span class="date-1783-1852">1783&#x2013;1852</span>)</a>, 
+                        <a href="/notes/prout_samuel_note" target="_self"><span class="persName-SP">Samuel Prout</span> (<span class="date-1783-1852">1783–1852</span>)</a>, 
                         in <a href="/notes/bibliography#PROUTSKETCHES" target="_self"><span class="title-artwork-PROUTSKETCHES"><i>Facsimiles of Sketches Made in Flanders and Germany</i></span></a> 
-                        (<span class="date-1833">1833</span>). The scene is set inside the Renaissance arcade (the &#x201C;Court of Honor&#x201D;) of the 
-                        <span class="placeName-building-PRINCEBISHOPSPALACELIEGE">Palais des Princes&#x2010;Évêques</span> in <span class="placeName-LIEGE">Liège</span>, 
-                        constructed under the patronage of the prince&#x2010;bishop, <span class="persName-EDLM">Érard de la Marck</span> (<span class="date-1472-1538">1472&#x2013;1538</span>, 
-                        ruled <span class="date-1506-1538">1506&#x2013;38</span>). <span class="persName-JR">Ruskin</span> has not made a vignette from <span class="persName-SP">Prout</span>&#x02BC;s scene; 
+                        (<span class="date-1833">1833</span>). The scene is set inside the Renaissance arcade (the “Court of Honor”) of the 
+                        <span class="placeName-building-PRINCEBISHOPSPALACELIEGE">Palais des Princes‐Évêques</span> in <span class="placeName-LIEGE">Liège</span>, 
+                        constructed under the patronage of the prince‐bishop, <span class="persName-EDLM">Érard de la Marck</span> (<span class="date-1472-1538">1472–1538</span>, 
+                        ruled <span class="date-1506-1538">1506–38</span>). <span class="persName-JR">Ruskin</span> has not made a vignette from <span class="persName-SP">Prout</span>ʼs scene; 
                         rather, by using a full page of <span class="title-manuscript-MSIX">MS IX</span> and setting the drawing broadside, 
-                        he is imitating the scale as well as stylistic features of <span class="persName-SP">Prout</span>&#x02BC;s original lithograph.
-         </div>
+                        he is imitating the scale as well as stylistic features of <span class="persName-SP">Prout</span>ʼs original lithograph.</div>
          
          
-         <div class="p">In an <span class="date-1828">1828</span> tour account by <span class="persName-SJB">John Barrow</span> (<span class="date-1764-1848">1764&#x2013;1848</span>), 
-                        a description of the palace suggests the picturesque scene inside the arcade that captured <span class="persName-SP">Prout</span>&#x02BC;s imagination: 
-                        &#x201C;an imposing old edifice, though somewhat heavy, with an interior quadrangle 
-                        containing the public offices and records, and several courts for civil and provincial affairs&#x201D; 
-                        (the prince&#x2010;bishopric having succumbed to the French Republic even before the <span class="date-1830-08-25-1831-07-14">Belgian Revolution of 1830</span>). 
-                        &#x201C;The columns supporting the arcade are short and thick, having very much of the Moorish character. Under the arcade are little cells or shops, 
-                        in which small articles of daily use of every description are exposed for sale&#x201D; 
+         <div class="p">In an <span class="date-1828">1828</span> tour account by <span class="persName-SJB">John Barrow</span> (<span class="date-1764-1848">1764–1848</span>), 
+                        a description of the palace suggests the picturesque scene inside the arcade that captured <span class="persName-SP">Prout</span>ʼs imagination: 
+                        “an imposing old edifice, though somewhat heavy, with an interior quadrangle 
+                        containing the public offices and records, and several courts for civil and provincial affairs” 
+                        (the prince‐bishopric having succumbed to the French Republic even before the <span class="date-1830-08-25-1831-07-14">Belgian Revolution of 1830</span>). 
+                        “The columns supporting the arcade are short and thick, having very much of the Moorish character. Under the arcade are little cells or shops, 
+                        in which small articles of daily use of every description are exposed for sale” 
                         (<a href="/notes/bibliography#BARROWFAMILYTOUR" target="_self"><span class="title-book-BARROWFAMILYTOUR"><i>Family Tour through South Holland</i></span></a>, 239). 
-                        <span class="persName-JR">Ruskin</span>&#x02BC;s cousin, 
+                        <span class="persName-JR">Ruskin</span>ʼs cousin, 
                         <a href="/notes/richardson_mary_note" target="_self"><span class="persName-MRC">Mary Richardson</span></a>, mentions the family 
                         visiting the palace on <span class="date-1833-05-23">23 May 1833</span> (<a href="/notes/bibliography#RFT48" target="_self">Diary of Mary Richardson, 1833</a>, p. 11).
-                    
+                    </div>
+         
          </div>
-         
-         
-      </div>
-   </div><div id="" class="pb"></div>
-</div><?php require_once(ROOT_PATH."layout_includes/showcase_bottom.inc.php"); ?>
+   </div><div id="" class="pb"></div></div><?php require_once(ROOT_PATH."layout_includes/showcase_bottom.inc.php"); ?>
